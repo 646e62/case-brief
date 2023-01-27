@@ -13,7 +13,7 @@ Case briefs are short high-level case summaries that distill the precedential va
 
 ## What is FIRAC?
 
-FIRAC is an initialism that stands for **F**acts, **I**ssues, **R**ules, **A**nalysis/Application, and **C**onclusion. It is one of several common ways to break reported decisions into conceptual components, and in my experience, the most effective. I summarize these different conceptual components below. For a more detailed explanation of these components, see [FIRAC: An ELEMENTary Approach](http://www.daveguenther.com/firac/firacintro.html).
+FIRAC is an initialism that stands for **F**acts, **I**ssues, **R**ules, **A**nalysis/Application, and **C**onclusion. It is one of several common ways to break reported decisions into conceptual components, and in my experience, the most effective. I summarize these different conceptual components below. For a more detailed explanation of these components, see [FIRAC: An ELEMENTary Approach § 1.1 - An overview of the FIRAC approach](http://www.daveguenther.com/firac/firacintro.html).
 
 ### Facts
 
@@ -48,6 +48,6 @@ In law school, briefing cases is an essential activity that occupies an inordina
 
 ## How does this program create case briefs?
 
-This project operates on the hypothesis that these five elements can reliably be found and identified in most reported decisions using NLP techniques. It adopts David Guenther's premise, outlined in [FIRAC: An ELEMENTary Approach](http://www.daveguenther.com/firac/judicialopinionsintro.html), that different linguistic components in reported cases (sentences, paragraphs, key words, etc) can be thought of as FIRAC elements, and proposes to apply this approach programmatically.
+This project operates on the hypothesis that these five elements can reliably be found and identified in most reported decisions using NLP techniques. It adopts David Guenther's premise, outlined in [FIRAC: An ELEMENTary Approach § 2.1 - An introduction to understanding judicial opinions](http://www.daveguenther.com/firac/judicialopinionsintro.html), that different linguistic components in reported cases (sentences, paragraphs, key words, etc) can be thought of as FIRAC elements, and proposes to apply this approach programmatically.
 
 How the actual NLP magic will work is still TBD.
