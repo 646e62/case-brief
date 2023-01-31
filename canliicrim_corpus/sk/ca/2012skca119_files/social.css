@@ -1,0 +1,118 @@
+/**********************************************/
+/******************* ICONS ********************/
+/**********************************************/
+
+.canliiContent i.canlii-icon {
+	font-size: 20px;
+	cursor: pointer;
+	transition: all 250ms ease 0s;
+	-webkit-transition: all 250ms ease;
+	-ms-transition: all 250ms ease;
+}
+
+.canliiContent i.fa-moon {
+	font-size: 20px;
+}
+
+.canliiContent a i.canlii-icon {
+	text-decoration: none;
+}
+
+.canliiContent i.canlii-icon {
+	display: inline-block;
+}
+
+.canliiContent i.canlii-icon:hover {
+	transform: scale(1.4, 1.4);
+	-webkit-transform: scale(1.4,1.4);
+	-ms-transform: scale(1.4,1.4);
+}
+
+/**********************************************/
+/********* .social_presence (footer) **********/
+/**********************************************/
+.canliiContent .social_presence {
+	float: right;
+	margin-top: 3px;
+}
+
+.canliiContent .social_action_title_row {
+    display: block;
+    margin-bottom: 2px;
+}
+
+.canliiContent .social_action_image_row {
+    display: block;
+}
+
+.canliiContent .social_title {
+    display: inline-block;
+    width: 48px;
+    text-align: center;
+}
+
+.canliiContent .social_image {
+    display: inline-block;
+    width: 48px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.canliiContent .social_presence .social_title_text {
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    color: #777;
+}
+
+.canliiContent .social_presence [class^="fa-"] {
+    font-size: 22px;
+    color: #777;
+}
+
+.canliiContent .social_presence i[class^="fa-"] {
+	 min-width: 23px;
+	 display: inline-block;
+}
+
+.canliiContent .social_presence a:hover {
+    text-decoration: none;
+}
+
+
+/******************************************/
+/**************** COLOR *******************/
+/******************************************/
+
+.canliiContent i.fa-linkedin-in,
+.canliiContent i.fa-twitter,
+.canliiContent i.fa-facebook-f,
+.canliiContent i.fa-instagram,
+.canliiContent i.fa-youtube {
+	color: black;
+}
+
+.canliiContent i.fa-rss:hover {
+	color: #ee802f;
+}
+
+.canliiContent i.fa-linkedin-in:hover {
+	color: #0077B5;
+}
+
+.canliiContent i.fa-twitter:hover {
+	color: #1da1f2;
+}
+
+.canliiContent i.fa-facebook-f:hover {
+	color: #3b5998;
+}
+
+.canliiContent i.fa-instagram:hover {
+	color: #bc2a8d;
+}
+
+.canliiContent i.fa-youtube:hover {
+	color: #c4302b;
+}
+
