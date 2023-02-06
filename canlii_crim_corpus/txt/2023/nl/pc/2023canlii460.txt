@@ -1,142 +1,78 @@
-2023 CanLII 460
-On
-January
-31
-,
-2022
-,
-the
-police
-received
-a
-complaint
-of
-an
-assault
-from
-a
-residence
-in
-Pasadena
-.
-The
-police
-responded
-to
-the
-call
-and
-spoke
-to
-the
-person
-who
-had
-made
-the
-complaint
-(
-Ms.
-X
-)
-at
-the
-residence
-.
-She
-alleged
-that
-she
-had
-been
-assaulted
-by
-Ms.
-Laite
-,
-her
-former
-partner
-.
-A
-subsequent
-investigation
-resulted
-in
-Ms.
-Laite
-being
-charged
-with
-the
-offences
-of
-assault
-,
-assault
-with
-a
-weapon
-,
-assault
-causing
-bodily
-harm
-,
-and
-the
-commission
-of
-an
-assault
-in
-which
-the
-complainant
-was
-choked
-,
-contrary
-to
-sections
-266
-,
-267
-(
-a
-)
-,
-267
-(
-b
-)
-and
-267
-(
-c
-)
-of
-the
-Criminal
-Code
-of
-Canada
-,
-R.S.C
-.
-1985
-.
-Ms.
-Laite
-pleaded
-not
-guilty
-to
-these
-charges
-and
-a
-trial
-was
-conducted
-.
+./canlii_crim_corpus/html/2023/nl/pc/2023canlii460.html
+    On January 31, 2022, the police received a complaint of an assault from a residence in Pasadena.  The police responded to the call and spoke to the person who had made the complaint (Ms. X) at the residence. She alleged that she had been assaulted by Ms. Laite, her former partner.  A subsequent investigation resulted in Ms. Laite being charged with the offences of assault, assault with a weapon, assault causing bodily harm, and the commission of an assault in which the complainant was choked, contrary to sections 266, 267(a), 267(b) and 267(c) of the Criminal Code of Canada, R.S.C. 1985.  Ms. Laite pleaded not guilty to these charges and a trial was conducted. 
+The Issue:
+    The sole issue that I must decide is whether the Crown has proven beyond a reasonable doubt that Ms. Laite committed the offences with which she is charged.  
+ 
+ 
+My Decision:
+    Based upon the totality of the evidence presented, I am satisfied that the Crown has proven beyond a reasonable doubt that Ms. Laite assaulted Ms. X and that she assaulted her and caused her bodily harm, contrary to sections 266 and 267(b) of the Criminal Code.  However, the Crown has failed to prove that Ms. Laite assaulted Ms. X with a weapon or that she choked her during the commission of an assault.  As a result, Ms. Laite is acquitted of the charges laid against her contrary to sections 267(a) and 267(c) of the Criminal Code. 
+    Let me explain my reasons for these conclusions by commencing with a review of the evidence presented at the trial. 
+The Evidence Presented at the Trial:
+    The evidence presented at the trial established that Ms. Laite and Ms. X had been involved in a relationship over an extended period of time.  Both Ms. X and Ms. Laite testified that the relationship involved a lot of arguing.  Both testified and described various physical altercations.  
+    In September of 2016, they began to live together in Pasadena.  The complaint the police received on January 31, 2022, originated from this residence.  Corporal Christopher Pittman and Constable Jensen Stanley, who responded to the complaint, went to the residence and spoke to Ms. X on that day.   This conversation was audio taped. 
+    Corporal Pittman described Ms. X as being “visibly upset”.  Constable Stanley described Ms. X as “shaken”.  Neither officer saw any injuries to Ms. X. Ms. X’s Testimony:
+    Ms. X testified that she and Ms. Laite had been together since 2015.  She testified that “at first”, their relationship was “good”.  However, “early on” they began to argue a lot.  Ms. X testified that this did not initially involve any physical violence, but that it escalated from “yelling to being physical”. 
+The Choking:
+    Ms. X testified that during arguments, Ms. Laite would often place her hands around her neck. 
+She indicated that initially this would occur about once a month, but became a more regular occurrence.  Ms. X testified that Ms. Laite would routinely push her head into a pillow if they argued while in bed.  She indicated that “she would get mad at me and I think that was an attempt to stop it, or stop me from, you know, nitpicking or being upset or angry or continuing on with the argument”.  
+  Ms. X testified that the choking “was not hard enough to leave marks”, but that it sometimes affected her breathing.   
+  Ms. X also testified that Ms. Laite would at times grab her by her shirt collar, “restricting” her neck.   
+  Finally, Ms. X testified that Ms. Laite also routinely pushed her against the walls in the residence they shared in Pasadena.  She described Ms. Laite grabbing her arms and placing her forearm against her throat. She testified that this occurred “often” and that it made it difficult for her to breathe. 
+Throwing the Box:
+  The evidence presented at the trial established that on January 15, 2022, Ms. Laite contacted the Royal Canadian Mounted Police because she was concerned about Ms. X’s wellbeing, based upon a comment Ms. X had made before leaving the residence. 
+After the police spoke to Ms. X and concluded there were no concerns, Ms. X returned home.
+  Ms. X testified that after this contact with the police, she and Ms. Laite had an argument about a movie.  She testified that Ms. Laite threw a cardboard box and a dog bed at her and grabbed her by the collar: We got into a fight about a movie that I got upset over, and she had a headache at the time and didn’t really wanna [sic] argue about it.  So she went in the spare room, but I was angry, so I got up and I was arguing and I hit the door, and that made her angry so she got up at that point and came out and she got angry as well.  So I remember that was when the things were thrown, so the cardboard and the dog bed and the things, and she grabbed my collar then while she was yelling at me.   
+ 
+  Ms. X testified that she was struck by something that was thrown by Ms. Laite and received a cut on her hand as a result of this incident.  
+New Year’s Eve:
+  Ms. X testified that on New Year’s Eve, 2021, she and Ms. Laite went to a house party hosted by people Ms. Laite worked with.  She indicated that while at the party, Ms. Laite made a comment about her having broken her cellular phone on Christmas Eve.  According to Ms. X, Ms. Laite suggested to her friends that Ms. X had done so purposely. 
+Ms. X testified that she found this to be embarrassing.  She agreed that she was very upset. 
+  Ms. X testified that during the drive home from the party, and after they arrived at their residence, she and Ms. Laite were arguing over this comment.  Ms. X indicated that she was very upset and was “yelling” at Ms. Laite.  
+  Ms. X testified that that she walked into their bedroom.  Ms. X described Ms. Laite entering the bedroom and pushing her with her two hands.  Ms. X testified that this caused her to fall, striking the bed before ending up on the floor: When we got home I was really upset over it.  You know, these were her people and I was angry and embarrassed, then so I got upset and I got angry.  I started to get mad at her for it and I was yelling as I went into the bedroom.  I don’t remember when she came in but when she came in she pushed me and that’s when I fell and I hit the bed and I fell to the floor then. Q.      Are you able to describe that push for us?  How was the push done?
+ 
+A.      I was facing the door, I was back onto the bed.  I don’t remember exactly how she came at me.
+ 
+Q.      What part of, I guess, her body would make contact with your body for the push?
+ 
+A.      Just the chest area, just pushing.
+ 
+Q.      What did she push you with?
+ 
+A.      Her hands.
+ 
+Q.      Can you describe the force of the push?
+ 
+A.      It was hard.  I cut the top of my butt on the corner of the bed and that’s where most of the bruising came from.  And then I--as I went down my side and my arm hit the board along the side of the bed and it scraped and dragged across that.
+ 
+Q.      Sorry, so you talked about you cut the top of your butt off the corner of the bed, your side just to make sure we get it all.
+ 
+A.      So the side of my right side of the body would hit the board that runs along the bottom of the bed as I went to the floor.
+ 
+Q.      And then anything else?  I thought you mentioned one more thing.
+ 
+A.      I cut my arm, so the whole kind of the right side, my rib, my tri-cep area elbow.
+ 
+Q.      And what happened then?
+ 
+A.      It hurt.  I remember that one being painful.  And I know when I got up she was trying to leave.  I remember trying to stop her.  
+  Photographs that were entered as an exhibit, show marks and bruising to various parts of Ms. X’s body, including her right side. Striking Ms. X in the Jaw:
+  Ms. X testified that as Ms. Laite was leaving the bedroom, she got up off of the floor and grabbed Ms. Laite by her arm.  She described Ms. Laite pulling her arm away and striking her in the jaw.  Ms. X felt that this occurred accidentally as Ms. Laite moved her arm away. 
+  Ms. X testified that Ms. Laite then went toward the porch so as to leave the residence through the front door.  Ms. X indicated that she grabbed the door leading in to the porch in order to prevent Ms. Laite from leaving.  Ms. X testified that Ms. Laite stuck her hand, causing her to lose her grip, opened the door and left the residence. 
+  However, Ms. X also testified that Ms. Laite slept on a sofa in the living room after the incident in which she described being pushed against the bed.  Ms. X was uncertain about the sequence or timing of these events. 
+At The New Year’s Eve Party:
+  On December 31, 2021, Mr. Robert Mercer, a co-worker and friend of Ms. Laite, had a New Year’s Eve party at his residence.  Ms. Laite and Ms. X attended the party.
+  Mr. Mercer testified that Ms. X was consuming alcohol and becoming “increasingly intoxicated.”  He testified that while she was sitting on a stool in his kitchen, Ms. X “slipped off of the stool” and fell on to the floor, spilling a drink she had in her hand against a wall.  
+  Mr. Mercer testified that he was not “concerned” that Ms. X was hurt and he did not see any injuries.  He indicated that the fall was not a “bad fall” nor “a violent one”.  
+  Mr. Mercer testified that when Ms. X and Ms. Laite left his residence, Ms. X was “drunk”.
+  Mr. Chris Horan, one of Ms. Laite’s co-workers and a friend of hers, was also at the party. He described Ms. X as being “intoxicated”. He indicated that she was “loud, her speech was slurred and she stumbled”. 
+  Mr. Horan testified that he was standing next to Ms. X near a kitchen counter.  He indicated that he was talking to her and that Ms. X fell on to the floor.  He described her feet “slipping out” from underneath her.  
+  Mr. Horan testified that Ms. X hit the floor hard, striking her “butt” as she did so.  However, Mr. Horan agreed that Ms. X did not appear to have been hurt by the fall.  He was not concerned about her being injured.  He also testified that she subsequently got up and answered a telephone call she received. 
+  When asked if Ms. X could have fallen because she was bending over to pick something up, Mr. Horan replied that he “did not believe” she would have fallen in the manner she did if this had occurred. 
+  Ms. X denied that she “fell over” by the counter.  She testified that she had “squatted” down to pick up something she had dropped and lost her balance.  She testified that she did not hit her back or her buttocks or cause any injury to herself. 
+Ms. X was not cross-examined on whether she slipped off a stool at the party. Alcohol Consumption on December 31, 2021:
+  Ms. X testified that Ms. Laite had one alcoholic drink that evening.  She described herself as “drinking all night”, having “quite a lot to drink”, and being “very drunk”.  Ms. X agreed that she subsequently vomited when she returned home. However, she maintained that the alcohol consumption had not affected her memory of the assault that occurred when she and Ms. Laite returned home.  
+  In the statement Ms. X provided to the police on January 31, 2022, she described being “very drunk” on New Year’s Eve and indicated that she could not remember “a whole lot about it”.  In a statement she provided to investigators on February 9, 2022, she indicated that she could not “remember that night completely because I was drinking”.  
+  In her testimony, Ms. X said that she could “not remember a lot about that night” but that she recalled the assault that occurred.  She indicated that she was “not saying” the alcohol had no effect, but that she could recall the assault.  
+January 2022, At Work:
+  Mr. JP works with Ms. X.  He testified that in early January, 2022, she was “not herself” while at work.  He testified that he spoke to her and she began to “cry”.  He described her as being “distraught”. 
+  Mr. JP testified that that Ms. X told him that she had been assaulted by Ms. Laite on New Year’s Eve.  She showed him bruises on her upper arm and he noticed that there was some “redness” in the area of her jaw.  He described the bruises as being a “dark purple” in color with one on the front of her arm and one on the back.       In cross-examination, Mr. JP was asked to describe what Ms. X told him about the assault.  He indicated that she had told him that Ms. Laite struck her, causing her to fall on to the floor.  He also indicated that Ms. X said that Ms. Laite struck her while she was on the floor.  He was “not sure” if she said she had been punched or kicked while on the floor. 

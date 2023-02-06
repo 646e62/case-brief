@@ -1,0 +1,95 @@
+./canlii_crim_corpus/html/2023/on/cj/2023oncj17.html
+           
+Ms. Pereira stands charged with four counts alleging: 1.     
+Conspiracy to traffic cocaine with Kevin Henningham and Tyler Burke between June 11 and 27, 2020 2.     
+Conspiracy to traffic fentanyl with Kevin Henningham and Tyler Burke between June 11 and 27, 2020 3.     
+Possession of cocaine for the purposes of trafficking between June 19 and 20, 2020 4.     
+Possession of fentanyl for the purposes of trafficking between June 19 and 20, 2020
+           
+Police had set up surveillance and audio probes in an investigation of Tyler Burke and Kevin Henningham. That investigation yielded overwhelming evidence that they were members of a conspiracy to traffic cocaine and fentanyl. A woman named “Mel” was one of their co-conspirators. It was planned that the drugs would be transported north from Toronto in a blue Honda with licence #CARA 393. This car belonged to Burke’s sister.
+           
+On June 20, 2020, the blue Honda in question was stopped by the OPP as it drove north on Hwy 400 near Barrie. The cocaine and fentanyl which were the objects of the conspiracy were discovered in the trunk of the car. The accused, Melanie Pereira, was driving the car and was the sole occupant when it was stopped.
+           
+The ultimate issues in this trial are: 1.    
+Has the Crown proved the existence of the alleged conspiracy? 2.    
+Was Ms. Pereira a member of this conspiracy? 3.    
+Did Ms. Pereira know there was cocaine and fentanyl in the trunk of the Honda when she was apprehended at the wheel? 
+           
+The Crown called several police witnesses and filed surveillance footage and intercepted conversations. Ms. Pereira did not testify and called no other evidence. B.               
+THE DEFENCE APPLICATION TO PARTICIPATE REMOTELY
+           
+Shortly before the trial began Ms. Pereira filed an application seeking permission to participate in the trial remotely from her home. I convened a hearing, permitting Ms. Pereira to participate remotely during the hearing of the application.
+           
+While the Crown initially consented to the application, their position changed as the hearing unfolded. I dismissed the application for the following reasons.
+           
+Ms. Pereira testified that she had just given birth and was breastfeeding. She was also occupied taking care of her autistic nephew. She was extremely distracted.
+           
+It became apparent to me that these two children would be present during the trial if Ms. Pereira were to participate remotely and that she would not be able to concentrate on the proceedings. I also found that her Internet connection was unreliable. C.              
+THE LAW OF CONSPIRACY AND ITS APPLICATION TO THIS CASE
+       
+The offence of conspiracy is complete upon the agreement of two or more persons to commit an offence. No overt act is required. The accused need not be aware of all the details of the conspiracy but must know the general nature of the criminal scheme and intend to adhere to it. The existence of an agreement may be inferred from knowledge of, and participation in, a crime. R. v. Cotroni (1979), 1979 CanLII 38 (SCC), 45 C.C.C. (2d)1 (SCC); U.S.A. v. Dynar (1997), 1997 CanLII 359 (SCC), 115 C.C.C.(3d) 481 (SCC); R. v. Longworth et al (1982), 1982 CanLII 3764 (ON CA), 67 C.C.C.(2d) 554 (Ont. C.A.); R. v. Alexander (2005), 2005 CanLII 32566 (ON CA), 32 C.R. (6th) 159 (Ont. C.A.)
+       
+Where the Crown specifies a particular purpose of the alleged agreement in the charging document, the Crown bears the burden of proving beyond a reasonable doubt that the accused had knowledge of the alleged purpose. In the case at bar, even if the Crown succeeds in proving that Ms. Pereira agreed with either alleged co-conspirator to traffic a controlled substance, the prosecution will nonetheless fail unless the Crown proves beyond a reasonable doubt that Ms. Pereira knew that the trafficking of cocaine and fentanyl were the goals of the two alleged conspiracies. R. v. Saunders, 1990 CanLII 1131 (SCC), S.C.J. No. 22; R. v. Clyke, O.J. No. 5319 (C.A.)[1]
+       
+This knowledge may be proved through evidence of direct knowledge or through proof of wilful blindness. R. v. Briscoe, 2010 SCC 13 (CanLII), 1 S.C.R. 411 at para. 21; R. v. Sansregret, {1985} S.C.J. No. 23; R. v. Cedeno, Q.J. No. 13977 (C.A.); R. v. Henareh, 2014 ONSC 2588. D.             
+THE CO-CONSPIRATOR’S EXCEPTION TO THE HEARSAY RULE
+       
+Where the trier of fact is convinced beyond a reasonable doubt of the existence of a particular conspiracy and the evidence admissible against the accused proves on a balance of probability that the accused is a member of that conspiracy, any acts and declarations of any member of the conspiracy, made in furtherance of the conspiracy, are admissible against the accused. Koufis v. The King 1941 CanLII 55 (SCC), S.C.R. 481; R. v. Bogiatzis, 2010 ONCA 902; R. v. Carter 1982 CanLII 35 (SCC), S.C.J. No. 47 E.              
+FINDINGS OF FACT 
+(a)             
+The admitted facts
+       
+Defence counsel conceded that the Crown had proved beyond a reasonable doubt that there existed a conspiracy between Burke, Henningham and others to traffic cocaine and fentanyl. 
+       
+The details of the planned crime are readily discernable from the audio intercepts. The two men arranged to certify Burke’s sister’s Honda, equip it with new tires and use it to transport the drugs to Northern Ontario for future sale. 
+(b)             
+The wiretap evidence
+       
+Mr. Burke’s phone was tapped. An audio probe was placed in his car. Mr. Henningham’s phone was also tapped.
+       
+The Crown prepared transcripts of these intercepts which were filed as exhibits, along with the raw audio files. The audio files, which the parties agree is the evidence, as opposed to the transcripts, were played during the trial and they were largely inaudible in the courtroom. I listened to them later in my chambers with headphones and reviewed the transcripts at the same time. I find that the transcripts prepared by the Crown are indeed accurate, with only minor inconsequential differences.
+       
+Most significantly, everywhere that the Crown submits Burke says the word “Mel” I find that he did so. (c)              
+The surveillance evidence
+       
+Police conducted surveillance of Burke, his car, his sister’s Honda and Ms. Pereira. High quality video was taken of most of this surveillance. I have reviewed it carefully and I have paid careful attention to Ms. Pereira’s appearance before me in court. Applying the principles and approach set out in R. v. Nikolovski, 1996 CanLII 158 (SCC), 3 S.C.R. 1197 I conclude that the woman shown on the videos whom the Crown argues is Ms. Pereira is indeed Ms. Pereira. I note that counsel for Ms. Pereira does not argue to the contrary. (d)             
+Has the Crown proved, at least on a balance of probabilities, that Ms. Pereira was a member of the conspiracy so as to trigger the co-conspirator’s exception to the hearsay rule?
+       
+There is a wealth of non-hearsay evidence that proves on a balance of probability that Ms. Pereira is a member of the conspiracy, thus permitting the use of hearsay evidence pursuant to the co-conspirator’s exception: 1.    
+Ms. Pereira participated in the jockeying of cars and people (including Burke) in pursuit of preparing the blue Honda for the transport of drugs to Northern Ontario. Once the Honda’s new tires were installed, she drove it away from the tire shop on June 19. Her destination was an apartment she was seen entering that the police later searched, which search revealed that the apartment was a stash house containing a cocaine press, and other drug paraphernalia. 2.    
+Ms. Pereira was apprehended driving the drug laden Honda north on Hwy 400 the next day. 3.    
+The woman Burke confided in regarding the conspiracy and whom he instructed as to how to cut and package the drugs is named Mel.[2] (e)             
+Does the entirety of the evidence, including the admissible hearsay evidence, prove beyond a reasonable doubt that Ms. Pereira was a member of the conspiracy?
+       
+The evidence referred to above, along with the following admissible hearsay evidence leaves me convinced beyond a reasonable doubt that Ms. Pereira was a member of the conspiracy, or put another way, that she was the person referred to by Burke as “Mel” throughout the intercepts: 1.    
+Burke engages in numerous discussions with Henningham and others in furtherance of the conspiracy that describe “Mel”’s role in exquisite detail, including the fact that the Honda is being prepared for her to drive north.[3]
+ 
+(f)              
+Did Ms. Pereira know that the object of the conspiracy was the importation of cocaine?
+       
+As referred to above, the law stipulates that the Crown must not only prove the existence of the alleged conspiracy and that Ms. Pereira was a member of it. Because of the precise wording of the charging information, the Crown must also prove beyond a reasonable doubt that Ms. Pereira knew the substances to be trafficked were indeed cocaine and fentanyl.
+       
+This knowledge need not be actual knowledge. Proof of wilful blindness will suffice. The trier of fact need only be convinced beyond a reasonable doubt of knowledge. He need not be convinced as to whether it was actual knowledge or wilful blindness. If he is satisfied beyond a reasonable doubt that it is either one or the other, proof of knowledge is achieved. The Crown must prove all essential elements, such as knowledge, beyond a reasonable doubt, but need not prove the particular route to such a finding beyond a reasonable doubt. R. v. Pickton, 2010 SCC 32: R. v. Thatcher, 1987 CanLII 53 (SCC), 1 S.C.R. 652
+       
+The state of mind that is wilful blindness is most recently described by the Supreme Court in R. v. Briscoe, 2010 SCC 13 at paras. 21-24 as follows: Wilful blindness does not define the mens rea required for particular offences. Rather, it can substitute for actual knowledge whenever knowledge is a component of the mens rea. The doctrine of wilful blindness imputes knowledge to an accused whose suspicion is aroused to the point where he or she sees the need for further inquiries, but deliberately chooses not to make those inquiries. See Sansregret v. The Queen, 1985 CanLII 79 (SCC), [1985] 1 S.C.R. 570, and R. v. Jorgensen, 1995 CanLII 85 (SCC), [1995] 4 S.C.R. 55. As Sopinka J. succinctly put it in Jorgensen (at para. 103), "[a] finding of wilful blindness involves an affirmative answer to the question: Did the accused shut his eyes because he knew or strongly suspected that looking would fix him with knowledge?" Courts and commentators have consistently emphasized that wilful blindness is distinct from recklessness. The emphasis bears repeating. As the Court explained in Sansregret (at p. 584): ... while recklessness involves knowledge of a danger or risk and persistence in a course of conduct which creates a risk that the prohibited result will occur, wilful blindness arises where a person who has become aware of the need for some inquiry declines to make the inquiry because he does not wish to know the truth. He would prefer to remain ignorant. The culpability in recklessness is justified by consciousness of the risk and by proceeding in the face of it, while in wilful blindness it is justified by the accused's fault in deliberately failing to inquire when he knows there is reason for inquiry. [Emphasis added.] It is important to keep the concepts of recklessness and wilful blindness separate. Glanville Williams explains the key restriction on the doctrine: The rule that wilful blindness is equivalent to knowledge is essential, and is found throughout the criminal law. It is, at the same time, an unstable rule, because judges are apt to forget its very limited scope. A court can properly find wilful blindness only where it can almost be said that the defendant actually knew. He suspected the fact; he realised its probability; but he refrained from obtaining the final confirmation because he wanted in the event to be able to deny knowledge. This, and this alone, is wilful blindness. It requires in effect a finding that the defendant intended to cheat the administration of justice. Any wider definition would make the doctrine of wilful blindness indistinguishable from the civil doctrine of negligence in not obtaining knowledge. [Emphasis added.]
+ 
+(Criminal Law: The General Part (2nd ed. 1961), at p. 159 (cited in Sansregret at p. 586.) Professor Don Stuart makes the useful observation that the expression "deliberate ignorance" seems more descriptive than "wilful blindness", as it connotes "an actual process of suppressing a suspicion". Properly understood in this way, "the concept of wilful blindness is of narrow scope and involves no departure from the subjective focus on the workings of the accused's mind" (Canadian Criminal Law: A Treatise (5th ed. 2007), at p. 241). While a failure to inquire may be evidence of recklessness or criminal negligence, as for example, where a failure to inquire is a marked departure from the conduct expected of a reasonable person, wilful blindness is not simply a failure to inquire but, to repeat Professor Stuart's words, "deliberate ignorance". (emphasis added)
+       
+I am convinced beyond a reasonable doubt that Ms. Pereira either actually knew that the conspiracy was to traffic specifically in cocaine and fentanyl or was wilfully blind to that fact.
+       
+Ms. Pereira helped package the drugs. She understood all the drug lingo employed by Burke. She played an important role in the conspiracy.
+       
+Either Ms. Pereira enquired of Mr. Burke or she didn’t. It must be one or the other. I am convinced that if she did ask, she would have been told that the package she was driving north contained cocaine and fentanyl. Mr. Burke certainly knew. Ms. Pereira was highly placed in the conspiracy and was relatively close to Mr. Burke.  
+       
+If, on the other hand, she did not ask, I find that she chose not to ask in order to avoid actual knowledge. She would certainly have suspected that cocaine and fentanyl could well have been the contraband in question. Any reasonable person would. Her suspicion need not have been confined to cocaine and fentanyl. One can be suspicious of more than one thing at once. R. v. MacKenzie, 2013 SCC 50; R. v. Chehil, 2013 SCC 49; R. v. Kang-Brown, 2008 SCC 18. 
+       
+I have no doubt that if Ms. Pereira chose not to enquire, her failure to enquire was fueled by an intention to remain ignorant. E.              
+CONCLUSION
+       
+Ms. Pereira is guilty of the two conspiracy counts.
+       
+As concerns the alleged substantive trafficking offences, Mr. Marchetti concedes that a finding of guilty on the conspiracy charges dictates a finding of guilty on the trafficking counts. I agree.
+       
+In case I am wrong in any of the steps I have followed as concerns the law of conspiracy, I have done an independent analysis of the evidence directly admissible against Ms. Pereira on the trafficking charges and I am convinced beyond a reasonable doubt that she had control and knowledge of the cocaine and fentanyl in the Honda on March 20, 2020[4]. I am also convinced that her possession was for the purpose of trafficking.
+       
+In the result I find Ms. Pereira guilty on all counts.

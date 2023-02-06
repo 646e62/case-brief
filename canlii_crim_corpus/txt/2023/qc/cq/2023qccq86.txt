@@ -1,0 +1,123 @@
+./canlii_crim_corpus/html/2023/qc/cq/2023qccq86.html
+ Has the Applicant’s right to be tried in a reasonable time been infringed?
+ The Tribunal concludes that the net delay exceeds the ceiling of 18 months established by the Supreme Court in Jordanand is presumptively unreasonable.
+ Furthermore, the Respondent did not rebut the presumption by establishing the presence of exceptional circumstances.
+ Accordingly, a stay of proceedings is the only remedy. FACTS
+ The facts are described in the Applicant’s Motion, and they are the following.
+ On May 23, 2020, the Applicant, Roger Seguin, is charged with driving while his capacities were impaired by alcohol and with a level of alcohol that exceeded the limit.
+ The information by summary conviction was laid on October 29, 2020.
+ Mr. Seguin appeared on December 9, 2020.  Me Abel appeared for him as a “friend of the Court” and assisted him in adjourning the matter to February 24, 2021.
+ On February 24, 2021, Me Barrière appeared and addressed the matter.  Mr. Seguin was not present.  A bench warrant was issued.
+      
+Mr. Seguin took the steps to have the matter listed in Court on March 11, 2021.  The warrant was rescinded as Mr. Seguin was advised he did not need to be present on February 24, 2021.
+      
+At that date, Mr. Seguin advised the Court he had found a lawyer (Me Amber) and the matter was adjourned for 8 weeks for the purpose of counsel to take the file.
+      
+On May 11, 2021, Me Amber appeared formally on the record and received more disclosure.  (He had asked initial disclosure on April 7, 2021 and received it on May 3, 2021).
+      
+The matter was adjourned to June 2, 2021, for the purpose of reviewing the disclosure and requesting additional disclosure.
+      
+On May 25, 2021, an additional disclosure request was sent to the Crown.
+      
+On June 2, 2021, an adjournment was granted for the purpose of waiting to receive the additional disclosure requested.
+      
+On July 21, 2021, the matter returned and was adjourned again to obtain the additional disclosure requested.
+      
+On August 9, 2021, some additional disclosure was received by Me Amber.
+      
+On September 20, 2021, there was still outstanding disclosure, and the matter was adjourned to November 10, 2021.
+      
+On November 10, 2021, the matter was adjourned to set a trial in the management Court.
+      
+On November 12, 2021, the matter was in management Court.  The trial was set to March 16, 2022, in Courtroom 5 for 4 hours.
+      
+On that date, there was a discussion concerning the Courtroom to set the trial.  The Crown requested to potentially set the trial in Courtroom 5, but the judge indicated that this was not an option, owing the length of the trial being over the 2 hours limit for that room.
+      
+The Crown informed the presiding judge that there was no available trial date before May and that would be above the 18 months ceiling.
+      
+The presiding judge then permitted the trial to be scheduled in Courtroom 5 on March 16, 2022. 
+      
+On December 7, 2021, the coordinating judge’s secretary informed the Crown and the Defence that the matter couldn’t be scheduled on March 16, 2022 in Courtroom 5 because of it’s length and the matter would be in the management Court on December 17, 2021 to set a new date.
+      
+The matter was adjourned to January 28, 2022, in order for the Crown and the Defence to file a new form for the setting of the trial.
+      
+On January 28, 2022, the trial date was set on August 16, 2022, for 6 hours.
+      
+On February 22, 2022, Me Amber received the last item of the disclosure he requested.
+      
+On August 16, 2022, the trial began. 
+Examination of the first Crown’s witness was not complete and a continuation was required.  It is to be noted that the second Crown’s witness who was subpoenaed was not present.
+      
+November 17, 2022 was the first trial continuation date.  Me Amber was not available but both parties were available for the second date offered, November 30, 2022, date when the Motion for a stay of proceedings was presented. LAW
+      
+On July 8, 2016, the Supreme Court rendered judgment in the JordanCase and ended the delays’ framework of analysis established in Morinfor the application of section 11b) of the Charter.
+      
+The Supreme Court in Jordanset out a new framework to assess whether delay is unreasonable.
+      
+What is this new framework of analysis?
+      
+Ceilings are established beyond which delay is presumptively unreasonable: 18 months for cases going to trial in Provincial Court and 30 months for cases going to trial in Superior Court or cases going to trial in Provincial Court after a preliminary inquiry[5]. 
+      
+If the total delay from the charge to the actual or anticipated end of trial (minus Defence delay) exceeds the delay, then the delay is presumptively unreasonable.
+      
+The Crown can rebut this presumption by establishing the presence of exceptional circumstances.  If not, the delay is unreasonable.
+      
+According to the Supreme Court, the presence of exceptional circumstances is the only basis upon which the Crown can discharge its burden to justify a delay exceeding the ceiling[6].
+      
+Exceptional circumstances are reasonably unforeseen or reasonably unavoidable and the Crown cannot remedy the delays.
+      
+These exceptional circumstances fall under two categories: discrete events and particular complex cases.
+      
+First, calculation of the delay from the charge to the actual or anticipated end of trial has to be done, followed by the subtraction of the delay attributable to the Defence either waived or caused solely by its conduct.
+      
+If the total delay from the charge to the actual or anticipated end of trial is above the ceiling, then, the delay is presumptively unreasonable and, if the Crown cannot rebut the presumption by the establishment of exceptional circumstances, the Tribunal shall stay the proceedings.
+      
+If the total delay from the charge to the actual or anticipated end of trial falls below the ceiling, then the onus is on the accused to show that the delay is unreasonable.  To do so, the accused must establish: .           
+He took meaningful steps that demonstrate a sustained effort to expedite the proceedings; .           
+The case took markedly longer than it reasonably should have. ANALYSIS
+      
+Before analysing the delays contested in issue, it is important to emphasize that the Court of Appeal decided that this “(…) analysis is not fixed and it is necessary to rely on the good sense of trial judges to determine the reasonableness of the delay in the circumstances of each case[7]”. According to the Supreme Court, the analysis must always be contextual[8].
+      
+The parties agree that the total delay from the charge to the actual or anticipated end of trial is 762 days[9].
+      
+Once the total delay is determined, delay attributable to the Defence must be subtracted.
+      
+According to the Crown, 358 days should be subtracted from the total delay as Defence delay and exceptional circumstances, for a remaining delay of 405 days below the ceiling.
+      
+According to the Defence, there are 13 days of Defence delay and 15 days attributable to exceptional circumstances, which leaves a total delay of 734 days.
+      
+According to the Crown, the delay of 15 days between February 24, 2021 and March 11, 2021 is attributable to the Defence.
+      
+The Court disagrees with this argument.  Mr. Seguin was informed in a letter by a Legal Aid’s lawyer that his presence was not necessary on February 24, 2021.  Mr. Seguin being not formally represented by Legal Aid, a warrant was issued, which Mr. Seguin when informed of it took the steps to have the case filed in Court to cancel the warrant.
+      
+The Court concludes that this delay is a discrete event and should be subtracted.
+      
+The Crown argues that the delay between September 20, 2021 to August 16, 2022 should be subtracted being either Defence delay or exceptional circumstances, which is a delay of 330 days.
+      
+According to the Crown, she was ready to set the date for the trial on September 20, 2021.
+      
+The Crown refers to Ramsurrunwhere the Court of Appeal referring to Cody stated : « lorsque le tribunal et le ministère public sont prêts à procéder mais que la défense ne l’est pas, le délai qui en résulte devrait également être déduit, sous réserve de son droit de se préparer adéquatement. »
+      
+This argument is contested by the Defence.
+      
+The delay between September 20, 2021, to November 10, 2021, is attributable to additional disclosure. This delay cannot be a Defence delay.  Additional disclosure was asked without an objection from the Crown on the fact that she was ready to set the date anyhow.
+      
+It is the same with the delay from November 10, 2021, to August 16, 2022.  There are 2 days attributable to set the file in the management Court.  This is an institutional delay.
+      
+As it is with the delay between November 12, 2021, to August 16, 2022.  This delay cannot be counted as Defence delay.  Both parties erred on how they handled the file.  It seems that the form wasn’t complete and the file set for trial in a Courtroom against the Court rules.
+      
+This situation was remedied by the coordinating judge and another date was set for the trial.
+      
+This situation is not an exceptional circumstance.  Unfortunately, the delay caused by the situation is nothing more than institutional delay.
+      
+This delay cannot be subtracted from the total delay.
+      
+The Court concludes that only 28 days can be subtracted from the delay which leaves a net delay of 734 days, which is above the ceiling of 548 days.
+      
+The delay being over 548 days or 18 months, the delay is presumed unreasonable, and the Respondent has the onus to show the existence of exceptional circumstances.
+      
+Were these exceptional circumstances in this matter?
+      
+The Court finds that the Respondent did not show the existence of exceptional circumstances.
+      
+The Tribunal concludes that the delay is unreasonable.

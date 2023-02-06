@@ -1,0 +1,176 @@
+./canlii_crim_corpus/html/2023/sk/pc/2023skpc12.html
+       Jasmin Grandel, Mark Friesen, Jonathon Wipf and Tamara Lavoie are charged that on or about January 30, 2021 at or near Regina, Saskatchewan they did fail to comply with a Public Health Order [PHO] by attending a gathering exceeding 10 persons, contrary to section 61 of The Public Health Act, 1994, SS 1994, c P-37.1 [Public Health Act, 1994]. 
+ 
+       For some time Ms. Anderson represented all four of the accused before the Court on this charge.   On October 18, 2022, Ms. Anderson applied for and was granted leave to withdraw as counsel for Tamara Lavoie on this charge and a number of other charges.  Tamara Lavoie has been representing herself since October 18, 2022. On that date Ms. Lavoie withdrew her section 2 Charter challenge.  She has brought no further Charter challenges before the Court.
+ 
+       On December 12, 2022, Ms. Anderson as legal counsel for Jasmin Grandel, Mark Friesen and Jonathon Wipf (herein after referred to as the “applicants”) filed a Notice of Charter Application with this Court alleging that ss. 25.2(2) of The Disease Control Regulations, RRS c P-37.1 Reg 11 [repealed] and related public health orders violate section 7 of the Charter and are therefore invalid and inoperable. The applicants particularized their section 7 Charter challenge as follows: 
+ 
+(1)   the impugned provisions deprived them of the right to move freely (see R v Heywood, 1994 CanLII 34 (SCC), [1994] 3 SCR 761 [Heywood] at para 789) (2)   the impugned provisions deprived them of the right to make “inherently private choices” that go to the core of what it means to enjoy individual dignity and independence” (see Godbout v Longueuil (City), 1997 CanLII 335 (SCC), [1997] 3 SCR 844 [Godbout] at para 66) (3) the impugned provisions are unconstitutionally vague.
+ 
+       The trial against all four accused took place on January 3 and 4, 2023.  Ms. Anderson appeared on behalf of the three defendant/applicants. 
+One of the defendants, Mr. Wipf personally appeared at the trial on the morning of January 3, 2023.  Mr. Wipf did not attend the trial after this.  The other two defendants Mr. Friesen and Ms. Grandel did not attend the trial.  None of the three defendants were required to attend the trial.  Ms. Lavoie did not appear at the trial on January 3 and 4, 2023.   The trial against her proceeded in her absence.
+ 
+      On January 3, 2023, at the onset of the trial the Crown filed two exhibits with the Court.  Exhibit P-1 is a certified copy of a Public Health Order signed by Dr. Saqib Shahab, Chief Medical Health Officer dated January 26, 2021. Exhibit P-2 is a true copy of a Minister of Health’s Order #2020-18 signed by Paul Merriman dated December 7, 2020.  The Crown and counsel for the three defendants/applicants filed Exhibit  P-3 an Agreed Statement of Facts dated January 3, 2023 with the Court.  It was agreed that all witnesses would testify at a Charter voir dire and any admissible evidence would be applied to the trial proper.
+ 
+       Constable Aaron Robertson and Corporal Timothy Filazek of the Regina Police Service testified for the Crown.  No witnesses were called to testify by any of the accused.
+ 
+       For the reasons which follow, this Court finds that ss. 25.2(2) of The Disease Control Regulations, RRS c P-37.1 Reg 11 [repealed] and the Public Health Order signed by Dr. Saqib Shahab, Chief Medical Health Officer dated January 26, 2021 do not violate section 7 of the Charter.
+ 
+ISSUE
+ 
+       The sole issue is whether ss. 25.2(2) of The Disease Control Regulations, RRS c P-37.1 Reg 11 [repealed] and the related Public Health Order signed by Dr, Saqib Shahab, Chief Medical Health Officer dated January 26, 2021 [the impugned provisions] violate section 7 of the Charter.
+ 
+FACTS
+ 
+       On December 7, 2020, the Minister of Health for the Province of Saskatchewan, Paul Merriman signed Ministerial Order #2020-18 which
+ delegated to the Chief Medical Health Officer (a) the power to issue orders to decrease or eliminate the serious public health threat posed by the virus (SARS-CoV-2) causing COVID-19 and (b) the power to issue orders for the purposes of preventing, reducing, and controlling the transmission of SARS-CoV-2.
+ 
+     On January 26, 2021, Dr, Saqib Shahab, Chief Medical Health Officer for the Province of Saskatchewan signed a Public Health Order [PHO].  The Order is comprised of a total of nine pages.  Page 1, 2 and 3 of the Order reads in part as follows: 
+ . . . This Order applies to all individuals and businesses within the 
+Province of Saskatchewan and City of Lloydminster 1.     
+I hereby ORDER and DIRECT effective 12:01 a.m. on January 29, 2021:
+ 
+Gathering Sizes and Restrictions
+ . . . (c) Public and private outdoor gatherings are permitted up to 10 persons.  Persons in attendance must ensure that physical distancing of at least 2 meters between households is maintained. 
+This section does not apply to events and activities to the extent that the guidelines applicable in the Re-Open Saskatchewan Plan, as amended from time to time, on the  Government of Saskatchewan website (Saskatchewan.ca) explicitly permits or requires an alternative gathering size.   In such case, the gathering size explicitly permitted or  required shall not be exceeded, and specified physical distancing shall be maintained.
+ . . .
+ 
+Page 9 of Dr. Shahab’s Public Health Order reads in part as follows:
+ 
+This order remains in effect until 12:01 a.m. on February 19, 2021, or until, in the opinion of the Chief Medical Health Officer, there is no longer a public threat, whichever shall first occur.
+ 
+THE LAW
+                            
+     Section 25.2(2) of The Disease Control Regulations, RRS c P-37.1 [Regulation] reads in part as follows: Measures re prevention, reduction and control of SARS-CoV-2 25.2(1) In this section: (a) “face covering” means a medical or non-medical mask or other face covering that fully covers the nose, mouth and chin, but does not include a face shield or visor. (b) “SARS-CoV-2” means severe acute respiratory syndrome coronavirus 2, the virus that causes COVID-19. (2) If, based on the opinion of the chief medical health officer that the increased rate of infection of the expectation of an increased risk of infection from SARS -CoV-2 is likely to cause a serious public health threat, the minister determines that it is in the public interest to do so, the minister may order that any or all of the measures set out in subsection (3) are to be taken for the purposes of preventing, reducing and controlling the transmission of SARS-CoV-2. (3) An order made pursuant to subsection (2) may impose all or any of the following measures that the minister considers necessary for the purposes of the order: . . . (b ) a requirement to limit the size of gatherings in the manner set out in the order; . . .
+ 
+     Section 61 of the Public Health Act, 1994 provides that every person who contravenes any provision of this Act, or a regulation, bylaw or order is guilty of an offence and is liable on summary conviction, in the case of an individual to a fine.  A contravention of a Public Health Order constitutes a provincial offence under section 61.  Such offences are processed according to The Summary Offences Procedure Act, 1990, SS 1990-91, c S-63-1. The Summary Offences Procedure Regulations, 1991, RRS c S-63.1, Reg 2 provides that a person may enter a guilty plea and make a voluntary payment in the amount of $2000.00 for such offences without appearing in court.  
+                                                
+     Section 7 of the Charter reads as follows:
+ 
+7.  Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+ 
+ 
+ANALYSIS
+ 
+      In R v Collins, 1987 CanLII 84 (SCC), 1 SCR 265 the Supreme Court held that the onus lies upon an accused to establish a Charter violation on a balance of probabilities.  
+ 
+     In Canada (Attorney General) v Bedford, 2013 SCC 72 at para 57, 3 SCR 1101 [Bedford] the Supreme Court of Canada held that:
+ 
+The analysis for an alleged breach of s. 7 has two stages: (a)    
+the applicant must establish that the impugned law imposes limits on life, liberty or security of the person, thus engaging s. 7; and (b)   
+whether any limits on life, liberty or security are in accordance with the principles of fundamental justice.
+[16]      Bedford at paras 5-8 also requires applicants to establish a “sufficient” causal connection between the impugned provisions and limits on the life, liberty or security of person.
+ 
+Stage One Bedford section 7 Charter Analysis
+ 
+The applicant must establish that the impugned law imposes limits on life, liberty or security of the person, thus engaging section 7.
+ 
+     This application focuses on liberty interests.  Citing R v Heywood, 1994 CanLII 34 (SCC), 3 SCR 761 [Heywood] and Godbout v Longueuil (City), 1997 CanLII 335 (SCC), 3 SCR 844  [Godbout] the applicants take the position that the outdoor gathering restriction engaged their liberty interests because they deprive them of their rights to “move freely” and make “inherently private choices”.
+ 
+     In Heywood the Supreme Court of Canada considered then section 179(1)(b) of the Criminal Code that made it an offence for convicted sex offenders to loiter in or near school grounds, playgrounds, public parks, or bathing areas.  The Court held that section 179(1)(b) placed a significant limit on freedom of movement and liberty interests, especially when non-compliance with those prohibitions could result in a jail sentence (para 45).  The purpose of the measure was to protect children from becoming victims of sexual offences (para 53). The Court struck down the section because it was overly broad in its geographic ambit. The Court determined that its application to schools and playgrounds was appropriate as these are the very places that children are likely to congregate.  But its application to public parks and bathing areas is overly broad because not all such places are places where children are likely to be found (para 55).  The Court  also found section 179(1)(b)  was overly broad in its temporal aspect with the prohibition applying for life without any process for review. In addition it was found to be too broad in the number of persons it encompasses.
+ 
+     In Godbout the Supreme Court considered the City of Longueuil’s resolution requiring all new permanent employees of the city to reside within its boundaries.  Justice Laforest held that the right to choose where to establish one's home falls within the scope of the liberty interest guaranteed by section 7 of the Charter. He determined that the right to liberty in section 7 goes beyond the notion of mere freedom from physical constraint and protects within its scope a narrow sphere of personal autonomy wherein individuals may make inherently private choices free from state interference.  Justice La Forest stated as follows at para 66:
+ 
+     The foregoing discussion serves simply to reiterate my general view that the right to liberty enshrined in s. 7 of the Charter protects within its ambit the right to an irreducible sphere of personal autonomy wherein individuals may make inherently private choices free from state interference. … the autonomy protected by the s. 7 right to liberty encompasses only those matters that can properly be characterized as fundamentally or inherently personal such that, by their very nature, they implicate basic choices going to the core of what it means to enjoy individual dignity and independence.
+ 
+     In this case the Information under which the Applicants have been charged is derived from the PHO created on January 26, 2021:
+ 
+Public and private outdoor gatherings are permitted up to 10 persons.  Persons in attendance must ensure that physical distancing of at least 2 meters between households is maintained. 
+ 
+     The PHO permits public and private outdoor gatherings up to 10 persons, provided that persons in attendance at such gatherings ensure physical distancing of at least 2 meters between households is maintained.  I am of the view that by necessary implication, public and private gatherings in excess of 10 persons are not permitted, they are prohibited.  A breach of the prohibition leads to fines.
+ 
+     I am also of the view that Godbout stands for the proposition that the liberty interest under section 7 of the Charter does not grant a constitutional right to do as one wants.  Liberty does not mean “unconstrained freedom” or “unbridled freedom” to do whatever individuals please.  In any organized society the state has the right to subject numerous constraints on an individual’s behaviour for the common good, and not all limitations will attract Charter scrutiny. This was considered by my colleague Judge Marquette in R v Keough, 2022 SKPC 23 [Keough] where she states as follows para 67- 69:
+ 
+     Liberty rights were discussed by the Supreme Court of Canada in Godbout v Longueuil (City): In the recent case of B. (R.) v. Children's Aid Society of Metropolitan Toronto, 1995 CanLII 115 (SCC), 1 S.C.R. 315. I undertook a detailed discussion of the various principles I think should guide the interpretation of s. 7, noting particularly that s. 7 must (as was first enunciated in R. v. Lyons, 1987 CanLII 25 (SCC), 2 S.C.R. 309, and repeatedly followed by this Court) be read in light of the values reflected in the Charter as a whole, and not just those embodied by the other provisions described as "legal rights". I then referred specifically to the decisions of Dickson C.J. in R. v. Oakes, 1986 CanLII 46 (SCC), 1 S.C.R. 103, and R. v. Big M Drug Mart Ltd., 1985 CanLII 69 (SCC), 1 S.C.R. 295, in which the meaning of the term "freedom" in ss. 1 and 2(a) was discussed, and found as follows, at p. 368: The above-cited cases give us an important indication of the meaning of the concept of liberty. On the one hand, liberty does not mean unconstrained freedom.... Freedom of the individual to do what he or she wishes must, in any organized society, be subjected to numerous constraints for the common good. The state undoubtedly has the right to impose many types of restraints on individual behaviour, and not all limitations will attract Charter scrutiny. On the other hand, liberty does not mean mere freedom from physical restraint. In a free and democratic society, the individual must be left room for personal autonomy to live his or her own life and to make decisions that are of fundamental personal importance. [Emphasis added; citations omitted.]
+[68]      Godbout recognized that its analysis drew support from the Supreme Court of Canada's earlier reasoning in R v Morgentaler but also recognized that the sphere of personal autonomy was not without restrictions:
+ 
+...I do not by any means regard this sphere of autonomy as being so wide as to encompass any and all decisions that individuals might make in conducting their affairs. Indeed, such a view would run contrary to the basic idea, expressed both at the outset of these reasons and in my reasons in B. (R.), that individuals cannot, in any organized society, be guaranteed an unbridled freedom to do whatever they please.
+ 
+     In Carter v Canada (Attorney General), the Court discussed both liberty rights and security of the person as protected under section 7 stating:
+ 
+Underlying both of these rights is a concern for the protection of individual autonomy and dignity. Liberty protects "the right to make fundamental personal choices free from the state interference": ...Security of the person encompasses "a notion of personal autonomy involving ... control over one's bodily integrity free from state interference" and it is engaged by state interference with an individual's physical or psychological integrity, including any state action that causes physical or serious psychological suffering. (citations omitted)
+ 
+     In Heywood, section 179 of the Criminal Code prevented all convicted sex offenders from attending school grounds, playgrounds, public parks or bathing areas under threat of imprisonment, whereas the rest of the public could “move freely”.  Contrary to the assertion made by the applicants, I am of the view that the PHO at issue here allows for people to move freely.   What the PHO prohibits is public or private gatherings in excess of 10 persons, under threat of fine.  
+ 
+     In addition, I agree with the Attorney General for Saskatchewan’s [AG Sask] submission that it cannot be said that prohibiting the ability to gather in groups greater than 10 persons deprived the applicants of the right to make “inherently private choices” that go to “the core of what it means to enjoy individual dignity and independence”.
+ 
+     Similar arguments based on Heywood and Godbout, that a person’s section 7 protected liberty interests are engaged by public health orders have not been successful.
+ 
+     In Maddock v British Columbia, 2022 BCSC 1605 at paras 66-86 the Court determined that a public health order requiring patrons of certain establishments to provide a vaccine card or proof of exemption did not engage any of the claimant’s section 7 - protected interests.
+ 
+     In Taylor v Newfoundland and Labrador, 2020 NLSC 125 at paras 384-396 the Court found that a COVID – related travel restriction that prevented the applicant from attending her mother’s funeral did not engage her liberty interest.
+ 
+     In Keough the Court held that the requirement to wear a face mask covering in certain locations did not engage the applicant’s liberty or security of person interests.
+ 
+     Lastly, in Gateway Bible Baptist Church et al v Manitoba, 2021 MBQB  219 at paras 233-235, 246 – 253 the Court determined that both public and private religious gatherings did not engage any section 7 – protected interest. 
+ 
+     In this case I find that the applicants have not established that the PHO here engages the applicant’s liberty interest or any interest set out in section 7 of the Charter.   As a result stage one of the Bedford section 7 Charter Analysis fails. 
+ 
+Stage Two Bedford section 7 Charter Analysis Whether any limits on life, liberty or security are in accordance with the principles of fundamental justice.
+ 
+     In the event I have erred in my determination that the PHO prohibition in issue here does not engage the Applicant’s liberty interest, I have decided to proceed with stage two of the Bedford  section 7 Charter Analysis.
+ 
+     In this case the applicants take the position that ss. 25.2(2) of The Disease Control Regulations, RRS c P-37.1 Reg 11 [repealed] and related PHO dated January 26, 2021 (“impugned provisions”) are unconstitutionally vague. 
+ 
+     In R v Nova Scotia Pharmaceutical Society, 1992 CanLII 72 (SCC), 2 SCR 606 [Nova Scotia Pharmaceutical Society] Justice Gonthier speaking for the Court stated as follows at para 29:
+ 
+(a)   Vagueness can be raised under s. 7 of the Charter, since it is a principle of fundamental justice that laws may not be too vague.  . . . (b) The "doctrine of vagueness" is founded on the rule of law, particularly on the principles of fair notice to citizens and limitation of enforcement discretion (Prostitution Reference and Committee for the Commonwealth of Canada). (c) Factors to be considered in determining whether a law is too vague include (a) the need for flexibility and the interpretative role of the courts, (b) the impossibility of achieving absolute certainty, a standard of intelligibility being more appropriate and (c) the possibility that many varying judicial interpretations of a given disposition may exist and perhaps coexist (Morgentaler, Irwin Toy, Prostitution Reference, Taylor and Osborne).
+ 
+     The AG Sask quite properly does not dispute that the “doctrine of vagueness” is a principle of fundamental justice under s. 7 of the Charter.  The AG Sask takes the position that if the PHO limits a section 7 protected interest, it will be found to infringe section 7 if it is deemed “vague”.  However, the AG Sask submits that the impugned PHO is not vague.
+ 
+     The standard for vagueness was set out by Justice Gonthier in Nova Scotia Pharmaceutical Society at para 64 as follows:
+ 
+     A vague provision does not provide an adequate basis for legal debate, that is for reaching a conclusion as to its meaning by reasoned analysis applying legal criteria. It does not sufficiently delineate any area of risk, and thus can provide neither fair notice to the citizen nor a limitation of enforcement discretion. Such a provision is not intelligible, to use the terminology of previous decisions of this court, and therefore it fails to give sufficient indications that could fuel a legal debate. It offers no grasp to the judiciary. This is an exacting standard, going beyond semantics. The term "legal debate" is used here not to express a new standard or one departing from that previously outlined by this court. It is rather intended to reflect and encompass the same standard and criteria of fair notice and limitation of enforcement discretion viewed in the fuller context of an analysis of the quality and limits of human knowledge and understanding in the operation of the law.
+ 
+     In Canadian Foundation for Children, Youth and the Law v Canada (Attorney General), 2004 SCC 4, 1 SCR 76 [Canadian Foundation For Children] the Supreme Court of Canada summarized the test for unconstitutional vagueness at paras 15 - 18:
+ 
+ A law is unconstitutionally vague if it "does not provide an adequate basis for legal debate" and "analysis"; "does not sufficiently delineate any area of risk"; or "is not intelligible". The law must offer a "grasp to the judiciary": R. v. Nova Scotia Pharmaceutical Society, 1992 CanLII 72 (SCC), 2 S.C.R. 606, at pp. 639-40. Certainty is not required. As Gonthier J. pointed out in Nova Scotia Pharmaceutical, supra, at pp. 638-39, …conduct is guided by approximation. The process of approximation sometimes results in quite a narrow set of options, sometimes in a broader one. Legal dispositions therefore delineate a risk zone, and cannot hope to do more, unless they are directed at individual instances. [Emphasis added.]
+ A law must set an intelligible standard both for the citizens it governs and the officials who must enforce it. The two are interconnected. A vague law prevents the citizen from realizing when he or she is entering an area of risk for criminal sanction. It similarly makes it difficult for law enforcement officers and judges to determine whether a crime has been committed. This invokes the further concern of putting too much discretion in the hands of law enforcement officials, and violates the precept that individuals should be governed by the rule of law, not the rule of persons. The doctrine of vagueness is directed generally at the evil of leaving "basic policy matters to policemen, judges, and juries for resolution on an ad hoc and subjective basis, with the attendant dangers of arbitrary and discriminatory application": Grayned v. City of Rockford, 408 U.S. 104 (1972), at p. 109.
+ 
+ Ad hoc discretionary decision making must be distinguished from appropriate judicial interpretation. Judicial decisions may properly add precision to a statute. Legislators can never foresee all the situations that may arise, and if they did, could not practically set them all out. It is thus in the nature of our legal system that areas of uncertainty exist and that judges clarify and augment the law on a case-by-case basis.
+ 
+ It follows that s. 43 of the Criminal Code will satisfy the constitutional requirement for precision if it delineates a risk zone for criminal sanction. This achieves the essential task of providing general guidance for citizens and law enforcement officers.
+ 
+     In R v Levkovic, 2013  SCC 25 the Supreme Court of Canada discussed the need for a court to exhaust its  interpretative function when considering whether a law is unconstitutionally vague.  The Court in Levkovic states as follows at paras 47 - 48:
+ 
+ A court can conclude that a law is unconstitutionally vague only after exhausting its interpretive function. The court "must first develop the full interpretive context surrounding an impugned provision": Canadian Pacific, at paras. 47 and 79.
+[48]  To develop a provision's "full interpretive context", this Court has considered: (i) prior judicial interpretations; (ii) the legislative purpose; (iii) the subject matter and nature of the impugned provision; (iv) societal values; and (v) related legislative provisions: Canadian Pacific, at paras. 47 and 87.
+ 
+     The preamble of the PHO sets out the basis for Dr. Shahab’s PHO.  It reads in part as follows:
+ 
+Whereas 
+. . . B.   The transmission of the infectious agent SARS-CoV-2, which has caused cases and outbreaks of a serious communicable disease known as COVID-19 among the population of Saskatchewan, is a serious public health threat, as defined in The Public Health Act, 1994;
+ 
+C.  A person infected with SARS-CoV-2 can infect other people with whom the infected person is in contact;
+ 
+D. The gathering of people in close contact with one another can promote the transmission of  SARS-CoV-2 and increase the number of people who develop COVID -19;
+ 
+E. COVID-19 is a category I communicable disease;
+ 
+F. It is necessary to (a) reduce the probability for transmission of  SARS-CoV-2 and (b) reduce the exposure to SARS-CoV-2, to decrease or eliminate the risk to health presented by COVID-19;
+ 
+ 
+     Having examined the impugned Regulation  (as set out in paragraph 11 of this decision) and the preamble of the  PHO  (as set out above) I am satisfied that the impugned Regulation and PHO were set in place to protect public health by providing a mechanism and measures for the purpose of preventing, reducing, and controlling the transmission of SARS-CoV-2, the virus that causes COVID-19. 
+   
+ 
+     The subject matter of the impugned PHO can be described as generally dealing with “Gathering Sizes and Restrictions” and in particular dealing with public and private outdoor gatherings.  The impugned PHO on the one hand permits such gatherings to up to 10 persons, provided they ensure physical distancing of at least two meters between households is maintained.  On the other hand, (having exercised my judicial interpretation) by necessary implication public and private gatherings in excess of 10 persons are prohibited.
+ 
+     The societal value underlying the impugned provisions is protecting the public from the  serious public health threat posed by SARS-CoV-2.
+ 
+     To determine whether the impugned provisions are unconstitutionally vague, I must apply the test set out in Canadian Foundation For Children.  That test is whether the impugned provisions sufficiently delineate a risk zone for criminal sanction or provide an adequate basis for legal debate.
+ 
+     As previously indicated, the PHO by necessary implication prohibits public or private outdoor gatherings greater than 10 persons.  In addition, the PHO also expressly provides as follows: This section does not apply to events and activities to the extent that the guidelines applicable in the Re-Open Saskatchewan Plan, as amended from time to time, on the  Government of Saskatchewan website (Saskatchewan.ca) explicitly permits or requires an alternative gathering size.   In such case, the gathering size explicitly permitted or required shall not be exceeded, and specified physical distancing shall be maintained.
+ 
+One need only look to the Government of Saskatchewan website to determine whether the guidelines applicable in the Re-Open Saskatchewan Plan, as amended from time to time explicitly permits or requires an alternative gathering size, which shall not be exceeded. 
+ 
+     The PHO itself applies to all individuals and businesses within the Province of Saskatchewan and City of Lloydminster.  The PHO is effective 12:01 a.m. on January 29, 2021 and remains in effect until 12:01 a.m. on February 19, 2021, or until, in the opinion of the Chief Medical Health Officer, there is no longer a public threat, whichever, shall first occur.
+ 
+     In my view the PHO “sufficiently delineate an area of risk of criminal sanction” and provides “an adequate basis for legal debate”. The PHO is “intelligible”.  It is not unconstitutionally vague and it “achieves the essential task of providing general guidance for citizens and law enforcement officers”. 
+ 
+     In summary, I am of the view that applicants fail at stage two of the Bedford section 7 Charter Analysis.  The impugned provisions are not unconstitutionally vague.
+ 
+CONCLUSION
+ 
+     The applicants have not established the impugned Regulation and PHO – which prohibits public and private outdoor gatherings exceeding 10 persons, a breach of which results in a fine – engages any section 7 Charter interest and in particular a liberty interest.  Secondly, in the event this Court had determined the impugned Regulation and PHO engaged a section 7 Charter interest, the Court has determined it does so in a manner consistent with the principles of fundamental justice.  It is not unconstitutionally vague.
+ 
+     I am grateful for the assistance of all counsel on this matter.  I note that I have drawn from the written submissions of counsel for the AG Sask in preparing this decision.

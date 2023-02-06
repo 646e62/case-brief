@@ -1,0 +1,31 @@
+./canlii_crim_corpus/html/2023/sk/pc/2023skpc8.html
+             
+The defendants in this matter are charged with having attended, on April 24, 2021, at Saskatoon, a public gathering of more than 10 people contrary to the Public Health Order [PHO] then in effect.  All defendants except Ms. Chipesia were represented by counsel; Ms. Chipesia chose to discharge counsel who had been acting for her up until the trial and represented herself.
+             
+All parties, including Ms. Chipesia, joined in an Agreed Statement of Facts [ASF].  The ASF and a copy of a ministerial order constitute all of the evidence in this matter.  That evidence establishes that: a.         on April 24, 2021, at the Vimy Memorial in Saskatoon, a rally took place; b.         the rally had previously been advertised on social media via a poster which had circulated; c.         Saskatoon Police Service [SPS] became aware of the planned rally, attended and took photographs of some of the participants;  
+d.         all of the defendants in this matter were among those participants; e.         the total number of participants was approximately 100; f.          at the time, there was a PHO in effect which, inter alia, limited the size of public gatherings to no more than 10.  That order was issued by Dr. Saqib Shahab, Saskatchewan’s Chief Medical Health Officer and was dated April 20, 2021; g.         also in effect at the time was “Re-Open Saskatchewan”, which mirrored the PHO of April 21, 2021 regarding gathering sizes.
+ 
+Ms. Chipesia
+             
+Ms. Chipesia, acting on her own behalf, indicated that she still joined in the Notice of Constitutional Question [Notice] filed on behalf of all defendants prior to her choosing to represent herself.  She did not have any specific technical arguments to make with respect to the issues raised in the Notice.  Accordingly, I will treat the lawyers’ arguments on those issues as being equally applicable to her.
+             
+Ms. Chipesia had sought to raise arguments pursuant to s. 2(a) of the Canadian Charter of Rights and Freedoms, namely that the restrictions imposed by the Saskatchewan government violated her right to freedom of conscience and religion.  She had not provided notice of such an issue, nor did she at trial have a written notice in accordance with this Court’s practice directives; nor, of course, had any other parties had an opportunity to prepare for argument on that issue.  I refused to allow her to make that argument, as a result.  
+             
+I allowed her free rein to make whatever arguments she wished but cautioned her that to the extent that they were s. 2(a) arguments, I would not give effect to them.  Ms. Chipesia spoke at some length, eloquently and thoughtfully.  She was calm and collected throughout, but clearly felt strongly about the positions she put forward.  Her arguments, however, tended to appeal to the emotions rather than to the law; and the Court must be bound by the law.  To the extent that she offered a legal argument, it was based on The Saskatchewan Human Rights Code, 2018, SS 2018, c S-24.2 [Code]. 
+However, the Code is, as its name indicates, a code:  a complete set of laws for those matters which it governs.  A person who believes that their rights under the Code have been violated must bring the matter to the Saskatchewan Human Rights Commission, which has the power to investigate and bring a complaint before the Court of King’s Bench.  That Court, if it concludes that a breach has occurred, has powers as set out in s. 39.  However, as Ms. Chipesia has not followed that process, and as this Court is not the Court of King’s Bench, the Code does not give me any power to address her issues even if there was evidence to support them;  which there is not.
+             
+Accordingly, while the constitutional arguments advanced by defence counsel will apply equally to Ms. Chipesia as to all other defendants, there are no valid arguments that apply solely to her.
+ 
+Ultra vires
+             
+The defendants Ms. Cole, Mr. Friesen, Mr. Wintringham and Ms. Wintringham have argued that s. 25.2(2) of The Disease Control Regulations, RRS P-37.1 Reg 11, [Regulation] is ultra vires, that both the Regulation and the PHO made pursuant to it which are the bases for the tickets before the Court constitute unauthorized delegations of power, and that the Regulation and the PHO are unconstitutional.  
+             
+As noted elsewhere, Ms. Chipesia decided to represent herself at the trial and discharged Ms. Anderson as her counsel.  Although Ms. Chipesia chose not to make any representations specifically on the ultra vires issue, she did not abandon the Notice regarding this issue, and it therefore remains alive with respect to her.  The disposition which I make of it will therefore include her.
+             
+The defendants Mr. Caleo, Ms. Drebit and Mr. Kuntz abandoned this argument at trial, and accordingly the disposition of this issue will have no effect on them.
+         
+I have addressed this argument and others in R v Wong et al., 2023 SKPC 7, being released concurrently with this decision.  I adopt the reasoning in Wong in all respects to all issues which have been raised in the current matter and addressed in Wong.  Also released concurrently with this decision is R v Friesen, 2023 SKPC 9.  To the extent that any issues in the present matter are addressed in Friesen, I adopt the reasoning in Friesen in all regards.
+ 
+Conclusion
+         
+I accordingly find all accused guilty as charged.

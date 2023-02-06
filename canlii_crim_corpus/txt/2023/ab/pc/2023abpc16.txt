@@ -1,0 +1,32 @@
+./canlii_crim_corpus/html/2023/ab/pc/2023abpc16.html
+       This is a case of alleged intimate partner violence. Jesus Menjivar-Rios is charged with offences contrary to sections 267(a), 267(c), 266, 264.1(1)(a), and 430(4) of the Criminal Code.
+       The complainant communicated through independent counsel that she “no longer wishes to proceed with this matter” and wanted “the prosecution to end.” Accordingly, the Crown did not subpoena her, relying instead upon out-of-court statements that she made during and immediately following the alleged assault.
+       Do these statements fit within the res gestae exception to the hearsay rule?
+ 
+Voir Dire Facts
+       On January 11, 2022, Caleb Korop was living in the basement of his sister Raven Lang’s home. He heard “banging and thumping” upstairs as his sister’s boyfriend (accused) “berated” her. His “frantic” sounding sister then yelled: “stop hitting me” and “Caleb, call the police.” 
+       Caleb Korop called 911.
+       The 911 call is ten minutes long. At the start of the call Mr. Korop is in the basement and as he speaks screaming is heard from upstairs. Three minutes later (after the accused leaves) Mr. Korop goes upstairs and hands the phone to his sister. He notices that she looks “distressed,” her cell phone is “smashed,” and the house is in a state of disarray.
+       Ms. Lang then details the alleged assault to the 911 operator, including that the accused strangled her. She speaks in a consistently excited and emotional tone, crying throughout. 
+       The 911 call ends as RCMP Constable Dunphy arrives at the residence. He notes Ms. Lang to be very “upset and distraught,” she has red markings on her neck, and he sees that various items have been thrown around the house and/or damaged.
+       The Crown seeks to tender for their truth Raven Lang’s out-of-court statements overheard by Caleb Korob (paragraph 4 above) and as made to the 911 operator (exhibit 1).
+ 
+Res Gestae
+     The res gestae exception to the hearsay rule “captures statements made with such excitement or spontaneity that the possibility of fabrication or concoction can be disregarded”: R v Lugela, 2020 ABCA 348 at para 34.
+     First, precise contemporaneity is not required. Rather, to “avoid the prospect of fabrication, the statement should be reasonably contemporaneous with the alleged occurrence”: R v Sylvain, 2014 ABCA 153 at para 31 (Sylvain). 
+     Second, the critical question is whether the stress or pressure created by the event in question is ongoing, such that the statement(s) is made before there is time to contrive or concoct: R v DLD, 2014 ABCA 218 at para 16 (DLD). 
+     Third, R v Villeda, 2011 ABCA 85 is instructive. In that case the 911 call occurred shortly after the complainant’s boyfriend (accused) left the residence. The Court of Appeal held that “although it was not possible to tell with precision how soon after the assault the 911 call was placed,” it was made “shortly after the assault” and thus was “sufficiently contemporaneous to amount to a spontaneous outburst which could not have been concocted” (at para 22).
+     Fourth, all the circumstances (the statement itself and any extrinsic evidence) must be considered, including the “content” and “timing ... of a 911 call” in determining whether the recording properly falls within the “excited utterances” category: Sylvain at para 32.
+     Fifth, exhibit 1 is an accurate recording capturing the entire statement. Therefore, Raven Lang’s emotional state is “readily demonstrated” by the call itself: DLD at para 19. 
+     Turning to the facts, I note the following. 
+     The 911 call starts while the alleged assault is ongoing and ends very shortly after the accused is apprehended by police driving away from the residence. And Caleb Korop recognizes and identifies the accused and complainant’s voices (from exhibit 1) as heard during the first three minutes of yelling and screaming from the upstairs of the home. 
+     As the complainant speaks to the 911 operator, very few questions are asked. She is the primary speaker. She describes a stressful and serious event that has just occurred. She sounds distraught. Her excited and emotional tone (speaking quickly, without pause or apparent deliberation, while crying, and attempting to catch her breath) is consistent throughout.   
+     When Constable Dunphy arrives Ms. Lang is still on the phone with 911. She is still in an excited state. Her cell phone is destroyed, various items have been thrown around and/or damaged, she exhibits no indicia of impairment, and her neck is red. 
+     All the “facts and circumstances go on the scale in assessing ... the shocking event and spontaneity of the 911 call”: Sylvain at para 38. The timing, tone, and content of the call itself, along with the observations made by both Caleb Korop and Constable Dunphy, all markedly tip the scale in favour of admission of the excited utterances for their truth.
+     Finally, the defence called the lawyer who provided advice to Ms. Lang, and led evidence that she has a sad history of self-harm and may be accident-prone. Beyond confirming that Ms. Lang has recanted (or claims to have forgotten or exaggerated) what she told police, this evidence was otherwise unhelpful in regard to the hearsay issues explored in this voir dire.
+ 
+Necessity
+     The excited utterances exception to the hearsay rule does not contain a necessity requirement. Necessity is rooted in the best evidence rule, whereas res gestae is admissible because the out-of-court statement is generally better than the potential in-court evidence: Sylvain at para 33; Wigmore on Evidence, vol. 5 (Chadbourn rev. 1974) at p 253. 
+ 
+Conclusion
+     Raven Lang’s out-of-court statements are admissible for the truth of their contents.

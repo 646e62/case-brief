@@ -1,99 +1,136 @@
-2023 CanLII 466
-At
-the
-end
-of
-the
-trial
-,
-the
-accused
-admitted
-that
-he
-had
-breached
-the
-non-contact
-bail
-condition
-which
-prohibited
-contact
-with
-his
-former
-common
-law
-spouse
-.
-A
-conviction
-was
-entered
-for
-that
-offence
-,
-and
-a
-presentence
-report
-was
-ordered
-,
-returnable
-January
-11
-,
-2023
-.
-I
-undertook
-to
-file
-written
-reasons
-explaining
-my
-analysis
-of
-the
-other
-charges
-for
-the
-same
-date
-.
-Given
-the
-nature
-and
-circumstances
-of
-the
-offence
-,
-and
-the
-conduct
-of
-the
-accused
-,
-the
-accused
-was
-remanded
-into
-custody
-to
-await
-the
-preparation
-of
-the
-presentence
-report
-.
+./canlii_crim_corpus/html/2023/nl/pc/2023canlii466.html
+           
+At the end of the trial, the accused admitted that he had breached the non-contact bail condition which prohibited contact with his former common law spouse. A conviction was entered for that offence, and a presentence report was ordered, returnable January 11, 2023. I undertook to file written reasons explaining my analysis of the other charges for the same date. Given the nature and circumstances of the offence, and the conduct of the accused, the accused was remanded into custody to await the preparation of the presentence report.
+           
+I have concluded that the other charges have been proven by the Crown to the requisite standard of proof beyond reasonable doubt. The following reasons explain my conclusions. LAW
+           
+In Canadian criminal law, every person who is accused of having committed an offence is presumed innocent.  The burden of proof as to guilt is always on the Crown, and never shifts to the accused. If the Crown cannot prove the alleged offence was committed by the accused, then the presumption of innocence prevails, and the charge is dismissed.
+           
+The standard of proof required of the Crown is proof beyond reasonable doubt. While proof beyond reasonable doubt is not proof to a certainty, it is much closer to that than to the civil standard of proof on a balance of probabilities. 
+           
+In R. v. Lifchus, 1997 CanLII 319 (SCC), 3 S.C.R. 320, the Supreme Court of Canada said that proof beyond a reasonable doubt “does not involve proof to an absolute certainty, it is not proof beyond any doubt nor is it an imaginary or frivolous doubt.”  In R. v. Starr, 2000 SCC 40 (CanLII), 2 S.C.R. 144, the Court said that the burden of proof placed upon the Crown lies much closer to absolute certainty than to a balance of probabilities.
+           
+These twin pillars, the onus of proof being on the Crown and the standard required of proof beyond reasonable doubt, apply to every criminal case, including this one. It is crucial to keep in mind that a criminal trial is not a “credibility contest”, in which one chooses one version of events over another. In R. v. T. (S.), 2015 MBCA 36 (CanLII), at para 6, Justice Mainella said as follows: “The role of an appellate court is not to take a microscope to a trial judge’s reasons, and to afford a high degree of deference to credibility findings. 
+Trial judges are presumed to know the law, there is no mandatory order they must follow in making credibility findings, and they do not have to explain in detail the process they have followed in reaching a verdict so long as the path to the decision is intelligible (R. v. Vuradin, 2013 SCC 38 at para. 21, [2013] 2 S.C.R. 639; and R. v. R.E.M., 2008 SCC 51 at para. 24, [2008] 3 S.C.R. 3). 
+That said, a trial judge cannot render a verdict in a criminal case by the process of simply deciding which competing narrative of events he or she prefers; that is the so-called “credibility contest” error (R. v. S. (W.D.), 1994 CanLII 76 (SCC), [1994] 3 S.C.R. 521 at 533-35; and J.H.S. at para. 9). 
+The burden of proof on the Crown to displace the presumption of innocence is more demanding.  A trial judge must decide, on the whole of the evidence, whether they are left with a reasonable doubt about the guilt of the accused (R. v. C.L.Y., 2008 SCC 2 at paras. 6-8, [2008] 1 S.C.R. 5). (emphasis added)
+           
+We move to consider the credibility of the accused. Credibility
+           
+In R. v. W. (D.), 1991 CanLII 93 (SCC), Cory J. suggested a three-step instruction to a trier of fact, as follows:
+          First, if you believe the evidence of the accused, obviously you must acquit. Second, if you do not believe the testimony of the accused but you are left in reasonable doubt by it, you must acquit. Third, even if you are not left in doubt by the evidence of the accused, you must ask yourself whether, on the basis of the evidence which you do accept, you are convinced beyond a reasonable doubt by that evidence of the guilt of the accused.
+           
+As will become clear in these reasons, I did not believe his evidence, nor did it raise a reasonable doubt. It will also become clear that the Crown had met the high onus upon it of proving the alleged offences beyond reasonable doubt.
+       
+The accused candidly admitted that he had agreed to let his children spend Mother’s Day with their mother, and had sent a message to the third party to that effect. He also admitted that he changed his mind because “her family were disrespecting me”. He said “I was not giving in to them”, and “I felt why give in, when they are so confrontational”. 
+       
+This was not a father who was concerned about the best interests of his children. The three children, who had been in the back seat of the Volkswagen for a couple of hours, were all asleep. The youngest had a full diaper, and, according to the accused, he also had “open wounds”, which I take him to mean diaper rash.
+       
+While on the one hand the accused dismissed the efforts by his former father in law and the new boyfriend to restrain him, he also claimed that he had been choked by the two men. The accused claimed that he had closed the car door on the complainant’s arm because he “feared for my children” and because the complainant “was trying to abduct my children from me”.
+       
+This left a glaring conflict in the evidence of the accused: did he go there to hand over the children to their mother, or was the mother of the children trying to abduct the three children? Added to that were the self-contradictions: he wanted to let the children spend Mother’s Day with their mother, but changed his mind when the maternal grandfather of the children “disrespected” him. While denying that he had been upset, the accused admitted that he was, as he put it, “worked up”.
+       
+The accused also testified that he “wasn’t sure” about all of the events which took place that night near the mailboxes in Winterland, and, while he had claimed that he had been punched, he could not remember it happening. This from the same witness who had dismissed the efforts by the two other men to restrain him because “they didn’t know how to choke me correctly”.
+       
+In the W.(D.) analysis, I did not believe the evidence of the accused, and his evidence did not raise a reasonable doubt with me. I should here also say that the evidence of his girlfriend was at odds with the evidence of everyone, including the accused. Let me explain.
+       
+Under direct examination, the accused’s girlfriend said that they had gone to Winterland to collect a compressor which had been in storage at the complainant’s home. The accused had told the complainant on May 6 that he wanted his compressor, and she had put it out at the end of her driveway. He had one of her neighbors collect and store it overnight for him. The three children were in the back seat of the car. She said that, at around 6:30 p.m., they used her cell phone and texted the complainant’s mother. The text was to let the complainant know that the accused had changed his mind, and was now willing to let the three children spend Mother’s Day with their mother. 
+       
+There was no reply to the text, and so a second message was sent at around 8:00 p.m. She said that they waited, “for hours”, with the three children asleep in the back of the car.
+       
+When asked to describe the events at the mailbox parking area, she said that she got out of the car, and turned around to see the complainant’s father and boyfriend both holding the accused by the throat. Here it is worth noting that the accused said that his girlfriend was the first person to get out of his car.
+       
+She said she had not seen the accused with anyone in a headlock. She said that she grabbed the two men who had the accused pinned up against his car and pulled them off him. She said that she did that with one hand on each man. Then, she said, one man punched her in the throat while the other man elbowed her in the clavicle.
+       
+In the meantime, said the girlfriend, the complainant was trying to get into the Volkswagen by crawling between the accused’s legs. The girlfriend said that the accused had done what she called a “dead man lift” by taking the complainant under the arms and lifting her. That was during the direct examination.
+       
+Under cross-examination, the accused’s girlfriend agreed that the accused had told Baker to put his cell phone away, and that the refusal to stop video recording the accused prompted the physical confrontation. She was asked why, given her evidence, she had not asked the police to lay charges. Here it must be noted that she had described having been punched in the throat and spit in her face.
+       
+She replied by saying that she hadn’t wanted to “take their reputation”. She did not explain how testifying in a public courtroom to having been punched in the throat and spit in her face would not have had any impact on someone’s reputation.
+       
+The girlfriend’s evidence was self-contradictory and confusing. At 6:30 p.m., the children were going to be spending Mother’s Day with their mother. By 8:00 p.m., the children were not going to be spending Mother’s Day with their mother. It was not clear whether the reversal was either because they had had to wait for the complainant to arrive at the collection location, or was because the accused had been “disrespected”, or some combination thereof.
+       
+We move to a brief review of the remaining evidence, to see whether the Crown has met its onus of proof beyond reasonable doubt. Evidence
+       
+The evidence can be divided in three parts, based on the dates of the events. I will proceed chronologically.
+       
+In the month of March, 2022, the accused went to the residence of his former spouse, the mother of his three children. He made several remarks to her about a man she was then seeing, a Mr. Baker, which she recorded on her cell phone. The recordings were played in court, and I summarize them here: a)    
+I’ll go to jail for beating that man to within an inch of his life; b)   
+The next time that man enters this house, I’m coming with an axe; c)    
+That man will die; d)   
+I will bury him in the woods; e)    
+I have researched this, I know I might get 5 or 6 years for manslaughter; f)     
+I’ll break every bone in his body; g)   
+No law is ever going to stop me; h)   
+I don’t care. He will die; i)      
+I will break that man before he dies; j)      
+I am going to kill him; k)   
+I will make him kill himself; l)      
+You will come home to find his blood in the porch; m) 
+My axe is in the trunk of my car; n)   
+Nothing will stop me from ending him; o)   
+A restraining order will not stop me; p)   
+You don’t understand the danger that man is in. I am hunting him; q)   
+I will go to St. Bernard’s and kill his entire family; r)     
+I will drag his lifeless body down in the woods where it won’t be found; & s)     
+If you want that man’s death on your hands, I will give it to you.
+       
+During his cross-examination, the accused admitted to having made these threats, but dismissed the seriousness of them, saying that it was “just talk”. The complainant said that the threats had intimidated her and made her “nervous”. She also said that the accused had made an axe, which he had named “HEL”. When he testified, the accused denied naming an axe, but he said that he “customizes axes as a form of therapy”.
+       
+In R. v. McRae, 2013 SCC 68 (CanLII), the Supreme Court of Canada said that the actus reus of the offence of uttering threats will be made out if a reasonable person fully aware of the circumstances in which the words were uttered or conveyed would have perceived them to be a threat of death or bodily harm.  The Crown need not prove that the intended recipient of the threat was made aware of it, or if aware of it, that he or she was intimidated by it or took it seriously.
+       
+The Supreme Court of Canada also said in that case that the mens rea of the offence is made out if the accused intended the words uttered or conveyed to intimidate or to be taken seriously.  It is not necessary to prove an intent that the words be conveyed to the subject of the threat or that the accused intended to carry out the threat.  A subjective standard of fault applies.  However, in order to determine what was in the accused’s mind, a court will often have to draw reasonable inferences from the words and the circumstances, including how the words were perceived by those hearing them.
+       
+I infer from the number and kinds of threats uttered by the accused that he said those words in an effort to intimidate the complainant. And he was successful in intimidating her. This was not idle banter: these were a series of chilling threats to commit torture, assault, manslaughter, and murder. As a result, the only correct verdict on the charge of uttering threats is a conviction. As will become clear, the complainant did not want him coming back to her home.
+       
+We move next to the events of May 7, 2022.
+       
+The accused and his former common law spouse are the parents of three young children, ranging in age from 2 to 7 years old. 
+       
+In the Spring of 2022, there was no formal court order in place regulating custody and access of and to the children. Instead, the parents, who were communicating through a third party,  had come to an agreement of shared custody. The accused had insisted that the three children would spend Mother’s Day, May 8, 2022, with their father.
+       
+On the evening of May 7, 2022, the accused sent a text message to the mother of his former common law spouse and mother of his three children. He said that his former spouse could have the three children with her for Mother’s Day, May 8, 2022. He wanted to the do the hand-over of the children that night at her home in Winterland. She replied that she would meet him by the mailboxes location near the fire hall in Winterland. Their usual practice had been to exchange the children in a public location, and she did not want him near her home. It had been in her home where she had recorded the threats listed above.
+       
+The complainant, her father, and Mr. Baker went to Winterland and parked near the mailboxes. The accused drove past them, sounded his horn, and drove in to near her home. The two men went there, and explained to the accused that the exchange was to be made by the mailboxes.
+       
+While there is some disagreement between the witnesses as to the exact words exchanged near the complainant’s residence, they all agree that the accused told the two men that the complainant would not be having her children with her for Mother’s Day. The witnesses then drove to the mailbox parking lot.
+       
+At the mailbox area, there were three vehicles. The complainant was in her car. Her father and boyfriend were in her father’s car. The accused and his girlfriend were in the front seat of his mother’s Volkswagen car, and the three children were in the back seat. I mention the make of the car because the back doors were child-proof locked, and could only be opened from the front of the car.
+       
+The accused made a remark to the complainant to the effect that she could thank her father for being the reason why she was not going to have her children spend Mother’s Day with her. This is admitted by the accused, who saw no problem connecting the children spending Mother’s Day with their mother with a disagreement he had had with her father. Effectively, he wanted to punish her because he had had words with her father. He was going to use the children to punish her.
+       
+As might be expected, this did not go over well. The parties got out of their respective vehicles, and a confrontation ensued. It resulted in the accused being charged with two counts of assault, one each against the complainant and her boyfriend. I will begin with the alleged assault of the boyfriend.
+       
+As he was getting out of the car, Mr. Baker activated the video camera on his cell phone. The accused is seen and heard saying “Put the phone down, you’re not recording me”. When Mr. Baker did not turn off the recorder, the accused approached him and knocked the phone out of his hand. That is clear from the video, which clearly starts with the accused and ends with the video spinning as it was knocked out of Mr. Baker’s hand. 
+       
+Knocking the cell phone out of someone’s hand is an uninvited application of force, and therefore an assault: see R. v Kilfoy, 2022 CanLII 103551 (NL PC).
+       
+Mr. Baker and the complainant both said that the accused had put Mr. Baker in a headlock. The accused denies having put Mr. Baker in a headlock, and in fact counters with his own allegation, to the effect that Mr. Baker choked him. He qualified that by saying that Baker and the complainant’s father were amateurs, in that they didn’t know how to effectively choke him, and so their efforts to restrain him were unsuccessful.
+       
+The assault of Mr. Baker, by knocking the cell phone out of his hand is proven beyond reasonable doubt. I also conclude that the accused assaulted Mr. Baker by placing him in a headlock. I move to the charge of assaulting his former spouse. 
+       
+The complainant and Mr. Baker both said that the accused had grabbed her and had knocked her down. Mr. Baker said he tried to stop the accused by pinning him up against the car. In the meantime, the complainant was trying to get the front door open to unlock the child safety lock on the back door. When she got the door open, and put her arm in through the doorway, she said that the accused closed the car door on her arm.
+       
+The accused tells a slightly different version, but admits having assaulted the complainant. He says that the efforts by the complainant’s father and boyfriend to restrain him were unsuccessful, and that he was able to reach down and take the complainant under the arms and move her away from the car. By definition, his admission to having applied force to her without her consent is an admission of the commission of an assault. He fails to justify the use of force when he claims that he was assaulted and his children were “abducted”. And he admitted closing the car door on the complainant’s arm.
+       
+Eventually, the children were taken out of the Volkswagen, and placed in the complainant’s car by their mother and grandfather. There were some further verbal exchanges and then the parties left the area.
+       
+The third relevant date is August 5, 2022, which is when the accused was alleged to have breached a non-contact bail condition. On May 23, 2022, the accused signed an undertaking given to peace officer after being arrested for uttering threats and assault. He was prohibited from contacting the complainant except by way of CSSD or Family Justice Services.
+       
+During his cross-examination, he admitted that he had emailed her the following message: I tried sending this to your mother but she’s proven difficult not sire (sic) if she’s relying (sic) my message. If you and [Baker] are not together any longer I have 0 issue with the kids returning to you as it hurts me to keep them from their mother. I was only restricting [Baker] but sadly meant you as well. I asked your mother a few times today and stated if [Baker] ‘s gone then the kids and (sic) return asap. They miss you and I kills(sic) my (sic) not for them to see you the loom (sic) on there (sic) faces when I say they can’t return its (sic) hard!! No need to reply here or you can that’s your call but your mother has stated she don’t send you all messages.
+          Thanks
+          Arch Gover
+       
+Given the admission, a conviction was entered for the breach of the non-contact order. The attempt by the accused to control who the complainant dated, long after their separation, is clear. It is also clear that he was restricting the complainant’s access to her three children. The decision to remand the accused
+       
+It was clear from the evidence that: a)    
+The accused had said that no court order would stop him; b)   
+The accused had said that he understood the risk of being incarcerated; c)    
+The accused had said that no restraining order would stop him; d)   
+The accused had admitted to having uttered multiple threats to assault, maim, murder, dismember and bury the body of his former spouse’s boyfriend; e)    
+The accused admitted having breached the no-contact order in his bail conditions; and f)     
+The accused conflated access to his children with what he perceived to be disrespect from his former common law spouse’s family.
+       
+Given the risks posed to the complainant and her family, together with the admitted breach of his bail condition, judicial interim release was revoked, and the accused was remanded into custody pending preparation of a presentence report. The accused will be credited for the time spent on remand awaiting preparation of the presentence report. CONCLUSION
+       
+During a trial for charges of uttering threats, assault, and breach of judicial interim release conditions, the accused admitted to having uttered the threats and to having breached a non-contact bail condition. The Court also found that the Crown had proven the two counts of assault beyond reasonable doubt. The accused was remanded into custody pending the preparation of a presentence report.

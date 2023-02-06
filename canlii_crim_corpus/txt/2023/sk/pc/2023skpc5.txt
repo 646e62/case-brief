@@ -1,0 +1,332 @@
+./canlii_crim_corpus/html/2023/sk/pc/2023skpc5.html
+             
+Thomas James Arendt has been charged with trafficking in methamphetamine, possession of methamphetamine for the purpose of trafficking, and possession of proceeds of crime (for brevity, I will sometimes refer to these charges respectively as “trafficking meth”, “PPT meth” and “proceeds”). 
+He has applied to have certain evidence excluded from his trial, alleging that it was obtained in violation of his rights under s. 8 of the Canadian Charter of Rights and Freedoms [Charter].  Specifically, he argues that the search warrant which resulted in the location of the evidence was based on an Information to Obtain [ITO] which was inaccurate and misleading, and that after excision of the offending material, the resulting ITO cannot support the warrant.  That warrant was granted by my brother Judge Bauer of this Court. 
+This application is a challenge to the sub-facial validity of the warrant.  In the event that I find a breach, there will have to be further argument as to whether or not to exclude the resulting evidence.
+ 
+             
+The defendant (I will refer to Mr. Arendt as “the accused” or “the defendant” in this decision; although there is a second accused, Ms. Bear, she did not participate in the present application) did not seek to cross-examine the affiant; the Crown did not seek to amplify the evidence in the ITO. 
+Defence provided, via affidavit, copies of certain documents from the Crown disclosure which were referred to in the ITO.  That and the ITO are the sum total of the evidence in this application.
+ 
+             
+The guiding principles are set out by the Supreme Court of Canada in R v Campbell, 2011 SCC 32 at para 14, 2 SCR 549 [Campbell]:
+ 
+In order to comply with s. 8 of the Charter, prior to conducting a search the police must provide "reasonable and probable grounds, established upon oath, to believe that an offence has been committed and that there is evidence to be found at the place of the search" (Hunter v. Southam Inc., 1984 CanLII 33 (SCC), [1984] 2 S.C.R. 145, at p. 168). The question for a reviewing court is "not whether the reviewing court would itself have issued the warrant, but whether there was sufficient credible and reliable evidence" to permit an issuing justice to authorize the warrant (Morelli, at para. 40). In conducting this analysis, the reviewing court must exclude erroneous information from the ITO and may have reference to material properly received as "amplification" evidence (R. v. Araujo, 2000 SCC 65, [2000] 2 S.C.R. 992, at para. 58; Morelli, at para. 41). The accused bears the burden of demonstrating that the ITO is insufficient (Quebec (Attorney General) v. Laroche, 2002 SCC 72, [2002] 3 S.C.R. 708, at para. 68; Morelli, at para. 131).
+ 
+             
+I will accordingly review all of the material in the ITO challenged by the accused, excising that which is inappropriate, and then (as there is no amplification evidence) determine whether or not what remains constitutes sufficient credible and reliable evidence that the warrant could have issued. 
+As noted, the test is not whether I would issue the warrant based on the results, but whether it would be possible for it to be issued.
+ 
+I.                   
+“open source social media pages”
+ 
+             
+Paragraph IV(2) contains the following: Throughout this document I make reference to conversations, reports, notes, documents, and open source social media pages.  I believe the contents of all these documents to be true because I have corroborated the information and am not aware of any reason why the information might not be true and reliable.
+ 
+             
+The accused points out that there are in fact no references to open source social media pages in the ITO, and that these words accordingly should be excised.  The Crown agrees, as do I.
+ 
+             
+I accordingly excise those words.  The direct impact is trivial, since it simply deletes a reference to something that does not exist in the ITO in any event.  It is nonetheless noteworthy, however, in that it may display a certain casualness or disregard for accuracy which, if repeated sufficiently, could cast doubt on other parts of the ITO.  Equally, it may be a simple and unimportant error - perhaps, for example, an early draft of the ITO contained reference to social media which was later deleted and this remnant simply overlooked.  By itself, then, it means very little; whether or not it forms part of a larger pattern remains to be seen.
+ 
+II.                
+History of charges
+ 
+             
+Paragraph VII(1) sets out what the affiant learned from a search of the Saskatoon Police Service database regarding Mr. Arendt’s history of criminal charges.  It includes, at sub-paragraph (c), the assertion that Mr. Arendt was charged in 2017 with trafficking methamphetamine, and was subsequently convicted of that charge according to the police database.  Mr. Arendt says that his criminal record does not in fact contain any such conviction, and the Crown agrees.
+ 
+             
+This paragraph also contains assertions regarding other court proceedings involving Mr. Arendt, including that: (1) in 2019, he was charged with drug trafficking and possession of a weapon, which charges resulted in a stay and a finding of not guilty (which charge resulted in which result is not specified); (2) also in 2019, he was charged with possession of a weapon contrary to a court order and was found not guilty; and (3) in 2017, he was charged with trafficking in methamphetamine but found not guilty (a different charge than the one which the Crown agrees should be excised).
+ 
+         
+There is authority for the proposition that a suspect’s past behaviour, even if not the subject of criminal charges, can be of significance in an ITO. 
+The Supreme Court of Canada has adopted the view that “bad character” evidence, including past criminal conduct, can be used in an ITO provided that it is related to the ostensible reasons for the search: R v Debot, 1989 CanLII 13 (SCC), 2 SCR 1140 at paras 57 and 58.  I am not aware of authority for the proposition that charges which have been stayed or, even more, charges for which the defendant has been found not guilty, constitute evidence of “bad character” or “past criminal conduct”.  It seems peculiar in the extreme to suggest that a charge of which a person has been found not guilty can constitute evidence of bad character, let alone evidence of past criminal behaviour, without further context.  Such a contention  flies in the face of the Court’s finding of not guilty - in essence, suggesting that notwithstanding the verdict, the mere fact that the subject was accused of the offence is a significant piece of information which should be considered.  
+ 
+         
+Similarly, reference to a charge which has been stayed is problematic. 
+A person who has not been convicted of a charge is entitled to be considered not guilty of that charge, all other things being equal.
+ 
+         
+There can, of course, be a number of reasons why a charge might be stayed having no relationship to the subject’s actual guilt, including a judicial stay as a result of excessive delay or on the basis of R v Kienapple, 1974 CanLII 14 (SCC), 1 SCR 729.  Similarly, a finding of not guilty could arise other than as a result of a judicial determination after hearing all relevant facts and argument: for example, where a crucial Crown witness did not appear at trial but the trial judge required the Crown to call its case rather than adjourn.  Without deciding, I admit the possibility that such instances, and particularly the facts related to the charges behind them, could be relevant in an ITO notwithstanding that the charges were stayed or the subject found not guilty of them.  Absent such a context, however, I do not consider it appropriate to include in an ITO reference to charges for which a person was found not guilty, or which were stayed.  In this regard, see also R v Corbeil, 2013 ONSC 7411 and R v Denechezhe, 2021 YKTC 45.
+ 
+         
+The defendant also objects to inclusion in this record of his charge for possession of a weapon contrary to a court order, on the basis not only that he was found not guilty but also that it is irrelevant to the allegations for which the ITO was sought, namely trafficking and PPT meth and proceeds.  The Crown responds that the courts recognize the “toxic combination” of drugs and weapons, and that therefore the allegations of trafficking meth and PPT meth automatically make weapons charges relevant.  The Crown also suggests that, as a confidential informant is involved, the weapons charges are relevant to the application for a sealing order, showing the heightened risk to the informer.
+ 
+         
+The Supreme Court of Canada has spoken of “the harm and violence that attend the production, trafficking and consumption of drugs” (R v A.M., 2008 SCC 19 at para 146, 1 SCR 569), and the fact that “violence is such a predictable consequence of the illicit drug trade that it cannot be dissociated from it” (R v Parranto, 2021 SCC 46 at para 89, 75 CR (7th) 217).  I therefore accept that a history of violence or weapons can be relevant in a warrant involving allegations of drug trafficking.  
+ 
+         
+With respect to the risk to the informant, the general concept of informer privilege recognizes the risk to informers, and hence the need for identifying information to be kept confidential.  I am unconvinced that pointing out a particular risk is legally required or useful: where an informant is involved and a risk of exposure is noted, a sealing order should be automatic unless there is reason to question its necessity.  If possible, an ITO should be written so as not to include identifying information, so that the risk of exposure is eliminated and a sealing order not required.  If, however, the need for full, frank and fair disclosure requires provision of identifying information, then nothing further should typically be required to justify a sealing order. Parenthetically, I note that I have on occasion reviewed ITOs involving confidential informants in which the affiant has declared that they have removed all identifying information regarding the informant, but then requested a sealing order in order to protect the informant’s identity.  The latter claim will not automatically override the former.
+ 
+         
+I also note that the paragraphs of the ITO which are headed “Grounds for a Sealing Order”, namely paragraphs IX 1 - 4, make no specific reference to any of the particular details in the ITO, but only generally refer to danger to informants.  The suggestion, therefore, that this specific information is relevant to the request for a sealing order is belied by the fact that the affiant did not make any such reference to it in the portion of the ITO specifically referring to the reasons for a sealing order.
+ 
+         
+Leaving aside the issue of threats to informants, I do not consider it appropriate that the ITO includes reference to charges which were stayed or for which the accused was found not guilty.  Although the ITO refers to those outcomes, those charges should not have been included in the first place, and I therefore excise sub-paragraphs VII(1)(a), (b), (d), and (e) as it relates to trafficking methamphetamine.
+ 
+         
+The impact of these misstatements is rather more significant than the previous one.  The allegations against Mr. Arendt in the ITO revolve around him supposedly now trafficking in methamphetamine; three convictions within the past five years for drug trafficking is clearly of significance.  With these excisions, the accused’s record as shown in the ITO is reduced to theft under $5,000.00, possession of break and enter tools and possession of proceeds of crime (2017 charges), and simple possession of a controlled substance (2019 charge).  The picture of the defendant from the criminal record presented clearly changes significantly.  I note, however, that the outcomes I refer to here were specified in the ITO and were therefore before Judge Bauer when he decided to grant the warrant, with the exception of the 2017 alleged conviction for trafficking meth.
+ 
+III.             
+CPIC information
+ 
+         
+Paragraph VII(4) of the ITO contains the following, to which the accused objects: On February 8, 2022 I queried Arendt on CPIC [the Canadian Police Information Centre, a Canada-wide police database].  I learned that Arendt has a firearms prohibition.  Arendt is caution violent.  Arendt has previously been charged with firearms offences.
+ 
+         
+The defendant’s objections to this are three-fold.  First, there is no explanation of what “caution violent” means.  Second, the references to firearms offences is to offences which were either stayed or of which the accused was found not guilty.  Third, there is no suggestion that the accused was under investigation for firearms offences. The sole purpose and effect of this paragraph, the defendant argues, is to show that he “is a bad person who does bad things”.
+ 
+         
+The Crown responds firstly that the information is related to the reason for the proposed search, namely to find evidence of offences under the Controlled Drugs and Substances Act, SC 1996, c 19 [CDSA] “including weapons”. 
+Possession of weapons, of course, is not an offence under the CDSA. 
+Such an interpretation would have to ignore the wording of the ITO, which explicitly states that the affiant has reasonable grounds to believe that there is a controlled substance, offence-related property or evidence of an offence under the CDSA at the location to be searched.  The Crown’s response seems more like an ex post facto rationalization of the inclusion of the impugned paragraph than a response grounded in the evidence.
+ 
+         
+The Crown’s second response is that the CPIC information is relevant to the application for a sealing order, again relating to the danger to the informant.  I have referred to this point above, and I do not consider the Crown’s position any stronger on this paragraph than I did previously.
+ 
+         
+I am forced to conclude that the impugned paragraph serves no valid purpose, and is highly prejudicial.  It should therefore be excised.
+ 
+IV.              
+Overstatements of the evidence
+ 
+         
+Mr. Arendt argues that in a number of places in the ITO where the affiant explicitly purports to be summarizing the observations of other officers, the officer overstates those observations, resulting in an inaccurate picture of events.  The specific objections and the Crown’s responses are as follows:
+ 
+(a)        paragraph VII(8)(b)
+ 
+         
+Paragraph VII(8)(b) states that the Crime Reduction Team [CRT] conducted surveillance and recorded their observations in a daily surveillance report [DSR].  The affiant summarizes a certain part of that report as: 
+At 11:48 a.m. Arendt was outside shoveling snow in front of the residence.  Arendt was wearing a grey bunnyhug and blue jeans with his hood pulled up over his head.  
+ 
+         
+The accused points out that the DSR for 11:48 on that date actually says: A male believed to be Thomas Arendt who was wearing a grey hoody, blue jeans with his hood pulled up over his head exited [address] and was in the front shoveling snow.
+ 
+         
+The Crown responds that as the accused was known to investigators, this is not misleading.  With respect, I have to disagree.  If the investigator who was observing the male in the hoody was not able to make a positive identification, it is not clear to me how the affiant writing nine months later can do so.  If the male in the hoody was subsequently observed to be Mr. Arendt, the affiant could have so stated.  As this was not stated, I am left to conclude that the affiant has in fact overstated the evidence.  It is also concerning that the affiant purports to be accurately stating the contents of the DSR, which turns out not to be the case.  None of this would have been known to Judge Bauer when he reviewed the ITO and ultimately granted the warrant;
+ 
+(b)        paragraph VII(8)(c)
+ 
+         
+The next paragraph, VII(8)(c), summarizes the DSR for that same day at 11:56 a.m. at the same location as follows: a male [UM2] on a bike arrived and spoke with Arendt.  UM2 was First Nations wearing a black jacket and black pants.  UM2 walked to the north side of the house and moments later, Arendt followed him inside the residence through a north entrance.
+ 
+         
+The DSR for that time reads as follows: A first nation’s [sic] male wearing a black jacket, black pants with a bike walked up to Arendt.  Moments later he and Arendt walked towards the north side of the house.
+ 
+         
+The Crown does not specifically address this point.
+ 
+         
+I note that the affiant misstates the DSR observations in two respects. 
+First, he states that the male arrived on a bike; in fact, the male walked up with a bike.  Whether it is significant that he was or was not riding is not immediately apparent; what is apparent, however, is that (1) the affiant considered it significant enough that he included it in the ITO, and (2) the affiant’s report of the DSR’s content is inaccurate.  Second, the affiant states that the male and Arendt went into the residence whereas the DSR only reports that they went toward the side of the house.  Again, given that the affiant included these observations in the ITO, presumably he considered them to be of some importance; the lack of accuracy is therefore troubling.
+ 
+         
+Paragraph VII(8)(c) positively identifies Arendt, and that identification is an accurate reflection of the DSR.  This comes immediately after paragraph VII(8)(b), referred to above, in which Arendt is positively identified in an overstatement of the DSR.  The fact that these two statements occur one immediately after the other would tend to cement in a reader’s mind that it was Arendt who was observed and whose actions were being reported in each: that is, that this is a continuous report of the actions of a single individual.  That conclusion is not supported by the DSR, a fact which would not have been apparent to Judge Bauer.  
+ 
+         
+Similarly, the inaccuracies regarding the male with the bike and whether he and Arendt went into the house or went beside the house and then somewhere else could not have been known to Judge Bauer;
+ 
+(c)        paragraphs VII(8)(d)-(f)
+ 
+         
+Paragraphs VII(8)(d)-(f) again purport to summarize the DSR.  In this instance, (d) and (e) describe another individual (not Mr. Arendt) exiting the same address as in (b) and (c), walking to a nearby vehicle and returning to the address.  Paragraph (f) states “At 12:12 p.m. [four minutes after the individual from the address approached the vehicle] The driver of this SUV appeared to be hunched over.”  The affiant’s commentary to this paragraph is: I believe this short duration meet between the male believed to be [name] and the driver of the SUV to be a drug transaction.  I believe [name] sold drugs to this driver, which the driver hunched forward to manipulate after.
+ 
+         
+The DSR, however, says nothing about the driver appearing to be hunched over.  The only entry on the DSR for 12:12 p.m. notes the individual from the address walking back in the direction of the address.  Paragraph (e) is therefore inaccurate, as it states that the DSR reports the individual returning earlier than the DSR actually states, but more importantly (f) is entirely fictional: although it purports to be information from the DSR, in fact nothing in it is found in the DSR.  This is particularly significant in light of the affiant’s commentary, that (f) seems to show the driver “manipulating” the drugs which the affiant suggests were just sold to them.  If there was no such manipulation, then the conclusion that drugs had just been sold may be much weaker.  The affiant appears to want to suggest that drugs were being sold from the address in these paragraphs, and that the accused was present at that address.  If the conclusion that this was a drug transaction is weakened, then so too is the implication that the affiant wants the reader to draw.  
+ 
+         
+The Crown does not specifically address this point.
+ 
+         
+Again, the erroneous reporting of the contents of the DSR would not have been apparent to Judge Bauer, and he accordingly would not have been able to assess the accuracy of the affiant’s commentary;
+ 
+(d)        paragraph XI(1)(c)
+ 
+         
+In paragraph XI(1)(c), the affiant states that CRT had been conducting surveillance on a residence on February 8, 2022, and “Cst Hansen provided the following observations”:
+ 
+At 9:38 p.m. Arendt walked from his residence to the parking lot of Buddies Pizza and Confectionary located at 2809 Estey Drive.  Once there, Arendt boarded a vehicle that was parked in the lot.  After a minute he exited the vehicle and returned to his residence. [I believe this short duration meet to be consistent with drug trafficking, where Arendt supplied methamphetamine to the occupants to [sic] the Ford Escape.  This also demonstrated that Arendt left his residence with drugs on him.]
+ 
+         
+According to the DSR, there was in fact a Cst. Hansen who was part of the CRT on that date and at that time, and that officer provided observations. 
+None of the observations in the DSR, however, match the observations specified in this paragraph:  neither by Cst. Hansen nor by anyone else. Cst. Hansen is noted to make observations at 9:15 p.m., but then not again until 9:48 p.m. 
+Neither of those observations are related in any way to the events quoted above.  The quoted observations are not recorded as having been made by any other member of the CRT; that is, there is no record of any such observations being made by anyone.
+ 
+         
+The Crown’s response is essentially to state that the quoted observations of Cst. Hansen are not inconsistent with the DSR: that is, they are not contradicted by the DSR.  That is true.  It fails, however, to answer the question of why there would be observations which Cst. Hansen would not include in the DSR but would report directly to the affiant.  This is especially so when among the objectives of the surveillance that day, according to the DSR, was “Identify and establish drug trafficking from locations”.  If one of the objectives was to establish drug trafficking, why would Cst. Hansen not include this presumed drug transaction in their observations on the DSR?
+ 
+         
+I can only conclude that the interaction described in this paragraph did not occur as set out.  Whether it occurred at some other time or in some other place, with some other individual or in some other investigation, I have no way of knowing.  What is clear is that I can place no confidence in the accuracy of this paragraph.  This would not have been known to Judge Bauer.
+ 
+(e)        rectification
+ 
+         
+With respect to the points made in (a) and (b) above, the impugned wording should be excised or rectified in paragraphs VII(8)(b) and (c) to correspond with the DSR.  Paragraph VII(8)(f) should be excised.  The commentary to VII(8)(f) should likewise be excised.  Although I recognize that the commentary could still be offered with respect to VII(8)(d) and (e), there is very little to support the commentary’s conclusion of a drug deal after VII(8)(f) is excised, and it is not clear how much (f) played into the affiant’s conclusion of a drug deal.  In any event, the conclusion is too tainted by the misstatements in (f) to be given any credence.  Paragraph XI(1)(c) and its commentary should also be excised. 
+ 
+IV.              
+Residence of the accused
+ 
+         
+The accused expended considerable energy attacking the conclusion in the ITO that he had changed residences.  With respect, I do not accept this argument.  The points which the accused makes are all based on the material in the ITO itself; that is, material before Judge Bauer.  While the accused may disagree with the conclusions which the affiant draws, those conclusions are not impossible, and all of the frailties which the accused sees would have been equally apparent to Judge Bauer. 
+ 
+V.         Purported drug transactions
+ 
+         
+The accused objects to the affiant’s commentary to paragraphs VII(6)(l) and (m).  In those paragraphs, the affiant summarizes the DSR showing the accused driving another person to an apartment building and waiting 31 minutes for that person to emerge and get back into the accused’s vehicle, following which they drove away.  Without any further factual basis, the affiant expressed the following opinion: Based on my experience as a police officer and drug investigator, I believe this stop to be a drug deal.  I believe that the passenger exited the [accused’s vehicle], and entered the apartment building and met a customer whom he sold drugs to.
+ 
+         
+The accused raises two issues with respect to these paragraphs.  First, he says that they are irrelevant: the fact that another person performed a drug deal in the apartment building is meaningless in terms of the accused, and thus the search warrant, unless there is some basis to conclude that he was involved in the drug deal - something to show his knowledge or participation.  Second, he challenges the affiant’s opinion that a drug deal occurred.  
+ 
+         
+With respect to the first point, the accused’s position is clearly valid but not definitive.  If, for example, the accused knew that he was driving his passenger to a drug deal, then there is some relevance; if he thought he was driving his passenger to have tea with their aunt, then not relevant.  We rarely have perfect information about individuals’ knowledge in situations such as this, and it is not inappropriate in and of itself to present facts and seek to draw inferences from those facts.  How strongly the facts support the inferences is what is important, and is a matter which in this instance could properly be left to Judge Bauer.
+ 
+         
+That leads to the second point:  the validity of the opinion that a drug deal occurred.  There are in turn two issues on this point: (1) the validity of the affiant’s opinion in the absence of any other information; and (2) the significant difference between observations of this interaction and other purported drug transactions.
+ 
+         
+On the first point, there is no evidence that a drug transaction took place.  The only basis for believing that one occurred is the affiant’s “experience as a police officer and drug investigator”.  The affiant, in paragraph IV(1) of the ITO, sets out his work experience and background, including his length of service as a police officer, the various units in which he has worked, and his specialized training.  There is, however, nothing in the ITO which specifies what in this experience led the affiant to the conclusion that a drug transaction took place.  It is certainly not obvious what might lead to that conclusion: an unknown male went into an apartment building in the middle of the day for about half an hour, then emerged.  It is not sufficient for the affiant simply to state that he has specialized knowledge which, when applied to those facts, leads to the conclusion that a drug transaction occurred.  Where the facts on their face give some credence to the conclusion, further information may not be required; where the conclusion is not obvious or where, as here, the facts are essentially non-existent, more details must be given in order to make the conclusion reasonable.  The issuing judge or justice must have some reason to accept the conclusion.  If the affiant’s knowledge and experience allow him to interpret events in ways which are not obvious to the judge or justice, then he must provide enough information for the judge or justice to decide whether or not that interpretation is reasonable. 
+ 
+         
+The affiant’s statement amounts to “trust me, I know this”.  That is not how judicial pre-authorization works.  The police have to provide sufficient facts to a judge or justice that the judge or justice can conclude that there is a reasonable basis to believe certain matters; “trust me, I know this” does not satisfy that test.
+ 
+         
+The second point arises from the other meetings referred to by the affiant as probable drug transactions.  There are six, and I will quote them verbatim from the ITO: a.         paragraphs VII(6)(r) and (s): r.  At 5:11 p.m. Arendt drove the Fusion out of the area. s.  At 5:16 p.m. the Fusion parked behind 2120 Clarence Avenue and waited.  A minute later, a person walked away from the vehicle and the Fusion left. [Based on my experience as a police officer and drug investigator, I believe this short duration stop to be a drug deal.  I believe a person approached the Fusion out of view and Investigators only saw them leaving.]
+ 
+b.         paragraphs VII(6)(t) and (u): t.  At 5:35 p.m. the Fusion arrived at the trailer park located at Avenue R South and 11th Street West.  The Fusion parked in the Trailer Park and Arendt walked into the [location] trailer in the lot. u.  At 5:41 Arendt exited the trailer and got back into the Fusion and left. [Based on my experience as a police officer and drug investigator, I believe this short duration meet to be a drug deal]
+ 
+c.         paragraphs VII(7)(c) and (d): c.  At 11:56 a.m. UM1 entered Buddies Confectionary located at 2809 Estey Drive. d.  At 11:59 a.m. UM1 exited the north alley of Wilson Cres off Cumberland Ave South, and walked toward 2922 Cumberland Avenue South.  Immediately following UM1 from the alley was a grey 4 door sedan with an unknown plate. [I believe that UM1 exited Buddies Confectionary out of view and boarded this grey sedan, and was dropped off in the alley.] [Based on my experience as a police officer and drug investigator, I believe this short duration meet to be a drug deal.]
+ 
+d.         paragraph VII(8)(f): this entry has been referred to above, with the notation regarding the driver hunched over which is not found in the DSR.  After noting a one-minute interaction between a surveillance subject and the occupants of the vehicle, the affiant states the following: [I believe this short duration meet between the male believed to be [name] and the driver of the SUV to be a drug transaction.  I believe [name] sold drugs to this driver . . .
+ 
+e.         paragraph XI(1)(b): At 9:15 p.m. Arendt walked to Estey Drive where he boarded a silver Ford Escape.  This vehicle drove the block [sic] and dropped Arendt off on the side of the road shortly there after.  Both the vehicle and Arendt went their separate ways with Arendt returning home. [I believe this short duration meet to be consistent with drug trafficking, where Arendt supplied methamphetamine to the occupants to [sic] the Ford Escape.  This also demonstrated that Arendt left his residence with drugs on him.]
+ 
+f.          paragraph XI(1)(c) : this entry has likewise been referred to above.  It is the paragraph which is entirely unsupported by the DSR.  The commentary reads as follows: [I believe this short duration meet to be consistent with drug trafficking, where Arendt supplied methamphetamine to the occupants to [sic] the Ford Escape.  This also demonstrated that Arendt left his residence with drugs on him.]
+ 
+         
+In addition to the fact that some of the observations alleged are not supported by the DSR, it is also troubling that this final commentary is word-for-word the same as the commentary to paragraph XI(1)(b), complete with reference to the Ford Escape, a vehicle which does not appear anywhere in the observations in paragraph XI(1)(c).  This apparent cut-and-paste obviously raises a question as to whether this is actually a considered conclusion by the affiant with respect to these observations.
+ 
+         
+The accused argues, based on the above examples, that the affiant was willing to call any meeting either a drug deal or consistent with drug trafficking - up to and including the 30+ minute “meeting” the affiant presumes occurred when Mr. Arendt’s passenger went into an apartment building, as referred to in paragraphs VII(6)(l) and (m), even though that was the only instance of more than a few minutes’ duration.  Furthermore, argues the accused, the affiant is willing to presume that any time the accused is seen in the vicinity of a vehicle without being seen getting in or out of it, he was in fact in that vehicle and he was in that vehicle for the purpose of making a drug transaction.
+ 
+         
+The Crown responds that this is not in fact true: the Crown points to one lone example where the ITO notes a single occasion (paragraph VII(6)(k)) on which the accused was seen to go into a convenience store, and the affiant does not allege that a drug transaction occurred within the store.
+ 
+         
+I agree with the accused that there are a number of significant problems with the impugned paragraphs.  I would offer the following comments:
+ 
+a.         it is interesting that for some of the transactions, the affiant states that based on his experience as a police officer and drug investigator, he believes a drug transaction to have taken place; for other incidents, however, he says only that he believes the meeting to have been consistent with drug trafficking, without offering any reason for that belief.  It is not clear why some conclusions are based on experience and some are not, but the implication is that for some the affiant believes a drug transaction to have taken place, whereas for others he is willing to say no more than it was possible for a drug transaction to have taken place;
+ 
+b.         the statement that a meeting is “consistent with” drug trafficking is generally of very little utility.  A brief meeting between two individuals could have a multitude of explanations: a request for directions; a meeting between two friends; pleasantries exchanged in passing; a drug transaction; finalizing plans for something else; passing on instructions as part of their mutual membership in a worldwide secret conspiracy; returning something borrowed; or any of literally an infinite number of other possibilities.  To single out drug trafficking will be, in many instances, to emphasize the prejudicial over the probative;
+ 
+c.         meetings consistent with drug trafficking can be probative if there is a pattern of evidence tending to show drug trafficking; where, that is, the meetings are part of a constellation of facts none of which are determinative but which, when taken together, tend to show drug trafficking.  Drug trafficking need not be the only reasonable conclusion, provided that it is one of the possible reasonable conclusions that could be drawn.  Care must be taken, however, not to engage in conclusion-based reasoning, where all observations are viewed through the lens of the conclusion investigators have already arrived at, without consideration of alternative explanations;
+ 
+d.         these problems are not sub-facial (other than the two instances where the ITO states as fact matters which are not in the DSR).  Accordingly, Judge Bauer would have been aware of the frailties of the ITO with respect, for example, to issues of “consistent with”.
+ 
+ 
+ 
+VI.       The confidential informant
+ 
+         
+Judge Bauer originally rejected the application for a search warrant. 
+He issued a fiat outlining certain difficulties he saw in the original ITO, specifically with respect to the information provided by the informant.  In response, the affiant filed the ITO before me, which attempted to address those concerns.  Certain of the new information thus provided has been redacted.  In the event that I find in favour of the defendant in this application the Crown will be entitled, if it so chooses, to pursue step six of the process outlined in R v Garofoli, 1990 CanLII 52 (SCC), 2 SCR 1421 at para 79, 60 CCC (3d) 161 [Garofoli] in relation to the redacted material.
+ 
+         
+With respect to the informant, the crucial portion of Judge Bauer’s fiat stated: The information provided concerning the confidential informant is deficient in that:
+            - there is no evidence as to the age of the information - there is no information as to how the confidential informant came to know the information provided, and - there is insufficient confirmation of the information by police investigation
+ 
+         
+The ITO before me contains several paragraphs (including those which the Crown has redacted) under the heading, “XI.  SUPPLEMENTARY INFORMATION TO ADDRESS THE FIAT”.  The non-redacted material under that heading refers to:  two new presumed drug transactions; a note that the informant stated that all information provided by them was accurate as of February 8, 2022 (the date of the warrant); and corroborative information.  The corroborative information is as follows: - the informant was shown a photograph of a suspect (not the accused), who the informant confirmed was a person who dealt drugs on behalf of the accused; - the informant was shown a photograph of the vehicle which police had observed the accused to drive.  The informant confirmed that this was the vehicle which the accused used to sell drugs.
+ 
+         
+There was additional material under the heading, but it amounts to no more than commentary and repetition of points made earlier in the ITO, including the claims about various meetings being drug deals.
+ 
+         
+As noted above, one of the two presumed new drug transactions is not referred to in the DSR for that date, despite supposedly being described by a member of the CRT during the time of the surveillance.  This would not have been known to Judge Bauer.  The commentary (paragraph XI(3)(b)(i)) in this section refers to a suspicious meeting on February 3, which from a review of the DSRs can only be a reference to the half-hour meeting at the apartment block referred to above, the suspicious nature of which seems much more apparent to the affiant than it does to me.  The commentary also alleges that the person who went to that meeting was the person identified by the informant as dealing drugs for the accused; however, the DSR never identifies that person.  This is clearly an overstatement of the evidence in the commentary, which would not have been known to Judge Bauer.
+ 
+         
+The commentary also asserts that CRT observations were consistent with the informant’s information about the accused’s “customer base”.  The unredacted portions of the ITO contain no such information; accordingly, I cannot use it to assess the ITO.  In this regard, the Crown’s brief  (para. 51) refers to certain statements appearing in the revised redacted statements.  I have been unable to locate those statements in the copy of the ITO filed as evidence in this application.   
+ 
+         
+The accused also objects that no criminal record was provided with respect to the informant, merely a summary.  I note firstly that this would have been apparent to Judge Bauer, and secondly that providing a full criminal record might well reveal an informant’s identity to someone who knows of their involvement in the justice system - family members, fellow gang members, acquaintances.  I am not aware of any authority in Saskatchewan requiring provision of the criminal record, and there seem to be excellent reasons why it should not be done.  A summary, provided that it is accurate, should be sufficient absent special circumstances.
+ 
+         
+The accused also objects that, although the informant is stated to be motivated by financial reward, they have apparently not been paid in this case; the implication being that they must have been motivated by something else, and the statement in the ITO is therefore inaccurate.  I note that the fact that someone has not been paid as of a certain date is not any indication that they will not be paid in the future.  I note as well that the accused’s point would have been clear to Judge Bauer in his review. 
+ 
+VII.      Other issues
+ 
+         
+To the extent that there are objections raised by the defendant which I have not addressed to this point, I do not consider those objections to have merit.
+ 
+Analysis
+ 
+         
+There are two types of issues raised by the accused: those which are objectionable but which were apparent on the face of the ITO when it was reviewed by Judge Bauer, and; those which are objectionable and which Judge Bauer could not have known of. 
+ 
+         
+The following are objectionable, would not have been known to Judge Bauer, and should be expunged or amended as noted:
+ 
+(a)        paragraph IV(2), reference to “open source social media pages”; (b)        paragraph VII(1)(d), the accused’s purported record, 2017 - trafficking meth; (c)        paragraph VII(4) - the entire paragraph (comprising results of the CPIC query); (d)       paragraph VII(8)(b) - “Arendt” should be replaced with “a male believed to be Thomas Arent”; (e)        paragraph VII(8)(c) - “on a bike” should be replaced with “with a bike”; “Arendt followed him inside the residence through a north entrance” should be replaced with “they walked toward the north side of the house”; (f)        paragraph VII(8)(f) and commentary - this should be deleted in its entirety.  The affiant states that the driver of the SUV was hunched over, and opines that the driver was “manipulating” the drugs which the affiant believes they had just purchased.  This “observation” has no basis in the evidence, and accordingly neither does the commentary; however, they both reinforce the notion that a drug deal had just been observed; (g)        paragraph IX(1)(c) - this paragraph and accompanying commentary purport to describe a drug transaction observed by the CRT.  The evidence for such a transaction is non-existent; (h)        paragraph XI(3)(b)(i) - this commentary states that a particular suspect was the person who attended the apartment block for a half hour, which is not based on the evidence.  It appears to be being used to bolster the credibility of the informant.
+ 
+ 
+         
+The following are objectionable and should not have appeared in the ITO, but would have been known to Judge Bauer:
+ 
+(a)        paragraphs VII(1)(a) and (b) - these refer to charges which were stayed or of which the accused was found not guilty; (b)        paragraph VII(1)(e) - to the extent that it refers to trafficking meth, as again that charge was stayed; (c)        paragraph VII(6)(l) and (m), and commentary - these paragraphs refer to a person going into an apartment for half an hour, and the commentary alleges that this was a drug deal; (d)       paragraph XI(3)(redacted; presumably c)(i) - reference to “consistent with the information above about [the accused’s] customer base”.
+ 
+         
+The weakness of the affiant’s evidence, in referring to events “believed to be” or “consistent with” drug transactions, and the weakness of assertions based on the affiant’s “experience as a police officer and drug investigator” without further explanation, would also have been evident to Judge Bauer.
+ 
+         
+I am satisfied that, based on what Judge Bauer knew and had before him, it was available to him to grant the warrant.  The question, then, is whether or not the excisions and revisions in (a) - (h) above would have made it impossible for him to grant the warrant.
+ 
+         
+The changes would make a significant difference to the accused’s record, as well as to the chronicle of presumed drug deals.  Additionally, it is clear from Judge Bauer’s fiat that he was not satisfied on the basis of the original ITO, but after the addition of the material in section XI, he granted the warrant.  Section XI, however, has misstatements unknown to Judge Bauer.
+ 
+         
+Some courts have raised the issue of “subversion”.  In R v Araujo, 2000 SCC 65 at para 54, 2 SCR 992 [Araujo], the Supreme Court of Canada quoted the Nova Scotia Court of Appeal in R v Morris, 1998 NSCA 229 at para 43, 134 CCC (3d) 539:
+ 
+This does not mean that errors, particularly deliberate ones, are irrelevant in the review process. While not leading to automatic vitiation of the warrant, there remains the need to protect the prior authorization process. The cases just referred to do not foreclose a reviewing judge, in appropriate circumstances, from concluding on the totality of the circumstances that the conduct of the police in seeking prior authorization was so subversive of that process that the resulting warrant must be set aside to protect the process and the preventive function it serves.
+ 
+         
+This power has been exercised in a number of cases in Ontario.  In R v Paryniuk, 2017 ONCA 87 at para 62, 134 OR (3d) 321, the Ontario Court of Appeal said:
+ 
+     In this province, courts, including this court, appear to have recognized a discretion to set aside a warrant, despite the presence of reasonable and probable grounds for its issuance, where non-disclosure was for some improper motive or to mislead the issuing judicial officer: R. v. Colbourne, 2001 CanLII 4711 (ON CA), O.J. No, 3620, 157 C.C.C. (3d) 273 (C.A.), at para. 40. Where an affiant has been shown to have deliberately provided false material statements, or to have deliberately omitted material facts from an ITO, with the intention of misleading the issuing judicial officer, the warrant may be set aside. But the threshold for setting aside the warrant in these circumstances is high: Lahaie v. Canada (Attorney General) (2010), 101 O.R. (3d) 241, O.J. No. 3100, 2010 ONCA 516, at para. 40, leave to appeal to S.C.C. refused S.C.C.A. No. 371. In at least one brief endorsement, this court has described the conduct necessary to engage [page336] this discretion as "so subversive of the search warrant process as to, in effect, amount to an abuse of process and require that the warrant be quashed": R. v. Vivar, O.J. No. 2126, 2009 ONCA 433, at para. 2. See, also, R. v. Evans, M.J. No. 129, 2014 MBCA 44, 306 Man. R. (2d) 9, at paras. 17, 19.
+ 
+         
+The principles to be followed in such situations were distilled in R v Downes, 2022 ONSC 4308 at para 43 [Downes] as follows:
+ 
+1) The police misconduct must be egregious enough to subvert the judicial authorization process through deliberate nondisclosure, bad faith, deception, fraudulent misrepresentation or similar conduct. 2) The threshold for setting aside the warrant in these circumstances is high. 3) The conduct necessary to engage this discretion has been described as being so subversive of the search warrant process as to in effect amount to an abuse of process, requiring that the warrant be quashed. 4) "Subversion" connotes undermining, corrupting, weakening, destroying or disrupting a system or process. 5) The residual discretion to set aside a warrant on this basis is exercised having regard to the totality of the circumstances.
+ 
+         
+In the absence of cross-examination of the affiant, it may be difficult for an applicant to establish that the test for subversion has been met.  In the present case, the most troubling inaccuracies are:  paragraph VII(8)(f) and commentary; paragraph IX(1)(c); and paragraph XI(3)(b)(i).  The evidence before me does not establish that the Downes criteria have been met.
+ 
+         
+A separate but related issue can arise where there have been misstatements in the ITO.  In Araujo, having referred to the subversion issue, the Supreme Court continued (para 54):
+ 
+     An approach based on looking for sufficient reliable information in the totality of the circumstances appropriately balances the need for judicial finality and the need to protect prior authorization systems. Again, the test is whether there was reliable evidence that might reasonably be believed on the basis of which the authorization could have issued, not whether in the opinion of the reviewing judge, the application should have been granted at all by the authorizing judge. [emphasis added, emphasis in original deleted]
+ 
+         
+I do not take the use of the word “reliable” twice in that quotation to have been happenstance.  The Supreme Court appears to be emphasizing that, having excised the offending material, the reviewing judge’s task is not simply to take at face value what remains and determine whether or not the warrant could have issued; rather, the reviewing judge must critically assess the remaining material and decide whether or not it is reliable.  In my view, that assessment must include consideration of the known frailties and weaknesses of the ITO including, crucially, the fact of excision and revision and the reasons for same.  That is, the reviewing judge not only should but must use their own knowledge of what was excised/revised, and why, in determining the reliability of what remains.  
+ 
+         
+This is so because the reviewing judge has no way of knowing the accuracy of what remains in the ITO after excision of the known misstatements. 
+Just as where, in viva voce evidence, cross- examination which reveals misstatements by a witness can cast doubt on the balance of their testimony, so too can known inaccuracies in the ITO lead to doubts about the veracity of what remains.
+ 
+         
+This emphasis on an assessment of the reliability of what remains was also pointed out by the Supreme Court of Canada in R v Morelli, 2010 SCC 8 at para 40, 1 SCR 253:
+     The question is not whether the reviewing court would itself have issued the warrant, but whether there was sufficient credible and reliable evidence to permit a justice of the peace to find reasonable and probable grounds to believe that an offence had been committed and that evidence of that offence would be found at the specified time and place. [emphasis added]
+ 
+         
+This statement was confirmed by the Supreme Court in the quote above from Campbell, para 14.
+ 
+         
+The statement quoted above from Araujo, para 54, contains the following (emphasis changed): “the test is whether there was reliable evidence that might reasonably be believed on the basis of which the authorization could have issued”.  There is therefore a three-part test which must be followed.  The reviewing judge must: (1) determine the reliability of the evidence remaining after excision and amplification; (2) decide what of that evidence might reasonably be believed, having considered inter alia the issue of reliability; and (3) determine whether the evidence which might reasonably be believed is sufficient that the warrant could have been issued.
+ 
+         
+In the matter before me, therefore, I have excised and revised the noted material, and have considered the effect of the incorrect statements on the reliability of the balance and what might therefore be reasonably believed. 
+Although some of the ITO is confirmed by the DSR filed as part of the evidence in this application, there is still much in the ITO for which an issuing judge would have to take the affiant’s word.  The reliability of that information, however, has been called into question by the incorrect information in the ITO.  It would not be reasonable for an issuing judge or justice to simply accept the affiant’s information on other crucial portions of the ITO in light of those reliability issues.  In my view, there would remain insufficient reliable evidence on which the warrant could have been issued.
+ 
+Conclusion
+ 
+         
+The application is therefore granted.  It remains for the Crown to decide whether it believes the warrant can be saved by step six of the Garofoli procedure.  If not, then counsel will have to address whether or not the evidence found in the search resulting from the warrant should be excluded from the trial under s. 24(2) of the Charter, pursuant to an analysis in accordance with R 

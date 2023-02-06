@@ -1,0 +1,379 @@
+./canlii_crim_corpus/html/2023/mb/kb/2023mbkb7.html
+       
+On March 9/10, 2020, at approximately midnight, Travis Johnson was stabbed and killed by the accused, Dylan James Mousseau.  Mr. Johnson died as a result of a single stab wound in his upper left chest area that pierced vital arteries and veins resulting in a catastrophic blood loss and his death.  Mr. Mousseau admits that he stabbed Mr. Johnson.
+       
+Mr. Mousseau stands charged with second degree murder for causing Mr. Johnson’s death.  One of the primary contested issues in this case is whether, when Mr. Mousseau stabbed Mr. Johnson, he was acting in lawful self-defence or defence of others under s. 34 of the Criminal Code, R.S.C., 1985, c. C-46 (the “Code”).
+       
+Section 34 states: Defence – use or threat of force
+ 
+34 (1) A person is not guilty of an offence if (a) they believe on reasonable grounds that force is being used against them or another person or that a threat of force is being made against them or another person; (b) the act that constitutes the offence is committed for the purpose of defending or protecting themselves or the other person from that use or threat of force; and (c) the act committed is reasonable in the circumstances.
+ 
+Factors
+ 
+(2) In determining whether the act committed is reasonable in the circumstances, the court shall consider the relevant circumstances of the person, the other parties and the act, including, but not limited to, the following factors:
+ 
+(a) the nature of the force or threat;
+ 
+(b) the extent to which the use of force was imminent and whether there were other means available to respond to the potential use of force;
+ 
+(c) the person’s role in the incident;
+ 
+(d) whether any party to the incident used or threatened to use a weapon;
+ 
+(e) the size, age, gender and physical capabilities of the parties to the incident;
+ 
+(f) the nature, duration and history of any relationship between the parties to the incident, including any prior use or threat of force and the nature of that force or threat;
+ 
+(f.1) any history of interaction or communication between the parties to the incident;
+ 
+(g) the nature and proportionality of the person’s response to the use or threat of force; and
+ 
+(h) whether the act committed was in response to a use or threat of force that the person knew was lawful.
+ 
+ 
+       
+The onus of proof is on the Crown to prove beyond a reasonable doubt that Mr. Mousseau was not acting lawfully under s. 34(1) when he killed Mr. Johnson.  The Crown must prove beyond a reasonable doubt that at least one of the three essential requirements for self-defence in s. 34(1)(a)(b) or (c) is not met.  If the Crown is unable to satisfy this burden, I must find Mr. Mousseau not guilty of second degree murder.
+       
+If the Crown meets its burden of proving that Mr. Mousseau was not acting in lawful self-defence under s. 34(1) when he stabbed and killed Mr. Johnson, it follows that Mr. Johnson’s death was a culpable homicide.  I must then consider whether the evidence proves that Mr. Mousseau is guilty of committing second degree murder, which is the offence charged against him.  If I am not satisfied beyond a reasonable doubt that all the essential elements of second degree murder have been established on the evidence, I must find Mr. Mousseau not guilty of second degree murder, but guilty of the included offence of manslaughter, since s. 234 of the Code provides that “culpable homicide that is not murder or infanticide is manslaughter.”
+       
+Culpable homicide is murder pursuant to s. 229 of the Code where the person who causes the death of a human being either “means to cause his death, or means to cause him bodily harm that he knows is likely to cause his death, and is reckless whether death ensues or not”.
+       
+If I were to find beyond a reasonable doubt that Mr. Mousseau did have the necessary intent for murder, I must then consider the partial defence of provocation pursuant to s. 232 of the Code.  Section 232 sets out conditions under which culpable homicide that otherwise would be murder may be reduced to manslaughter.  The onus is on the Crown to prove beyond a reasonable doubt that this partial defence does not apply in this case.
+       
+In summary, to find Mr. Mousseau guilty of second degree murder, the Crown must prove four essential things beyond a reasonable doubt:
+            
+i.          That Mr. Mousseau caused Mr. Johnson’s death;
+           
+ii.               
+That Mr. Johnson’s death was a culpable homicide.  In this case, that means the Crown must prove beyond a reasonable doubt that Mr. Mousseau was not acting in lawful self-defence under s. 34 of the Code when he killed Mr. Johnson;
+          
+iii.               
+If the Crown disproves self-defence, the Crown must prove that when Mr. Mousseau killed Mr. Johnson he did so with either one of the two alternative states of mind set out in s. 229 of the Code.  If I am not satisfied that the Crown has proven beyond a reasonable doubt the necessary intent for murder, I must find Mr. Mousseau not guilty of second degree murder, but guilty of the included offence of manslaughter;
+          
+iv.               
+Even if the Crown proves that Mr. Mousseau did not kill Mr. Johnson in lawful self-defence, and that he did so with a subjective mental state necessary to make the killing second degree murder, the Crown must prove beyond a reasonable doubt that Mr. Mousseau’s culpability is not reduced to manslaughter by the partial defence of provocation in s. 232 of the Code. (See R. v. Khill, 2021 SCC 37, 462 D.L.R. (4th) 389 (QL), and R. v. P.S., 2022 ONSC 3894, [2022] O.J. No. 3408) Evidence
+       
+The audio recording of the 911 calls was filed by consent and includes two different calls made shortly after midnight on March 10, 2020.  One call was made by Chantal Ouellette, who provides information to the 911 operator and to the police.  Ms. Clarisse Kennedy is heard on the 911 call screaming loudly in the background and Ms. Ouellette is passing on information about the person who was stabbed, Mr. Johnson and Mr. Mousseau, the person who stabbed Mr. Johnson.  Ms. Ouellette repeats the information provided by Ms. Kennedy that the weapon used was a machete and that the stabber, Mr. Mousseau had left the scene of the incident. First Police Officers on Scene
+    
+The Crown called several police officers who attended at the scene at 588 Elgin Avenue in the City of Winnipeg (the “property”).
+    
+When the first officers arrived at the property, there were two males in the back yard.  One of the males fled on a bicycle around the right side of the property.  Constable Simoens gave chase, but was unable to catch that individual.
+    
+Constables McDonald and Simoens entered the property through the back door leading inside the kitchen and observed Mr. Johnson lying on the floor bleeding profusely, with Ms. Kennedy cradling his head in her arms.  The officers described Mr. Johnson’s feet as pointing towards the back door and his head towards the living room inside the kitchen area.  Ms. Kennedy was hysterical and other officers arrived to assist by taking her to the living room.  One of the officers administered CPR until the Winnipeg Fire Paramedic Services paramedics arrived at the scene.  Neither of the officers recall seeing bicycles belonging to Ms. Kennedy and Mr. Johnson inside the kitchen.  Bikes were seen outside of the back door of the property when they arrived.
+    
+Both officers accompanied Mr. Johnson to the Health Sciences Centre where he was pronounced dead. Forensic Identification Section Officers
+    
+Two forensic identification section officers, Constables McLauchlan and Cifuentes attended the property to gather evidence and take photographs.  They attended initially and then re-attended later in the day with a search warrant to conduct a more thorough examination.
+    
+Constable Cifuentes acted as the scene photographer and Cst. McLauchlan acted as the exhibit officer.
+    
+As a result of their examination at the scene and at the autopsy, a number of items were seized and hundreds of photographs were taken.  The Crown filed, by consent, a book of scene photographs (Exhibit 1), and a book of autopsy photographs (Exhibit 2).  Items of clothes that were cut off Mr. Johnson by the paramedics in the kitchen as well as his backpack were seized and marked as Exhibits 3 to 7.  No weapon was found at the scene.
+    
+Constable McLauchlan examined the clothing worn by Mr. Johnson and when it was configured in the same fashion as it had been worn by Mr. Johnson, there was a roughly five centimetre contiguous hole in each of the items that was consistent with the stab wound injury to Mr. Johnson. Dr. Jason Morin, Forensic Pathologist
+    
+Dr. Morin conducted an autopsy on March 11, 2020.  His report (Exhibit 9) together with corresponding autopsy photos (Exhibit 2), detailed his findings.  His qualifications as a forensic pathologist were not challenged and I was satisfied that he was qualified to give expert opinion evidence on the cause of death.  Mr. Johnson was noted as five feet nine inches tall and weighed roughly 145 pounds.  There was a single stab wound to his left chest that travelled through the pectoral wall, cutting the left subclavian artery, left subclavian vein, left lung and left second rib.  The cause of death was rapid blood loss as a result of the stab wound.
+    
+Dr. Morin described the wound as going on a slightly downward trajectory at a five to eleven o’clock angle.  Eleven o’clock being the entry point down towards five o’clock.  He described the size and nature of the wound as consistent with a machete, larger knife or even a hunting knife.  The force required was “not insignificant” as it pierced the pectoral wall and cut into the ribs which was a distance of about 12 centimeters.  The knife also cut the clothing and backpack worn by Mr. Johnson.
+    
+Dr. Morin was shown photos of a number of small contusions on Mr. Johnson’s face and left forearm.  He could not give a definitive opinion about whether those injuries occurred at the same time as the incident.  He was also unable to say whether the contusions were “offensive or defensive” wounds.
+    
+Dr. Morin confirmed that the toxicology report showed Mr. Johnson had a “low to moderate” amount of crystal methamphetamine in his system as well as “low to moderate” amount of THC (one of the active ingredients of cannabis) in his system.  During cross-examination, Dr. Morin admitted that the presence of the drugs may have affected Mr. Johnson’s behaviour, but that would depend on the timing of his use and his tolerance for drugs in general. Civilian Witnesses
+          Chantal Ouellette
+    
+The Crown called Ms. Ouellette, who was a resident at the property, her room being closest to the bannister located in the kitchen.  She knew Mr. Mousseau as the son of another tenant, Cynthia Mousseau who rented a room farthest from the kitchen, near the front door of the property.  She confirmed, as did other witnesses, that the front door of the property was not used and the back door was the only way in or out.  The back door in shown in the photographs leading outdoors from the kitchen.
+    
+Ms. Ouellette testified regarding her recollection of the incident.  She was at home doing laundry in the basement.  She saw Mr. Mousseau come in with another woman that she did not recognize.  Ms. Ouellette described Mr. Mousseau as a five out of ten in terms of his sobriety and that he was “getting rowdy”.
+    
+Ms. Ouellette did not witness the altercation between Mr. Mousseau, Mr. Johnson, and Ms. Kennedy.  She stated that she knew Ms. Kennedy but did not know her boyfriend, Mr. Johnson.
+    
+Ms. Oullette remained in the basement and her testimony was based primarily on what she recalled hearing from the basement.  She partially saw that Mr. Mousseau was in the kitchen and recalled that there was an argument between Mr. Mousseau and Ms. Kennedy about five dollars.  Ms. Ouellette recalled Ms. Kennedy stating words to the effect of “why do you wanna do me like that over five dollars”.  She also heard Mr. Mousseau say words to the effect of “give me your stuff” and something about chasing them (Ms. Kennedy and Mr. Johnson).  She agreed during cross-examination that it sounded like Mr. Mousseau thought he was owed money and that she was not certain about exactly what else was said.
+    
+Ms. Ouellette testified that she did not hear words or actions directed at Mr. Johnson.  Nor did she see Mr. Johnson with a weapon or implement such as a pole or mop in his hands at any time.  She admitted that she was peeking up the stairs at various times and that the accused was in the main part of the kitchen and Ms. Kennedy and Mr. Johnson were closer to the back door.
+    
+Ms. Ouellette also testified about sounds she heard and described them as a “bit of a scuffle”.  She stated that her bike was perched on the bannister which fell down the stairs.  She also heard Ms. Kennedy state “stop it--don’t”.  During cross-examination she acknowledged that she did not know to whom Ms. Kennedy was speaking when she said “stop it--don’t”.
+    
+After the scuffle, Ms. Ouellette saw the accused run out the back door.  When she came up the stairs from the basement she saw Mr. Johnson lying on the floor bleeding with Ms. Kennedy screaming and cradling his head.  She called 911 and confirmed that the 911 recording was her voice.
+    
+As to the presence of a mop and brooms on the floor in the kitchen, she surmised that the mop/brooms had fallen over during the scuffle.  A black bucket was knocked over and she was not sure if this was a trash can or a bucket used for the mop.  She did not see the scuffle or see Mr. Johnson use a mop or a pole and did not witness Mr. Johnson being stabbed.
+          Shelley Govereau
+    
+Ms. Govereau was, at the material time, a resident at the property.  Her room had a door leading directly into the kitchen, right across from the bannister.  She acknowledged that she knew the accused and that he often stayed with his mother who was also a tenant at the property, Ms. Cynthia Mousseau.
+    
+She acknowledged that she was “pretty messed up” on drugs and alcohol at the time of the incident.  After the stabbing, she left the property and called 911, but did not return.
+    
+She recalled that Ms. Kennedy and her boyfriend showed up at the property and that she had a discussion with them.  She also recalled that the accused came into the kitchen where she, Ms. Kennedy and Mr. Johnson were.  She described the accused as being closest to the kitchen sink area with Ms. Kennedy and Mr. Johnson closer to the bannister at the end near the stairs leading to the basement.
+    
+She testified she heard the accused say “something about five dollars” and “something about a bike”.  Her description of what was said was vague and she admitted she was very unclear as to exactly what was said.  During cross-examination she agreed with the suggestion that Mr. Mousseau asked Ms. Kennedy for money she owed him.
+    
+As the argument progressed between Ms. Kennedy and Mr. Mousseau, she went back into her bedroom as it sounded “stupid” to her.  She did not see or hear the scuffle or altercation or witness the stabbing.
+    
+As to the location of the mop, she indicated that it was normally on the back wall near the door or bathroom area.  She admitted that she used drugs but denied she sold drugs or that Ms. Kennedy was there to purchase drugs from her on March 9/10, 2020.
+          Clarisse Kennedy
+    
+The primary witness relied upon as part of the Crown’s case is Ms. Kennedy.  She admitted to a lengthy criminal record that includes crimes of dishonesty and some violence.  She has previously been convicted of fraud, perjury, obstruction of justice and assaulting a peace officer.  She explained that her convictions occurred at a time when she was dealing with significant substance abuse issues.
+    
+Ms. Kennedy is forty years of age and currently resides in second-stage housing to help her address her prior substance abuse issues.  She testified that she has been sober for 15 months.
+    
+She testified regarding her relationship with Mr. Johnson and described him as her “soulmate”.  She stated that both she and Mr. Johnson were attempting to stay sober at the time of the incident, but that there had been some missteps.  She described the incident and altercation with Mr. Mousseau in detail.  She was asked about the presence of methamphetamine and THC found in the toxicology report following Mr. Johnson’s death and stated that she did know when he last used and that she was not with him during the entire day/evening on March 9-10, 2020.
+    
+Ms. Kennedy knew Ms. Govereau and had visited the property on a number of occasions in the past to either visit or buy drugs from Ms. Govereau.  She admitted that in the past she had purchased methamphetamine from Ms. Govereau.  However, on the night of the incident she and Mr. Johnson went there to purchase marijuana.
+    
+They arrived shortly before midnight and they brought their bikes into the back door area of the kitchen so that they would not be stolen from the rear of the property.  They saw Ms. Ouellette and Ms. Govereau and she introduced Mr. Johnson to them in the kitchen area.  A short time after their arrival, Mr. Mousseau came into the kitchen and she described him as drunk and belligerent.  Mr. Mousseau was aggressively asking her and Mr. Johnson for their “stuff” and when she refused, Mr. Mousseau began to threaten them.  She stated that Mr. Mousseau said words to the effect of “if they tried to leave that he would chase them down the back lane and stab the shit out of them”.
+    
+Ms. Kennedy threw a five-dollar bill towards Mr. Mousseau in an effort to appease him and then told Mr. Johnson that they should leave.  A five-dollar bill was found on the floor in the kitchen after the incident.
+    
+Ms. Kennedy testified Mr. Mousseau went back through the kitchen door toward his Mom’s bedroom and then returned to the kitchen.  Mr. Johnson had already moved one of the bikes out the back door and was in the process of moving the second bike out the doorway when Mr. Mousseau lunged forward, past her left side and without any warning or any provocation, stabbed Mr. Johnson. 
+She stated that she did not see the knife until Mr. Mousseau pulled it away from Mr. Johnson and immediately thereafter, Mr. Johnson slumped to the ground.  At that point, she stated that Mr. Mousseau attempted to grab Mr. Johnson’s backpack and Ms. Kennedy told him to “fuck off, you stabbed him”. 
+The accused then left out the back door.  She recalled screaming and getting people to call 911 to help Mr. Johnson.
+    
+During cross-examination, she denied ever borrowing any money from Mr. Mousseau and stated that he had nothing to lend.  She denied that Mr. Johnson was the aggressor at any time or that he used a mop or pole to strike Mr. Mousseau.  She denied all suggestions made by defence counsel as to the version of events based on Mr. Mousseau’s anticipated testimony.
+          Dylan Mousseau
+    
+Mr. Mousseau is 24 years of age and has seven siblings.  In March 2020, he was unemployed and staying with his mom, Cynthia Mousseau at the property.  He admitted that he had a criminal record dating back to 2016-2019 as a result of hanging around with the “wrong crowd” and getting into trouble. 
+He had a daughter in 2018 and was shot in 2019 when he was on a bike near the Maryland Hotel vendor.  The injury was serious and he had multiple surgeries. 
+He testified that these two incidents caused him to start getting his life together.  He said he stayed off the streets and stayed out of trouble after the shooting.
+    
+Mr. Mousseau’s version of what took place in the kitchen at the property around midnight on March 9/10, 2020, is totally different than the version of events described by Ms. Kennedy.
+    
+Mr. Mousseau testified that he had been drinking with his cousin and uncle earlier in the evening, sharing a bottle of Captain Morgan’s Spiced Rum, in which he stated that he drank approximately one-third of the bottle. 
+He estimated that he was a five out of ten in terms of sobriety.  He had a female friend come by and they were in his room listening to music.
+    
+Mr. Mousseau came out of his room to get some water and as he entered the kitchen, he saw Ms. Kennedy and Mr. Johnson.  He testified that he had previously lent $30 to Ms. Kennedy and asked her for the money.
+    
+Mr. Mousseau explained that he only knew Ms. Kennedy as an acquaintance and that he knew she was a drug user and someone who visited Ms. Govereau from time-to-time.  Notwithstanding that, he lent her $30 because Ms. Kennedy told him that she knew his Dad and that she had helped him when he “OD’d”.  The accused stated that he lent the money because he thought she was good for it, and she agreed to pay him back in a few days when she “got her cheque”.
+    
+When Mr. Mousseau asked her to pay him back, she said that she had no money and his response was “but you have money to buy drugs”, or words to that effect.  Mr. Mousseau also stated that maybe she should sell her bike to pay him back, or words to that effect.  Mr. Mousseau stated that she did not reply, but said to Mr. Johnson, “let’s go”.
+    
+Mr. Mousseau denied stating that he would chase them down the back lane and stab them or words to that effect and testified that Ms. Kennedy stated “what are you going to do, chase us down the street and jack us?”  Mr. Mousseau remembered something about five dollars and agreed it was possible that Ms. Kennedy threw five dollars at him.
+    
+Mr. Mousseau testified that Mr. Johnson took the first bike outside and then came back for the second bike.  He removed the second bike and both Ms. Kennedy and Mr. Johnson were outside the house.  Mr. Mousseau went to the door as it had been left ajar and as he went to shut it, he stated that Mr. Johnson attacked him without warning, coming back through the door striking him in the forehead once with what he described as a pole or a stick.  He testified this sent him backwards toward the kitchen sink and claimed that he felt dizzy.  He said the altercation happened very fast and as he looked up, he saw Mr. Johnson coming at him again with a “pole or a stick”.  At that point, the accused indicated that he “panicked” and “feared for his life”, pulled out a hunting knife from a sheath on his waistband and made a thrusting motion forward with the knife and struck Mr. Johnson in the chest area.
+    
+As to why he carried a hunting knife, Mr. Mousseau explained that Ms. Govereau was selling drugs at the house and there were unsavory characters at the property.  He carried the knife for protection.  He also referenced the previous incident in 2019 in which he had been shot at the Maryland Hotel.  He started carrying a knife after that incident.
+    
+After the stabbing, he went back to his Mom’s room, grabbed his shoes, jacket and backpack and then ran back through the kitchen and out the back door.  He stated that he was scared, panicked and had never been in this type of a situation before.  He went to his cousin Fox’s place and stayed there.
+    
+Mr. Mousseau did not call 911 or go to the police and turn himself in.  Mr. Mousseau remained at large and was ultimately arrested at his grandmother’s residence on May 12, 2020.  He had opportunities to tell the police his version of what occurred but exercised his right to remain silent.
+    
+At the time of the incident, Mr. Mousseau was six feet three inches tall and weighed about 145 pounds.  He believed that the “pole or stick” that he had mentioned previously was in fact a mop handle and identified the mop as seen in photos 5, 6, 8 and 10 of Exhibit 1, on the kitchen floor.  He acknowledged that he pieced this together once he saw the photographs.  When asked about the location of the mop at the property, he indicated that he had seen it in the kitchen, the bathroom, the basement and outside on the back deck.
+    
+Mr. Mousseau confirmed that he had no argument or physical altercation with Mr. Johnson and had no reason for any animosity towards him.  The discussion about paying him back was solely with Ms. Kennedy.  He offered no explanation as to why Mr. Johnson attacked him and expressed remorse for having caused his death.
+    
+During cross-examination, he admitted that he had a previous conviction for possession of methamphetamine and contrary to his direct evidence, he had issues with drugs in the past.
+    
+Mr. Mousseau completely denied that the incident unfolded as described by Ms. Kennedy.  He stated she was not being truthful.  He admitted that he had no money and no employment at the time and lived off whatever money was provided by his stepfather and mother.  He confirmed that he had no money on the night of the incident.  Nevertheless, he denied the suggestion that he attempted to rob Ms. Kennedy and Mr. Johnson.
+    
+As to his knife, Mr. Mousseau testified that it was stolen from his grandmother’s home and he stated that lots of family members were in and out of the home.  He did not know who took the knife.  It was never located by the police.  He did acknowledge that the drawing of the knife completed in court by Ms. Kennedy was similar to the knife he had and used to stab Mr. Johnson.
+    
+The accused was cross-examined about other steps that he may have taken instead of stabbing Mr. Johnson.  It was suggested that he could have retreated to his Mom’s room, could have yelled out for help, wrestled the pole or mop away from Mr. Johnson or warned him.  Mr. Mousseau’s response was “I don’t know”, “I was scared”, “I panicked”, and that he had “never been in that situation before”, or similar words to each suggested alternative.
+    
+Mr. Mousseau denied that he did anything to provoke Mr. Johnson and had no rational explanation to offer for the attack. Rebuttal Evidence
+    
+After hearing submissions, I allowed the Crown to recall Ms. Kennedy to address an assertion made by Mr. Mousseau that was not put to her during her testimony.  Specifically, she was asked whether she knew Mr. Mousseau’s father or step-father and had ever helped him when he overdosed.  She denied knowing Mr. Mousseau’s step-father or father and denied having knowledge of or ever helping either of them with an overdose. Position of the Parties
+    
+The Crown and the defence agree that Mr. Mousseau caused Mr. Johnson’s death.  However, they disagree regarding whether Mr. Johnson’s death was a culpable homicide.  The Crown submits that it has proved beyond a reasonable doubt that Mr. Mousseau was not acting in lawful self-defence under s. 34 of the Code when he killed Mr. Johnson.  The Crown submits that the court should disbelieve the version of events given by the accused, as his version has no air of reality.  The Crown submits that the accused’s version of events is diametrically opposed to the version given by Ms. Kennedy and both versions cannot be true.  The Crown urges the court to accept the testimony of Ms. Kennedy and therefore accept the Crown has met the onus of proving beyond a reasonable doubt that the accused should be convicted of second degree murder or manslaughter.  Further, the Crown submits that it has proven beyond a reasonable doubt that at least one of the three essential requirements for self-defence in s. 34(1)(a)(b) or (c) is not met.
+    
+The strongest argument advanced by the Crown relates to the reasonableness of Mr. Mousseau’s response.  Considering the factors set out in s. 34(2) of the Code, the Crown submits that Mr. Mousseau did not act reasonably in the circumstances.
+    
+The Crown also submits that Mr. Mousseau had the intent for murder and the Crown has established that beyond a reasonable doubt.  The Crown submits that this was an attempted robbery and when they refused his demand, Mr. Mousseau retrieved his hunting knife and attacked Mr. Johnson with a fatal stab wound in his chest near his neck and heart.
+    
+In the alternative, the Crown submits that if the court accepts all or even some of Mr. Mousseau’s evidence and is of the view that the essential elements of self-defence must be considered to decide the case, the Crown acknowledges that imputing the intent for murder on Mr. Mousseau is difficult.
+    
+As to provocation, the Crown submits that there is no air of reality to this defence and submits that the partial defence does not apply on the facts and circumstances of this case.
+    
+The defence submits that Mr. Mousseau’s evidence is believable or at the very least, raises a reasonable doubt as to the Crown’s theory of the case.  The evidence of the witnesses including Ms. Ouellette and Ms. Govereau provide corroborative support that is more consistent with Mr. Mousseau’s version of events than the evidence of Ms. Kennedy.  The defence submits that the independent evidence including the location of the mop, the location of the two bikes and the toxicology findings are entirely consistent with Mr. Mousseau’s version of events.
+    
+Further, the defence submits that the Crown’s case is based almost entirely on the evidence of Ms. Kennedy.  Ms. Kennedy is a witness of an unsavory character with a long history of convictions for crimes including crimes of dishonesty.  The court should be very careful in accepting her evidence, unless there is other independent evidence corroborating her version of the evidence.  (See R. v. Vetrovec, 1982 CanLII 20 (SCC), 1 S.C.R. 811, S.C.J. No. 40)
+    
+The defence also submits that if Mr. Mousseau’s evidence is accepted, or raises a reasonable doubt, then the factual basis for the first two elements of self-defence have been established.  As well, the defence submits that Mr. Mousseau had reasonable grounds to believe that force was being used against him and that he did act for a defensive purpose in stabbing Mr. Johnson.
+    
+As to the third element, the defence submits that Mr. Mousseau’s use of force was reasonable in the circumstances, as a result of an analysis of the factors set out in s. 34(2) of the Code.  The defence submits that the Crown has not met the burden of disproving that Mr. Mousseau’s use of force was reasonable in the circumstances.
+    
+The defence also submits that Mr. Mousseau did not have the requisite intent to commit murder pursuant to s. 229(a)(i) or (ii) of the Code.
+    
+Finally, the defence submits that the defence of provocation is largely subsumed in the analysis of intent.  However, provocation may in fact ground an independent partial defence reducing murder to manslaughter, even in circumstances where the mental element for murder is otherwise proven.  The Crown has failed to disprove beyond a reasonable doubt that Mr. Mousseau’s culpability is not reduced to manslaughter on the partial defence of provocation.
+ 
+Analysis and Decision
+    
+As stated earlier, the Crown must prove four essential things beyond a reasonable doubt.  The Crown must first establish that Mr. Mousseau caused Mr. Johnson’s death.  I have no hesitation in finding that the Crown has proven beyond a reasonable doubt that Mr. Mousseau caused Mr. Johnson’s death.  Mr. Mousseau testified regarding the fatal stab wound that he inflicted on Mr. Johnson.  The report and testimony of the pathologist establishes that Mr. Johnson died as a result of the single stab wound which severed vital arteries and veins near Mr. Johnson’s neck.
+    
+Second, the Crown must prove beyond a reasonable doubt that Mr. Johnson’s death was a culpable homicide.  That means the Crown must prove beyond a reasonable doubt that Mr. Mousseau was not acting in lawful self-defence under s. 34 of the Code when he killed Mr. Johnson.
+    
+Since Mr. Mousseau testified the governing framework of analysis in R. v. W. (D.), 1991 CanLII 93 (SCC), 1 S.C.R. 742, at pp. 757-58 applies.  It is important to note that the framework of analysis applies with some modification when dealing with self-defence.
+    
+The first branch of the standard W. (D.) instruction, in which triers of fact are directed that “if you believe the evidence of the accused, obviously you must acquit”, must be modified where self-defence is at issue because the essential elements of this defence are partly objective.  Even if I believe Mr. Mousseau’s account of what occurred or it raises a reasonable doubt about what transpired, I may still reject that he acted in self-defence on the ground that Mr. Mousseau’s use of force was not reasonable in all the circumstances.  (See P.S., at para. 139)
+    
+As pointed out in R. v. Theriault, 2020 ONSC 3317, O.J. No. 2825, at para. 29, aff’d 2021 ONCA 517: 29      Lastly, where the defence advanced contains an objective component, as is the case with self-defence or use of reasonable force in the commission of a lawful arrest, the W. (D.) analysis must be modified accordingly. The defendant's evidence will, in such instances, only result in an acquittal where that evidence establishes or leaves the trier of fact with a reasonable doubt about the objective component of the defence; see R. v. Ryon, 2019 ABCA 36 at para. 31 and R. v. Reid, (2003) 2003 CanLII 14779 (ON CA), 65 O.R. (3d) 723 (Ont.C.A.) at para. 72.
+ 
+ 
+    
+The Crown submits that there is no air of reality to Mr. Mousseau’s version of what transpired at the property and the court should reject his version of events entirely.  Further, the Crown submits that the court should accept the evidence of Ms. Kennedy as to what transpired and therefore Mr. Mousseau should be convicted of murder or if not murder, manslaughter.
+    
+While there is no dispute that Mr. Mousseau stabbed Mr. Johnson, there is a serious dispute as to how the altercation started and unfolded.
+    
+Mr. Mousseau testified that he lent Ms. Kennedy $30 and that she had failed to repay the debt.  When he saw Ms. Kennedy and Mr. Johnson in the kitchen, he asked for repayment and the altercation escalated from there.
+    
+Ms. Kennedy denied that she borrowed any money from Mr. Mousseau.
+ She said he had no money and that the explanation provided by Mr. Mousseau that she had previously assisted her father or stepfather was a lie.  She testified that she did not know Mr. Mousseau’s father or stepfather and had never assisted one of them when one of them had overdosed.
+    
+Ms. Kennedy testified that Mr. Mousseau was intoxicated and belligerent from the moment he came into the kitchen and that he attempted to rob her and Mr. Johnson.
+    
+Ms. Kennedy’s evidence was that there was no discussion between Mr. Mousseau and Mr. Johnson and that Mr. Johnson did nothing to provoke Mr. Mousseau at all.  Specifically, she denied that Mr. Johnson struck Mr. Mousseau with a pole, stick or a mop handle or that there was any threat of force made against Mr. Mousseau whatsoever.  She stated that they were attempting to leave when Mr. Mousseau unexpectedly stabbed Mr. Johnson.
+    
+Given Ms. Kennedy’s criminal history, which includes crimes of dishonesty including perjury, I have serious concerns about accepting her version of what transpired without confirmatory evidence.
+    
+The evidence from the other witnesses, including Ms. Govereau and Ms. Ouellette to a certain extent corroborates Mr. Mousseau’s evidence about lending money to Ms. Kennedy and seeking repayment.  Ms. Govereau testified that Mr. Mousseau walked into the kitchen and asked Ms. Kennedy if she had the money that she owed him.  Ms. Kennedy responded that she did not and when the discussion escalated, Ms. Govereau testified that she did not want to become part of the argument, called it “stupid” and returned to her room.
+    
+Ms. Ouellette testified that she heard the discussion respecting the sum of five dollars and agreed with the suggestion during cross-examination that Mr. Mousseau was seeking repayment of money from Ms. Kennedy.
+    
+Ms. Govereau recalled the discussion about five dollars.  She also recalled a discussion about the bikes, but provided no further detail. 
+Ms. Ouellette was doing laundry in the basement and recalled hearing something about five dollars and heard something said by Mr. Mousseau about giving him something or he would chase them, however she admitted that she could not make out exactly what was said.  During cross-examination she was unsure whether the word “chase” was used.
+    
+Ms. Ouellette heard Ms. Kennedy say “stop it -- don’t”, but was not able to say to whom Ms. Kennedy was speaking.
+    
+In assessing all of the evidence, I am not sure I believe either Mr. Mousseau or Ms. Kennedy as to how the altercation started and unfolded.  In my view, based on the independent evidence, it is not clear whether this was a robbery scenario or a demand for repayment.  The evidence of the other witnesses, although not strong, does corroborate Mr. Mouseau’s version of events that he was demanding repayment of money or a loan.
+    
+What happens next is equally unclear.  Mr. Mousseau testified that once Mr. Johnson had removed both bikes from the kitchen, he went to the door to close it and Mr. Johnson appeared with a pole or stick in his hands and hit and struck him in the forehead.  Ms. Kennedy denied that a pole or stick was used at all and maintained that Mr. Mousseau was the sole aggressor.
+    
+I agree with the submission of the defence that the photographs of the scene show that the mop was found on the floor in the kitchen where the altercation occurred and close to where Mr. Johnson lay on the floor.  That evidence lends credence to Mr. Mousseau’s version of events that the stick or pole was in fact the mop handle that was used to strike him.  On the other hand, the location of the mop handle may be explained on the basis that it was knocked over during the “scuffle” heard by Ms. Ouellette from the basement.
+    
+While there is conflicting evidence as to where the mop was generally kept, it appears the independent witnesses believed the mop was usually located against the back wall of the kitchen or in or near the bathroom area. 
+Mr. Mousseau’s evidence that Mr. Johnson came back through the door with the pole or stick in his hand seems unlikely.  It is more likely that Mr. Johnson grabbed the mop as came back into the kitchen to stop Mr. Mousseau from following through with his threat.
+    
+The police officers that examined the scene did examine the mop and concluded it was not used to clean the premises of blood after the altercation.  It appears the police did not examine the mop for fingerprints or conduct any DNA analysis because they had no knowledge that the mop may have been used to strike Mr. Mousseau prior to the stabbing.  Mr. Mousseau was not arrested until May 12, 2020, and the first time his evidence regarding the altercation and Mr. Johnson’s use of the mop was divulged was when Mr. Mousseau testified at trial.  Ms. Kennedy had been interviewed immediately after the incident but the police were not advised that a pole or mop was used by Mr. Johnson during the altercation.
+    
+No other witness testified that they saw Mr. Johnson use the mop handle to strike Mr. Mousseau.  No witness gave an explanation as to how the mop ended up on the floor in the kitchen close to where Mr. Johnson lay on the floor following the stabbing.
+    
+In my view, the location of the mop following the altercation lends credence to Mr. Mousseau’s version of what transpired, that the mop was used by Mr. Johnson either as a weapon or perhaps to defend himself once Mr. Mousseau brandished the knife.
+    
+Ms. Ouellette’s evidence that she heard Ms. Kennedy say “stop it -- don’t”, does not necessarily support the Crown’s theory that she was speaking to Mr. Mousseau.  Ms. Ouellette was uncertain as to whom Ms. Kennedy was speaking.  Ms. Kennedy testified that she did not see the knife until after Mr. Mousseau pulled it back from stabbing Mr. Johnson.  The Crown relies on her version of events.  If her evidence is to be believed on that point, it seems unlikely that she was speaking to Mr. Mousseau when she said “stop it -- don’t”. 
+She did not know Mr. Mousseau had stabbed Mr. Johnson until after it occurred. 
+There was only one stab with the knife.
+    
+A reasonable inference to be drawn from this evidence is that Ms. Kennedy was speaking to Mr. Johnson once he had picked up the mop handle and threatened to strike or did strike Mr. Mousseau.  In other words, she was telling her boyfriend to “stop it--don’t” use the mop.
+    
+While I do not necessarily believe the versions of either Mr. Mousseau or Ms. Kennedy, the evidence of Mr. Mousseau raises a reasonable doubt as to the manner in which the altercation unfolded.  I say this for a number of reasons: i)            
+The evidence of Ms. Govereau and Ms. Ouellette do not necessarily confirm Ms. Kennedy’s version of the altercation; ii)           
+Ms. Govereau and Ms. Ouellette do not confirm that they heard the specific threats made by Mr. Mousseau which Ms. Kennedy attributed to him. 
+They both confirm that the argument appeared to be over money which is consistent with Mr. Mousseau’s evidence. iii)          
+During cross-examination, Ms. Kennedy acknowledged that she did not tell the police that Mr. Mousseau had threatened to “chase them” and “stab the shit out of them”. iv)         
+Ms. Kennedy gave inconsistent evidence regarding whether Mr. Johnson had removed one or both of the bikes from the kitchen prior to the altercation. 
+She initially stated that no one had left through the back door prior to the altercation.  On cross-examination, she was presented with statements she made to the police and her evidence at her preliminary inquiry that Mr. Johnson had removed one bike from the kitchen and that they were in the process of removing the second.  When the police first arrived at the scene, two bikes were found outside of the residence and there is no evidence that any other person removed the bikes from the kitchen area. v)           
+Mr. Mousseau’s evidence that Mr. Johnson had removed both bikes from the kitchen and then returned is consistent with the evidence found at the scene when the police arrived. vi)         
+All of the witnesses testified that Mr. Mousseau left the residence immediately following the altercation and I agree with the defence that this may be consistent with him being in a state of fear and/or panic. vii)        
+I do not believe Ms. Kennedy’s evidence that Mr. Johnson did nothing to provoke the stabbing.  For the reasons noted above, including the location of the mop after the stabbing as well as her statement of “stop it -- don’t”. 
+This evidence is consistent with Mr. Johnson using the mop against Mr. Mousseau and Ms. Kennedy yelling at Mr. Johnson “stop it -- don’t”. viii)       
+No personal possessions including the backpack or the five dollars were taken by Mr. Mousseau when he departed, which is inconsistent with the robbery version given by Ms. Kennedy.
+  
+Dr. Morin testified that the toxicology report confirmed Mr. Johnson had a quantity of methamphetamine as well as THC in his blood.  He confirmed that the amounts found were consistent with recreational use of these drugs.  During cross-examination, he acknowledged that these drugs could cause many symptoms which may include paranoia, panic reactions, anxiety and other mood changes.  He was not in a position to offer any opinion regarding Mr. Johnson, given that he had no knowledge of his past use and tolerance.  The defence submitted and I agree that the presence of these drugs may have caused Mr. Johnson to act in a paranoid or inappropriate manner based on his perception of threats from Mr. Mousseau.
+  
+The evidence was that Ms. Kennedy and Mr. Johnson were attempting to purchase marijuana from Ms. Govereau.  I do not accept Ms. Govereau’s evidence on that issue.  Ms. Kennedy testified that Mr. Johnson had suffered from an anxiety or panic attack earlier in the evening after attending at the Windsor Hotel.  She thought the marijuana might help.
+  
+In considering all of the evidence, I must consider that the presence of drugs found in Mr. Johnson’s system may have caused him to perceive a threat from Mr. Mousseau, and therefore attempt to stop him from being aggressive towards his girlfriend, Ms. Kennedy, or from carrying out what he may have threatened to do, chase them the back lane and stab them.
+  
+I am satisfied that it would be dangerous to accept the evidence of Ms. Kennedy, an unsavoury witness with a history of convictions for crimes of dishonesty, without independent evidence which tends to support or confirm the material parts of her testimony.
+  
+I accept that Ms. Kennedy may have taken steps to turn her life around and may have done her best to tell the truth.  I am not satisfied that the independent evidence supports her version of events.  She described Mr. Johnson as her soulmate and I am satisfied she wanted to paint him as an innocent bystander during the altercation.  I am not satisfied he was.  I accept that the accused has raised a reasonable doubt regarding the events that transpired and specifically how the altercation occurred.  I am satisfied there is an air of reality to the position that Mr. Mousseau acted in self-defence.  This leads me to an analysis of that defence. Has the Crown disproved self-defence?
+  
+As I stated earlier, pursuant to s. 34(1) of the Code, self-defence or defence of others has three essential elements.  The Crown must prove that Mr. Mousseau did not kill Mr. Johnson in lawful self-defence.  It is the Crown’s burden to disprove at least one of these three essential elements beyond a reasonable doubt. a)          
+Did Mr. Mousseau believe on reasonable grounds that force was being used against him or another person? (s. 34(1)(a))
+  
+In Khill, the Supreme Court of Canada described the first element of self-defence as “the catalyst”.  I must consider Mr. Mousseau’s state of mind and the perception of events that led him to act as he did.  In my view, the Crown has failed to prove that Mr. Mousseau was not attacked by Mr. Johnson with a pole, stick or mop.  I am satisfied that there is a basis for concluding that Mr. Mousseau believed on reasonable grounds that Mr. Johnson was approaching him to use the mop handle against him.  Whether the mop handle was being used in response to a robbery or threats by Mr. Mousseau matters not.  In my view, the Crown has not disproved the first element of self-defence beyond a reasonable doubt, and indeed the Crown acknowledged that if Mr. Mousseau was attacked by Mr. Johnson with a pole, stick or mop, the Crown did not disprove the first prong of the inquiry under the s. 34(1) test.
+          b)      Did Mr. Mousseau act for a defensive purpose? (s. 34(1)(b))
+  
+The second inquiry is what the Supreme Court of Canada refers to as “the motive”.  It considers the accused’s personal purpose in committing the act that constitutes the offence.  It is a subjective inquiry which goes to the root of self-defence.  If there is no defensive or protective purpose, the rationale for the defence disappears.  (See Khill, at para. 59)
+  
+In my view, the Crown has failed to prove beyond a reasonable doubt that Mr. Mousseau did not have the subjective purpose in mind of defending or protecting himself.  The second inquiry is a purely subjective one.  In this case, I considered whether Mr. Mousseau subjectively had another motive for stabbing Mr. Johnson, other than protection or defending himself. 
+As stated earlier, I accept that Mr. Mousseau’s testimony raises a reasonable doubt regarding the version of events and accordingly, the Crown has not disproven the second inquiry of the s. 34(1) analysis.
+          c)       The response – was Mr. Mousseau’s conduct reasonable in the circumstances?  (s. 34(1)(c))
+  
+The third inquiry under s. 34(1) considers the accused’s response to the use or threat of force and requires that the act committed be reasonable in the circumstances.  While the first two inquiries address the belief and the subjective purpose of the accused, the reasonableness inquiry under s. 34(1)(c) is primarily concerned with the reasonableness of the accused’s actions, not the accused’s mental state.  As pointed out by the Supreme Court of Canada in Khill, at para. 62: 62       … By grounding the law of self-defence in the conduct expected of a reasonable person in the circumstances, an appropriate balance is achieved between respecting the security of the person who acts and security of the person acted upon. The law of self-defence might otherwise "encourage hot-headedness and unnecessary resorts to violent self-help"
+ 
+ 
+  
+Section 34(2) of the Code, provides guidance and structure regarding how a decision-maker ought to determine whether an act of self-defence was reasonable in the circumstances.
+  
+It is important to note that the wording of s. 34(2) is mandatory as it states that in determining whether the act committed is reasonable the court shall consider the relevant circumstances of the person, the other parties and the act, including, but not limited to the following factors: (a) the nature of the force or threat; (b) the extent to which the use of force was imminent and whether there were other means available to respond to the potential use of force; (c) the person’s role in the incident; (d) whether any party to the incident used or threatened to use a weapon; (e) the size, age, gender and physical capabilities of the parties to the incident; (f) the nature, duration and history of any relationship between the parties to the incident, including any prior use or threat of force and the nature of that force or threat; (f.1) any history of interaction or communication between the parties to the incident; (g) nature and proportionality of the person’s response to the use or threat of force; and (h) whether the act committed was in response to a use or threat of force that the person knew was lawful.
+ 
+ 
+  
+It is clear that the factors are not an exhaustive list as the court is required to consider the relevant circumstances of the person, the other parties and the act including, but not limited to the enumerated factors.
+  
+I will now review the factors and other relevant circumstances in s. 34(2) in more detail. The nature of the force or threat (s. 34(2)(a))
+  
+The evidence of Mr. Mousseau is that Mr. Johnson struck him in the head with an object he initially described as a pole or stick and after seeing the relevant photographs produced by the Crown testified that it was a mop handle. 
+His testimony was that Mr. Johnson hit him once, he fell back towards the kitchen sink and then saw Mr. Johnson advancing towards him armed with the mop handle and ready to strike him.  Mr. Mousseau had already been hit in the forehead once and it was reasonable for him to believe that Mr. Johnson may have intended to strike him again.  While I agree that a strike to his head was capable of causing a significant injury, the real question is whether the threat in this case justified a lethal stab to the chest with a machete or large hunting knife in order to escape the force or threat. The extent to which the use of force was imminent and whether there were other means available to respond to the potential use of force (s. 34(2)(b))
+  
+As stated earlier, Mr. Mousseau’s evidence raises a reasonable doubt in my mind as to exactly what transpired.  If his evidence is accepted, Mr. Johnson was coming towards him with the mop handle over his head and he believed Mr. Johnson would strike him again.  Fearing this second strike, Mr. Mousseau immediately pulled out a hunting knife and lunged towards Mr. Johnson, striking him in the chest.
+  
+While the use of force by Mr. Johnson was imminent, I am satisfied that there were other means available to respond to the potential use of force in this case.  Mr. Mousseau could have called for help as there were others within earshot of the incident.  He could have spoken to or shouted at Mr. Johnson and asked him what he was doing?  Or directed him to stop or warned him that he had a knife.  He could have brandished his knife and threatened to use it or demanded Mr. Johnson to stay back or he would use it.  He could have retreated into the living room and/or yelled for someone to call the police or 911.  Lastly, Mr. Mousseau was approximately six inches taller than Mr. Johnson, and weighed approximately the same amount at the time.  He may have been able to avoid the second blow and tackle Mr. Johnson.  Instead of taking any evasive action whatsoever, Mr. Mousseau reached for his hunting knife, lunged at Mr. Johnson and stabbed him in the chest.  There is no evidence that he gave a warning, verbal or by brandishing the knife and showing it to Mr. Johnson.  I agree with the position of the Crown that this was not a reasonable response by Mr. Mousseau on an objective basis. The person’s role in the incident (s. 34(2)(c))
+  
+The evidence is that Mr. Mousseau and Mr. Johnson did not know each other, spoke no words to each other during the altercation and had no quarrel with each other until Mr. Johnson returned to the kitchen after removing at least one of the bikes.  I do not accept Mr. Mousseau’s evidence that he was not angry with Ms. Kennedy.  I accept that Mr. Mousseau was angry and used threatening language with Ms. Kennedy and Mr. Johnson.  I accept the accused’s behaviour caused Ms. Kennedy to tell Mr. Johnson they should leave and at that point, Mr. Johnson commenced removing the bikes.  It is reasonable to infer that Mr. Johnson, fearing that Mr. Mousseau may harm his partner, armed himself with the mop to prevent Mr. Mousseau from harming Ms. Kennedy or himself.  Perhaps his preemptive strike was fueled by the drugs that he had consumed earlier in the evening.  While Mr. Johnson bears some responsibility for being the aggressor, Mr. Mousseau was angry and threatening and in my view, he bears some responsibility for the altercation escalating. 
+Once the altercation unfolded Mr. Mousseau used excessive force by stabbing Mr. Johnson. Whether any party to the incident used or threatened to use a weapon (s. 34(2)(d))
+  
+Some of these factors overlap.  Arguably, both parties used a weapon.  Mr. Johnson used a pole, stick or a mop handle to strike Mr. Mousseau in the forehead, which resulted in a contusion.  Mr. Mousseau did not bleed and did not seek medical attention.  Mr. Mousseau stated on a number of occasions that he “feared for his life” and therefore immediately pulled out a large hunting knife and lunged towards Mr. Johnson, striking him in the chest.  Although it is not clear, it appears that the stabbing occurred before Mr. Johnson attempted to swing or hit Mr. Mousseau a second time.
+  
+As I stated earlier, Mr. Mousseau pulled out his hunting knife and immediately thrusted it into Mr. Johnson’s chest with no thought of retreating, or backing away, or showing the knife and warning Mr. Johnson to back off, or yelling out to others who were close by to call the police or 911.  I accept Mr. Mousseau’s evidence that Mr. Johnson posed a threat. 
+However, Mr. Mousseau’s response was excessive and not reasonable in the circumstances. The size, age, gender and physical capabilities of the parties to the incident (s. 34(2)(e))
+  
+Mr. Mousseau was six inches taller than Mr. Johnson, although both parties weighed roughly the same amount.  Mr. Johnson was 37 years of age and judging from the autopsy photographs appeared to be in good shape.  Mr. Mousseau was 22 at the time and thinner than the size he was in court.  There is no evidence to suggest that either of the parties had physical capabilities that were superior to the other.  Both Mr. Mousseau and Mr. Johnson were intoxicated to a certain extent and therefore their reaction times may have been adversely affected.  As well, their decision-making was probably impaired. The nature, duration and history of any relationship between the parties to the incident, including any prior use or threat of force and the nature of that force or threat (s. 34(2)(f)) Any history of interaction or communication between the parties to the incident (s. 34(2)(f.1))
+  
+Both of these factors relate to the history between the parties. 
+The evidence is that Mr. Mousseau and Mr. Johnson did not know each other and did not speak or interact at all during the incident.  Their only interaction occurred when Mr. Johnson hit Mr. Mousseau with a mop handle and then Mr. Mousseau brandished the knife and fatally stabbed Mr. Johnson.  Neither of these factors assist in the reasonableness inquiry.  That said, it is difficult to understand why Mr. Mousseau did not take other steps, evasive measures or at the very least, yell out a warning to Mr. Johnson before fatally stabbing him. 
+You would think that as someone is approaching you with a mop handle there would be some communication, warning, swearing or simply telling the person to back off.  None of evidence supports that happened.
+ 
+The nature and proportionality of the person’s response to the use or threat of force (s. 34(2)(g))
+  
+I do not accept the position of the defence, that the response by Mr. Mousseau was proportional in the circumstances.  His first choice, rather than any other evasive action as mentioned above, was to move towards Mr. Johnson, lunge with the hunting knife using “not an insignificant amount of force” as described by Dr. Morin to fatally stab Mr. Johnson.  While I accept that Mr. Mousseau had received a blow to the head, the force he used and his response was far more than was reasonably necessary to defend himself.
+  
+Mr. Mousseau relies upon two decisions, P.S., at paras. 273 and 291, and R. v. Sangha, 2020 BCSC 1963, B.C.J. No. 2046, at para. 43.  In P.S., the court was satisfied that the accused had good reason to think that his attackers meant to continue beating him.  They had the accused outnumbered two to one, and were both much larger and stronger than he was.  The accused was in a remote rural area where there was little realistic prospect of anyone coming to his aide.  The court found that a reasonable person in the position of P.S. would have had good reason to fear that the attack might continue indefinitely if nothing happened to stop it and that he might be about to find himself hurt very badly.  (See para. 273)  In P.S., the court referenced the Khill decision stating “the accused was not required to weigh to a nicety the amount of force used under the rubric of proportionality”.  (See para. 291)  In my view, the facts in P.S. are distinguishable from the facts of this case.  Mr. Mousseau was not outnumbered, it was Mr. Mousseau and Mr. Johnson and there is no evidence that Mr. Johnson was stronger or had special or superior fighting skills compared to Mr. Mousseau.  There were other more proportional steps he ought reasonably to have considered as noted above. 
+As well, there were many other people present within earshot who could have assisted if Mr. Mousseau called out to them for help or to call the police.
+  
+Similarly, the facts in the Sangha case are distinguishable.  In that case, the accused stabbed a very aggressive and intoxicated assailant who challenged the accused.  The court accepted the explanation given by the accused that they were in a dark street and that he was frightened, suffered from a back injury and faced a fast developing altercation with a drunken stranger.  The accused saw the deceased reach inside his jacket which he perceived was reaching for a weapon and the accused pulled his folding knife from his pants pocket and stabbed the attacker.  I note as well in the Sangha case that when the accused produced his knife, he held it in front of him and told the deceased to “stay away” which was evidence that he was using the knife to defend himself.  The court found that the accused’s actions were reasonable in the circumstances.  The accused had reason to fear for his life and made a split-second decision to defend himself by producing a knife for defensive purposes. (See para. 71)
+  
+Unlike the facts in the Sangha case, I am not satisfied that the use of force by Mr. Mousseau was reasonable to achieve a defensive purpose.  He gave no warning, did not cry out for help and instead pulled out a hunting knife to inflict a fatal stab wound.
+ 
+Whether the act committed was in response to a use or threat of force that the person knew was lawful (s. 34(2)(h))
+  
+I agree with the parties that this factor does not apply in this case.
+  
+To conclude on this third inquiry in Khill, the Supreme Court of Canada emphasized that the reasonableness inquiry under s. 34(1)(c) operates to ensure that the law of self-defence conforms to community norms of conduct.  By grounding the law of self-defence and the conduct expected of a reasonable person in the circumstances, an appropriate balance is achieved between respecting the security of the person who acts and security of the person acted upon.  The law of self-defence might otherwise “encourage hot-headedness and unnecessary resorts to violent self-help”. (See Khill, at para. 62)
+  
+In balancing all of the factors, the evidence proves beyond a reasonable doubt that a reasonable person in Mr. Mousseau’s position would not have responded immediately as he did by brandishing the knife and stabbing Mr. Johnson in the chest in the manner he did.  While I agree that the altercation escalated quickly, and Mr. Mousseau may have feared for his safety, his response was not reasonable or proportionate.  As stated earlier, he had numerous other steps that he could have taken that in my view a reasonable person would have considered in the circumstances.  At the very least, Mr. Mousseau ought to have warned Mr. Johnson that he intended to use the knife if he continued to progress towards him.  Calling for help combined with retreating into the living room were also reasonable responses.
+  
+In my view, the Crown has met the burden of disproving that Mr. Mousseau’s use of force was reasonable in all of the circumstances.
+  
+Accordingly, I find Mr. Mousseau guilty of culpable homicide. Did Mr. Mousseau have the requisite intent to commit murder – s. 229(a)(i)(ii)?
+  
+I accept that the Crown has disproven the third element of self-defence because Mr. Mousseau’s actions were not reasonable in the circumstances.  The third thing the Crown must prove beyond a reasonable doubt is that Mr. Mousseau had the requisite state of mind to commit second degree murder.
+  
+I must consider whether Mr. Mousseau meant to cause Mr. Johnson’s death or whether he meant to cause him bodily harm that he knew was likely to cause his death and was reckless whether death ensued or not.
+  
+While I have not accepted that Mr. Mousseau’s response was reasonable, I do accept his evidence that he did not intend to cause Mr. Johnson’s death.  While his response was unreasonable, I am satisfied his actions were undertaken for a defensive purpose.
+  
+If I accepted the evidence of Ms. Kennedy, that it was Mr. Mousseau who was acting with belligerence and aggressiveness, attempting to rob them and then without provocation stabbed Mr. Johnson, the Crown submits that the court should have no difficulty finding that Mr. Mousseau stabbed Mr. Johnson with the intent to kill him, or at the very least, intended to cause him bodily harm, knowing that death would be the likely result and was reckless as to whether the death would ensue.  As stated earlier, the evidence of Ms. Kennedy must be viewed with caution and her description of how the altercation unfolded simply lacks credibility and does not make sense.  According to her, there was no dispute between Mr. Mousseau and Mr. Johnson.  The dispute was only with her.  Notwithstanding that, Mr. Mousseau went to his room to retrieve his knife and then came into the kitchen and unexpectedly stabbed Mr. Johnson without any provocation whatsoever.  The description provided by Ms. Kennedy is simply not believable.
+  
+Further, the Crown submits that the post-offence conduct of Mr. Mousseau of immediately leaving showed a complete lack of remorse and is more consistent with someone who inflicted deadly harm, not someone who was shocked or afraid.
+  
+The post-offence conduct is circumstantial evidence which in my view does very little to support the Crown’s case.  A simple explanation for his conduct is that in the heat of the moment he reacted to the provocation of Mr. Johnson and stabbed him.  He knew his actions had caused bodily harm to Mr. Johnson as he crumpled to the floor bleeding.  His explanation was that he was afraid and panicked is believable in the circumstances.  He also knew he was probably in trouble and chose to flee.  A decision he no doubt regrets.  In fact, he testified that he did not mean to kill Mr. Johnson, expressed remorse and apologized for his conduct.
+  
+Once he was arrested, Mr. Mousseau had the right to remain silent and the fact that he did so cannot be used against him as evidence of intent to commit murder.
+  
+The Crown admits that if I accept all or even some of Mr. Mousseau’s evidence then proof of intent becomes more difficult.  I agree.  As I have explained earlier the evidence raises a reasonable doubt as to how the altercation unfolded and I accept that the Crown has failed to prove beyond a reasonable doubt that Mr. Johnson was not the aggressor and that he was not approaching Mr. Mousseau with the mop handle ready to strike when Mr. Mousseau reacted and stabbed Mr. Johnson.  I find that Mr. Mousseau believed on reasonable grounds that force was used and was threatened to be used against him by Mr. Johnson and Mr. Mousseau’s motive was for the purpose of defending or protecting himself.  While I find that Mr. Mousseau commited culpable homicide on the basis that his actions were not reasonable, a review of all of the facts do not prove beyond a reasonable doubt that Mr. Mousseau had the intent for murder.  I accept his evidence that he did not intend to cause Mr. Johnson’s death but wanted to defend himself and prevent Mr. Johnson from potentially striking him with the mop handle a second time.  In my view, a review of all of the evidence and Mr. Mousseau’s testimony satisfies me that there is a reasonable doubt on the issue of the intent to commit second degree murder.  Accordingly, I must find Mr. Mousseau not guilty of second degree murder, but guilty of the included offence of manslaughter. Provocation
+  
+Given my finding regarding intent, it is unnecessary to consider whether the partial defence of provocation applies in this case.  It is only if I am wrong on the finding regarding intent for second degree murder, that it is necessary to consider the partial defence of provocation.
+  
+Provocation is the only defence which is exclusive to homicide.  The legal requirements for the partial defence of provocation are set out in s. 232 of the Code.  The four prerequisites are: i)            
+A wrongful act or insult; ii)           
+That the wrongful act or insult be sufficient to deprive an ordinary person of the power of self-control (objective element); iii)          
+The provocation must have caused the accused to lose self-control and act while out of control in response to the wrongful act or insult (subjective element); and iv)         
+That the accused acted on the sudden and before there was time for the accused’s passion to cool. (See R. v. Tran, 2010 SCC 58, [2010] 3 S.C.R. 350)
+  
+Whether Mr. Johnson’s wrongful act or insult amounted to provocation and whether Mr. Mousseau was deprived of the power of self-control by the provocation that he alleges he received are questions of fact that must be decided by the court.  The onus is on the Crown to disprove beyond a reasonable doubt that Mr. Mousseau’s culpable homicide is not reduced to manslaughter by the partial defence of provocation.
+  
+The Crown acknowledged that it would be “hard pressed to make a meaningful argument on provocation” if the court accepted the accused’s version of events in some fashion and found that Mr. Mousseau had the intent for murder.  The Crown asked to revisit the issue of provocation before the court delivers its final decision in this case.
+  
+The defence made a limited submission regarding provocation and stated that while the defence of provocation may be independently available “without knowing the factual findings of the court it is difficult to imagine that the defence would not have been given due consideration as part of the assessment of the requisite intent for murder required under s. 229 of the Criminal Code.”
+  
+In light of the request made by the Crown and the limited submission received from the defence, I will not provide a decision on the defence of provocation at this time.  As requested, I will grant the request from the Crown and defence to be given an opportunity to review this decision and file further written submissions on this issue if they wish to do so.  Timelines for the delivery of written submissions, if the parties chose to file further submissions, will be set at the time of delivery of the reasons for decision. Conclusion
+  
+To conclude, I find as follows:

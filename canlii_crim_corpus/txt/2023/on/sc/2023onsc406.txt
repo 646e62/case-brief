@@ -1,0 +1,123 @@
+./canlii_crim_corpus/html/2023/on/sc/2023onsc406.html
+              
+The Applicant is charged with the first-degree murder of Elisabeth Salm on May 24, 2018. The Applicant is alleged to have sexually assaulted Ms. Salm and beat her so severely that she died on May 25, 2018 of a traumatic brain injury. She had 54 injuries on her body, including broken ribs and broken facial bones. The Applicant seeks an order prohibiting the Crown from adducing evidence of his criminal record which includes offences for sexual assault and other forms of violence. The Applicant also asks this Court to edit Dr. Gojer’s report, expunging any reference to the criminal convictions of the Applicant. Dr. Gojer, who is an expert in forensic psychiatry, testified on this voir dire that the criminal convictions supported the basis for his opinion. I had originally ruled that the Applicant’s convictions could not be edited from Dr. Gojer’s report. These are my reasons for that ruling.
+             
+The Applicant is Inuk from Campbell’s Bay, Nunavut. He was 18 years old at the time of the homicide.
+             
+The Applicant lived in foster homes and was living in a shelter prior to his arrest. 
+             
+The Applicant has a youth criminal record with numerous entries, including offences for sexual assault and assault causing bodily harm.
+             
+The trial in this matter began on September 12, 2022. On September 28, 2022, the Crown closed its case. On October 7, 2022, the Court granted an adjournment application requested by the Applicant for the purposes of seeking a psychological assessment under s. 672.12 of the Criminal Code. The Crown on January 21, 2022, made an application at the Ontario Court of Justice to seek access to the Applicant’s record given the access period had expired under section 119(2) of the Youth Criminal Justice Act. That application was granted. 
+ 
+             
+A trial judge has the discretion to exclude evidence of previous convictions in appropriate cases where the mechanical application of s. 12(1) of the Canada Evidence Act, R.S.C. 1985, c.C-5, would undermine the right to a fair trial. Where the trial judge is satisfied on a balance of probabilities that the probative value arising from the criminal record is outweighed by the prejudicial effect that may arise from its admission, otherwise admissible convictions will be excluded. This is particularly relevant in cases of trials before a jury. R. v. Corbett, 1988 CanLII 80 (SCC), 1 S.C.R. 670. The defence initially asked that the Applicant’s entire criminal record be excluded. The defence revised its position and sought exclusion of part of the record including the November 12, 2013 sex assault, the July 22, 2013 sexual assault, the 2014 assault cause bodily harm and the assault conviction in 2015.
+             
+Dr. Gojer’s report supports the view that the Applicant was exposed at an early age to abuse, neglect and abandonment. He has no relationship with either of his biological parents and his mother suffered from substance abuse issues. There is a strong likelihood that he suffers from either Fetal Alcohol Syndrome, or Fetal Alcohol Spectrum Disorder. 
+ 
+             
+This request in this case is not a true Corbett application in that the defence requests not only that I edit the criminal convictions from the Applicant’s record, but also that I edit any reference to them from the evidence of Dr. Gojer. It is the latter request which I found was not open to the court, as the basis for a large part of Dr. Gojer’s opinion would be kept from the jury. I also found there was no utility in refusing to permit the crown to cross-examine the accused regarding the entries on his record since the jury would learn of the record through Dr. Gojer’s evidence. The Crown was not permitted to cross-examine the accused regarding the facts underlying the convictions, nor in relation to other discreditable conduct which did not result in criminal charges.
+ 
+             
+If the defence was merely seeking to call the Applicant, I would have granted the Corbett application. The Crown indicated it might have consented.  I indicated to defence counsel at a quite early stage that I did not think the Court could edit portions of an expert’s report, where the edited portions formed the basis for part of that expert’s opinion. My concern then and now, is that due to the special dangers posed by expert evidence, that the basis for any expert opinion must be available to the triers of fact to assess how much weight to afford an opinion. In this case, Dr. Gojer offered three potential opinions. The defence asks that I not permit the jury to know the basis for two of those potential opinions as they are based in part upon criminal convictions. Dr. Gojer testified that motive is an important diagnostic factor in forensic psychiatry and that the criminal convictions were relevant to his assessment of potential motive.
+         
+There are significant concerns regarding moral prejudice which run the risk of impairing the accused’s right to a fair trial should the jury be informed of various entries on the Applicant’s criminal record. 
+         
+Some of his criminal record entries are of a violent and sexual nature. These convictions are similar in nature to the offence for which the Applicant is currently charged. The nature of the convictions, the similarity of the convictions to the offence for which the accused is presently on trial, and the nature of the defence are all relevant to my assessment of whether the record should be edited. While the first two factors would favour the request of the defence, the nature of the defence mandates that the criminal record not be kept from the jury. The defence seeks to call an expert and conceal from the jury the basis for some of his conclusions.
+         
+However, there exists a real risk that the jury may improperly infer guilt either by reasoning that the prior convictions show the accused to be a bad person, or by reasoning that the prior convictions prove guilt of the current offence. In addition, the convictions occurred when the accused was a youth. 
+         
+The Court of Appeal recently dealt with the application of Gladue factors to an application to edit a criminal record.  R. v. King, 2022 ONCA 665. The King decision reviews the principles enunciated in Corbett while also pointing out the importance of the court’s consideration of Gladue factors when a Corbett application is being made by an Indigenous accused. King at para 48.
+         
+Gladue principles are not strictly limited to sentencing hearings and ought to be considered by all decision makers who have the power to influence the treatment of aboriginal offenders in the justice system. R. v. Gladue, 1999 CanLII 679 (SCC), 1 S.C.R. 688 at para 65. 
+ 
+         
+The Court of Appeal in King also discussed the impact that Gladue factors will have in assessing the prejudicial effect of having prior convictions as an Indigenous accused put to the jury.
+ 
+         
+A challenge for cause was conducted in this case.
+         
+However, as the Court of Appeal noted in King, the safeguards afforded by a challenge for cause may not always be sufficient to guard against racist stereotypes or propensity-based reasoning. In the context of Corbett applications, Gladue principles are necessary for the Court to adequately weigh the probative value of the convictions which the Crown seeks to put to the Applicant during cross-examination. 
+ 
+         
+Accounting for any distortions caused by the possibility of stereotyping and systemic biases against Indigenous people may reveal that the criminal record is much less reflective of an Indigenous accused’s subjective disregard for the truth or contempt for the law than would otherwise appear. King, at para 180.
+ 
+         
+From November 2013 onward, most of the entries on the Applicant’s criminal record are either violent, sexual, or harassing in nature. 
+ 
+         
+These types of offences have minimal to no probative value relating to assessing credibility, as pointed out by the defence. However, they are of significant probative value in assessing the basis for Dr. Gojer’s opinion.
+ 
+         
+While I agreed with the defence that the other offences which make up the criminal record including property related offences should be considered through the lens of the Applicant’s socioeconomic background, his neurological dysfunctions and history of trauma as highlighted in Dr. Gojer’s report, these offences were also relevant to Dr. Gojer’s opinion that the Applicant may have an antisocial conduct disorder.
+         
+Indigenous persons, due in part to their over representation in the criminal justice system are disproportionately affected by onerous bail conditions which later result in breach charges. King, at para 189. 
+ 
+         
+A conviction arising from a guilty plea may be less probative of credibility because of the despair experienced when caught up in the criminal justice system. King, at para 190.
+ 
+         
+However, the defence asked the court to exclude any reference to the criminal record in the expert opinion of Dr. Gojer, including his report. They seek an order redacting the convictions for violence from the Applicant’s criminal record and the details or facts underlying these convictions referenced in the report. 
+ 
+         
+If I granted this application, there would be a complete evidentiary foundation for only one aspect of Dr. Gojer’s opinion: that Tyler Hikoalok was intoxicated and his brain damage and Fetal Alcohol Syndrome or Fetal Alcohol Spectrum Disorder, precluded him from forming the state of mind for murder. 
+ 
+         
+This approach would denude the record of the foundational basis for the other two opinions by Dr. Gojer: an antisocial conduct disorder, or that the Applicant is someone who enjoys coercive sexual activity due to a sexual paraphilia.
+ 
+         
+Dr. Gojer noted in his report that the Applicant has exhibited inappropriate sexual behaviours since his childhood and this has been reported as touching incidents, two sexual assaults as a young offender and one offence when he followed a woman and was charged with criminal harassment. Dr. Gojer indicated that one could surmise that the Applicant’s sexual behaviours could be linked to his childhood sexual abuse. Dr. Gojer thought it possible, if it is accepted that the Applicant committed the sexual assault and homicide, that the Applicant may have a sexual deviation also known as a paraphilia, a preference for coercive sexual activity. The Applicant denied any such preference. The Applicant refused phallometric testing and Dr. Gojer was unable to confirm the presence of a paraphilia. This evidence of prior inappropriate sexual behaviour is prejudicial as it is closely related to the offence for which he is charged. However, this evidence is also highly probative of the basis for Dr. Gojer’s opinion that the Applicant may have a sexual paraphilia.
+ 
+         
+Dr. Gojer also noted that there is also an antisocial element to the Applicant’s history. He opined that the sexual assault and homicide could be a culmination of antisocial acts that included a sexual assault and a violent attack that resulted in the death of the victim. This opinion also relies on the criminal convictions for its foundation.
+ 
+         
+During his assessment, Dr. Gojer reviewed a significant amount of material which included previous psychological, psychosocial, and psychiatric assessments of the Applicant in 2009, 2011, 2023 and 2015. The content of these reports included information regarding the Applicant’s past offending behaviour, including behavioural problems and inappropriate sexual behaviours. 
+ 
+         
+The impact of Gladue principles on the Court’s ability to edit an expert’s opinion of criminal convictions which form the basis for the opinion, has not been specifically litigated in any case of which I am aware. However, the principle that a jury should be able to have access to the basis for an expert opinion has been long established.
+         
+In R. v Dietrich, 1970 CanLII 377 (ON CA), 3 O.R. 725, the defence called psychiatric evidence to support its theory that the accused had a psychopathic personality. The Ontario Court of Appeal ruled that if an expert is permitted to give his opinion, they ought to be permitted to give the circumstances upon which that opinion is based. 
+ 
+         
+In R. v. Stone, 1999 CanLII 688 (SCC), 2 S.C.R. 290, at para 98, the Supreme Court of Canada considered the issue of disclosure of the expert report to the crown. The accused objected to the compelled disclosure of the psychiatrist’s expert report to the Crown. 
+ 
+         
+The court said the following: By disclosing what he wanted from the report in favour of the accused, defence counsel could not then conceal the balance of the report whose contents might contradict or put in context what might have been disclosed. 
+….
+ 
+The Court noted that it was not open to the appellant to pick and choose the portions of an expert report to be put before the trier of fact. The provision of the report gives the opposing party access to the foundation of such opinions to test them adequately. At para 99.
+ 
+         
+The request by the defence to alter the substance of the report and remove large portions of material considered by the expert as the basis for his opinion would unfairly limit the Crown’s ability to challenge the doctor’s opinion regarding the accused being unable to form the state of mind for murder. The Crown would be unable to point to the basis for the other two opinions as evidence that the Applicant may have committed the offence because he has a sexual paraphilia or antisocial conduct disorder. The jury is also entitled to know the basis for the other two opinions to determine what is accepted fact.
+ 
+      Expert evidence can be a key element in the search for truth, but it may pose special dangers. White Burgess Langille Inman v. Abbott and Haliburton Co., 2015 SCC 23, 2 S.C.R. 182.
+ 
+         
+Witnesses are generally only allowed to testify to the facts as they perceive them, not as to the inferences that are drawn from them. The exception is expert opinion evidence in matters requiring specialized knowledge. 
+ 
+         
+A jury must be able to make an effective and critical assessment of the expert evidence. R. v. Abbey, 2009 ONCA 624, 97 O.R. (3d) 330 at para 9.
+ 
+         
+The trier of fact must be able to make an informed judgment, not simply decide based on an act of faith in the expert opinion. See R. v. J.-L.J., 2000 SCC 51, 2 S.C.R. 600 at para. 56.
+ 
+         
+The defence also asked that parts of the Applicant’s record not be put to him, even though Dr. Gojer would be referring to those parts of the criminal record in his evidence. In my view, this would confuse the jury, and would not do anything to prevent the jury from knowing about the criminal convictions of the Applicant. 
+ 
+         
+I did impose restrictions on the use the Crown could make of this evidence and crafted a strong caution to the jury. I did not permit the Crown to cross-examine the Applicant on the facts underlying his sexual assault convictions. The Crown wished to explore his state of intoxication in his prior sexual assault convictions to undermine his defence at trial. 
+ 
+         
+I ruled that Dr. Gojer’s report and the Applicant’s criminal record would not be made exhibits in this trial.  The jury was advised that they could only use the criminal convictions and the prior discreditable conduct to assess Dr. Gojer’s opinion. The jury was told they could not use the evidence to conclude that the Applicant is a bad person, or that by virtue of these convictions and the discreditable uncharged conduct he is more likely to have committed the offence of first-degree murder. 
+ 
+         
+ I also did not permit the Crown to cross-examine the Applicant on his refusal to participate in phallometric testing and the ECG, or his refusal to speak to Dr. Gojer regarding the observations of those who said he appeared sober. I provided an instruction to the jury informing them that the Applicant has a right not to participate in such testing and they could draw no negative inference from his decision not to participate.
+         
+I did not permit the Crown to cross-examine the accused on any statements made to the expert with respect to his past offending behaviour. These restrictions were put in place to attempt to ameliorate to a degree, the enhanced prejudice which flowed from the jury learning of the Applicant’s related criminal record. 
+         
+In conclusion, I found that editing Dr. Gojer’s opinion would not promote trial fairness, although that is the purpose of a Corbett application. I reached this conclusion even though the impact on the jury of learning of these convictions will have a prejudicial impact. However, the evidence formed the basis for an expert opinion and in my view, it cannot be kept from the jury. The convictions form the basis for the expert’s opinion and as such they are vitally probative to the trier of fact in this trial. Despite the considerable prejudice to the Applicant of admitting the convictions, I see no mechanism by which the court could fairly deprive the jury of such highly relevant evidence and then ask the jury to assess the opinion of an expert.
+ 
+ 
+         
+In balancing the relevant factors, including Gladue principles as described in King, I found that trial fairness would be compromised and not enhanced if I granted the request of the defence. The result of such an editing would be to bar the jury from being able to meaningfully assess Dr. Gojer’s opinion.  The application is therefore denied.

@@ -1,0 +1,430 @@
+./canlii_crim_corpus/html/2023/on/cj/2023oncj41.html
+        
+On November 22, 2022, I heard oral submissions, supplementing previously filed written factums, on a s. 11(b) Charter Application. On December 14, 2022, I dismissed the s. 11(b) Charter Application with Written Reasons to follow prior to trial. These are those Reasons. Introduction
+        
+Justice Cory  in R. v. Askov, 1990 CanLII 45 (SCC), 2 S.C.R. 1199, at paragraph 43, outlined the significance of s. 11(b) of the Charter as follows: ...There could be no greater frustration imaginable for innocent persons charged with an offence than to be denied the opportunity of demonstrating their innocence for an unconscionable time as a result of unreasonable delays in their trial. The time awaiting trial must be exquisite agony for accused persons and their immediate family. It is a fundamental precept of our criminal law that every individual is presumed to be innocent until proven guilty. It follows that on the same fundamental level of importance, all accused persons, each one of whom is presumed to be innocent, should be given the opportunity to defend themselves against the charges they face and to have their name cleared and reputation re- established at the earliest possible time.
+        
+Two years later, in R. v. Morin, 1992 CanLII 89 (SCC), 1 S.C.R 771, the Supreme Court of Canada provided direction in the form of an analytical framework for assessing the issue of what was termed "unreasonable delay". The Morin framework was revisited by the Supreme Court in 2016 in R. v. Jordan, 2016 SCC 27 (CanLII), 1 S.C.R. 631. A new framework was created, which focused on net delay and whether it breached a presumptive ceiling. The prejudice suffered by a litigant was now subsumed into the presumptive ceilings. For matters in the Superior Court of Justice ("SCJ"), the presumptive ceiling is 30 months and for matters in the Ontario Court of Justice ("OCJ"), the ceiling is 18 months. If the period of delay to trial exceeds the presumptive ceiling, the delay may be considered to be "unreasonable" as far as s. 11(b) of the Charter is concerned. In these circumstances, a court may direct that a Charter remedy issue staying the proceedings.
+        
+On December 19, 2019, Christopher Nigro was arrested and charged with offences involved in a carjacking that occurred on December 7, 2019 in Bradford, where the victim was dragged by the vehicle and sustained critical injuries that resulted in a medically induced coma and numerous surgeries. The Information was sworn on December 19, 2019, with the following offences: •        
+Criminal Negligence Causing Bodily Harm •        
+Robbery with Theft •        
+Dangerous Operation Causing Bodily Harm •        
+Failure to Stop After Accident Resulting in Bodily Harm •        
+Operation of Conveyance While Prohibited 
+        
+The trial on this charges is scheduled to commence on February 6, 2023 and the scheduled final day is February 14, 2023. The time between the arrest on December 19, 2019 and the last day of trial is 1153 days, or 3 years and 58 days. 
+        
+By his Notice of Application dated October 15, 2022, the Applicant seeks a determination that his right to be tried within a reasonable time pursuant to s.11(b) of the Canadian Charter of Rights and Freedoms has been infringed, and an Order staying the charges pursuant to s.24(1) of the Charter. History of the Proceedings
+        
+I am providing a chart summarizing the relevant timeline of events as reflected from the record, transcripts and submissions by counsel, which will provide some necessary context to the submissions and arguments.
+ 
+Date
+Event
+December 19,
+  2019
+Arrest date:
+  Information sworn: First Appearance: Adjourned as Counsel and Surety unable
+  to attend court.
+December 20,
+  2019
+Second Appearance:
+  Bail Hearing: Detained, remanded to Video Appearance.
+January 6,
+  2020
+Third
+  Appearance: Adjournment to contact counsel, B. Daley.
+January 20,
+  2020
+Fourth
+  Appearance: Adjournment to contact counsel.
+January 24,
+  2020
+Fifth
+  Appearance: Adjournment to contact counsel.
+February 14,
+  2020
+Sixth
+  Appearance: Adjournment, awaiting disclosure, bail disclosure provided but
+  initial disclosure (1500+ pages) still being vetted
+February 28,
+  2020
+Seventh
+  Appearance: Attempted change of Counsel – Matter is before JP via video and
+  change cannot be completed. Disclosure still outstanding.
+March 6,
+  2020
+Eighth
+  Appearance: Change of Counsel, now D. Lakie. Disclosure received on March 5,
+  2020. 
+March 16,
+  2020
+Shutdown of
+  Ontario Courts due to COVID-19 by the Chief Justice of the Ontario Court of
+  Justice.
+March 18,
+  2020
+2nd
+  Disclosure Provided by Crown.
+March 19,
+  2020
+Ninth
+  Appearance. No JPTs available given COVID, “things are in a state of flux”
+  New procedures as of March 16, 2020.
+March 26,
+  2020
+Tenth
+  Appearance: Video Appearance in Barrie. Adjourned Awaiting Bail Review. Put over
+  to April 2 by Video Appearance.
+March 31,
+  2020
+Eleventh
+  Appearance: Before Justice Christie, Superior Court of Justice Applicant released
+  on Bail Review, $25,000 Surety release order with house arrest condition,
+  except for employment.
+April 2,
+  2020
+No
+  transcript of Video Appearance in Barrie.
+May 8, 2020
+3rd
+  Disclosure Provided by Crown to defence.
+May 15, 2020
+4th
+  Disclosure Provided by Crown to defence.
+June 11,
+  2020
+Transcript
+  of Matter being Adjourned with Bench Warrant with Discretion to August 20,
+  2020.
+August 20,
+  2020
+Twelfth Appearance:
+  Matter Adjourned to October 29, 2020 pursuant to COVID-19 protocols. Bench
+  Warrant with Discretion.
+October 26,
+  2020
+Enhanced
+  Designation from Counsel Served on Crown, Designation Indicates Request for Matter
+  to be  Adjourned 12 weeks 
+October 29,
+  2020
+Thirteenth
+  Appearance: Change of Counsel from D. Lakie to D. North, as D. Lakie has
+  conflict, Disclosure has been provided by D. Lakie. Enhanced Designation
+  filed and request for Adjournment to December 3rd, 2020. CPT to be
+  scheduled in the Interim.
+November 20,
+  2020
+D. North
+  meets for CPT with Crown, Mr. Favri. Agree to Schedule JPT, Matter is not
+  anticipated to resolve.
+December 3,
+  2020
+Fourteenth
+  Appearance: Defence request to remand matter to January 14, 2021, to set date
+  for JPT.
+January 14,
+  2021
+Fifteenth
+  Appearance: Agent for Counsel appeared and indicated JPT scheduled for
+  February 2, 2021, suggested return date of February 11, 2021.
+February 2,
+  2021
+Brief JPT
+  before Justice A. McLeod. Agreed to re-schedule JPT as outstanding disclosure
+  (production order for defendant’s cell phone).
+February 11,
+  2021
+Sixteenth
+  Appearance: Adjourned awaiting disclosure: Defence counsel advised –“We’ve
+  received a great deal of disclosure” JPT could not proceed as “significant
+  outstanding disclosure, in particular a production order in relation to some
+  cellphones that both Crown and I are anxiously awaiting” both parties anxious
+  to reschedule JPT once remaining disclosure is provided. “We’re in a bit of a
+  holding pattern.” Defence counsel advised “believes the further disclosure is
+  forthcoming.” Over to March 4, 2021.
+March 4,
+  2021
+Seventeenth
+  Appearance: JPT did not take place or get rescheduled because “both are
+  waiting results of the cellphone search.” Again, in a holding pattern.” Adjourned
+  to April 1, 2021.
+April 1,
+  2021
+Eighteenth
+  Appearance: Still awaiting cell phone extraction. Adjourned to May 6, 2021.
+April 14,
+  2021
+5th
+  Disclosure – cell phone extraction reports disclosed.
+May 6, 2021
+Nineteenth
+  Appearance: Cell phone extraction received and reviewed by defence, CPT
+  scheduled for May 19th so adjourned to May 20th.
+May 19, 2021
+Audio
+  Recordings disclosed via email - CPT Counsel indicates they would review,
+  digest and reach out in the following 2 weeks then schedule JPT before
+  Justice Bliss.
+May 20, 2021
+Twentieth
+  Appearance: Counsel advised new cellphone materials and recordings provided
+  day before and needed to review with client, also spoke to Crown “about ITO
+  that maybe disclosed at some point” suggested adjournment to June 10, 2021.
+June 10,
+  2021
+Twenty-first
+  Appearance: Agent for Counsel appeared indicated disclosure received and has
+  further resolution meeting with Ms. Staats, requesting June 17, 2021.
+June 17,
+  2021
+Twenty-second
+  Appearance: Continuing JPT scheduled for July 6, 2021, although first
+  available JPT available June 29 but Counsel requested the next week as trying
+  to keep that week clear. Matter adjourned to July 8, 2021.
+June 19,
+  2021
+Jordan
+  Ceiling Date (18 months or 548 days)
+June 23,
+  2021
+ITO disclosed
+  to counsel.
+July 6, 2021
+2nd
+  JPT held with Justice Bliss, the JPT form with trial estimates was not
+  completed.
+July 8, 2021
+Twenty-third
+  Appearance: Counsel requests adjournment to July 29, 2021, “further
+  input…waiting for, with respect to injuries of the victim in this matter. I
+  also need to speak with client of the results of the judicial pre-trial.”
+July 28,
+  2021
+Crown
+  provided update as to victim’s injuries and invited Counsel to schedule
+  another JPT before Justice Bliss.
+July 29,
+  2021
+Twenty-fourth
+  Appearance: Agent for Counsel advised Mr. North maybe looking to schedule
+  further JPT with Justice Bliss and suggesting 4 week adjournment. 
+August 26,
+  2021
+Twenty-fifth
+  Appearance: Agent for Counsel advised Mr. North requesting matter be adjourned
+  to September 16, 2021 as waiting for further update on victim medical
+  condition, Crown requesting 11(b) waiver because 20 months old but agent says
+  has no instructions and return date set to date requested by defence.
+September
+  16, 2021
+Twenty-sixth
+  Appearance: Adjourned to ICMC (Intensive Case Management Court) because of the
+  age of the case. Agent for Counsel picked the same date (November 26, 2021) he
+  had just agreed to on another matter. No explanation as to why this matter
+  needed to be adjourned 71 days. (ICMC scheduled 2nd and 4th
+  Friday of the month.)
+November 26,
+  2021
+Twenty-seventh
+  Appearance: Mr. North advises “still in process of scheduling a continuing JPT
+  before Justice Bliss.” He also makes reference to fact that Crown has been
+  endeavouring to get counsel further information with respect to victim’s
+  status and the extent of his injuries. He indicates the need to meet with
+  Justice Bliss to conduct JPT and “move matter towards a trial or there is a
+  remote possibility of resolution” although he expected the setting of trial
+  dates once the follow-up JPT occurs. Justice McLeod suggested the matter
+  should therefore go a Friday a week or two, back in JICMC to confirm JPT set
+  with Justice Bliss and Mr. North requested December 10, 2021.
+December 10,
+  2021
+3rd
+  JPT held at 8:30 a.m. before Justice Bliss, completed before the matter was addressed
+  in Court. JPT note from Justice Bliss, “need update re: medicals and possibly
+  some surveillance videos but nothing that will delay or prevent trial
+  occurring.”  Justice Bliss forwarded his JPT form in the morning of December
+  10, 2021 and both counsel had responded that the JPT form reflected the JPT
+  discussions by mid-afternoon on the same day.
+December 10,
+  2021
+Twenty-eighth
+  Appearance: Counsel appeared by zoom before Justice Rosenberg, he advised a trial
+  estimate of 7 days with a 1.5 day pre-trial motion scheduled prior to trial
+  had been agreed on. Counsel suggested to adjourn to January 7, 2022, Counsel advised
+  “We have completed the trial form,”…”In the meantime we will have filed the
+  form.”  
+January 7,
+  2022
+Twenty-ninth
+  Appearance: An agent for Counsel appeared before Justice Bliss and it was
+  determined that the defence had not sent in the trial scheduling form to the
+  trial co-ordinator after completing their part of that form. As a result the
+  matter was adjourned to January 28, 2022 for that to be done. 
+January 26,
+  2022
+Trial
+  co-ordinator emailed available dates to both counsel after scheduling form filed
+  and requested them both to respond. 
+January 28,
+  2022
+Thirtieth
+  Appearance: Agent for Counsel appearing before Justice Applegate, indicating
+  that trial scheduling forms have been provided to the trial co-ordinator and
+  trial dates and a pre-trial motion date had been agreed on. The defence suggested
+  a return date of February 11, 2022, to confirm the trial dates on record. There
+  was some confusion so the trial co-ordinator was called to join the zoom
+  appearance and as a result the trial dates were set: Pre-trial motion for 1.5
+  days, December 14 and 16, 2022, and the trial was scheduled for February
+  6-10, 13-14, 2023.
+December 14,
+  2022
+s. 8 Motion:
+  Defence counsel ill and matter adjourned to December 16, 2022, but on that
+  date defence counsel still ill, new dates agreed to January 24, 25, 2023, in
+  Bradford.
+February
+  6-14, 2023
+Trial
+  scheduled to complete on February 14, 2023.
+The Legal Principles
+        
+In Jordan, the Supreme Court of Canada detailed the following steps when determining the time for trial:
+ 
+1.    Calculate the total delay, which is the period from the laying of the charge to the actual or anticipated end of trial- that is, the end of evidence and argument; 2.    Subtract defence delay, including delay that is waived, from the total delay, which results in the net delay; 3.    Compare the net delay to the presumptive ceiling; 4.    If the net delay exceeds the presumptive ceiling, the Crown must establish the presence of exceptional circumstances, otherwise a stay will follow. Exceptional circumstances fall under two categories: discrete events, and particularly complex cases; 5.    Subtract delay caused by discrete events from the net delay, leaving the remaining delay; 6.    If the remaining delay exceeds the presumptive ceiling, the court must consider whether the case was particularly complex such that the time the case has taken is justified and the delay is reasonable; and 7.    If the remaining delay falls below the presumptive ceiling, the onus is on the defence to show that the delay is unreasonable. See also R. v. Coulter, 2016 ONCA 704, at paragraphs 35 to 41, which provides helpful guidance in applying the Jordan framework. 
+        
+The relevant time period runs from the charge to the actual or anticipated end of trial. The end of trial does not include the period between the end of closing arguments to the verdict: R. v. K.G.K., 2020 SCC 7 (CanLII), S.C.J. No. 7, at paras. 30-50. Findings and Analysis 1.           
+Calculating Total Delay
+     
+The total delay from the date the information was sworn to the agreed end date of the trial for purposes of this application is 1153 days, or 3 years and 58 days. 2.       Defence Delay
+     
+Delay will be attributed to the defence where there has been an explicit waiver of s. 11(b) or where delay is caused solely or directly by the conduct of the defence, R. v. Jordan, at paras. 61 and 63. Defence-caused delay "is comprised of situations where the acts of the defence either directly caused the delay or are shown to be a deliberate and calculated tactic employed to delay the trial": see Jordan, at para. 61; Coulter, at para. 44. Where the Crown and the court "are ready to proceed but the defence is not, the defence will have directly caused the delay": see Jordan, at para. 63; Coulter, at para. 44. Where the Crown and the court are not available and the defence is also not available, the time will not be characterized as defence caused delay: see Jordan, at para. 64; and R. v. Manasseri, 2016 ONCA 703, at para. 304. Defence action or inaction "which exhibits a marked inefficiency or indifference towards delay,” will be attributable to the defence in the s. 11(b) calculus, see R. v. Cody, 2017 SCC 31 (CanLII), 1 S.C.R. 659, at para 32. 
+     
+In Cody, at para. 30, the Supreme Court makes it clear however that these are just examples, and should not be taken as exhaustively defining deductible defence delay. As indicated in Jordan, at para. 64, it remains “open to trial judges to find that other defence actions or conduct have caused delay” warranting a deduction. The determination of whether defence conduct is legitimate is not an exact science, and while trial judges should "take care not to second-guess steps taken by defence for the purposes of responding to the charges, they must not be reticent about finding defence action to be illegitimate where it is appropriate to do so": Cody, supra, at para. 31.
+     
+In Cody, at para. 32, the Supreme Court made it clear that defence conduct “encompasses both substance and procedure – the decision to take a step, as well as the manner in which it is conducted, may attract scrutiny. Defence counsel are expected to “actively advance their client’s right to a trial within a reasonable time, collaborate with Crown counsel when appropriate and, like Crown counsel, [use] court time efficiently,” see Jordan, at para. 138; Cody, at para 33. 
+     
+It is the defence position that none of the delay from December 19, 2019 to February 17, 2023 is solely the fault of the defence, although Mr. North advised if some of the period between July 29, 2021 and November 16, 2021, ought to be deducted, it should be limited to a period of 6-8 weeks and should only be for the period July 29 to September 16, 2021 (When parties were instructed to attend in the JICMC court on November 26, 2021.). 
+     
+The Crown takes a different position and submits there are five periods of defence delay that should be deducted from the total delay. 
+a.    The first period of delay spanned from October 29, 2020, a period of 35 days as a result of the Applicant’s change of counsel; b.    The second period of delay was from June 29, 2021 to July 6, 2021, a period of 7 days wherein the Applicant did not take the earliest available JPT date; c.    
+The third period of delay was from July 9, 2021 to December 10, 2021, a total of 155 days wherein the Applicant did not move the matter ahead as they waited for an update on the victim’s injuries; d.    The fourth period of delay was from December 10, 2021 to January 28, 2022, a total of 49 days wherein the Applicant did not expeditiously file a trial scheduling form; and e.    The fifth period of delay is with respect to the time between January 28, 2022 to October 15, 2022, wherein the defence was not prompt in raising s. 11(b) and filing an application.
+     
+In my view, from a review of the transcripts I have concluded that there were four distinct periods of delay, which were directly caused by defence conduct. There is also a fifth area of delay, which I will address separately, where I conclude the defence action/inaction exhibited a marked indifference towards delay, and a portion of this period of time should be deleted from the total time before considering whether the Crown has met its onus to demonstrate that exceptional circumstances exist which were reasonably unforeseen or reasonably unavoidable by the Crown and whether the Crown could reasonably remedy delays caused by those exceptional circumstances if the net delay is above the presumptive ceiling.
+     
+The first period of delay relates to the Applicant’s second change of counsel, on October 29, 2020, which resulted in new counsel, Mr. D. North, requesting the matter be adjourned to December 3, 2020, to allow him to review disclosure provided by previous counsel. Previous counsel, Mr. D. Lakie, had gone on the record as Counsel for the Applicant on March 6, 2020, after the Applicant had discharged his original lawyer, Mr. Daley. The Crown had provided Mr. Lakie with disclosure on four occasions (the initial disclosure was 1500+ pages of disclosure, the 3 additional disclosure by the Crown was not described). All the record reflects as to the reason for the change in counsel was a conflict that had arisen. In my view this delay was caused directly by the Applicant, who had changed counsel once previously and the resulting delay from October 29, 2020 to December 3, 2020, of 35 days should be deducted from the total delay. It should also be noted that Mr. Lakie, despite having been provided disclosure did not schedule a CPT with the Crown, even after receiving four quantities of disclosure from the Crown in March and May 2020. I will address this further when I deal with the pandemic as an exceptional circumstance.
+     
+The second period of delay is not long but was caused directly by Mr. North who advised he preferred not to conduct a JPT on June 29, 2021, and the JPT was scheduled 7 days later on July 6, 2021, with Justice Bliss. It is important to note, and I will address this later in my reasons, that the Jordan presumptive ceiling of 18 months was reached on June 19, 2021, 2 days after the date for the JPT was set in court on June 17, 2021. This 7 days in my view is defence-caused delay.
+     
+The third period of delay relates to the time period between July 8 to December 10, 2021, which is the period after the July 6, 2021 JPT with Justice Bliss and the continuing JPT before him that finally occurred on December 10, 2021, at 8:30 a.m., before the matter was addressed in court. What is clear from the record is that Justice Bliss did not address the issue of assessing whether this matter would proceed by way of a preliminary hearing (a number of the charges were eligible for a preliminary hearing: robbery, criminal negligence causing bodily harm, dangerous operation of conveyance causing bodily harm, and failure to stop after accident where bodily harm) or by way of trial in the Ontario Court of Justice. Further, there was no discussion about the time required to complete either a preliminary hearing or a trial and there was no discussion as to what applications might be brought by the defence and the time required. No JPT form was completed by Justice Bliss and sent to counsel for their input respecting those issues until December 10, 2021, after the continuing JPT was held. In the materials provided on this Application Justice Bliss forwarded the JPT form for counsel’s input on December 10, 2021, very shortly after the JPT was completed. 
+     
+The matter was adjourned according to the transcript on July 8, 2021, to allow the Crown to provide a further update on the victim’s injuries. This was a running theme throughout the numerous adjournments (July 29, August 26, September 16, and November 26) that occurred between July 8, 2021 and December 10, 2021, where Mr. North or his Agent advised that they were waiting on further information concerning the victim’s injuries and that counsel may want to set a continuing pre-trial with Justice Bliss. The Crown had provided a further update on the victim’s injuries on July 28, 2021, before the appearance on July 29, and the agent requested a four week adjournment to set up a continuing JPT with Justice Bliss. On the August 26, 2021 court appearance, the Crown asked Mr. North’s agent for a s. 11(b) waiver as the matter was 20 months old; however, the Agent indicated he had no instructions respecting that and the matter was adjourned to the date requested by the defence. Nothing different was indicated by the agent as to whether a continuing JPT had been scheduled with Justice Bliss on the next appearance on September 16 and the Crown indicated the matter had to be adjourned to the ICMC court because it was “over the 18-month threshold.” The agent requested the matter be adjourned to November 26, 71 days away without any explanation respecting the scheduling of a continuing JPT before Justice Bliss, other than he wanted to return on the same date he had just set on a previous unrelated matter, presumably so he could appear on both matters on the same date. 
+     
+On November 26, 2021, Mr. North appeared and again indicated the Crown was endeavouring to provide an update on the victim’s injuries, although the Crown in her materials provided her email dated July 28, 2021, which clearly outlined the state of the victim’s injuries at that point in time and invited Mr. North to set up a continuing JPT with Justice Bliss, which was not done. The next email provided is from the Crown to the Trial Coordinator on November 23, 2021, requesting a continuing JPT with Justice Bliss. Mr. North advised Justice McLeod of this on November 26,
+ and indicated this would likely “move this matter towards a trial or there [was] a remote possibility of resolution” but he expected trial dates would be set following the JPT with Justice Bliss. Justice McLeod indicated she wanted the matter to move forward and suggested it return in a week or two and Mr. North suggested December 10.
+     
+Clearly a continuing JPT was arranged as it occurred on the morning of the appearance of December 10, 2021. I find based on the record this was the first occasion that discussions between counsel and Justice Bliss concerned trial estimates in the Ontario Court of Justice and the time required for Charter pre-trial motions. I further find, given the fact that the defence throughout was requesting the Crown provide updates as to the victim’s injuries resulting from the alleged carjacking that this related to the potential range of sentence if these matters were resolved. Jordan is clear that defence actions taken to legitimately respond to the charges do not constitute defence delay, at para. 65: To be clear, defence actions legitimately taken to respond to the charges fall outside the ambit of defence delay. For example, the defence must be allowed preparation time, even where the court and the Crown are ready to proceed. In addition, defence applications and requests that are not frivolous will also generally not count against the defence. We have already accounted for procedural requirements in setting the ceiling. And such a deduction would run contrary to the accused's right to make full answer and defence. While this is by no means an exact science, first instance judges are uniquely positioned to gauge the legitimacy of defence actions.
+     
+However, it is equally clear that if after a JPT the defence is pursuing resolution discussions with the Crown and their client and with the JPT judge, the defence cannot delay the proceedings for as long as this might take and then rely on this delay to argue that their client’s s. 11(b) rights have been infringed. It is my view that this was not what was contemplated by the Supreme Court in Jordan  as “procedural requirements.” If this were so, this would be counter to the statement in Jordan, at para. 116, that the court, Crown and defence all have to “work in concert to achieve speedier trials.” Further, it is my view the defence position is contrary to the Court of Appeal decision in R. v. Chung, 2021 ONCA 188 (CanLII), O.J. No. 1624 (C.A.), at paras. 186-189, which held resolution discussion delay is defence-caused delay that should be deducted for the total delay. (See also R. v. Busch, O.J. No. 1757 (OCJ, Duncan), at paras. 4-9; R. v. Lim, O.J. No. 5977 (OCJ, Shamai), at paras. 44, 67-102; R. v. G.S., O.J. No. 4198 (OCJ, R. Wright), at paras. 22-24;
+ R. v. Aly, O.J. No. 5257 (SCJ, Henderson), at paras. 25-26; and R. v. Kaur, O.J. No. 6425, (SCJ, Andre), at paras. 30-34.) 
+     
+On November 26, 2021, Mr. North advised resolution was still a possibility, although remote, when he adjourned the case was adjourned to December 10, 2021. In my view this also is part of the circumstances that I considered in making my findings set out above. Justice Bliss conducted the continuing JPT at 8:30 a.m. on December 10, prior to the commencement of the ICMC court. From the record before me this was the first time discussions occurred as to the mode of election, which turned out to be a trial in the Ontario Court of Justice, what pre-trial Charter applications were to be brought, the witnesses to be called and the estimated length of the Charter application and of the trial. Justice Bliss sent counsel the completed JPT form at 9:27 a.m. on December 10, 2021, for their perusal and both counsel emailed their confirmation before the end of that day. I find that the time between July 8 to December 10, 2021, is defenced-caused delay, a period of 155 days.
+     
+The fourth period of delay relates to the time between December 10, 2021, and January 28, 2022, when the trial scheduling form had to be filed by counsel with the Trial Coordinator to set trial dates and pre-trial motion dates. On December 10, 2021, Mr. North advised that the form would be filled out by the next appearance, which he suggested take place in January 2022. The matter was returned to January 7, 2022, and Justice Bliss was the presiding judge. An agent appeared for counsel and advised the JPT form was completed on December 10 but was unaware whether Mr. North had sent in the trial scheduling form. Justice Bliss indicated Mr. North was aware he was to do this as he has been involved in other matters in this jurisdiction (Barrie/Bradford). The Crown in court advised there was the Crown’s portion of the trial scheduling form in the file. The matter was held down for the agent to speak to Mr. North and for someone to contact the Trial Coordinator. When the matter was spoken to again it was clear Mr. North had not completed the trial scheduling form, the Crown advised they would send their portion of the form to the defence by email and the matter was adjourned to January 28, 2022.
+     
+On January 28, 2022, the matter was spoken to and the agent for Mr. North was suggesting the matter be adjourned to February 11, 2022, to confirm and set the dates being offered by the Trial Coordinator. Justice Applegate was of the view the trial dates and Application dates should be set then with no further adjournment. After the Trial Coordinator joined the zoom hearing, the trial dates Feb 6 to 14, 2023, were set and the s. 8 Charter Application was set for December 14 and 16, 2022, all in the Bradford Court.
+     
+There was clearly some confusion between the Crown and defence counsel respecting the scheduling form, which needed to be sent to the Trial Coordinator in order to schedule a meeting and set dates for trial. Justice Bliss indicated this had been discussed at the JPT and Mr. North was aware of what was required. There is an email from the Trial Coordinator to counsel, in the materials, dated January 26, 2022, offering trial dates of February 6 to 14, 2023 and December 14 and 16, 2022, for hearing the s. 8 Charter Application. It is my view, after reviewing all of the transcripts and materials that the 49 days of further delay from December 10, 2021 to January 28, 2022, should be apportioned between the Crown and defence pursuant to R. v. Boulanger, S.C.J. No. 2, at para 8, where the Supreme Court held: This Court did of course explain in Jordan that where the court and the Crown are ready to proceed but the defence is not, the resulting delay is attributable to the defence (para. 64). All participants in the criminal justice system, including the defence, must take a proactive approach in order to prevent unnecessary delay by targeting its root causes (Cody, at para. 36). That being said, in some cases, the circumstances may justify apportioning responsibility for delay among these participants rather than attributing the entire delay to the defence.
+     
+The 49 days should be split between the parties as, in my view, both parties demonstrated an indifference or inefficiency in complying with protocols put in place by the Trial Coordinator in Barrie to assist in the effective and efficient setting of trial dates with counsel given the difficulties created by the shutting down of the courts of the Ontario Court of Justice in response to the world-wide pandemic involving COVID-19. I would apportion 24 days as defence-caused delay. I will be addressing the COVID-19 pandemic’s impact on the net delay in this case when I deal with whether there are exceptional circumstances.
+     
+The fifth period of delay relates to the setting of the trial dates in February 2023 and the fact that throughout the numerous appearances on this matter, other than reference to the charges being extremely serious and that they were dated, the defence at no time raised any s. 11(b) concerns. This was a case which started just a few months prior to the unprecedented closure of all courts in the Province of Ontario, at all levels, and for that matter, throughout Canada. On March 16, 2020, the Chief Justice of the Ontario Court of Justice issued a directive that all out-of-custody appearances should be adjourned for 10 weeks from the appearance date, arising as a result of the Premier's declaration of a state of emergency in the province. These presumptive adjournments continued until July 6, 2020. Scheduled trials during this period were also adjourned and added to the new cases being adjourned. Throughout this period, March 6 to July 6, 2020, in-custody matters, involving both bail hearings and guilty pleas took precedence. 
+     
+On July 2, 2020, the Chief Justice of the Ontario Court of Justice published a "Notice to the Profession and to the Public re Criminal Case Management Appearances and Setting Trial and Preliminary Inquiry Dates." The Notice set out a scheduling plan that included a priority order and timeline for setting trial and preliminary inquiry dates with the initial focus on in-custody cases. Consequently, trials adjourned because of COVID-19, trials that were already scheduled to proceed after July 6, 2020, and new in-custody cases were all competing for limited court time as the Ontario Court of Justice began to reopen its courtrooms. I will deal in more detail with the unprecedented impact of the COVID-19 pandemic when I deal with whether the Crown has rebutted the presumption of unreasonableness based on the presence of exceptional circumstances where the net delay is greater than the presumptive ceiling of 18 months.
+     
+For the purpose of addressing this period of time from January 28, 2022, to February 14, 2023, the end of the Applicant’s scheduled trial, the issue in my view relates to whether this period of time should be considered as defence-caused delay. At the point in time that the continuing JPT was held with Justice Bliss on December 10th, almost 24 months had elapsed. Pre-trial motions were discussed; however, the only pre-trial motion was a s. 8 Charter Application. At no time did  the defence advise the Crown or Justice Bliss there would be a Charter Application alleging the Applicant’s s. 11(b) rights had been infringed, rather, the defence and the Crown determined with Justice Bliss the length of time required to complete the evidence in this serious matter and the Trial Coordinator offered dates in December 2022 and February 2023, which were accepted by both parties. If the defence had advised the Crown and Justice Bliss at the JPT there would be a s. 11(b) Application brought then the Crown could have investigated and determined whether giving priority to this matter could have resulted in setting earlier dates to properly address the delay. However, this did not occur. Instead, the defence did not provide the Crown with any opportunity to remedy or mitigate the delay given the Application was not filed until October 15, 2022. 
+     
+It is my view, the defence cannot sit silent and give the impression to the Crown and the Court that s. 11(b) is not an issue when trial dates are being offered by the Trial Coordinator. All participants in the administration of criminal justice are expected to work together  in a “proactive approach” to prevent unnecessary delay by targeting its root causes and all participants this responsibility (Jordan, at para. 137; Cody, at para. 36).
+     
+Much like my earlier finding respecting the time period after the first JPT with Justice Bliss between July 8, 2021, and December 10, 2021, where the defence delayed having a continuing JPT before Justice Bliss because they wanted to receive additional information as to an update the victim’s injuries (in addition to the information they received on July 28, 2021, where the Crown advised the victim had received at least 15 or 16 surgeries) and I found the defence was engaged in discussions surrounding possible resolution, which resulted in defence-caused delay. This type of delay was found by the Court of Appeal in Chung, as being defence-caused delay, agreeing with the trial judge. 
+     
+Mr. North submitted that his not filing his s. 11(b) application until October 15, 2022, did not offend the recent decision in the Supreme Court of R. v. J.F., S.C.J. No. 17. I do not agree with the defence interpretation of J.F. In my view there are numerous passages which clearly indicate the defence must act diligently and proactively. In para. 3, Chief Justice Wagner, for the majority, held: “As a general rule, in the context of a single trial, an accused who believes their right to be tried within a reasonable time has been infringed must act diligently and apply for a remedy before their trial is held.” He continues at para. 34 and 36: 34 An accused who sees delay lengthening must therefore respond in a proactive manner. Being proactive may mean filing a s. 11(b) motion where the accused believes that their right to be tried within a reasonable time is not being or will not be respected (Jordan, at para. 85). Like any other application made by an accused, a motion of this kind must be brought "reasonably and expeditiously" (para. 85). Lateness in raising delay is contrary to the proper administration of justice, because such a practice serves to waste judicial resources. Indeed, the Jordan framework is specifically designed to eliminate inefficient practices that impact on the justice system (paras. 41 and 116). Bringing a s. 11(b) motion before the end of the trial allows the accused to alert the Crown and the court to their concerns about delay. As a result, all parties can take proactive measures and cooperate to expedite the proceedings. 
+36 …a duty to act proactively also rests on the accused. As a result, the accused must indicate that their right to be tried within a reasonable time has not been respected and, where the circumstances require, bring a motion for a stay of proceedings in a timely manner. As a general rule, this means before the trial is held. By the time the trial dates are set, the parties are generally in a position to know whether the trial delay will exceed the applicable presumptive ceiling, and the defence can raise any concerns it may have. However, it is not out of the question that, exceptionally, an infringement of the s. 11(b) right will reveal itself only once the trial has begun. In such a case, the accused must also act proactively.
+     
+As I indicated above, when the trial dates were set the age of this case was just over 24 months. The presumptive ceiling had been surpassed as of June 18, 2021. There was no confusion in any of the parties’ minds about this fact, yet the defence agreed to the dates offered by the Trial Coordinator. Mr. North seems to be suggesting that the only requirement on the defence is to raise s. 11(b) before the trial pursuant to the dicta in R. v. J.F.; however, the Supreme Court continued to make it very clear “how it wishes all participants in the criminal justice system to act: at all stages of the trial process, everyone must take proactive measures to remedy any delay and to ensure the accused is tried in a timely manner.” (para. 30). If Mr. North’s position is correct then the defence could agree to trial dates, which are clearly beyond the presumptive ceiling, remain silent about their intentions to bring a s. 11(b) application, until it is too late for the Crown to mitigate or remedy in any possible way the delay by having the trial take place earlier. It is my view conduct which allows the defence to hide in the weeds and not alert the Crown or the Court to their concerns about delay (as indicated in para. 34) until a point where no one could remedy or mitigate that delay in any meaningful way is entirely contrary to the new framework created in Jordan, which encourages proactive, collaborative participation by all participants in the administration of justice designed to prevent delay from occurring in the first place. When an accused sees delay lengthening, they equally have an obligation to “respond in a proactive manner” respecting their concern and bring a motion “reasonably and expeditiously” (J.F., para. 34). It is my view, pursuant to Jordan, Cody, and J.F., the defence is not permitted to ambush the Crown by appearing to agree with trial dates offered without raising any concerns about delay and setting those dates. A case which recently dealt with a similar circumstances, where the defence did not raise s. 11(b) as an issue until eight months after the trial dates were set, is R. v. Botsford, O.J. No. 1634 (SCJ, Tranquill). 
+     
+As indicated in Cody, at para. 32, “defence conduct encompasses both substance and procedure -the decision to take a step, as well as the manner in which it is conducted,...” The circumstances surrounding the defence conduct, action or inaction are to be considered. In this case the trial dates offered were over 13 months into the future. In my view it is not surprising that no one – not the Crown, or the defence or the court – raised any concern when these dates were set on January 28, 2022, about the presumptive ceiling being exceeded and as a result s. 11(b) being infringed. When one considers the fact that the administration of justice was basically completely shut down for over 7 months (March 16, 2020 to October 29, 2020) as a result of the COVID-19 pandemic and with the continued impact on limited resources caused by the initial pandemic closures and a further closure of the courts because of a second wave in the spring of 2021, particularly for defendants out of custody, this in my view is completely understandable and logical. Additionally, new cases continued to come before the courts creating increasing difficulty and complexity in the scheduling and completion of both existing and new trials. This in my view has caused what has been termed a “ripple effect” causing continuing delays as a result of the pandemic. I will deal with this in more detail when I address whether the pandemic should be considered an exceptional circumstance. 
+     
+For the defence to now point to this period of time (January 28, 2022, to February 14, 2023) as delay that should be included in determining whether the presumptive ceiling of 18 months has been exceeded, when their inaction in raising this as a concern is equally part of the reason these particular motion and trial dates were selected, as well as the other participants (the Crown and the court), in my view, clearly amounts to illegitimate defence conduct (Jordan, at para. 138; Cody, at paras. 33 to 35). It is my view defence counsel, as indicated in Cody, at para. 33, are expected to “actively advanc[e] their clients’ right to a trial within a reasonable time, collaborate[e] with Crown counsel when appropriate and us[e] court time efficiently” (Jordan, at para. 138). As stated in Jordan the defence should not be allowed to benefit from its own delay-causing conduct (para. 60) In Cody (at para. 33) the Supreme Court described how “inaction may amount to defence conduct that is not legitimate” and that “illegitimacy may extend to omissions as well as acts” (para. 33). “Illegitimacy takes its meaning from the culture change demanded in Jordan (Para. 35). 
+     
+It is my view this period of delay demonstrates a marked indifference toward delay and this entire period (January 28, 2022, to February 14, 2023: 382 days) could be viewed as defence-caused delay. However, it is my view the Crown also bears some responsibility for this delay. In fact, the Crown in her written submissions is not arguing that this entire period of delay should be found to be defence-caused delay. The Crown argued some portion of this period should be considered as defence-caused delay, given the s. 11(b) application was not filed until October 15, 2022, at a point in time where it was impossible for the Crown to be able to do anything to remedy or ameliorate any amount of the delay. It is my view and I find that the 382 days should be apportioned equally between the defence and Crown as per R. v. Boulanger. As a result, I find there are an additional 191 days of defence-caused delay respecting this period of time, which amounts to a total defence delay of 412 days (35+7+155+24+191)to be deducted from the total delay of 1153 days.    
+3.       Net Delay
+     
+By my findings and calculations, the defence delay is 412 days, leaving a net delay of 741 days, which is greater than the presumptive ceiling of 548 days or 18 months for matters heard in the Ontario Court of Justice. 4.       Exceptional Circumstances
+     
+Consequently, the net delay exceeds the Jordan ceiling and so is presumptively unreasonable. As a result, it falls to the Crown to establish the presence of exceptional circumstances (Jordan, para. 47). These generally fall into two categories: "discrete events" and "particularly complex cases" (Jordan, para. 71).
+     
+Exceptional circumstances (Jordan, para. 69) lie outside the Crown's control in that: 1)   
+they are reasonably unforeseen or reasonably unavoidable, and 2)   
+Crown counsel cannot reasonably remedy the delays emanating from those circumstances once they arise.
+     
+When an unforeseen event occurs, there is an obligation on the Crown to take reasonable steps to try to avoid and address it before the presumptive ceiling is reached. Some examples of the sorts of steps include: "prompt resort to case management processes to seek the assistance of the court, or seeking assistance from the defence to streamline evidence or issues for trial or to coordinate pre-trial applications, or resorting to any other appropriate procedural means" (Jordan at para. 70).
+     
+The Applicant was charged on December 19, 2019, with the offences set out above and was initially remanded to December 20, 2019, for a bail hearing, after which he was detained. He was then remanded for four court appearances in order to speak to his counsel, B. Daley (until February 14, 2020). Two weeks later the Applicant attempted to change counsel but this did not occur and it was not until March 6, 2020, that Mr. Lakie was put on record for the Applicant. Initial disclosure was received on March 6, 2020, which was 1500+ pages. 
+     
+No CPT had been conducted by the defence throughout the previous adjournments, although Mr. Lakie indicated he had been speaking with the Crown. On the March 19, 2020 appearance, Mr. Lakie requested a JPT be set; however, the Chief Justice had just announced on March 16, 2020, that all trial matters scheduled were being adjourned, out of custody matters were being adjourned 10 weeks, custody matters were being addressed by the accused appearing by video from the custodial facility. JPTs were not yet being set because the court’s processes were in a “state of flux” because of COVID-19, as indicated by Justice Gattrell on the March 19, 2020 appearance.    
+     
+The Applicant’s bail review occurred on March 31, 2020, when he was released by Justice Christie on a $25,000.00 surety release order, which included a house arrest condition and the matter was adjourned according to the Chief Justice’s “Notice to the Public Regarding Criminal Matters in the Ontario Court of Justice” automatically 10 weeks to June 11, 2020, for an appearance by video. The next two appearances were also presumptive adjournments with enhanced designations without any representations by any of the participants concerning outstanding disclosure or about moving the matter forward. 
+     
+During this time period (March 19, 2020 to October 29, 2020 – 225 days) no further requests for a JPT with a judge were made by the defence or the Crown and there were no requests by either the Crown or defence for there to be a CPT, although the Crown was providing disclosure as it was received by the Crown to the defence, Mr. Lakie. During this period court houses in Ontario were equipped with better ventilation systems, and courtrooms were outfitted with protective equipment. Technology was put in place to permit remote hearings. After July 6, 2020, a limited number of scheduled trials and preliminary hearings were proceeding, although many continued to be adjourned, as further courts were equipped with protective equipment. In-custody cases, where the trials or preliminaries had been adjourned, took priority to be re-scheduled in respect of the trials, preliminary hearings and sentencing that had been presumptively adjourned when the Courts were closed because of the pandemic.
+     
+On July 2, 2020, the Chief Justice published a "Notice to the Profession and the Public re Criminal Case Management Appearances and Setting Trial and Preliminary Inquiry Dates". The Notice set out the incremental plan to begin to set unscheduled criminal trials and preliminary hearings. Because of the large number of cases that had been adjourned and needed to be rescheduled, the need to prioritize within the Court's caseload, and to have a fair and orderly scheduling process, the Court established a priority order and timeline for setting trial and preliminary inquiry dates as follows:
+ 1.   
+In-custody continuations that were scheduled to proceed between March 16, 2020, and July 3, 2020, but were adjourned due to the pandemic. Scheduling to begin no later than July 6, 2020.
+ 2.   
+In-custody hearings adjourned due to COVID-19 between March 16, 2020, and July 3, 2020. Scheduling to begin between July 7, 2020, and July 16, 2020, depending on the date the hearing was adjourned.
+ 3.   
+New in-custody hearings. Scheduling to begin no later than July 21, 2020.
+ 4.   
+Out-of-custody continuations that were scheduled to proceed between March 16, 2020, and July 3, 2020. Scheduling to begin on August 5, 2020.
+ 5.   
+Out-of-custody hearings adjourned due to the COVID-19 pandemic. No schedule was established for the setting of trial dates of out-of-custody hearings adjourned due to the pandemic.
+     
+It is my view this gradual rescheduling of trials and preliminaries was necessary to protect all participants involved in the administration of justice. The pandemic and its impact and effects continued. Further delays occurred, particularly as this related to individuals out of custody whose trials had been adjourned or individuals who were facing new charges. This created what has been termed a “ripple effect” directly caused by the COVID-19 pandemic (R. v. Simmonds, 2020 ONSC 7209 (CanLII), O.J. No. 5183 (SCJ, Nakatsuru), at para. 70). As the Supreme Court recognized in R. v. K.G.K., supra, at para. 61, “Reasonableness under s. 11(b) has always accounted for the reality that "[n]o case is an island to be treated as if it were the only case with a legitimate demand on court resources" (R. v. Allen (1996), 1996 CanLII 4011 (ON CA), 92 O.A.C. 345, at para. 27).” It is my view the Applicant's submission initially about allotting three months to the pandemic as an exceptional circumstance would have COVID-19 treated like a single event impacting a single discrete case or day of Court. It is not a single closure of a Court or a specific lost day. It is an exceptional circumstance that continues to ripple through the Courts to the present time and frankly, for many months into the future.
+     
+On October 29, 2020, Mr. Lakie was removed as counsel of record and replaced by Mr. D. North, who requested the matter be adjourned for him to review the disclosure provided by the Crown to Mr. Lakie. A CPT was held between Mr. North and the Crown on November 20, 2020, and on December 3, 2020, the matter was adjourned to set a date for a JPT. The matter returned in Court on January 14, 2021, and was adjourned further to February 11, 2021, as the JPT had been set for February 2, 2021. It is my view this two month delay from December 3, 2020 to February 11, 2021, was an example of the “ripple effect” first identified in Simmonds, but referred to in numerous cases subsequently. I adopt the observations and reasons of Justice Nakatsuru in Simmonds, at paras. 69-73. 
+69  First, while the jurisprudence about COVID-19 as a discrete exceptional event within the meaning of s. 11(b) is relatively new, most trial courts have deducted the entire time from the start of the impact of COVID-19 on the courts to the date of the scheduled trial as opposed to only the time period where trials have been actually suspended: Cites omitted. 70  Second, the impact of the COVID-19 pandemic on the criminal justice system is not limited to those periods of time when the court had to adjourn scheduled cases or when jury trials were suspended. It has had numerous and far-reaching impacts upon how we do things, and, on the people, who do them. Not the least has been the necessity to take measures to protect the health and safety of justice participants and the public. The way trials are conducted needed to be transformed. Physical courtrooms had to be changed. Some trials are now conducted virtually. This in turn, has had a significant impact on scheduling. Scheduling new trials and rescheduling existing trials have become more complex and difficult. A backlog of cases has ensued. A lack of resources was not the cause. Rather, COVID-19 was. It has had a system-wide impact of unprecedented proportions, never seen before in our lifetime. 71  Third, taking such a realistic perspective regarding the impact of a discrete event is not novel. Take, for an example, when a judge falls ill. As a result, the trial must be adjourned to a new date. This is a recognized discrete event. The period of delay caused by this discrete exceptional event does not end the moment the judge recovers from their illness and is again capable of hearing cases. Rescheduling takes place in the reality of the courthouse. The new trial date takes into account the availability of the judge, the Crown, the defence counsel, and witnesses: Coulter, at paras. 81 - 84. 72  Similarly, the discrete exceptional event caused by the COVID-19 public health crisis does not end the moment the courts are again hearing jury trials. The trial takes place in the reality of the courthouse the case is being heard in. That reality must be recognized when calculating the appropriate time period and in assessing what the Crown and the court can reasonably do in mitigating the delay. 73  Fourth, the COVID-19 pandemic and its effects on the judicial system are not over. Now, the pandemic is getting worse. We are in the second wave. The number of infections is far greater than in the first wave. Despite promising news about potential vaccines that are being developed, there remains much uncertainty. The Superior Court of Justice in Toronto Region--which has now suspended jury trials again since October 9, 2020--has recently extended the suspension of jury trials to January 4, 2021. In short, when it comes to assessing COVID-19's impact on the criminal justice system, this discrete event continues.  
+     
+It is my view the period from March 19, 2020 to October 29, 2020, is clearly part of the discrete event of the world-wide COVID-19 pandemic, which I find to be an exceptional circumstance. Usual court processes (such as CPTs, JPTs, routine setting of trial or preliminary hearing dates) that would have normally taken place during this 225 day period of time were not being scheduled. Out of custody accuseds’ cases were subject to rolling 10 week presumptive adjournments. 
+     
+The COVID-19 pandemic did not just cause court processes to be shut down during this initial period of time, it also affected many of the participants in the administration of criminal justice, which caused further delays in trials and preliminaries. Crown Attorney’s offices across Ontario were closed with the Crowns and their staff working remotely from home. Police stations were closed to the public. Forensic services and expert examination of cell phones and computers were delayed, as well expert forensic examination at the Centre of Forensic Sciences of evidence collected during investigations. At the beginning of the COVID pandemic Legal Aid mandated that all duty counsel only appear in court remotely, which only ended at some point in the fall of 2022. Custodial facilities experienced wide-spread outbreaks of COVID, with both inmates and correctional staff contracting COVID, which led to lockdowns and persons in custody not even appearing remotely. In the early months of COVID-19, bail hearings were prioritized to attempt to reduce the number of individuals in custody awaiting a hearing and also to alleviate crowding in detention facilities. I have only touched the surface by providing a few examples of the significant impact the COVID-19 pandemic had on the administration of criminal justice. On September 14, 2021, during the Opening of the Courts, the Chief Justice of the Ontario Court of Justice indicated when discussing the impact of the COVID-19 pandemic, “This past year has seen an extra 60,000 criminal cases added to our backlog.” It is no wonder that the earliest this 7-day trial, with 1 ½ day pre-trial motion, could not be scheduled until 14 months after the set date agreed to by the parties.
+     
+All of the steps taken by the administration of justice to address the pandemic led to an exponential increase in a backlog of cases, which was unavoidable. In my view Justice Dunphy, in R. v. Titus, O.J. No. 2648, at paras. 17-19, best articulated the result of all of the extraordinary measures undertaken by the various participants involved in the administration of criminal justice to address the COVID-19 pandemic. While she is speaking to issues facing the Ontario Superior Court of Justice, there can be no doubt these comments are equally, if not more so, applicable to the Ontario Court of Justice: 17  The current backlog in cases awaiting a hearing cannot in any way be attributed to a re-emerging culture of complacency that Jordan directed all justice system participants to work diligently to eliminate. The backlog is the mathematical result of the cascading systemic impact of cancelled scheduled hearing dates and deferred scheduling of future hearing dates occurring during the periods of total physical closures of court operations plus other periods of only partial re-opening where fewer hearings than normal were able to be processed. The resulting backlog is in the process of being worked through but, like the proverbial pig in the python, it will take some time before it can be considered to be fully digested. 18  The simple fact of the matter is that the justice system cannot expand and contract at will and without limit to accommodate every contingency. There has never been an emergency in the history of the administration of justice in this country that has resulted in this degree of court closures lasting for anything close to this amount of time. Ever. 19  The Charter requires the Crown to provide everyone with a trial within a reasonable time and Jordan was designed to ensure the validation of that right by wringing out of the system the culture of complacency that tolerated needless impediments to the realization of that guaranteed right. Obviously, the pandemic emergency is not a "get out of Jordan free" card to be played at will by the Crown for months or years to come. Even unprecedented emergencies must be responded to and must be responded to reasonably with diligence and efficiency. To this point in the unwinding phase of this emergency, there is no reason to suspect a systemic failure to respond reasonably or efficiently. I cannot of course exclude the prospect of unreasonable delay arising in the context of a particular case notwithstanding the backdrop of exceptional systemic delay that is being otherwise reasonably addressed….
+     
+I adopt Justice Dunphy’s analysis and find that there has never been an emergency of the magnitude or impact on the administration of criminal justice as COVID-19 and its aftermath. The Supreme Court could not have imagined or predicated such an emergency might occur when the Jordan framework was established. Its effects and impact are continuing to the present time almost three years after the Chief Justice closed all courts, with no indication of completely ending in the near future.  
+     
+The defence seemed to agree in his written submissions that the pandemic was an exceptional circumstance and pointed to one case (R. v. Korovchenko, 2022 ONCJ 388, at paras. 89-97) where 3 months of delay were allotted as exceptional delay caused by the pandemic, when he submitted was the amount that many courts have seen fit to deduct. It is my view this submission is not accurate or supported when looking at how judges, in both the Ontario Court of Justice and Superior Court, have determined what period of delay has been caused by the pandemic. In fact, many judgments have found the pandemic to be a discrete event that clearly falls within the category of exceptional circumstance as reflected in Jordan and further, recognize the pandemic as a continuing discrete event (see for example Simmonds). It is my view the Applicant's written submission about allotting only three months to the COVID-19 pandemic would have treated it like a single event impacting a single discrete case or day of Court. It is not a single closure of a Court or a specific lost day. In my view it is an exceptional circumstance and its impact continues to ripple through the Courts to the present time.
+     
+The defence has pointed to a recent decision by Justice Di Luca in R. v. Gonsalves, 2022 ONSC 6004, a summary conviction appeal related to an impaired operation by drug trial, where the failure by the Crown to provide the DRE report prepared the night of the investigation (December 19, 2019) and the Toxicology Report from the Centre of Forensic Sciences, (prepared on March 16, 2020) until January 31, 2021, was considered in assessing whether the delay above the presumptive ceiling was reasonable because of the pandemic. Both items of disclosure were available to the Crown prior to the pandemic shutdown. In those circumstances Justice Di Luca found the pandemic did not impact the preparation and delivery of disclosure as it was prepared before the shutdown of the courts. He found these two items of disclosure, given the charges, were “core” disclosure. In my view the same observations cannot be made in the case before me, as the Crown provided what amounted to substantial disclosure on four separate occasions, early in the proceedings, despite the world-wide COVID-19 pandemic and the closure of the courts. 
+     
+The Crown had not received the phone extraction report, which from the material before me on this application did not become a pressing issue until after the first JPT was set on February 2, 2021. Both the Crown and defence advised they were awaiting information relating to whether police would be successful in accessing a cell phone seized from the Applicant. The materials also indicate after the JPT, in an exchange of emails between Mr. North and Ms. Staats, that the production order had been obtained but the police expert was having difficulty accessing the cell phone. This is referred to in the set date transcript from February 11, 2021, as both parties being in a “holding pattern” because of this difficulty. The police finally accessed the phone in March 2021, and both parties were waiting for the completion of the phone extraction report by a police computer expert in April. It was disclosed based on the materials on April 14, 2021. Mr. North advised he had received this disclosure when he attended on May 6, 2021. Further disclosure was provided to the defence on May 19, 2021, shortly after the police expert discovered audio files from a deleted folder in the Applicant’s phone. The matter was addressed on May 20, 2021, and adjourned for counsel to review this disclosure with his client.
+     
+Mr. North’s agent requested the matter be further adjourned so that a resolution meeting with the Crown could be arranged. When it returned on June 17, 2021, the JPT was set at Mr. North’s request for July 6, 2021. I have addressed the two periods of time between June 29 and December 10, 2021, which I found to be defence delay.
+     
+When I compare the circumstances and facts in this case to that of the Gonsalves case, it is my view they are significantly different. It is my view the Crown in this case was not neglecting its disclosure obligations, in fact, disclosure was provided on four occasions, on dates consistent with diligence on the part of the Crown and defence, respecting what I would describe, and the parties described throughout, as serious charges with some complexity (initial disclosure is referred to as containing 1500+ pages), as well as the police attempting to access and extract data from a cell phone. Justice Di Luca found that even without the pandemic the matter before him would have been stayed as the delay was entirely caused by the Crown not providing “core” disclosure, despite repeated efforts by the defence. As a result he allowed the appeal, allowed the s. 11(b) application and stayed the charge.  In my view this does not in any way replicate the actions taken by the Crown in this case, where I find the Crown was diligent in meeting her disclosure obligations, despite the impact of the pandemic and the court’s response to it, which resulted in rolling presumptive adjournments for many months.
+     
+It is my view, at the very least, the delay between March 19 and October 29, 2020, 225 days, was an exceptional circumstance completely beyond the control of the Crown that was reasonably unforeseen and unavoidable. The Crown cannot be expected to reasonably remedy the delays directly caused by those circumstances. It is also my view that this period of measurable delay (225 days in this case), as well as the continuing impact and the effects of the pandemic (not currently known but in my view certainly possible) more than account for the 193 days (741: net delay - 548 days: presumptive ceiling) beyond the 18-month Jordan threshold applicable in normal times.   
+     
+From the material filed on this application it is clear that once the rolling adjournments (March 19 to October 29, 2020) caused by the pandemic ended, the Crown and defence immediately scheduled a CPT and then attempted to set up a JPT to discuss the case. It was at this JPT that the issue of the cell phone extraction was first raised by both Crown and defence. This was the first opportunity of scheduling a JPT, which was caused as a direct result of the pandemic.  
+     
+The delay between February 2 and April 14/May 19, 2021, in my view were the normal delays in accessing, if that was even possible, the cell phone data from the Applicant’s seized phone. Once the cell phone was accessed, the turn around in providing a report to the Crown, who then provided it to the defence, was completely reasonable in my view. 
+     
+It should also be noted that this case, based on the materials filed before me, is not a simple or “run of the mill” criminal case, such as an impaired or simple assault case. It has complexities involving for example a s. 8 Charter application and the extraction of data/information from a cellular smart phone, and required the setting a total of 8 ½ days of court time. Prior to the pandemic occurring this amount of court time would have been difficult to set; however, after the pandemic, the number of days required presented greatly increased difficulties and resulted in longer delays in trying to find the required court time. This is one of the complications of the pandemic’s “ripple effect” that in my view put added responsibility on the defence to raise, prior to the dates being set, s. 11(b) as an issue, so the Crown could have attempted to remedy and mitigate the delay if that even would have been possible. Given how the defence dealt with that issue in my view the defence created an impossibility. 
+     
+Further, as I have indicated previously, it is a normal part of the discussions between the defence and the Crown and a judge at a JPT to canvass and discuss possible resolution of the charges an accused is facing, particularly after disclosure has been made. I am aware of some of the cell phone extraction disclosure provided by the Crown to the defence from the materials filed in the s. 8 application (including the ITOs) that relate to the data (audio messages recovered from deleted files) recovered once the cell phone was accessed by the police expert. In my view the delay resulting from the resolution discussions was defence-caused delay, which I have subtracted from the total delay. The Crown submitted a further consideration is whether the defence needed to wait for the disclosure of the cell phone extraction report before setting trial dates. There was an indication from the defence that resolution of the charges was unlikely and it is my view that the disclosure already provided by the Crown would have been sufficient to estimate the probable amount of time required to complete the trial proper (R. v. Kovacs-Tatar, 2004 CanLII 42923 (ON CA), O.J. No. 4756 (C.A.) at para. 47, which held “the obligation of the Crown to make disclosure is a continuing one, the Crown is not obliged to disclose ever last bit of evidence before a trial date is set.”). However, it would appear a decision had been made by both defence and Crown to await the extraction report before arranging a JPT to discuss trial estimates or the possibility of resolution. I have already indicated this time period from February 11 to June 29, 2021, is part of the usual, normal time required for police experts to determine if a cell phone can be accessed and then, if it can be, to extract data and information relevant to the charges and it disclosed and then reviewed by Crown and defence. I have explained why I believe the period of time (March 19, 2020 to October 29, 2020: 225 days) leading up to the first JPT with Justice MacLeod was an exceptional circumstance caused by the world-wide COVID-19 pandemic, which prevented both Crown and defence from engaging in the usual process of conducting a CPT followed by a JPT. These processes did not occur under November 20, 2020 (CPT) and February 2, 2021 (JPT) and at that JPT all parties made the decision to wait and see whether the Applicant’s cell phone could be accessed and an extraction report could be completed. Once this final piece of disclosure was received by the Crown and defence there was a further CPT and a first JPT before Justice Bliss (July 6, 2021), which led to a period of time where resolution was a possibility (155 days). A continuing JPT before Justice Bliss was ultimately arranged (December 10, 2021) where resolution was still a remote possibility but  where trial estimates were finally determined, and after some delay caused by the defence’s failure to file trial scheduling forms, trial dates were set without any issue concerning s. 11(b) being raised. I have equally apportioned that time period (Jan 28, 2022 to February 14, 2023: 382 days) between the defence and Crown. 
+5.       Conclusion
+     
+In conclusion, I find there has been no unreasonable delay in the scheduling of this matter for trial having regard to the defence-caused delay and the exceptional circumstances of the pandemic delay. As a result the Application is dismissed. Total delay:                                 1153 days Less Defence-caused delay:       412 days (35+7+155+24+191) Net delay:                                      741 days Less Exceptional Circumstances:  225 days 
+Remaining Delay:                           516 days 
+     
+I conclude with an observation made by my colleague, Justice Javed in R. v. Pinkowski, O.J. No. 5724, at para. 54, “…. It's doubtful the court in Askov, Morin or Jordan envisioned a pandemic of this magnitude when the Supreme Court was developing a framework for assessing unreasonable delay. The net delay in this case may be frustrating but it is not unreasonable for purposes of the Charter.”
