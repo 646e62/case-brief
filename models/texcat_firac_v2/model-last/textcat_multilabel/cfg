@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "RULE",
+    "FACTS",
+    "PROCEDURE",
+    "ISSUE",
+    "HEADING",
+    "CONCLUSION",
+    "ANALYSIS"
+  ],
+  "threshold":0.5
+}
