@@ -4,18 +4,21 @@ import openai
 # Constants
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def issue_counter(issue_text: str) -> int:
+def gpt_summarizer(prompt: str, text: str) -> str:
     """
-    Counts the number of issues in the issue text.
+    Basic text summarization using GPT-3. The presets are set to the 
+    recommended levels for "summarize for a 2nd grader" prompt.
     """
-    response = openai.Completion.create(
-               model="text-davinci-003", 
-               prompt = f"Return integer expressing number of issues: {issue_text}", 
-               temperature=0, max_tokens=100, top_p=1, frequency_penalty=0, 
-               presence_penalty=0
-               )
+    summary = openai.Completion.create(
+              model="text-davinci-003", 
+              prompt = f"{prompt}: {text}", 
+              temperature=0.7, 
+              max_tokens=256, 
+              top_p=1, 
+              frequency_penalty=0, 
+              presence_penalty=0
+              )
 
-    return response
-
+    return summary
 
 
