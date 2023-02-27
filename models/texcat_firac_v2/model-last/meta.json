@@ -18,13 +18,13 @@
   },
   "labels":{
     "textcat_multilabel":[
-      "RULE",
+      "CONCLUSION",
       "FACTS",
       "PROCEDURE",
       "ISSUE",
       "HEADING",
-      "CONCLUSION",
-      "ANALYSIS"
+      "ANALYSIS",
+      "RULE"
     ]
   },
   "pipeline":[
@@ -37,20 +37,20 @@
 
   ],
   "performance":{
-    "cats_score":0.832735597,
+    "cats_score":0.8033915399,
     "cats_score_desc":"macro AUC",
-    "cats_micro_p":0.7530864198,
-    "cats_micro_r":0.5754716981,
-    "cats_micro_f":0.6524064171,
-    "cats_macro_p":0.5396825397,
-    "cats_macro_r":0.4104747162,
-    "cats_macro_f":0.4466666667,
-    "cats_macro_auc":0.832735597,
+    "cats_micro_p":0.5967741935,
+    "cats_micro_r":0.4512195122,
+    "cats_micro_f":0.5138888889,
+    "cats_macro_p":0.5705627706,
+    "cats_macro_r":0.3679569943,
+    "cats_macro_f":0.4008002246,
+    "cats_macro_auc":0.8033915399,
     "cats_f_per_type":{
-      "RULE":{
-        "p":0.5,
-        "r":0.125,
-        "f":0.2
+      "CONCLUSION":{
+        "p":0.3636363636,
+        "r":0.347826087,
+        "f":0.3555555556
       },
       "FACTS":{
         "p":0.0,
@@ -58,32 +58,32 @@
         "f":0.0
       },
       "PROCEDURE":{
-        "p":0.7777777778,
-        "r":0.3684210526,
-        "f":0.5
+        "p":0.696969697,
+        "r":0.5227272727,
+        "f":0.5974025974
       },
       "ISSUE":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+        "p":1.0,
+        "r":0.0769230769,
+        "f":0.1428571429
       },
       "HEADING":{
         "p":1.0,
         "r":1.0,
         "f":1.0
       },
-      "CONCLUSION":{
-        "p":0.7692307692,
-        "r":0.5882352941,
-        "f":0.6666666667
-      },
       "ANALYSIS":{
-        "p":0.7307692308,
-        "r":0.7916666667,
-        "f":0.76
+        "p":0.6,
+        "r":0.5373134328,
+        "f":0.5669291339
+      },
+      "RULE":{
+        "p":0.3333333333,
+        "r":0.0909090909,
+        "f":0.1428571429
       }
     },
     "cats_macro_auc_per_type":0.0,
-    "textcat_multilabel_loss":0.0073658937
+    "textcat_multilabel_loss":0.3115905359
   }
 }
