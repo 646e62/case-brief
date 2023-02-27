@@ -18,13 +18,13 @@
   },
   "labels":{
     "textcat_multilabel":[
-      "CONCLUSION",
+      "RULE",
       "FACTS",
-      "PROCEDURE",
       "ISSUE",
+      "PROCEDURE",
       "HEADING",
-      "ANALYSIS",
-      "RULE"
+      "CONCLUSION",
+      "ANALYSIS"
     ]
   },
   "pipeline":[
@@ -37,53 +37,53 @@
 
   ],
   "performance":{
-    "cats_score":0.8033915399,
+    "cats_score":0.7515223996,
     "cats_score_desc":"macro AUC",
-    "cats_micro_p":0.5967741935,
-    "cats_micro_r":0.4512195122,
-    "cats_micro_f":0.5138888889,
-    "cats_macro_p":0.5705627706,
-    "cats_macro_r":0.3679569943,
-    "cats_macro_f":0.4008002246,
-    "cats_macro_auc":0.8033915399,
+    "cats_micro_p":0.6299212598,
+    "cats_micro_r":0.4519774011,
+    "cats_micro_f":0.5263157895,
+    "cats_macro_p":0.4080298786,
+    "cats_macro_r":0.3166503387,
+    "cats_macro_f":0.3550325662,
+    "cats_macro_auc":0.7515223996,
     "cats_f_per_type":{
-      "CONCLUSION":{
-        "p":0.3636363636,
-        "r":0.347826087,
-        "f":0.3555555556
+      "RULE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
       },
       "FACTS":{
         "p":0.0,
         "r":0.0,
         "f":0.0
       },
-      "PROCEDURE":{
-        "p":0.696969697,
-        "r":0.5227272727,
-        "f":0.5974025974
-      },
       "ISSUE":{
-        "p":1.0,
-        "r":0.0769230769,
-        "f":0.1428571429
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "PROCEDURE":{
+        "p":0.5833333333,
+        "r":0.5384615385,
+        "f":0.56
       },
       "HEADING":{
         "p":1.0,
-        "r":1.0,
-        "f":1.0
+        "r":0.75,
+        "f":0.8571428571
+      },
+      "CONCLUSION":{
+        "p":0.6111111111,
+        "r":0.3793103448,
+        "f":0.4680851064
       },
       "ANALYSIS":{
-        "p":0.6,
-        "r":0.5373134328,
-        "f":0.5669291339
-      },
-      "RULE":{
-        "p":0.3333333333,
-        "r":0.0909090909,
-        "f":0.1428571429
+        "p":0.6617647059,
+        "r":0.5487804878,
+        "f":0.6
       }
     },
     "cats_macro_auc_per_type":0.0,
-    "textcat_multilabel_loss":0.3115905359
+    "textcat_multilabel_loss":0.3525395394
   }
 }

@@ -18,13 +18,13 @@
   },
   "labels":{
     "textcat_multilabel":[
-      "CONCLUSION",
+      "RULE",
       "FACTS",
-      "PROCEDURE",
       "ISSUE",
+      "PROCEDURE",
       "HEADING",
-      "ANALYSIS",
-      "RULE"
+      "CONCLUSION",
+      "ANALYSIS"
     ]
   },
   "pipeline":[
@@ -37,53 +37,53 @@
 
   ],
   "performance":{
-    "cats_score":0.8125953119,
+    "cats_score":0.7597465513,
     "cats_score_desc":"macro AUC",
-    "cats_micro_p":0.691588785,
-    "cats_micro_r":0.4512195122,
-    "cats_micro_f":0.5461254613,
-    "cats_macro_p":0.6281582711,
-    "cats_macro_r":0.3597990264,
-    "cats_macro_f":0.4117210884,
-    "cats_macro_auc":0.8125953119,
+    "cats_micro_p":0.6666666667,
+    "cats_micro_r":0.418079096,
+    "cats_micro_f":0.5138888889,
+    "cats_macro_p":0.4261405261,
+    "cats_macro_r":0.2915407413,
+    "cats_macro_f":0.3386160325,
+    "cats_macro_auc":0.7597465513,
     "cats_f_per_type":{
-      "CONCLUSION":{
-        "p":0.6666666667,
-        "r":0.2608695652,
-        "f":0.375
+      "RULE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
       },
       "FACTS":{
         "p":0.0,
         "r":0.0,
         "f":0.0
       },
-      "PROCEDURE":{
-        "p":0.7419354839,
-        "r":0.5227272727,
-        "f":0.6133333333
-      },
       "ISSUE":{
-        "p":1.0,
-        "r":0.0769230769,
-        "f":0.1428571429
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "PROCEDURE":{
+        "p":0.6060606061,
+        "r":0.5128205128,
+        "f":0.5555555556
       },
       "HEADING":{
         "p":1.0,
-        "r":1.0,
-        "f":1.0
+        "r":0.75,
+        "f":0.8571428571
+      },
+      "CONCLUSION":{
+        "p":0.7,
+        "r":0.2413793103,
+        "f":0.358974359
       },
       "ANALYSIS":{
-        "p":0.6551724138,
-        "r":0.5671641791,
-        "f":0.608
-      },
-      "RULE":{
-        "p":0.3333333333,
-        "r":0.0909090909,
-        "f":0.1428571429
+        "p":0.6769230769,
+        "r":0.5365853659,
+        "f":0.5986394558
       }
     },
     "cats_macro_auc_per_type":0.0,
-    "textcat_multilabel_loss":3.3939331502
+    "textcat_multilabel_loss":2.7840201738
   }
 }
