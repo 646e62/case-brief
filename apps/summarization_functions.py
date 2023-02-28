@@ -12,6 +12,7 @@ import json
 import spacy
 from collections import Counter
 from spacy.lang.en.stop_words import STOP_WORDS
+from spacy.lang.en import English
 from string import punctuation
 from heapq import nlargest
 
@@ -50,14 +51,7 @@ class Decision:
     def __str__(self):
         return self.id
 
-
-
-
-# This function opens a JSON file that contains a list, and reads each dictionary in the list. For
-# each dictionary, it extracts the text list corresponding to the key and
-# combines the text into a single string.
-
-def text_summarizer(text, percentage):
+def text_summarizer(text: str, percentage: float, exception_words: list = None) -> str:
     """
     Summarizes text using extractive summarization methods. First, the function
     tokenizes the text and then calculates the frequency of each word. Then, it
@@ -71,9 +65,11 @@ def text_summarizer(text, percentage):
     """
 
     nlp = spacy.load('en_core_web_md')
-    doc= nlp(text)
+    doc = nlp(text)
     stopwords = list(STOP_WORDS)
-    tokens = [token.text for token in doc]
+
+    # Add custom exceptions to the sentence parser
+
 
     # Calculates the frequency of each word that is not a stop word or 
     # punctuation and generates the frequency table. Future versions should 
@@ -91,6 +87,10 @@ def text_summarizer(text, percentage):
     
     # Each sentence is weighed based on how often it contains the token.
     word_frequency_counter = Counter(word_frequency)
+    print(exception_words)
+    sentence_tokens = [sentence for sentence in doc.sents if not 
+            any(word in sentence.text for word in exception_words)]
+
     sentence_tokens = [sentence for sentence in doc.sents]
     sentence_scores = Counter({sentence: sum([
         word_frequency_counter[word.text.lower()] for word in sentence 
@@ -104,6 +104,25 @@ def text_summarizer(text, percentage):
     summary = " ".join(final_summary)
     
     return summary
+
+# Custom exceptions for the sentencizer function.
+# Add more if discovered.
+exception_words = ['para.', 'paras.', 'p.', 'pp.', 'Cst.', 'Csts.']
+
+exception_patterns = [
+    {"TEXT": {"IN": ["para."]}},
+    {"TEXT": {"IN": ["paras."]}},
+    {"TEXT": {"IN": ["p."]}},
+    {"TEXT": {"IN": ["pp."]}},
+    {"TEXT": {"IN": ["s."]}},
+    {"TEXT": {"IN": ["ss."]}},
+    {"TEXT": {"IN": ["Cst."]}},
+    {"TEXT": {"IN": ["Csts."]}},
+    {"TEXT": {"IN": ["Det."]}},
+    {"TEXT": {"IN": ["Dets."]}},
+    {"TEXT": {"IN": ["Sgt."]}},
+    {"TEXT": {"IN": ["Sgts."]}},
+    ]
 
 
 # Test values
