@@ -10,6 +10,7 @@ needs to be sent to the GPT-3 functions for further summarization and analysis.
 
 import json
 import spacy
+from collections import Counter
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
 from heapq import nlargest
@@ -47,7 +48,7 @@ class Decision:
 
 
     def __str__(self):
-        return f"{self.id}"
+        return self.id
 
 
 
@@ -73,19 +74,13 @@ def text_summarizer(text, percentage):
     doc= nlp(text)
     stopwords = list(STOP_WORDS)
     tokens = [token.text for token in doc]
-    word_frequency = {}
-    
+
     # Calculates the frequency of each word that is not a stop word or 
     # punctuation and generates the frequency table. Future versions should 
     # also exclude citations and paragraph numbers. 
-    for word in doc:
-        if word.text.lower() not in stopwords:
-            if word.text.lower() not in punctuation:
-                if word.text not in word_frequency.keys():
-                    word_frequency[word.text] = 1
-                else:
-                    word_frequency[word.text] += 1
-                    
+    word_counter = Counter([token.text for token in doc if token.text.lower() not in stopwords and token.text not in punctuation])
+    word_frequency = {word: count for word, count in word_counter.items()}    
+                   
     # Calculates maximum frquency from the frequency table
     max_frequency = max(word_frequency.values())
     
@@ -93,23 +88,20 @@ def text_summarizer(text, percentage):
     for word in word_frequency.keys():
         word_frequency[word] = word_frequency[word] / max_frequency
         
-    # In this part, each sentence is weighed based on how often it contains the token.
-    sentence_tokens = [sentence for sentence in doc.sents]
-    sentence_scores = {}
-    for sentence in sentence_tokens:
-        for word in sentence:
-            if word.text.lower() in word_frequency.keys():
-                if sentence not in sentence_scores.keys():                            
-                    sentence_scores[sentence]=word_frequency[word.text.lower()]
-                else:
-                    sentence_scores[sentence]+=word_frequency[word.text.lower()]
     
-    len_tokens=int(len(sentence_tokens) * percentage)
+    # Each sentence is weighed based on how often it contains the token.
+    word_frequency_counter = Counter(word_frequency)
+    sentence_tokens = [sentence for sentence in doc.sents]
+    sentence_scores = Counter({sentence: sum([
+        word_frequency_counter[word.text.lower()] for word in sentence 
+        if word.text.lower() in word_frequency_counter]) for sentence 
+        in sentence_tokens})
+    len_tokens = int(len(sentence_tokens) * percentage)
     
     # Returns the top sentences based on the percentage of the original text.
-    summary = nlargest(n = len_tokens, iterable = sentence_scores, key=sentence_scores.get)
+    summary = [sentence for sentence, score in sentence_scores.most_common(len_tokens)]
     final_summary = [word.text for word in summary]
-    summary=" ".join(final_summary)
+    summary = " ".join(final_summary)
     
     return summary
 
@@ -117,9 +109,9 @@ def text_summarizer(text, percentage):
 # Test values
 # Facts and procedural history can usually be combined when dealing with divergent opinions.
 
-test_facts = ["the police had confidential source information that their target was in possession of a large quantity of cocaine and that he kept most of his drugs on his person. Mr. Ali was found next to a table with drugs, other than cocaine, and with items consistent with drug trafficking, including a scale, money, and a ringing cell phone. Mr. Ali’s pants were partially down as he was being arrested; and one of the officers reported seeing Mr. Ali reaching towards the back of his pants. As in Golden, I acknowledge that Mr. Ali has already served his custodial sentence. , Cst. Darroch believed in good faith that he had the requisite grounds to strip search Mr. Ali. He relayed his grounds to his superior officer, who authorized the search at the police station. Mr. Ali was in possession of 65 grams of crack cocaine."
+test_facts = ["the police had confidential source information that their target was in possession of a large quantity of cocaine and that he kept most of his drugs on his person. Mr. Ali was found next to a table with drugs, other than cocaine, and with items consistent with drug trafficking, including a scale, money, and a ringing cell phone. Mr. Ali’s pants were partially down as he was being arrested; and one of the officers reported seeing Mr. Ali reaching towards the back of his pants. As in Golden, I acknowledge that Mr. Ali has already served his custodial sentence. , Cst. Darroch believed in good faith that he had the requisite grounds to strip search Mr. Ali. He relayed his grounds to his superior officer, who authorized the search at the police station. Mr. Ali was in possession of 65 grams of crack cocaine."]
 
-test_history = ["A majority of the Alberta Court of Appeal affirmed his conviction for possession of cocaine for the purpose of trafficking., They found that the trial judge did not err in determining that the police’s strip search of Mr. Ali, incident to his lawful arrest, complied with s. 8 of the Canadian Charter of Rights and Freedoms in accordance with the principles governing strip searches set out by this Court in R. v. Golden, 2001 SCC 83, [2001] 3 S.C.R. 679., We would not give effect to Mr. Ali’s argument that a hearsay error arose because the officer who requested the strip search, Cst. Darroch, testified that he was told by another officer, Cst. Odorski, that Mr. Ali was reaching towards the back of his pants, and Cst. Odorski did not refer to this in his testimony at trial. , Mr. Ali now concedes that Cst. Darroch’s testimony was not inadmissible hearsay because it was not entered for the truth of its contents; the question, he maintains, was whether Cst. Darroch could reasonably rely on the information from Cst. Odorski as a factor in deciding whether he had reasonable and probable grounds to request the strip search., Defence counsel chose not to cross‑examine either officer about this information. It stood uncontradicted., This tactical choice undermines Mr. Ali’s submission that it was unreasonable for Cst. Darroch to rely on Cst. Odorski’s information. I further acknowledge that, as the courts below found no breach of s. 8 in this case, they did not consider whether the evidence should be excluded under s. 24(2)., At trial, counsel for Mr. Ali noted the search was “as humane as possible given the circumstances” (trial transcript, A.R., at p. 173)., The Crown would have no case without this evidence."
+test_history = ["A majority of the Alberta Court of Appeal affirmed his conviction for possession of cocaine for the purpose of trafficking., They found that the trial judge did not err in determining that the police’s strip search of Mr. Ali, incident to his lawful arrest, complied with s. 8 of the Canadian Charter of Rights and Freedoms in accordance with the principles governing strip searches set out by this Court in R. v. Golden, 2001 SCC 83, [2001] 3 S.C.R. 679., We would not give effect to Mr. Ali’s argument that a hearsay error arose because the officer who requested the strip search, Cst. Darroch, testified that he was told by another officer, Cst. Odorski, that Mr. Ali was reaching towards the back of his pants, and Cst. Odorski did not refer to this in his testimony at trial. , Mr. Ali now concedes that Cst. Darroch’s testimony was not inadmissible hearsay because it was not entered for the truth of its contents; the question, he maintains, was whether Cst. Darroch could reasonably rely on the information from Cst. Odorski as a factor in deciding whether he had reasonable and probable grounds to request the strip search., Defence counsel chose not to cross‑examine either officer about this information. It stood uncontradicted., This tactical choice undermines Mr. Ali’s submission that it was unreasonable for Cst. Darroch to rely on Cst. Odorski’s information. I further acknowledge that, as the courts below found no breach of s. 8 in this case, they did not consider whether the evidence should be excluded under s. 24(2)., At trial, counsel for Mr. Ali noted the search was “as humane as possible given the circumstances” (trial transcript, A.R., at p. 173)., The Crown would have no case without this evidence."]
 
 ## Majority opinion
 
@@ -127,7 +119,7 @@ test_id_1 = "2022 SCC 1 — Moldaver J, Brown J, RoweJ, Jamal J — Majority"
 
 test_issues_1 = ["Like the majority of the Court of Appeal, we are satisfied that there were reasonable and probable grounds justifying the strip search", "We would not give effect to Mr. Ali’s argument that a hearsay error arose because the officer who requested the strip search, Cst. Darroch, testified that he was told by another officer, Cst. Odorski, that Mr. Ali was reaching towards the back of his pants, and Cst. Odorski did not refer to this in his testimony at trial."]
 
-test rules_1 = ["Where a strip search is conducted as an incident to a person’s lawful arrest, there must be reasonable and probable grounds justifying the strip search, in addition to reasonable and probable grounds justifying the arrest (see Golden, at para. 99).", "These grounds are met for the strip search where there is some evidence suggesting the possibility of concealment of weapons or other evidence related to the reason for the arrest (see Golden, at paras. 94 and 111)."]
+test_rules_1 = ["Where a strip search is conducted as an incident to a person’s lawful arrest, there must be reasonable and probable grounds justifying the strip search, in addition to reasonable and probable grounds justifying the arrest (see Golden, at para. 99).", "These grounds are met for the strip search where there is some evidence suggesting the possibility of concealment of weapons or other evidence related to the reason for the arrest (see Golden, at paras. 94 and 111)."]
 
 test_analysis_1 = ["Like the majority of the Court of Appeal, we are satisfied that there were reasonable and probable grounds justifying the strip search:"]
 
