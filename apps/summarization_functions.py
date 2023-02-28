@@ -36,14 +36,15 @@ class Decision:
         summarization function.
         """
         
-        self.meta = meta
-        self.id = f"{self.meta['citation']} — {self.meta['judges']} — {self.meta['decision_type']}"
-        self.facts = facts
-        self.history = history
-        self.issues = issues
-        self.rules = rules
-        self.analysis = analysis
-        self.conclusion = conclusion
+        self.meta = pfirac.get('meta', {})
+        self.id = f"{self.meta.get('citation', '')} — {self.meta.get('judges', '')} — {self.meta.get('decision_type', '')}"
+        self.facts = pfirac.get('facts', {})
+        self.history = pfirac.get('history', {})
+        self.issues = pfirac.get('issues', {})
+        self.rules = pfirac.get('rules', {})
+        self.analysis = pfirac.get('analysis', {})
+        self.conclusion = pfirac.get('conclusion', {})
+
 
     def __str__(self):
         return f"{self.id}"
