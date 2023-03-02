@@ -69,10 +69,12 @@ def text_summarizer(
     """
 
     # Create a regex pattern to match the abbreviations with periods at the end
-    # then loops through each word and remove the period if it matches an 
+    # then loops through each word and remove the period if it matches an
     # abbreviation. This ostensibly resolves Issue #7.
     # Future versions should also target paragraph numbers and citations.
-    pattern = "|".join([re.escape(abreviation) + r"\." for abreviation in abbreviations])
+    pattern = "|".join(
+        [re.escape(abreviation) + r"\." for abreviation in abbreviations]
+    )
 
     text = text.split()
     processed_text = []
@@ -84,7 +86,7 @@ def text_summarizer(
             processed_text.append(new_word)
         else:
             processed_text.append(word)
-    
+
     text = " ".join(processed_text)
 
     # Tokenize the formatted text
