@@ -1,0 +1,48 @@
+[
+	{
+		"short_form": "Grant analysis",
+		"domains": ["criminal","constutituional","evidence"],
+		"origins": {
+			"type": "case",
+			"name": "R v Grant",
+			"citation": "2009 SCC 32",
+			"pinpoint": ""
+		},
+		"description": "Should the court exclude evidence at trial after finding the state breached a defendant's Charter right?",
+		"prompt": "The court answers that question by asking and answering these questions:",
+		"test": ["1. Was there a Charter breach?",
+			 "2. Would admitting the evience bring the administration of justice into disrepute? If so, the court must exclude the evidence. The court answers this question by considering the following factors:",
+			 "2a. Was the breach serious?",
+			 "2b. Did the breach have a significant impact?",
+			 "2c. Does society nevertheless have an interest in adjudicating the case on its merits?"],
+		"test_type": "balancing"
+	},
+	{
+		"short_form": "WD analysis",
+		"domains": ["criminal","evidence"],
+		"origins": {
+			"type": "case",
+			"name": "R v W(D)",
+			"citation": "[1991] 1 SCR 742",
+			"pinpoint": ""
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	},
+	{
+		"short_form": "",
+		"domains": [""],
+		"origins": {
+			"type": "",
+			"name": "",
+			"citation": "",
+			"pinpoint": ""
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	}
+]
