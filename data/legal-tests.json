@@ -1,12 +1,12 @@
 [
 	{
 		"short_form": "Grant analysis",
-		"domains": ["criminal","constutituional","evidence"],
+		"domains": ["criminal", "constutituional", "evidence"],
 		"origins": {
 			"type": "case",
 			"name": "R v Grant",
 			"citation": "2009 SCC 32",
-			"pinpoint": ""
+			"associated_legislation": ["Charter", "s 24(2)"]
 		},
 		"description": "Should the court exclude evidence at trial after finding the state breached a defendant's Charter right?",
 		"prompt": "The court answers that question by asking and answering these questions:",
@@ -19,11 +19,125 @@
 	},
 	{
 		"short_form": "WD analysis",
-		"domains": ["criminal","evidence"],
+		"domains": ["criminal", "evidence"],
 		"origins": {
 			"type": "case",
 			"name": "R v W(D)",
 			"citation": "[1991] 1 SCR 742",
+			"associated_legislation": []
+		},
+		"description": "How should the court weigh contradictory witness testimony?",
+		"prompt": "The court answers that question by asking and answering three questions. If it answers any of the questions affirmatively, it must acquit the defendant.",
+		"test": ["1. If you believe the defendant's testimony the court must acquit the defendant.",
+			 "2. If you do not believe the defendant's testimony but are left in reasonable doubt by it the court must acquit the defendant.", 
+			 "3. If not, the court must determine what evidence it believes. whether on the basis of the evidence which you do accept you are convinced beyond a reasonable doubt by that evidence of the guilt of the accused. "],
+		"test_type": "convergent"
+	},
+		{
+		"short_form": "self defence",
+		"domains": ["criminal", "defence"],
+		"origins": {
+			"type": "legislation",
+			"name": "Criminal Code",
+			"citation": "RSC 1985, c C-46",
+			"associated_cases": []
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	},
+	{
+		"short_form": "air of reality",
+		"domains": ["criminal", "evidence", "defence"],
+		"origins": {
+			"type": "case",
+			"name": "R v Cinous",
+			"citation": "2002 SCC 29",
+			"associated_legislation": ""
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	},
+	{
+		"short_form": "",
+		"domains": [""],
+		"origins": {
+			"type": "",
+			"name": "",
+			"citation": "",
+			"pinpoint": ""
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	},
+	{
+		"short_form": "",
+		"domains": [""],
+		"origins": {
+			"type": "",
+			"name": "",
+			"citation": "",
+			"pinpoint": ""
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	},
+	{
+		"short_form": "",
+		"domains": [""],
+		"origins": {
+			"type": "",
+			"name": "",
+			"citation": "",
+			"pinpoint": ""
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	},
+	{
+		"short_form": "",
+		"domains": [""],
+		"origins": {
+			"type": "",
+			"name": "",
+			"citation": "",
+			"pinpoint": ""
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	},
+	{
+		"short_form": "",
+		"domains": [""],
+		"origins": {
+			"type": "",
+			"name": "",
+			"citation": "",
+			"pinpoint": ""
+		},
+		"description": "",
+		"prompt": "",
+		"test": "",
+		"test_type": ""
+	},
+	{
+		"short_form": "",
+		"domains": [""],
+		"origins": {
+			"type": "",
+			"name": "",
+			"citation": "",
 			"pinpoint": ""
 		},
 		"description": "",
