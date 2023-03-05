@@ -9,18 +9,54 @@ import spacy
 
 LEGAL_TESTS = "../data/legal-tests.json"
 
+
 def retrieve_citations(text: str) -> list:
     """
     Calls a bare-bones NLP model to retrieve citations from text.
     """
+    nlp = spacy.load("../models/span_citations_min_v1/model-best/")
+    doc = nlp(text)
 
+    citations = [
+        {"type": "decisions", "citations": []},
+        {"type": "legislation", "citations": [], "sections": []},
+    ]
+
+    
+
+    for citation in citations:
+        if citation["type"] == "decisions":
+            citation["citations"].append(
+                [
+                    span.text
+                    for span in doc.spans["sc"]
+                    if span.label_ in ["CANLII_CITATION", "NEUTRAL_CITATION"]
+                ]
+            )
+        elif citation["type"] == "legislation":
+            citation["citations"].append(
+                [
+                    span.text 
+                    for span in doc.spans["sc"] 
+                    if span.label_ in ["LEGISLATION"]
+                ]
+            )
+            citation["sections"].append(
+                [
+                    span.text 
+                    for span in doc.spans["sc"] 
+                    if span.label_ in ["SECTION"]
+                ]
+            )
+
+    return citations
 
 
 def get_legal_test(citations: list[str]) -> list[dict]:
     """
-    This function takes a citation and returns the legal test for that 
-    citation. After other 
-    """ 
+    This function takes a citation and returns the legal test for that
+    citation. After other
+    """
     test_list = []
     citation = citation.lower().replace(".", "")
 
@@ -33,4 +69,3 @@ def get_legal_test(citations: list[str]) -> list[dict]:
             test_list.append(dictionary)
 
     return test_list
-
