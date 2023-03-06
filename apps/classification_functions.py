@@ -36,22 +36,19 @@ def classify_firac(text: str) -> dict:
     a dictionary with the FIRAC elements as keys and the sentences in a list as
     values.
     """
-    
-    nlp = spacy.load("./models/firac_model_v2/model-last/")
+    nlp = spacy.load("./models/texcat_firac_v2/model-last/")
     nlp.add_pipe("sentencizer")
     doc = nlp(text)
-    
-    firac = {
-        "history": [],
-        "facts": [],
-        "issues": [],
-        "rules": [],
-        "analysis": [],
-        "conclusions": [],
-    }
-    
-    for sent in doc.sents:
-        firac[sent._.label].append(sent.text)
+    firac = {}
+
+    for sentence in doc.sents:
+        categories = nlp(sentence.text).cats
+        max_key = max(categories, key=lambda k: categories[k])
+        max_key = max_key.lower()
+        
+        # Append the sentence to the FIRAC element that achieved the highest
+        # score. Append a blank list if the FIRAC element doesn't exist
+        firac.setdefault(max_key, []).append(sentence.text)
         
     return firac
 

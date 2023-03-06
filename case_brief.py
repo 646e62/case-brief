@@ -5,17 +5,15 @@ Runs the case brief program from the command line.
 """
 
 import argparse
-import os
-#import re
+import os.path
 import sys
-#from typing import List, Tuple
 
-#from bs4 import BeautifulSoup
-#import spacy
-#from spacy.tokens import Doc, Span
+# from typing import List, Tuple
 
-from apps.analytic_functions import retrieve_citations
+from apps.analytic_functions import retrieve_citations, get_legal_test
+from apps.classification_functions import classify_firac
 from apps.html_to_txt import canlii_html_to_txt
+from apps.summarization_functions import text_summarizer
 
 # Prompt the user for a file path
 parser = argparse.ArgumentParser()
@@ -31,23 +29,75 @@ if not os.path.exists(args.file_path):
     print("File not found.")
     sys.exit()
 
-# Read the HTML file and convert it to text
+
+# File functions
+
+print("Retrieving citations: ", end="")
 text = canlii_html_to_txt(args.file_path)
-
-# Retrieve the citations from the text
 citations = retrieve_citations(text)
+firac = classify_firac(text)
 
-# Print the citations
-print("Citations:")
-for citation in citations:
-    if citation["type"] == "decisions":
-        print("Decisions:")
-        for decision in citation["citations"]:
-            print(decision)
-    elif citation["type"] == "legislation":
-        print("Legislation:")
-        for statute in citation["citations"]:
-            print(statute)
-        print("Sections:")
-        for section in citation["sections"]:
-            print(section)
+# Isolate the citations into a set
+# If the underlying list is empty, a "None" string is added to the set
+decision_list = []
+legislation_list = []
+section_list = []
+
+decision_list = set([
+    decision
+    for citation in citations
+    if citation["type"] == "decisions"
+    for decision in citation["citations"]
+])
+
+legislation_list = set([
+    statute
+    for citation in citations
+    if citation["type"] == "legislation"
+    for statute in citation["citations"]
+])
+
+section_list = set([
+    section
+    for citation in citations
+    if citation["type"] == "legislation"
+    for section in citation["sections"]
+])
+
+
+print(
+    f"\nDecisions:\n{decision_list}\n\nLegislation:\n{legislation_list}\n\nSections:\n{section_list}"
+)
+
+for key in firac:
+    print(f"\n{key.upper()}: \n{firac[key]}")
+
+# Check to see if any of the citations are in the legal tests
+if get_legal_test(decision_list):
+    print("\nLegal test(s) found:")
+    # Find the "short_form" key for any legal tests that match the citation and
+    # print it in title case
+    for test in get_legal_test(decision_list):
+        print("* " + test["short_form"].title())
+else:
+    print("\nNo legal tests found.")
+
+# Take the list from each key and join them into a single string
+
+for key in firac:
+    print(key.upper)
+    section_text = " ".join(firac[key])
+    section_text = text_summarizer(section_text, 0.5)
+    print(f"\n{key.upper()}: \n{section_text}")
+
+# Write a local copy of the text file
+# Take the HTML file name and change the extension to .txt
+file_name = os.path.basename(args.file_path)
+file_name = os.path.splitext(file_name)[0]
+file_name = file_name + ".txt"
+
+# Check to see if a file copy exists. If not, create one.
+if not os.path.exists(f"./data/training_data/{file_name}"):
+    with open("./data/training_data/" + file_name, "w", encoding="utf-8") as file:
+        file.write(text)
+

@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "NEUTRAL_CITATION",
+    "SECTION",
+    "LEGISLATION",
+    "CANLII_CITATION"
+  ],
+  "spans_key":"sc",
+  "threshold":0.5,
+  "max_positive":null
+}
