@@ -1,5 +1,5 @@
 """
-The decision class contains the functions that parse the decision sentences 
+The decision class contains the functions that parse the decision sentences
 into lists. The lists are then used to generate the decision summary.
 
 
@@ -17,6 +17,7 @@ from spacy.lang.en import English
 from string import punctuation
 from heapq import nlargest
 
+from .decorators import timing
 
 # Create a decision class that will include the extracted textual portions.
 
@@ -53,6 +54,7 @@ class Decision:
         return self.id
 
 
+@timing
 def text_summarizer(
     text: str, percentage: float, abbreviations: list[str] | None = None
 ) -> str:

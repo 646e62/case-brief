@@ -1,16 +1,18 @@
 """
 Classify reported court cases using spaCy and a custom model trained to detect
-FIRAC elements. V2 and onward are trained on the text from the cases the 
+FIRAC elements. V2 and onward are trained on the text from the cases the
 Supreme Court of Canada cases decided in 2022. Model development is ongoing.
 """
 
 import spacy
 
+from .decorators import timing
+
 def majority_minority(text: str) -> list:
     """
     Identifies the number of different opinions in a case, the type of opinion,
-    the judge(s) who wrote the opinion, and the text attributable to the 
-    faction. Returns a list of dictionaries with the citation, the name of the 
+    the judge(s) who wrote the opinion, and the text attributable to the
+    faction. Returns a list of dictionaries with the citation, the name of the
     judge(s) who wrote the decision, and the type of decision, as well as the
     decision text.
 
@@ -21,14 +23,15 @@ def majority_minority(text: str) -> list:
     - Concurring: The concurrance agrees with the decision but for different
       reasons.
 
-    Depending on how well I'm able to clean the data, I may be able to use 
-    rule-based matching to identify the judge names. If not, I'll have to 
+    Depending on how well I'm able to clean the data, I may be able to use
+    rule-based matching to identify the judge names. If not, I'll have to
     incorporate a named entity recognition model.
     """
 
     pass
 
 
+@timing
 def classify_firac(text: str) -> dict:
     """
     This function splits the document into sentences and then classifies each
@@ -45,10 +48,10 @@ def classify_firac(text: str) -> dict:
         categories = nlp(sentence.text).cats
         max_key = max(categories, key=lambda k: categories[k])
         max_key = max_key.lower()
-        
+
         # Append the sentence to the FIRAC element that achieved the highest
         # score. Append a blank list if the FIRAC element doesn't exist
         firac.setdefault(max_key, []).append(sentence.text)
-        
+
     return firac
 
