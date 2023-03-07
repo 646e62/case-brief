@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Runs the case brief program from the command line.
 """
@@ -7,6 +6,7 @@ Runs the case brief program from the command line.
 import argparse
 import os.path
 import sys
+import time
 
 # from typing import List, Tuple
 
@@ -39,6 +39,11 @@ firac = classify_firac(text)
 
 # Isolate the citations into a set
 # If the underlying list is empty, a "None" string is added to the set
+
+with open("timings.log", "a") as f:
+    perf_end = f"start list building: {int(time.time())}"
+    f.write(perf_end)
+
 decision_list = []
 legislation_list = []
 section_list = []
@@ -64,6 +69,9 @@ section_list = set([
     for section in citation["sections"]
 ])
 
+with open("timings.log", "a") as f:
+    perf_end = f"end list building: {int(time.time())}"
+    f.write(perf_end)
 
 print(
     f"\nDecisions:\n{decision_list}\n\nLegislation:\n{legislation_list}\n\nSections:\n{section_list}"
@@ -84,11 +92,12 @@ else:
 
 # Take the list from each key and join them into a single string
 
+section_text = ""
 for key in firac:
-    print(key.upper)
-    section_text = " ".join(firac[key])
-    section_text = text_summarizer(section_text, 0.5)
-    print(f"\n{key.upper()}: \n{section_text}")
+    section_text += " ".join(firac[key])
+
+section_text = text_summarizer(section_text, 0.5)
+print(section_text)
 
 # Write a local copy of the text file
 # Take the HTML file name and change the extension to .txt
@@ -100,4 +109,3 @@ file_name = file_name + ".txt"
 if not os.path.exists(f"./data/training_data/{file_name}"):
     with open("./data/training_data/" + file_name, "w", encoding="utf-8") as file:
         file.write(text)
-

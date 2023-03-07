@@ -1,11 +1,13 @@
 import re
 from bs4 import BeautifulSoup
 
+from .decorators import timing
 
 abbreviations = ["para.", "paras", "p", "pp", "Cst", "Csts", "s", "ss"]
 
 
 # Reads an HTML file and returns the text as a string
+@timing
 def canlii_html_to_txt(filename: str) -> tuple[str, list]:
     """
     Reads a CanLII HTML file and saves a text file. Although CanLII HTML isn't
@@ -20,13 +22,13 @@ def canlii_html_to_txt(filename: str) -> tuple[str, list]:
 
         # Removes extraneous line breaks
         text = re.sub(r"\n+", " ", text)
-        
+
         # Find spaces larger than a single space and replace them with a single
         # space
         text = re.sub(r"\s{2,}", " ", text)
         text = text.replace(u'\xa0', u' ')
 
-        
+
         # Create a regex pattern to match the abbreviations with periods at the end
         # then loops through each word and remove the period if it matches an
         # abbreviation. This ostensibly resolves Issue #7.
@@ -40,7 +42,7 @@ def canlii_html_to_txt(filename: str) -> tuple[str, list]:
 
         for word in text:
             match = re.match(pattern, word)
-            
+
             if match:
                 new_word = match.group(0)[:-1]
                 processed_text.append(new_word)
@@ -54,6 +56,6 @@ def canlii_html_to_txt(filename: str) -> tuple[str, list]:
         # numbers no greater than 3 digits. This regex should catch all of them.
 
         text = re.sub(r"\[(\d{1,3})\]", r"\n[\1]", text)
-        
+
     return text
 
