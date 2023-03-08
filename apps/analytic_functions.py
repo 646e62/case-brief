@@ -40,8 +40,7 @@ def retrieve_citations(text: str) -> dict:
 
     for ent in doc.ents:
         if ent.label_ == "STATUTE":
-            if ent.text in statute_list:
-                citations[1]["citations"].append(ent.text)
+            citations[1]["citations"].append(ent.text)
         elif ent.label_ == "SECTION":
             citations[1]["sections"].append(ent.text)
                
