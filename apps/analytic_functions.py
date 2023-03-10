@@ -64,9 +64,15 @@ def retrieve_citations(text: str) -> dict:
     doc = nlp(text)
 
     for ent in doc.ents:
+<<<<<<< HEAD
 #        if ent.label_ == "STATUTE":
 #            citations[1]["citations"].append(ent.text)
         if ent.label_ == "SECTION":
+=======
+        if ent.label_ == "STATUTE":
+            citations[1]["citations"].append(ent.text)
+        elif ent.label_ == "SECTION":
+>>>>>>> d9bc05bc3be28a8154c95752f45b3bc3719bb5d4
             citations[1]["sections"].append(ent.text)
     return citations
 
