@@ -29,7 +29,7 @@ def local_argument(file: str, verbose: False) -> tuple:
     firac = classify_firac(text)
     citations = extract_citations(text)
     summary = summarize_text_local(text)
-    analysis = analyze_text(text)
+    analysis = analyze_text_local(text)
 
     if verbose == True:
         return text, firac, summary, analysis, citations
@@ -37,7 +37,7 @@ def local_argument(file: str, verbose: False) -> tuple:
         return summary, analysis, citations
 
 
-def citation_argument():
+def citation_argument(file):
     text = extract_text(file)
     return extract_citations(text)
 
@@ -49,22 +49,22 @@ def default(file):
 # Supportive functions
 
 def extract_text(file: str):
-    
+
     print("Verifying file path: ", end = "")
-    if not os.path.exists(args.file_path):
+    if not os.path.exists(file):
         print("File not found.")
         sys.exit()
     else:
         print("Done.\n")
-   
+
     # Write a local copy of the text file
-    file_name = os.path.basename(args.file_path)
+    file_name = os.path.basename(file)
     file_name = os.path.splitext(file_name)[0]
     file_name += ".txt"
     file_path = f"./data/training_data/{file_name}"
 
     # Convert the HTML file to text
-    text = canlii_html_to_txt(args.file_path)
+    text = canlii_html_to_txt(file)
 
     # Check to see if a file copy exists. If not, create one.
     if not os.path.exists(file_path):
@@ -76,12 +76,13 @@ def extract_text(file: str):
 
 
 def summarize_text_local(file: str, percentage: float = 0.2) -> tuple:
-    
+    """
     for key in firac:
         section_text = " ".join(firac[key])
         section_text = text_summarizer(section_text, percentage)
-      
     return key, section_text
+    """
+    pass
 
 
 def extract_citations(text: str):
@@ -93,10 +94,6 @@ def extract_citations(text: str):
     citations = retrieve_citations(text)
     print("Done")
 
-    decisions = []
-    legislation = []
-    sections = []
- 
     # Isolate the citations into a set
     # If the underlying list is empty, a "None" string is added to the set
     decisions = set(
@@ -125,41 +122,15 @@ def extract_citations(text: str):
             for section in citation["sections"]
         ]
     )
-    
-    return decision_list
+
+    return decisions
 
 def analyze_text_local(text: str):
     # Check to see if any of the citations are in the legal tests
-    if get_legal_test(decision_list):
+    if get_legal_test(text):
 
         print("\nLegal test(s) found:")
-        for test in get_legal_test(decision_list):
+        for test in get_legal_test(text):
             print("* " + test["short_form"].title())
     else:
         print("\nNo legal tests found.")
-
-
-# Arguments
-parser = argparse.ArgumentParser()
-parser.add_argument(
-    "file_path",
-    nargs="?",
-    help="The path to the HTML file to be processed.",
-    type=str,
-)
-parser.add_argument(
-    "--text",
-    nargs="?",
-    help="Converts the HTML file to text and exits."
-)
-parser.add_argument(
-    "--local",
-    nargs="?",
-    help="Analyzes a file without calling the GPT-3.5 API."
-)
-parser.add_argument("--citation", 
-    nargs="?", 
-    help="Extracts citations and exits."
-)
-args = parser.parse_args()
-

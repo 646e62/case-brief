@@ -38,41 +38,35 @@ def retrieve_citations(text: str) -> dict:
         "Criminal Code of Canada",
         "Criminal Code, RSC 1985, c C-46",]
 
-    # Extracting neutral and CanLII citations using regex was more economical 
+    # Extracting neutral and CanLII citations using regex was more economical
     # (and probably accurate) than using the lightly-trained NLP model I used
     # previously.
     case_citation_pattern = r"\b\d{4}\s(?:[A-Z]{2,}\s\d+|CanLII\s\d+)\b"
     citation_list = re.findall(case_citation_pattern, text)
     citations[0]["citations"] = citation_list
-    
+
     # Finds statutes from the list in the text and adds them to the statute
     # list.
     for statute in statutes:
         if statute in text:
             citations[1]["citations"].append(statute)
 
-    # Add the statutes to the list of citations 
+    # Add the statutes to the list of citations
     citations[1]["citations"] = [statute for statute in statutes if statute in text]
-    
-    # Although regex may be useful for extracting statute names, this will 
+
+    # Although regex may be useful for extracting statute names, this will
     # require a fairly comprehensive dictionary of all statutes in Canada that
     # are likely to appear in a legal test. Furthermore, regex turns out to be
-    # a poor way to extract statute sections, given how variably they can be 
+    # a poor way to extract statute sections, given how variably they can be
     # written, while a relatively simple NLP model can do a good job of getting
     # enough of them to make this function useful.
     nlp = spacy.load("./models/ner_sections_v1/model-last/")
     doc = nlp(text)
 
     for ent in doc.ents:
-<<<<<<< HEAD
-#        if ent.label_ == "STATUTE":
-#            citations[1]["citations"].append(ent.text)
+        # if ent.label_ == "STATUTE":
+        #   citations[1]["citations"].append(ent.text)
         if ent.label_ == "SECTION":
-=======
-        if ent.label_ == "STATUTE":
-            citations[1]["citations"].append(ent.text)
-        elif ent.label_ == "SECTION":
->>>>>>> d9bc05bc3be28a8154c95752f45b3bc3719bb5d4
             citations[1]["sections"].append(ent.text)
     return citations
 
