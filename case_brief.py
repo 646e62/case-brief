@@ -5,49 +5,132 @@ Runs the case brief program from the command line.
 """
 
 import argparse
-import os
-#import re
+import os.path
 import sys
-#from typing import List, Tuple
 
-#from bs4 import BeautifulSoup
-#import spacy
-#from spacy.tokens import Doc, Span
 
-from apps.analytic_functions import retrieve_citations
+# from typing import List, Tuple
+
+from apps.analytic_functions import retrieve_citations, get_legal_test
+from apps.classification_functions import classify_firac
 from apps.html_to_txt import canlii_html_to_txt
+from apps.summarization_functions import text_summarizer
 
-# Prompt the user for a file path
-parser = argparse.ArgumentParser()
-parser.add_argument(
-    "file_path",
-    help="The path to the HTML file to be processed.",
-    type=str,
-)
-args = parser.parse_args()
 
-# Check if the file exists
-if not os.path.exists(args.file_path):
-    print("File not found.")
-    sys.exit()
+# Argument functions
 
-# Read the HTML file and convert it to text
-text = canlii_html_to_txt(args.file_path)
+def text_argument(file: str) -> str:
+    text = extract_text(file)
+    return text
 
-# Retrieve the citations from the text
-citations = retrieve_citations(text)
 
-# Print the citations
-print("Citations:")
-for citation in citations:
-    if citation["type"] == "decisions":
-        print("Decisions:")
-        for decision in citation["citations"]:
-            print(decision)
-    elif citation["type"] == "legislation":
-        print("Legislation:")
-        for statute in citation["citations"]:
-            print(statute)
-        print("Sections:")
-        for section in citation["sections"]:
-            print(section)
+def local_argument(file: str, verbose: False) -> tuple:
+    text = extract_text(file)
+    firac = classify_firac(text)
+    citations = extract_citations(text)
+    summary = summarize_text_local(text)
+    analysis = analyze_text_local(text)
+
+    if verbose == True:
+        return text, firac, summary, analysis, citations
+    else:
+        return summary, analysis, citations
+
+
+def citation_argument(file):
+    text = extract_text(file)
+    return extract_citations(text)
+
+
+def default(file):
+    return local_argument(file)
+
+
+# Supportive functions
+
+def extract_text(file: str):
+
+    print("Verifying file path: ", end = "")
+    if not os.path.exists(file):
+        print("File not found.")
+        sys.exit()
+    else:
+        print("Done.\n")
+
+    # Write a local copy of the text file
+    file_name = os.path.basename(file)
+    file_name = os.path.splitext(file_name)[0]
+    file_name += ".txt"
+    file_path = f"./data/training_data/{file_name}"
+
+    # Convert the HTML file to text
+    text = canlii_html_to_txt(file)
+
+    # Check to see if a file copy exists. If not, create one.
+    if not os.path.exists(file_path):
+        with open(file_path, "w", encoding="utf-8") as file:
+            file.write(text)
+        print(f"Wrote {file_path}")
+    else:
+        print("File already exists.")
+
+
+def summarize_text_local(file: str, percentage: float = 0.2) -> tuple:
+    """
+    for key in firac:
+        section_text = " ".join(firac[key])
+        section_text = text_summarizer(section_text, percentage)
+    return key, section_text
+    """
+    pass
+
+
+def extract_citations(text: str):
+    """
+    Extracts citations from a legal text, if any, and exports the results as a
+    dictionary.
+    """
+    print("Retrieving citations: ", end="")
+    citations = retrieve_citations(text)
+    print("Done")
+
+    # Isolate the citations into a set
+    # If the underlying list is empty, a "None" string is added to the set
+    decisions = set(
+        [
+            decision
+            for citation in citations
+            if citation["type"] == "decisions"
+            for decision in citation["citations"]
+        ]
+    )
+
+    legislation = set(
+        [
+            statute
+            for citation in citations
+            if citation["type"] == "legislation"
+            for statute in citation["citations"]
+        ]
+    )
+
+    sections = set(
+        [
+            section
+            for citation in citations
+            if citation["type"] == "legislation"
+            for section in citation["sections"]
+        ]
+    )
+
+    return decisions
+
+def analyze_text_local(text: str):
+    # Check to see if any of the citations are in the legal tests
+    if get_legal_test(text):
+
+        print("\nLegal test(s) found:")
+        for test in get_legal_test(text):
+            print("* " + test["short_form"].title())
+    else:
+        print("\nNo legal tests found.")

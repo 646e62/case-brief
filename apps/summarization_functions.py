@@ -68,33 +68,13 @@ def text_summarizer(
     not designed to be a perfect summarization of the text.
     """
 
-    # Create a regex pattern to match the abbreviations with periods at the end
-    # then loops through each word and remove the period if it matches an
-    # abbreviation. This ostensibly resolves Issue #7.
-    # Future versions should also target paragraph numbers and citations.
-    pattern = "|".join(
-        [re.escape(abreviation) + r"\." for abreviation in abbreviations]
-    )
-
-    text = text.split()
-    processed_text = []
-
-    for word in text:
-        match = re.match(pattern, word)
-        if match:
-            new_word = match.group(0)[:-1]
-            processed_text.append(new_word)
-        else:
-            processed_text.append(word)
-
-    text = " ".join(processed_text)
 
     # Tokenize the formatted text
 
     nlp = spacy.load("en_core_web_md")
     doc = nlp(text)
     stopwords = list(STOP_WORDS)
-
+    abbreviations = ["para.", "paras", "p", "pp", "Cst", "Csts", "s", "ss"]
     # Calculates the frequency of each substantive word and generates the
     # frequency table. Future versions should also exclude citations and
     # paragraph numbers.
@@ -136,5 +116,4 @@ def text_summarizer(
 
 
 # Abbreviations
-abbreviations = ["para.", "paras.", "p.", "pp.", "Cst", "Csts."]
 
