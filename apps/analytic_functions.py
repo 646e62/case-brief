@@ -3,7 +3,6 @@ Tools to analyze case data through NL rules
 """
 
 import json
-import os
 import re
 import spacy
 
@@ -36,7 +35,8 @@ def retrieve_citations(text: str) -> dict:
         "Cr C",
         "Criminal Code",
         "Criminal Code of Canada",
-        "Criminal Code, RSC 1985, c C-46",]
+        "Criminal Code, RSC 1985, c C-46",
+    ]
 
     # Extracting neutral and CanLII citations using regex was more economical
     # (and probably accurate) than using the lightly-trained NLP model I used
@@ -64,23 +64,28 @@ def retrieve_citations(text: str) -> dict:
     doc = nlp(text)
 
     for ent in doc.ents:
-        # if ent.label_ == "STATUTE":
-        #   citations[1]["citations"].append(ent.text)
         if ent.label_ == "SECTION":
             citations[1]["sections"].append(ent.text)
+
+    for citation in citations:
+        citation["citations"] = set(
+            citation["citations"] if citation["citations"] else []
+        )
+        citation["sections"] = set(
+            citation["sections"] if "sections" in citation else []
+        )
     return citations
 
 
-def get_legal_test(citations: list[str]) -> list[dict]:
+def get_legal_test(citations: dict) -> list[dict]:
     """
-    This function takes a citation and returns the legal test for that
-    citation. After other
+    This function takes a list of citations and checks them against a list of
+    legal tests. If a citation matches a legal test, the function returns the
+    legal test.
     """
-    test_list = [
-        dictionary
-        for dictionary in legal_tests
-        for citation in citations
-        if citation in dictionary["origins"]["citation"]
-    ]
+    case_citations = citations[0]["citations"]
+    
+    for test in legal_tests:
+        if test["origins"]["citation"] in case_citations:
+            return [test]
 
-    return test_list
