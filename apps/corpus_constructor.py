@@ -1,3 +1,6 @@
+import json
+import spacy
+
 def html_path_to_txt(filename: str) -> str:
     file_path_list = filename.split("/")
     del file_path_list[2]
@@ -23,16 +26,25 @@ def export_to_file(clean_decision: list, filename: str):
             except:
                 if paragraph:
                     f.write(paragraph.text + "\n")
-    
+   
     print(f"Wrote {save_path_corrected}")
 
-def export_all(jurisdiction_list: list):
+def sentencize_text(file_path):
     '''
-    Takes file paths from the jurisdiction list and exports them to text en
-    masse.
+    Converts a text file into a list of sentences.
     '''
-    for court_list in jurisdiction_list:
-        for decision in court_list:
-            decision_text = compile_decision_text(decision)
-            decision_text_file = export_to_file(decision_text, decision)
-            
+    with open(file_path, "r", encoding="utf-8") as file:
+        text = file.read()
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(text)
+    sentences = list(doc.sents)
+    
+    new_file_path = file_path.split(".")
+    del new_file_path[-1]
+    new_file_path.append("sent.txt")
+    new_file_path = ".".join(new_file_path)
+
+    with open(new_file_path, "w", encoding="utf-8") as file:
+        for sentence in sentences:
+            file.write(sentence.text + "\n")
+
