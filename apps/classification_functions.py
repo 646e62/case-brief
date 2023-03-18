@@ -5,6 +5,7 @@ Supreme Court of Canada cases decided in 2022. Model development is ongoing.
 """
 
 import spacy
+from rich import print
 
 def majority_minority(text: str) -> list:
     """
@@ -51,11 +52,5 @@ def classify_firac(text: str) -> dict:
         # a blank list to the FIRAC element if it doesn't exist.
         firac.setdefault(max_key, []).append(sentence.text)
         
-    # Print the number of sentences in each FIRAC element.
-    for key, value in firac.items():
-        if key == "heading":
-            continue
-        else:
-            print(f"{key}: {len(value)}")
 
     return firac

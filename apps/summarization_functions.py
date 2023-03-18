@@ -20,39 +20,6 @@ from heapq import nlargest
 
 # Create a decision class that will include the extracted textual portions.
 
-
-class Decision:
-    def __init__(self, pfirac: dict):
-        """
-        This class creates a decision object that contains the extracted
-        textual portions of a decision.
-
-        The "meta" parameter should contain the following items:
-
-            * Case citation
-            * Judge or judges signing onto the decision
-            * The position the decision takes with respect to the case as a whole (majority, dissent, etc.)
-
-        Taken together, these items can be used to create a unique class identifier.
-
-        Each of the remaining parameters should be lists of sentences. They
-        should be combined into a single string before being passed to the
-        summarization function.
-        """
-
-        self.meta = pfirac.get("meta", {})
-        self.id = f"{self.meta.get('citation', '')} — {self.meta.get('judges', '')} — {self.meta.get('decision_type', '')}"
-        self.facts = pfirac.get("facts", {})
-        self.history = pfirac.get("history", {})
-        self.issues = pfirac.get("issues", {})
-        self.rules = pfirac.get("rules", {})
-        self.analysis = pfirac.get("analysis", {})
-        self.conclusion = pfirac.get("conclusion", {})
-
-    def __str__(self):
-        return self.id
-
-
 def text_summarizer(
         text: str,
         percentage: float = 0.2,
@@ -122,9 +89,6 @@ def text_summarizer(
     else:
         percentage = min_length / total_tokens
 
-    print(f"Percentage: {percentage}")
-    print(f"Total tokens: {total_tokens}")
-
     # Adds the sentences to a weighted frequency list in descending order
     # If the total length of the sentences is less than the minimum length,
     # the function will return the entire text.
@@ -136,7 +100,4 @@ def text_summarizer(
     # Creates the summary based on the weighted frequency list
     # The summary is limited to a minimum and maximum length
     summary = [word.text for word in weighted_sentences]
-
-    print(summary)
-    return summary
-
+    return summary, percentage, total_tokens
