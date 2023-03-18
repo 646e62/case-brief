@@ -1,28 +1,33 @@
 #!/usr/bin/env python3
 
 """
-Runs the case brief program from the command line.
+FIRAC is a command-line tool that analyzes legal texts and returns a summary of
+the text, a list of citations, and a classification of the text based on the
+FIRAC model. FIRAC is a work in progress and is not yet ready for production.
 """
 
 import os.path
 import sys
-import typer
-import json
+
+# import json
 
 # from typing import List, Tuple
+
+from typing import Optional
+from rich import print
+from prettytable import PrettyTable
+
+import typer
 
 from apps.analytic_functions import retrieve_citations, get_legal_test
 from apps.classification_functions import classify_firac
 from apps.html_to_txt import canlii_html_to_txt
 from apps.summarization_functions import text_summarizer
-from typing import Optional
-from rich import print
-from prettytable import PrettyTable
 
 
-# Argument functions
-
+# Commands
 app = typer.Typer()
+
 
 @app.command()
 def extract_text_only(file: str) -> str:
@@ -33,8 +38,9 @@ def extract_text_only(file: str) -> str:
     text = extract_text(file)
     return text
 
+
 @app.command()
-def local(file: Optional[str] = None, verbose: Optional[bool] = True) -> tuple:
+def local(file: Optional[str] = None) -> tuple:
     """
     Runs local-only functions and returns the results.
     """
@@ -43,7 +49,6 @@ def local(file: Optional[str] = None, verbose: Optional[bool] = True) -> tuple:
 
     if file:
         text = extract_text(file)
-    
     else:
         text = extract_text(input("File path: "))
 
@@ -52,9 +57,7 @@ def local(file: Optional[str] = None, verbose: Optional[bool] = True) -> tuple:
     summary = summarize_text_local(firac)
     analysis = analyze_text_local(text, citations)
 
-    if verbose is True:
-        return text, firac, citations, summary, analysis
-    return summary, citations
+    return text, firac, citations, summary, analysis
 
 
 @app.command()
@@ -65,9 +68,22 @@ def extract_citations_only(file):
     text = extract_text(file)
     return extract_citations(text)
 
+
+@app.command()
+def gpt_3():
+    """
+    Analyzes text using GPT-3/.5. This function is not yet implemented.
+    """
+    pass
+
+
 @app.command()
 def gpt_4():
+    """
+    Analyzes text using GPT-4. This function is not yet implemented.
+    """
     pass
+
 
 # Supportive functions
 
@@ -84,29 +100,48 @@ def extract_text(file_path: str):
     else:
         print("[green]Done.[/green]")
 
-    # Write a local copy of the text file
-    file_name = os.path.basename(file_path)
-    file_name = os.path.splitext(file_name)[0]
-    file_name += ".txt"
-    new_file_path = f"./data/training_data/{file_name}"
+    if file_path.endswith(".html"):
+        # Convert the HTML file to text
+        text = canlii_html_to_txt(file_path)
 
-    # Convert the HTML file to text
-    text = canlii_html_to_txt(file_path)
+        # Write to file
+        write_text(text, file_path)
+        return text
+
+    elif file_path.endswith(".txt"):
+        with open(file_path, "r", encoding="utf-8") as file:
+            text = file.read()
+        return text
+
+    else:
+        print("[bold red]File type not supported.[/bold red]")
+        sys.exit()
+
+
+def write_text(text: str, file_path: str):
+    """
+    Writes the files that the FIRAC classifying function reads. This function
+    infers a file path from the file's name and saves it into the archive folder.
+    """
+    # Change the file extension if necessary
+    if file_path.endswith(".html"):
+        file_name = os.path.basename(file_path)
+        file_name = os.path.splitext(file_name)[0]
+        file_name += ".txt"
+
+    # Create the file path
+    print(file_name)
 
     # Check to see if a file copy exists. If not, create one.
-    if not os.path.exists(new_file_path):
-        with open(new_file_path, "w", encoding="utf-8") as file:
+    if not os.path.exists(file_path):
+        with open(file_path, "w", encoding="utf-8") as file:
             file.write(text)
         print(f"Wrote {file_path}")
     else:
         print("[bold red]File already exists.[/bold red] Skipping file writing.")
 
-    return text
 
-
-def summarize_text_local(
-        firac: dict
-) -> dict:
+def summarize_text_local(firac: dict) -> dict:
     """
     Summarizes a text locally using the local summarization function. This
     function ranks sentences based on a simple word frequency algorithm. Future
@@ -122,18 +157,23 @@ def summarize_text_local(
     # remove \n characters. Then, join the sentences into a single string.
     for key in firac:
         if key != "heading":
-            firac[key] = " ".join([sentence.replace("\n", " ") for sentence in firac[key]])
+            firac[key] = " ".join(
+                [sentence.replace("\n", " ") for sentence in firac[key]]
+            )
             # Summarize the text
             firac[key] = text_summarizer(firac[key])
             # Add the summary to the summary dictionary
             summary[key] = firac[key]
-            table.add_row([f"{key.title()}", round(firac[key][1] * 100, 2), firac[key][2]])
+            table.add_row(
+                [f"{key.title()}", round(firac[key][1] * 100, 2), firac[key][2]]
+            )
         else:
             pass
     print("[green]Done.[/green]\n")
 
     typer.echo(table)
     return summary
+
 
 def extract_citations(text: str):
     """
@@ -146,11 +186,21 @@ def extract_citations(text: str):
     print("[green]Done.[/green]\n")
 
     # Add citations to a list if they contain "SCC"
-    scc_citations = [citation for citation in citations[0]["citations"] if "SCC" in citation]
+    scc_citations = [
+        citation for citation in citations[0]["citations"] if "SCC" in citation
+    ]
     # Add citations to another list if they contain "CA"
-    ca_citations = [citation for citation in citations[0]["citations"] if "CA" in citation]
-    unknown_citations = [citation for citation in citations[0]["citations"] if "CanLII" in citation]
-    other_citations = [citation for citation in citations[0]["citations"] if "SCC" not in citation and "CA" not in citation and "CanLII" not in citation]
+    ca_citations = [
+        citation for citation in citations[0]["citations"] if "CA" in citation
+    ]
+    unknown_citations = [
+        citation for citation in citations[0]["citations"] if "CanLII" in citation
+    ]
+    other_citations = [
+        citation
+        for citation in citations[0]["citations"]
+        if "SCC" not in citation and "CA" not in citation and "CanLII" not in citation
+    ]
 
     print(f"\u2022 Total case citations found: {len(citations[0]['citations'])}")
     print(f"\u2022 Supreme Court of Canada citations: {len(scc_citations)}")
@@ -178,11 +228,10 @@ def analyze_text_local(text: str, citations: dict):
         for test in legal_tests:
             print(f" \u2022 {test['short_form']}")
     else:
-        print(f"\nTests found: [red]None[/red]")
+        print("\nTests found: [red]None[/red]")
 
     return legal_tests
 
 
 if __name__ == "__main__":
     app()
-
