@@ -54,7 +54,11 @@ class Decision:
 
 
 def text_summarizer(
-    text: str, percentage: float, abbreviations: list[str] | None = None
+        text: str,
+        percentage: float = 0.2,
+        min_length: int = 500,
+        max_length: int = 1500,
+        abbreviations: list[str] | None = None
 ) -> str:
     """
     Summarizes text using extractive summarization methods. First, the function
@@ -71,7 +75,7 @@ def text_summarizer(
 
     # Tokenize the formatted text
 
-    nlp = spacy.load("en_core_web_md")
+    nlp = spacy.load("en_core_web_sm")
     doc = nlp(text)
     stopwords = list(STOP_WORDS)
     abbreviations = ["para.", "paras", "p", "pp", "Cst", "Csts", "s", "ss"]
@@ -95,7 +99,7 @@ def text_summarizer(
         word_frequency[word] = word_frequency[word] / max_frequency
 
     # Removes the stop words and punctuation from the sentences
-    sentence_tokens = [sentence for sentence in doc.sents]
+    sentence_tokens = list(doc.sents)
     sentence_scores = Counter(
         {
             sentence: sum(
@@ -105,15 +109,34 @@ def text_summarizer(
         }
     )
 
-    len_tokens = int(len(sentence_tokens) * percentage)
+    # Calculate the number of total tokens across all sentences
+    total_tokens = sum(len(sentence) for sentence in sentence_tokens)
 
-    # Returns the top sentences based on the percentage of the original text.
-    summary = [sentence for sentence, score in sentence_scores.most_common(len_tokens)]
-    final_summary = [word.text for word in summary]
-    summary = " ".join(final_summary)
+    # The percentage should aim to get as close to the min_length as possible while
+    # not exceeding the max_length. The percentage is calculated based on the
+    # total number of tokens in the text.
+    if total_tokens < min_length:
+        percentage = 1
+    elif total_tokens > max_length:
+        percentage = max_length / total_tokens
+    else:
+        percentage = min_length / total_tokens
 
+    print(f"Percentage: {percentage}")
+    print(f"Total tokens: {total_tokens}")
+
+    # Adds the sentences to a weighted frequency list in descending order
+    # If the total length of the sentences is less than the minimum length,
+    # the function will return the entire text.
+
+    weighted_sentences = nlargest(
+        int(len(sentence_tokens) * percentage), sentence_scores, key=sentence_scores.get
+    )
+
+    # Creates the summary based on the weighted frequency list
+    # The summary is limited to a minimum and maximum length
+    summary = [word.text for word in weighted_sentences]
+
+    print(summary)
     return summary
-
-
-# Abbreviations
 
