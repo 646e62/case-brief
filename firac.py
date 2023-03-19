@@ -8,8 +8,7 @@ FIRAC model. FIRAC is a work in progress and is not yet ready for production.
 
 import os.path
 import sys
-
-# import json
+import json
 
 # from typing import List, Tuple
 
@@ -23,7 +22,7 @@ from apps.analytic_functions import retrieve_citations, get_legal_test
 from apps.classification_functions import classify_firac
 from apps.html_to_txt import canlii_html_to_txt
 from apps.summarization_functions import text_summarizer
-from apps.gpt_functions import gpt_analysis
+from apps.gpt_functions import gpt_hybrid_analysis_manual
 
 
 # Commands
@@ -71,10 +70,11 @@ def extract_citations_only(file):
 
 
 @app.command()
-def gpt_3():
+def gpt_hybrid(sorted_decision: dict):
     """
-    Analyzes text using GPT-3/.5. This function is not yet implemented.
+    Analyzes sorted using GPT-3.5 & 4.
     """
+
     pass
 
 
@@ -237,8 +237,11 @@ def analyze_text_local(text: str, citations: dict):
     return legal_tests
 
 
-# 3. Remote summarization functions
-# 3.1. GPT
+# 3. Compile the GPT input file
+def compile_chat_gpt_json(local: tuple, auto: bool = False) -> dict:
+    """
+    
+    """
 
 
 
