@@ -12,30 +12,128 @@ import openai
 openai.api_key = os.getenv("OPENAI_API_KEY")
 OUTPUT_FILE = "../output.txt"
 
-# Tests on smaller cases using manual input and hybrid models are yielding 
+# Tests on smaller cases using manual input and hybrid models are yielding
 # comparable results to GPT-4 alone at 1/5th the cost. Trying a new test with
 # dynamically adjusted messaging.
 
 # Progressively removing information and labelling previous responses turned
 # out well. I was able to reduce costs from $0.22 to $0.05 per report.
 
-def gpt_hybrid_analysis_manual() -> dict:
+
+def gpt_hybrid_analysis_manual(sorted_text: dict) -> dict:
     """
     Although GPT-4 is far more capable than GPT-3.5 at handling larger strings,
     it is currently prohibitively expensive. This function uses GPT-3.5 to
-    analyze the text and GPT-4 to summarize the text. This function is designed
-    to be used with manual input.
+    analyze the text and GPT-4 to summarize the text.
+
+    This function is designed to be used with manual input. In the future,
+    local NLP models will be used to sort the text into the appropriate
+    categories. Future versions may also be trained to detect whether a case
+    is being heard at first instance or on appeal.
+
+    For now, the sorted_text dictionary should be formatted as follows:
+    {
+        "opinion": "court", "curium", "majority opinion", "dissenting opinion", or "concurring opinion",
+        "facts": "string",
+        "issues": "string",
+        "rules": "string",
+        "analysis": "string",
+        "conclusion": "string",
+    }
     """
-    summary = openai.Completion.create(
-              model="text-davinci-003",
-              prompt = f"{prompt}: {text}",
-              temperature=0.7,
-              max_tokens=256,
-              top_p=1,
-              frequency_penalty=0,
-              presence_penalty=0
-              )
+    # Default parameters for GPT-3.5
+    parameters = {
+        "model": "gpt-3.5-turbo",
+        "messages": [],
+        "temperature": 0.4,
+        "max_tokens": 750,
+        "top_p": 1,
+        "frequency_penalty": 0.0,
+        "presence_penalty": 0.0,
+    }
+    if sorted_text["opinion"] == "court's":
+        case_type = "first instance"
+    else:
+        case_type = "appeal"
 
-    return summary
+    opinion = sorted_text["opinion"]
+    facts = sorted_text["facts"]
+    issues = sorted_text["issues"]
+    rules = sorted_text["rules"]
+    analysis = sorted_text["analysis"]
+    conclusion = sorted_text["conclusion"]
 
-def gpt_chat_completion()
+    system_prompt = "You are an assistant helping summarize Canadian criminal legal cases into a FIRAC case brief. FIRAC stands for facts, issues, rules, analysis, and conclusion.\nFacts include everything before the court heard the case it was reporting. For appeal cases, this will usually include procedural history. Facts should be one or a few more paragraphs.\nIssues are the questions that the parties are asking the court to answer. Issues should be listed as brief questions to be answered in an ordered list.\nRules are the legal rules and procedures the court must apply to answer the questions.\nAnalysis refers to the court's reasons for how it answers the questions raised in the issues section. Analysis can include justification for the rules used and how they should be applied to the facts in the case. Analysis should address each distinct issue in one or more paragraphs\nThe conclusion is a brief summary of what happened. In trials, it will be whether the defendant was acquitted or convicted. In appeals, it will be whether the appeal was allowed or dismissed.\nSome cases may have multiple opnions. One common example is an appeal, which may have majority, dissenting, and concurring opinions. Where there are multiple opinions, the FIRAC analysis should be done for each of them.\nThe entire brief should be between 500 - 1500 words per opinion but may be somewhat more or less for larger and smaller cases.\nThe following text was sorted by a human and you should assume it's complete and accurate."
+
+    # Hybrid prompts
+    fact_prompt = f"These are the facts in the case: {facts}\nPlease summarize the facts in this case. If this is an appeal, please also summarize the procedural history"
+    issue_prompt = f"These are the issues the {opinion} found in the case:\n{issues}\nList the issues the {opinion} found in this case in an ordered list. Phrase the issues as questions to be answered."
+    analysis_prompt = f"This is the analysis the {opinion} conducted in the case:\n{analysis}\nHow did the {opinion} answer the issues in the case? Please use the issues as headings and provide one or more brief paragraphs as answers."
+    rules_prompt = f"These are legal rules the {opinion} applied in this case:\n{rules}\nOther rules may be contained in the above analysis. What legal rules did the {opinion} apply in this case? Please list the rules as brief sentences in an ordered list."
+    conclusion_prompt = f"This is the conclusion the {opinion} reached in this case:\n{conclusion}\nOther conclusive statements may be in the analysis, or inferred from the issues. What was the conclusion of the {opinion} in this case? Answer in one brief sentence."
+
+    # The hybrid analysis proceeds with the following steps:
+    # 1. {system_prompt} is sent to GPT-3.5
+    # 2. {fact_prompt} is sent to GPT-3.5
+    # 3. GPT-3.5 responds with a summary of the facts {fact_summary}
+    # 4. The {fact_summary} and {issue_prompt} are sent to GPT-3.5
+    # 5. GPT-3.5 responds with a summary of the issues {issue_summary}
+    # 6. {fact_summary}, {issue_summary}, and analysis_prompt are sent to GPT-3.5
+    # 7. GPT-3.5 responds with a summary of the analysis {analysis_summary}
+    # 8. {issue_summary}, {analysis_summary}, and {rules_prompt} are sent to GPT-4
+    # 9. GPT-4 responds with a summary of the rules {rules_summary}
+    # 10. {issue_summary}, {analysis_summary}, {rules_summary}, and {conclusion_prompt} are sent to GPT-3.5
+    # 11. GPT-3.5 responds with a summary of the conclusion {conclusion_summary}
+
+    # Steps 1 - 3
+    parameters["messages"].append({"system": system_prompt}, {"user": fact_prompt})
+    response = gpt_chat_completion(parameters)
+    fact_summary = response["choices"][0]["message"]["content"]
+
+    # Step 4 & 5
+    parameters["messages"].append({"assistant": fact_summary}, {"user": issue_prompt})
+    response = gpt_chat_completion(parameters)
+    issue_summary = response["choices"][0]["message"]["content"]
+
+    # Step 6 & 7
+    parameters["messages"].append(
+        {"assistant": fact_summary}, {"assistant": issue_summary}, {"user": analysis_prompt}
+        )
+    response = gpt_chat_completion(parameters)
+    analysis_summary = response["choices"][0]["message"]["content"]
+
+    # Step 8 & 9
+    parameters["messages"].append(
+        {"assistant": issue_summary}, {"assistant": analysis_summary}, {"user": rules_prompt}
+        )
+    parameters["model"] = "gpt-4"
+    response = gpt_chat_completion(parameters)
+    rules_summary = response["choices"][0]["message"]["content"]
+
+    # Step 10 & 11
+    parameters["messages"].append(
+        {"assistant": issue_summary},
+        {"assistant": analysis_summary},
+        {"assistant": rules_summary},
+        {"user": conclusion_prompt},
+    )
+    parameters["model"] = "gpt-3.5-turbo"
+    response = gpt_chat_completion(parameters)
+    conclusion_summary = response["choices"][0]["message"]["content"]
+    
+
+def gpt_chat_completion(parameters: dict) -> dict:
+    """
+    This function uses a GPT chat completion model to complete a prompt.
+    """
+    response = openai.Completion.create(
+        model=parameters["model"],
+        messages=parameters["prompt"],
+        temperature=parameters["temperature"],
+        max_tokens=parameters["max_tokens"],
+        top_p=parameters["top_p"],
+        frequency_penalty=parameters["frequency_penalty"],
+        presence_penalty=parameters["presence_penalty"],
+    )
+
+    return response
