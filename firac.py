@@ -23,6 +23,7 @@ from apps.analytic_functions import retrieve_citations, get_legal_test
 from apps.classification_functions import classify_firac
 from apps.html_to_txt import canlii_html_to_txt
 from apps.summarization_functions import text_summarizer
+from apps.gpt_functions import gpt_analysis
 
 
 # Commands
@@ -86,8 +87,7 @@ def gpt_4():
 
 
 # Supportive functions
-
-
+# 1. Text extraction functions
 def extract_text(file_path: str):
     """
     Extracts text from an HTML file.
@@ -141,6 +141,8 @@ def write_text(text: str, file_path: str):
         print("[bold red]File already exists.[/bold red] Skipping file writing.")
 
 
+# 2. Local summarization functions
+# 2.1. Extractive summarization
 def summarize_text_local(firac: dict) -> dict:
     """
     Summarizes a text locally using the local summarization function. This
@@ -175,6 +177,7 @@ def summarize_text_local(firac: dict) -> dict:
     return summary
 
 
+# 2.2. Citation extraction
 def extract_citations(text: str):
     """
     Extracts citations from a legal text, if any, and exports the results as a
@@ -211,6 +214,7 @@ def extract_citations(text: str):
     return citations
 
 
+# 2.3. Legal test analysis
 def analyze_text_local(text: str, citations: dict):
     """
     Analyzes a text locally using the local analysis function. This function
@@ -231,6 +235,11 @@ def analyze_text_local(text: str, citations: dict):
         print("\nTests found: [red]None[/red]")
 
     return legal_tests
+
+
+# 3. Remote summarization functions
+# 3.1. GPT
+
 
 
 if __name__ == "__main__":

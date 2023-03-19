@@ -6,76 +6,36 @@ is designed around the new chat model.
 """
 
 import os
+import json
 import openai
-from 
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-output_file = "output.txt"
+OUTPUT_FILE = "../output.txt"
 
+# Tests on smaller cases using manual input and hybrid models are yielding 
+# comparable results to GPT-4 alone at 1/5th the cost. Trying a new test with
+# dynamically adjusted messaging.
 
-def message_generator(
-    facts, 
-    history, 
-    issues, 
-    rules, 
-    analysis, 
-    conclusion
-) -> list[dict]:
+# Progressively removing information and labelling previous responses turned
+# out well. I was able to reduce costs from $0.22 to $0.05 per report.
+
+def gpt_hybrid_analysis_manual() -> dict:
     """
-    This function generates the messages for the chatbot. It takes the 
-    arguments from the main function and uses them to generate the messages.
-    """
-
-    messages = [facts, history, issues, rules, analysis, conclusion]
-
-    return messages
-
-
-def gpt_summarizer(prompt: str, text: str) -> str:
-    """
-    Basic text summarization using GPT-3. The presets are set to the 
-    recommended levels for "summarize for a 2nd grader" prompt.
+    Although GPT-4 is far more capable than GPT-3.5 at handling larger strings,
+    it is currently prohibitively expensive. This function uses GPT-3.5 to
+    analyze the text and GPT-4 to summarize the text. This function is designed
+    to be used with manual input.
     """
     summary = openai.Completion.create(
-              model="text-davinci-003", 
-              prompt = f"{prompt}: {text}", 
-              temperature=0.7, 
-              max_tokens=256, 
-              top_p=1, 
-              frequency_penalty=0, 
+              model="text-davinci-003",
+              prompt = f"{prompt}: {text}",
+              temperature=0.7,
+              max_tokens=256,
+              top_p=1,
+              frequency_penalty=0,
               presence_penalty=0
               )
 
     return summary
 
-
-def call_openai(
-    messages: list[dict],
-    engine: str ="gpt-3.5-turbo",
-    temperature: float = 0.5,
-    max_tokens: int = 100,
-    top_p: float = 1,
-    frequency_penalty: float = 0,
-    presence_penalty: float = 0,
-) -> list:
-    """
-    This function calls the OpenAI API and logs the output to a file. This call
-    is designed for the GPT-3.5 API.
-    """
-
-    response = openai.Completion.create(
-        engine = engine,
-        messages = messages,
-        temperature = temperature,
-        max_tokens = max_tokens,
-        top_p = top_p,
-        frequency_penalty = frequency_penalty,
-        presence_penalty = presence_penalty,
-    )
-
-    # Log the output to a file
-    with open(output_file, "a") as file:
-        file.write(json.dumps(response, indent=4))
-
-    return response
-
+def gpt_chat_completion()
