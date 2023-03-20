@@ -102,8 +102,9 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     # 1. {system_prompt} is sent to GPT-3.5
     # 2. {fact_prompt} is sent to GPT-3.5
     # 3. GPT-3.5 responds with a summary of the facts {fact_summary}
-    parameters["messages"].append({"role": "system", "content": system_prompt})
-    parameters["messages"].append({"role": "user", "content": fact_prompt})
+    parameters["messages"] = [{"role": "system", "content": system_prompt}, 
+                              {"role": "user", "content": fact_prompt}]
+
     response = gpt_chat_completion(parameters)
     fact_summary = response["choices"][0]["message"]["content"]
     print(f"Facts:\n{fact_summary}")
@@ -111,8 +112,8 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     print("Steps 4 & 5")
     # 4. The {fact_summary} and {issue_prompt} are sent to GPT-3.5
     # 5. GPT-3.5 responds with a summary of the issues {issue_summary}
-    parameters["messages"].append({"role": "assistant", "content": fact_summary})
-    parameters["messages"].append({"role": "user", "content": issue_prompt})
+    parameters["messages"] = [{"role": "assistant", "content": fact_summary}, 
+                              {"role": "user", "content": issue_prompt}]
     response = gpt_chat_completion(parameters)
     issue_summary = response["choices"][0]["message"]["content"]
     print(f"Issues:\n{issue_summary}")
@@ -120,9 +121,9 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     print("Steps 6 & 7")
     # 6. {fact_summary}, {issue_summary}, and analysis_prompt are sent to GPT-3.5
     # 7. GPT-3.5 responds with a summary of the analysis {analysis_summary}
-    parameters["messages"].append({"role": "assistant", "content": fact_summary})
-    parameters["messages"].append({"role": "assistant", "content": issue_summary})
-    parameters["messages"].append({"role": "user", "content": analysis_prompt})
+    parameters["messages"] = [{"role": "assistant", "content": fact_summary}, 
+                              {"role": "assistant", "content": issue_summary}, 
+                              {"role": "user", "content": analysis_prompt}]
 
     response = gpt_chat_completion(parameters)
     analysis_summary = response["choices"][0]["message"]["content"]
@@ -131,9 +132,9 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     print("Steps 8 & 9")
     # 8. {issue_summary}, {analysis_summary}, and {rules_prompt} are sent to GPT-4
     # 9. GPT-4 responds with a summary of the rules {rules_summary}
-    parameters["messages"].append({"role": "assistant", "content": issue_summary})
-    parameters["messages"].append({"role": "assistant", "content": analysis_summary})
-    parameters["messages"].append({"role": "user", "content": rules_prompt})
+    parameters["messages"] = [{"role": "assistant", "content": issue_summary}, 
+                              {"role": "assistant", "content": analysis_summary},
+                              {"role": "user", "content": rules_prompt}]
 
     parameters["model"] = "gpt-4"
     response = gpt_chat_completion(parameters)
