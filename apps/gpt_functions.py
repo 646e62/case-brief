@@ -9,6 +9,7 @@ import os
 import json
 import openai
 
+from transformers import AutoTokenizer
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -22,6 +23,18 @@ OUTPUT_FILE = "../output.txt"
 # Progressively removing information and labelling previous responses turned
 # out well. I was able to reduce costs from $0.22 to $0.05 per report.
 
+def gpt_token_counter(text: str) -> int:
+    """
+    Counts the number of tokens in a string. This is used to calculate the
+    number of tokens that will be charged to the user's account.
+    """
+    tokenizer = AutoTokenizer.from_pretrained('gpt2')
+    
+    # Count the number of tokens in a sentence
+    encoding = tokenizer.encode(text)
+    num_tokens = len(encoding)
+    
+    return num_tokens
 
 def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     """
@@ -54,12 +67,12 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
         "frequency_penalty": 0.0,
         "presence_penalty": 0.0,
     }
-    if sorted_text["opinion"] == "court's":
+    if sorted_text["opinion_type"] == "court's":
         case_type = "first instance"
     else:
         case_type = "appeal"
 
-    opinion = sorted_text["opinion"]
+    opinion_type = sorted_text["opinion_type"]
     facts = sorted_text["facts"]
     issues = sorted_text["issues"]
     rules = sorted_text["rules"]
@@ -79,54 +92,57 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     fact_prompt = f"These are the facts in the case: {facts}\nPlease summarize the facts in this case."
     if case_type == "appeal":
         fact_prompt += "Because this is an appeal, please also summarize the procedural history."
-    issue_prompt = f"These are the issues the {opinion} found in the case:\n{issues}\nList the issues the {opinion} found in this case in an ordered list. Phrase the issues as questions to be answered."
-    analysis_prompt = f"This is the analysis the {opinion} conducted in the case:\n{analysis}\nHow did the {opinion} answer the issues in the case? Please use the issues as headings and provide one or more brief paragraphs as answers."
-    rules_prompt = f"These are legal rules the {opinion} applied in this case:\n{rules}\nOther rules may be contained in the above analysis. What legal rules did the {opinion} apply in this case? Please list the rules as brief sentences in an ordered list."
-    conclusion_prompt = f"This is the conclusion the {opinion} reached in this case:\n{conclusion}\nOther conclusive statements may be in the analysis, or inferred from the issues. What was the conclusion of the {opinion} in this case? Answer in one brief sentence."
+    issue_prompt = f"These are the issues the  {opinion_type} found in the case:\n{issues}\nList the issues the  {opinion_type} found in this case in an ordered list. Phrase the issues as questions to be answered."
+    analysis_prompt = f"This is the analysis the  {opinion_type} conducted in the case:\n{analysis}\nHow did the  {opinion_type} answer the issues in the case? Please use the issues as headings and provide one or more brief paragraphs as answers."
+    rules_prompt = f"These are legal rules the  {opinion_type} applied in this case:\n{rules}\nOther rules may be contained in the above analysis. What legal rules did the  {opinion_type} apply in this case? Please list the rules as brief sentences in an ordered list."
+    conclusion_prompt = f"This is the conclusion the  {opinion_type} reached in this case:\n{conclusion}\nOther conclusive statements may be in the analysis, or inferred from the issues. What was the conclusion of the  {opinion_type} in this case? Answer in one brief sentence."
 
     # 1. {system_prompt} is sent to GPT-3.5
     # 2. {fact_prompt} is sent to GPT-3.5
     # 3. GPT-3.5 responds with a summary of the facts {fact_summary}
-    parameters["messages"].append({"system": system_prompt}, {"user": fact_prompt})
+    parameters["messages"].append({"system": system_prompt})
+    parameters["messages"].append({"user": fact_prompt})
     response = gpt_chat_completion(parameters)
     fact_summary = response["choices"][0]["message"]["content"]
 
     # 4. The {fact_summary} and {issue_prompt} are sent to GPT-3.5
     # 5. GPT-3.5 responds with a summary of the issues {issue_summary}
-    parameters["messages"].append({"assistant": fact_summary}, {"user": issue_prompt})
+    parameters["messages"].append({"assistant": fact_summary})
+    parameters["messages"].append({"user": issue_prompt})
     response = gpt_chat_completion(parameters)
     issue_summary = response["choices"][0]["message"]["content"]
 
     # 6. {fact_summary}, {issue_summary}, and analysis_prompt are sent to GPT-3.5
     # 7. GPT-3.5 responds with a summary of the analysis {analysis_summary}
-    parameters["messages"].append(
-        {"assistant": fact_summary}, {"assistant": issue_summary}, {"user": analysis_prompt}
-        )
+    parameters["messages"].append({"assistant": fact_summary})
+    parameters["messages"].append({"assistant": issue_summary})
+    parameters["messages"].append({"user": analysis_prompt})
+
     response = gpt_chat_completion(parameters)
     analysis_summary = response["choices"][0]["message"]["content"]
 
     # 8. {issue_summary}, {analysis_summary}, and {rules_prompt} are sent to GPT-4
     # 9. GPT-4 responds with a summary of the rules {rules_summary}
-    parameters["messages"].append(
-        {"assistant": issue_summary}, {"assistant": analysis_summary}, {"user": rules_prompt}
-        )
+    parameters["messages"].append({"assistant": issue_summary})
+    parameters["messages"].append({"assistant": analysis_summary})
+    parameters["messages"].append({"user": rules_prompt})
+
     parameters["model"] = "gpt-4"
     response = gpt_chat_completion(parameters)
     rules_summary = response["choices"][0]["message"]["content"]
 
     # 10. {issue_summary}, {analysis_summary}, {rules_summary}, and {conclusion_prompt} are sent to GPT-3.5
     # 11. GPT-3.5 responds with a summary of the conclusion {conclusion_summary}
-    parameters["messages"].append(
-        {"assistant": issue_summary},
-        {"assistant": analysis_summary},
-        {"assistant": rules_summary},
-        {"user": conclusion_prompt},
-    )
+    parameters["messages"].append({"assistant": issue_summary})
+    parameters["messages"].append({"assistant": analysis_summary})
+    parameters["messages"].append({"assistant": rules_summary})
+    parameters["messages"].append({"user": conclusion_prompt},)
     parameters["model"] = "gpt-3.5-turbo"
     response = gpt_chat_completion(parameters)
     conclusion_summary = response["choices"][0]["message"]["content"]
     report = f"[bold underline]Facts[/bold underline]\n{fact_summary}\n[bold underline]Issues[/bold underline]\n{issue_summary}\n[bold underline]Rules[/bold underline]\n{rules_summary}\n[bold underline]Analysis[/bold underline]\n{analysis_summary}\n[bold underline]Conclusion[/bold underline]\n{conclusion_summary}"
 
+    print(report)
     return report
 
 
@@ -135,13 +151,13 @@ def gpt_chat_completion(parameters: dict) -> dict:
     This function uses a GPT chat completion model to complete a prompt.
     """
     response = openai.Completion.create(
-        model=parameters["model"],
-        messages=parameters["prompt"],
-        temperature=parameters["temperature"],
-        max_tokens=parameters["max_tokens"],
-        top_p=parameters["top_p"],
-        frequency_penalty=parameters["frequency_penalty"],
-        presence_penalty=parameters["presence_penalty"],
+        model = parameters["model"],
+        messages = parameters["messages"],
+        temperature = parameters["temperature"],
+        max_tokens = parameters["max_tokens"],
+        top_p = parameters["top_p"],
+        frequency_penalty = parameters["frequency_penalty"],
+        presence_penalty = parameters["presence_penalty"],
     )
 
     return response

@@ -9,23 +9,64 @@ needs to be sent to the GPT-3 functions for further summarization and analysis.
 """
 
 import json
-import spacy
 import re
 from collections import Counter
-from spacy.lang.en.stop_words import STOP_WORDS
-from spacy.lang.en import English
 from string import punctuation
 from heapq import nlargest
 
+import spacy
+from spacy.lang.en.stop_words import STOP_WORDS
+from apps.html_to_txt import resolve_abbreviations
 
-# Create a decision class that will include the extracted textual portions.
+def preprocess_text_for_gpt(text: str) -> str:
+    """
+    Removes line breaks and other extraneous characters. Other character combos
+    like bracketed paragraph numbers turn out to be very expensive for GPT-3.5
+    without providing much value, and are therefore removed.
+    """
+    # Resolve abbreviations
+    text = resolve_abbreviations(text)
 
-def text_summarizer(
+    # Remove bracketed paragraph numbers and other bracketed numbers, like SCR 
+    # page citations
+    text = re.sub(r"\[\d{1,4}\]", "", text)
+    
+    # Remove SCR citations
+    text = re.sub(r"\d\s*(?:S\.C\.R\.|SCR)\s*\d{1,4}", "", text)
+
+    # Removes extraneous line breaks
+    text = re.sub(r"\n+", " ", text)
+
+    # Find spaces larger than a single space and replace them with a single
+    # space
+    text = re.sub(r"\s{2,}", " ", text)
+    text = text.replace('\xa0', ' ')
+
+    # Replaces stylized quotation marks with standard single quotation marks
+    # This includes double quotes, which are converted to single quotes
+    # GPT-2 counts stylized quotes as two separate tokens but doesn't count
+    # standard quotes as separate tokens at all. Replacing the stylized quotes
+    # with standard quotes reduces the number of tokens without any impact on
+    # the text's semantics.
+    text = text.replace("‘", "'")
+    text = text.replace("’", "'")
+    text = text.replace("“", "'")
+    text = text.replace("”", "'")
+
+    text = text.replace("R. v.", "R v")
+    text = text.replace("J.A.", "JA")
+    text = text.replace("J.", "J") 
+    text = text.replace(" ,", "")
+    text = text.replace(" .", ".")
+
+    return text
+
+
+def extraction_text_summarizer(
         text: str,
         percentage: float = 0.2,
         min_length: int = 500,
         max_length: int = 1500,
-        abbreviations: list[str] | None = None
 ) -> str:
     """
     Summarizes text using extractive summarization methods. First, the function
@@ -38,17 +79,20 @@ def text_summarizer(
     sent to the GPT-3 functions for further summarization and analysis. It is
     not designed to be a perfect summarization of the text.
     """
+    # Load the abbreviations file
+    with open("./data/abbreviations.json", "r", encoding="utf-8") as file:
+        abbreviations = json.load(file)
 
+    # Preprocess the text
+    text = preprocess_text_for_gpt(text)
 
     # Tokenize the formatted text
-
     nlp = spacy.load("en_core_web_sm")
     doc = nlp(text)
     stopwords = list(STOP_WORDS)
-    abbreviations = ["para.", "paras", "p", "pp", "Cst", "Csts", "s", "ss"]
+
     # Calculates the frequency of each substantive word and generates the
-    # frequency table. Future versions should also exclude citations and
-    # paragraph numbers.
+    # frequency table.
     word_frequency = Counter(
         [
             token.text
