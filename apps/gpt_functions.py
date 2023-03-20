@@ -106,6 +106,7 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     parameters["messages"].append({"role": "user", "content": fact_prompt})
     response = gpt_chat_completion(parameters)
     fact_summary = response["choices"][0]["message"]["content"]
+    print(f"Facts:\n{fact_summary}")
 
     print("Steps 4 & 5")
     # 4. The {fact_summary} and {issue_prompt} are sent to GPT-3.5
@@ -114,6 +115,7 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     parameters["messages"].append({"role": "user", "content": issue_prompt})
     response = gpt_chat_completion(parameters)
     issue_summary = response["choices"][0]["message"]["content"]
+    print(f"Issues:\n{issue_summary}")
 
     print("Steps 6 & 7")
     # 6. {fact_summary}, {issue_summary}, and analysis_prompt are sent to GPT-3.5
@@ -124,6 +126,7 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
 
     response = gpt_chat_completion(parameters)
     analysis_summary = response["choices"][0]["message"]["content"]
+    
 
     print("Steps 8 & 9")
     # 8. {issue_summary}, {analysis_summary}, and {rules_prompt} are sent to GPT-4
@@ -135,6 +138,8 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     parameters["model"] = "gpt-4"
     response = gpt_chat_completion(parameters)
     rules_summary = response["choices"][0]["message"]["content"]
+    print(f"Rules:\n{rules_summary}")
+    print(f"Analysis:\n{analysis_summary}")
 
     print("Steps 10 & 11")
     # 10. {issue_summary}, {analysis_summary}, {rules_summary}, and {conclusion_prompt} are sent to GPT-3.5
@@ -146,6 +151,7 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     parameters["model"] = "gpt-3.5-turbo"
     response = gpt_chat_completion(parameters)
     conclusion_summary = response["choices"][0]["message"]["content"]
+    print(f"Conclusion:\n{conclusion_summary}")
     report = f"[bold underline]Facts[/bold underline]\n{fact_summary}\n[bold underline]Issues[/bold underline]\n{issue_summary}\n[bold underline]Rules[/bold underline]\n{rules_summary}\n[bold underline]Analysis[/bold underline]\n{analysis_summary}\n[bold underline]Conclusion[/bold underline]\n{conclusion_summary}"
 
     print(report)
