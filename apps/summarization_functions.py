@@ -10,9 +10,11 @@ needs to be sent to the GPT-3 functions for further summarization and analysis.
 
 import json
 import re
+
 from collections import Counter
 from string import punctuation
 from heapq import nlargest
+from transformers import AutoTokenizer
 
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
@@ -27,10 +29,10 @@ def preprocess_text_for_gpt(text: str) -> str:
     # Resolve abbreviations
     text = resolve_abbreviations(text)
 
-    # Remove bracketed paragraph numbers and other bracketed numbers, like SCR 
+    # Remove bracketed paragraph numbers and other bracketed numbers, like SCR
     # page citations
     text = re.sub(r"\[\d{1,4}\]", "", text)
-    
+
     # Remove SCR citations
     text = re.sub(r"\d\s*(?:S\.C\.R\.|SCR)\s*\d{1,4}", "", text)
 
@@ -55,7 +57,7 @@ def preprocess_text_for_gpt(text: str) -> str:
 
     text = text.replace("R. v.", "R v")
     text = text.replace("J.A.", "JA")
-    text = text.replace("J.", "J") 
+    text = text.replace("J.", "J")
     text = text.replace(" ,", "")
     text = text.replace(" .", ".")
 
@@ -86,7 +88,12 @@ def extraction_text_summarizer(
     # Preprocess the text
     text = preprocess_text_for_gpt(text)
 
-    # Tokenize the formatted text
+    # Tokenize the formatted text using gpt-2 to determine the call's expense
+    tokenizer = AutoTokenizer.from_pretrained("gpt2")
+    gpt2_tokens = tokenizer.encode(text)
+    total_gpt2_tokens = len(gpt2_tokens)
+
+    # Tokenize the formatted text using spaCy
     nlp = spacy.load("en_core_web_sm")
     doc = nlp(text)
     stopwords = list(STOP_WORDS)
@@ -121,17 +128,17 @@ def extraction_text_summarizer(
     )
 
     # Calculate the number of total tokens across all sentences
-    total_tokens = sum(len(sentence) for sentence in sentence_tokens)
+    total_spacy_tokens = sum(len(sentence) for sentence in sentence_tokens)
 
     # The percentage should aim to get as close to the min_length as possible while
     # not exceeding the max_length. The percentage is calculated based on the
     # total number of tokens in the text.
-    if total_tokens < min_length:
+    if total_spacy_tokens < min_length:
         percentage = 1
-    elif total_tokens > max_length:
-        percentage = max_length / total_tokens
+    elif total_spacy_tokens > max_length:
+        percentage = max_length / total_spacy_tokens
     else:
-        percentage = min_length / total_tokens
+        percentage = min_length / total_spacy_tokens
 
     # Adds the sentences to a weighted frequency list in descending order
     # If the total length of the sentences is less than the minimum length,
@@ -144,4 +151,4 @@ def extraction_text_summarizer(
     # Creates the summary based on the weighted frequency list
     # The summary is limited to a minimum and maximum length
     summary = [word.text for word in weighted_sentences]
-    return summary, percentage, total_tokens
+    return summary, total_spacy_tokens, percentage, total_gpt2_tokens

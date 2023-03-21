@@ -92,66 +92,77 @@ def preprocess_text(file_path: str, write: bool = False) -> str:
 
 
 @app.command()
-# Text optional
-def compile_text(text: Optional[str] = None, auto: bool = None) -> dict:
+def create_firac(file: Optional[str] = None):
     """
-    Runs local-only functions and returns the results. 
+    Creates a FIRAC report.
+
+    The file suffix will determine what functions are run. If the file is a
+    .txt or .html file, the text will be extracted, classified using the local
+    spaCy models, and summarized using the local summarization model before 
+    being sent to GPT-3 for further analysis. If the file is a .json file, the
+    program will assume that the input is a viable summary file and will send
+    it directly to GPT-3 for analysis.
+
+    Future iterations should include some cursory error checking to ensure
+    that the input file is compatible with the program. For JSON files, the 
+    program will check the file structure and check for blank fields. For
+    text and HTML files, the program will check the first bit of header text
+    to ensure it's a CanLII decision.
     """
     os.system("clear")
     print("[bold #FFA500]FIRAC[/bold #FFA500]\n")
+    print("A command-line tool for analyzing legal texts.\n")
 
-    if auto:
-        if text is None:
-            print("[bold red]No file path provided.[/bold red]")
-            sys.exit()
-        else:
-            print("[bold #FFA500]Automatic summarization[/bold #FFA500]\n")
-            summary = firac_auto(text)
-            print(summary)
-            return summary
+    # Check to see if a file path was provided. If not, direct the user to
+    # a menu where they can select a file or input text manually.
 
-    else:
-        print("[bold #FFA500]Manual summarization[/bold #FFA500]\n")
-        # User input determines whether to call firac_manual() or firac_json().
-        # Use an ordered list and verify input
-        user_input = input("(N)ew or (E)xisting summary?\n")
-        if user_input.lower() == "n":
+    if file is None:
+        # Prompt the user to select a file, input text manually, or exit.
+        user_input = input("(S)elect a file, (I)nteractive mode, or E(x)it?\n")
+        
+        if user_input.lower() == "s":
+            file = input("Enter the file path: ")
+            create_firac(file)
+        
+        elif user_input.lower() == "i":
             summary = firac_manual()
-            return summary
-        elif user_input.lower() == "e":
-            summary = firac_json()
-            return summary
-        else:
-            print("[bold red]Invalid input.[/bold red]")
+            analysis = local_text_analysis(summary)
+            report = gpt_hybrid_analysis_manual(summary)
+            
+            return report, analysis
+        
+        elif user_input.lower() == "x":
             sys.exit()
+    # Check the file suffix to determine what functions to run.
+    else:
+        if file.endswith(".txt" or ".html"):
+            text = extract_text(file)
+            firac = classify_firac(text)
+            citations = extract_citations(text)
+            summary = local_text_summary(firac)
+            analysis = local_text_analysis(citations)
+            report = gpt_hybrid_analysis_manual(summary)
 
-    return summary
+            return report, analysis
+        
+        elif file.endswith(".json"):
+            # Load the summary file
+            with open(file, "r", encoding="utf-8") as file:
+                firac = json.load(file)
+            # Extract the text from the various sections
+            text = ""
+            for key in firac:
+                text += firac[key]
+            citations = extract_citations(text)
+            summary = local_text_summary(firac)
+            analysis = local_text_analysis(citations)
+            report = gpt_hybrid_analysis_manual(summary)
 
-
-@app.command()
-def create_firac_auto(file: str):
-    text = extract_text(file)
-    firac = classify_firac(text)
-    citations = extract_citations(text)
-    summary = local_text_summary(firac)
-    analysis = local_text_analysis(citations)
-
-    return summary, analysis
-
-
-@app.command()
-def create_firac_manual():
-    firac = compile_text()
-    # Extract the text from the various sections
-    text = ""
-    for key in firac:
-        text += firac[key]
-    citations = extract_citations(text)
-    summary = local_text_summary(firac)
-    analysis = local_text_analysis(citations)
-    report = gpt_hybrid_analysis_manual(summary)
-
-    return report, analysis
+            return report, analysis
+        
+        else:
+            print("[bold red]File type not supported.[/bold red]")
+            create_firac()
 
 
 # Functions
