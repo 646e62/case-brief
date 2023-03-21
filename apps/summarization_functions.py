@@ -15,8 +15,12 @@ from collections import Counter
 from string import punctuation
 from heapq import nlargest
 from transformers import AutoTokenizer
+from rich import print
 
 import spacy
+import typer
+
+from prettytable import PrettyTable
 from spacy.lang.en.stop_words import STOP_WORDS
 from apps.html_to_txt import resolve_abbreviations
 
@@ -152,3 +156,44 @@ def extraction_text_summarizer(
     # The summary is limited to a minimum and maximum length
     summary = [word.text for word in weighted_sentences]
     return summary, total_spacy_tokens, percentage, total_gpt2_tokens
+
+def local_text_summary(firac: dict) -> dict:
+    """
+    Summarizes a text locally using the local summarization function. This
+    function ranks sentences based on a simple word frequency algorithm. Future
+    verions will allow more sophisticated summarization methods.
+    """
+    print("\n[bold underline #FFA500]Summarization[/bold underline #FFA500]")
+    print("Summarizing text: \n", end="")
+    summary = {}
+    table = PrettyTable()
+    table.field_names = ["", "Total spaCy Tokens", "Percentage Included"]
+
+    def process_key(key: str):
+        """
+        Processes the key and returns the summary.
+        """
+        # Remove extraneous spaces and characters
+        firac[key] = preprocess_text_for_gpt(firac[key])
+
+        # Summarize the text
+        firac[key] = extraction_text_summarizer(firac[key])
+
+        # Add the summary to the summary dictionary
+        summary[key] = firac[key]
+        table.add_row(
+            [f"{key.title()}", firac[key][1], round(firac[key][2] * 100, 2)]
+        )
+
+    # Each FIRAC key contains a list of sentences. Go through each list and
+    # remove \n characters. Then, join the sentences into a single string.
+
+    keys = ["opinion_type", "facts", "issues", "rules", "analysis", "conclusion"]
+
+    for key in keys:
+        process_key(key)
+
+    print("[bold green]Done.[/bold green]\n")
+    typer.echo(table)
+
+    return summary

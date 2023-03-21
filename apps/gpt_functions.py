@@ -134,7 +134,7 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     # 1. {system_prompt} is sent to GPT-3.5
     # 2. {fact_prompt} is sent to GPT-3.5
     # 3. GPT-3.5 responds with a summary of the facts {fact_summary}
-    
+
     print("Setting system prompt and summarizing facts: ", end="")
     parameters["messages"] = [
         {"role": "system", "content": system_prompt},
@@ -148,7 +148,7 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     # 4. The {fact_summary} and {issue_prompt} are sent to GPT-3.5
     # 5. GPT-3.5 responds with a summary of the issues {issue_summary}
     #    * Consider using GPT-4 for the issues, given how important they are
-    
+
     print("Summarizing issues: ", end="")
     parameters["messages"] = [
         {"role": "assistant", "content": fact_summary},
@@ -212,7 +212,7 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     }
 
     for key, value in final_summary.items():
-        print(f"[bold blue]{key.title()}[/bold blue]\n\n {value}")
+        print(f"\n[bold blue]{key.title()}[/bold blue]\n {value}")
 
     return final_summary
 

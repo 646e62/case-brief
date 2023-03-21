@@ -55,7 +55,7 @@ def classify_firac(text: str, auto: bool = False) -> dict:
             # a blank list to the FIRAC element if it doesn't exist.
             firac.setdefault(max_key, []).append(sentence.text)
         
-        print("[green]Done.[/green]\n")
+        print("[green bold]Done.[/green bold]\n")
 
         return firac
     else:
