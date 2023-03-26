@@ -9,56 +9,70 @@ needs to be sent to the GPT-3 functions for further summarization and analysis.
 """
 
 import json
-import spacy
 import re
+
 from collections import Counter
-from spacy.lang.en.stop_words import STOP_WORDS
-from spacy.lang.en import English
 from string import punctuation
 from heapq import nlargest
+from transformers import AutoTokenizer
+from rich import print
+
+import spacy
+import typer
+
+from prettytable import PrettyTable
+from spacy.lang.en.stop_words import STOP_WORDS
+from apps.html_to_txt import resolve_abbreviations
+
+def preprocess_text_for_gpt(text: str) -> str:
+    """
+    Removes line breaks and other extraneous characters. Other character combos
+    like bracketed paragraph numbers turn out to be very expensive for GPT-3.5
+    without providing much value, and are therefore removed.
+    """
+    # Resolve abbreviations
+    text = resolve_abbreviations(text)
+
+    # Remove bracketed paragraph numbers and other bracketed numbers, like SCR
+    # page citations
+    text = re.sub(r"\[\d{1,4}\]", "", text)
+
+    # Remove SCR citations
+    text = re.sub(r"\d\s*(?:S\.C\.R\.|SCR)\s*\d{1,4}", "", text)
+
+    # Removes extraneous line breaks
+    text = re.sub(r"\n+", " ", text)
+
+    # Find spaces larger than a single space and replace them with a single
+    # space
+    text = re.sub(r"\s{2,}", " ", text)
+    text = text.replace('\xa0', ' ')
+
+    # Replaces stylized quotation marks with standard single quotation marks
+    # This includes double quotes, which are converted to single quotes
+    # GPT-2 counts stylized quotes as two separate tokens but doesn't count
+    # standard quotes as separate tokens at all. Replacing the stylized quotes
+    # with standard quotes reduces the number of tokens without any impact on
+    # the text's semantics.
+    text = text.replace("‘", "'")
+    text = text.replace("’", "'")
+    text = text.replace("“", "'")
+    text = text.replace("”", "'")
+
+    text = text.replace("R. v.", "R v")
+    text = text.replace("J.A.", "JA")
+    text = text.replace("J.", "J")
+    text = text.replace(" ,", "")
+    text = text.replace(" .", ".")
+
+    return text
 
 
-# Create a decision class that will include the extracted textual portions.
-
-
-class Decision:
-    def __init__(self, pfirac: dict):
-        """
-        This class creates a decision object that contains the extracted
-        textual portions of a decision.
-
-        The "meta" parameter should contain the following items:
-
-            * Case citation
-            * Judge or judges signing onto the decision
-            * The position the decision takes with respect to the case as a whole (majority, dissent, etc.)
-
-        Taken together, these items can be used to create a unique class identifier.
-
-        Each of the remaining parameters should be lists of sentences. They
-        should be combined into a single string before being passed to the
-        summarization function.
-        """
-
-        self.meta = pfirac.get("meta", {})
-        self.id = f"{self.meta.get('citation', '')} — {self.meta.get('judges', '')} — {self.meta.get('decision_type', '')}"
-        self.facts = pfirac.get("facts", {})
-        self.history = pfirac.get("history", {})
-        self.issues = pfirac.get("issues", {})
-        self.rules = pfirac.get("rules", {})
-        self.analysis = pfirac.get("analysis", {})
-        self.conclusion = pfirac.get("conclusion", {})
-
-    def __str__(self):
-        return self.id
-
-
-def text_summarizer(
+def extraction_text_summarizer(
         text: str,
         percentage: float = 0.2,
         min_length: int = 500,
         max_length: int = 1500,
-        abbreviations: list[str] | None = None
 ) -> str:
     """
     Summarizes text using extractive summarization methods. First, the function
@@ -71,17 +85,25 @@ def text_summarizer(
     sent to the GPT-3 functions for further summarization and analysis. It is
     not designed to be a perfect summarization of the text.
     """
+    # Load the abbreviations file
+    with open("./data/abbreviations.json", "r", encoding="utf-8") as file:
+        abbreviations = json.load(file)
 
+    # Preprocess the text
+    text = preprocess_text_for_gpt(text)
 
-    # Tokenize the formatted text
+    # Tokenize the formatted text using gpt-2 to determine the call's expense
+    tokenizer = AutoTokenizer.from_pretrained("gpt2")
+    gpt2_tokens = tokenizer.encode(text)
+    total_gpt2_tokens = len(gpt2_tokens)
 
+    # Tokenize the formatted text using spaCy
     nlp = spacy.load("en_core_web_sm")
     doc = nlp(text)
     stopwords = list(STOP_WORDS)
-    abbreviations = ["para.", "paras", "p", "pp", "Cst", "Csts", "s", "ss"]
+
     # Calculates the frequency of each substantive word and generates the
-    # frequency table. Future versions should also exclude citations and
-    # paragraph numbers.
+    # frequency table.
     word_frequency = Counter(
         [
             token.text
@@ -110,20 +132,17 @@ def text_summarizer(
     )
 
     # Calculate the number of total tokens across all sentences
-    total_tokens = sum(len(sentence) for sentence in sentence_tokens)
+    total_spacy_tokens = sum(len(sentence) for sentence in sentence_tokens)
 
     # The percentage should aim to get as close to the min_length as possible while
     # not exceeding the max_length. The percentage is calculated based on the
     # total number of tokens in the text.
-    if total_tokens < min_length:
+    if total_spacy_tokens < min_length:
         percentage = 1
-    elif total_tokens > max_length:
-        percentage = max_length / total_tokens
+    elif total_spacy_tokens > max_length:
+        percentage = max_length / total_spacy_tokens
     else:
-        percentage = min_length / total_tokens
-
-    print(f"Percentage: {percentage}")
-    print(f"Total tokens: {total_tokens}")
+        percentage = min_length / total_spacy_tokens
 
     # Adds the sentences to a weighted frequency list in descending order
     # If the total length of the sentences is less than the minimum length,
@@ -136,7 +155,45 @@ def text_summarizer(
     # Creates the summary based on the weighted frequency list
     # The summary is limited to a minimum and maximum length
     summary = [word.text for word in weighted_sentences]
+    return summary, total_spacy_tokens, percentage, total_gpt2_tokens
 
-    print(summary)
+def local_text_summary(firac: dict) -> dict:
+    """
+    Summarizes a text locally using the local summarization function. This
+    function ranks sentences based on a simple word frequency algorithm. Future
+    verions will allow more sophisticated summarization methods.
+    """
+    print("\n[bold underline #FFA500]Summarization[/bold underline #FFA500]")
+    print("Summarizing text: \n", end="")
+    summary = {}
+    table = PrettyTable()
+    table.field_names = ["", "Total spaCy Tokens", "Percentage Included"]
+
+    def process_key(key: str):
+        """
+        Processes the key and returns the summary.
+        """
+        # Remove extraneous spaces and characters
+        firac[key] = preprocess_text_for_gpt(firac[key])
+
+        # Summarize the text
+        firac[key] = extraction_text_summarizer(firac[key])
+
+        # Add the summary to the summary dictionary
+        summary[key] = firac[key]
+        table.add_row(
+            [f"{key.title()}", firac[key][1], round(firac[key][2] * 100, 2)]
+        )
+
+    # Each FIRAC key contains a list of sentences. Go through each list and
+    # remove \n characters. Then, join the sentences into a single string.
+
+    keys = ["opinion_type", "facts", "issues", "rules", "analysis", "conclusion"]
+
+    for key in keys:
+        process_key(key)
+
+    print("[bold green]Done.[/bold green]\n")
+    typer.echo(table)
+
     return summary
-
