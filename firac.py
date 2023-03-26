@@ -164,13 +164,14 @@ def create_firac(file: Optional[str] = None):
             print("[bold red]File type not supported.[/bold red]")
             create_firac()
 
+"""
+Refactor this function:
 
 # Functions
 def firac_manual():
-    """
     Takes user input to create the FIRAC structure. Returns the structure as a
     dictionary and saves it as a JSON file.
-    """
+
     firac = {}
     # Allow the user to select which FIRAC category to include text in
     # The program displays a prompt and asks the user to input [F]acts, [I]ssue,
@@ -223,6 +224,57 @@ def firac_manual():
 
     return firac
 
+"""
+
+def firac_manual():
+    """
+    Takes user input to create the FIRAC structure. Returns the structure as a
+    dictionary and saves it as a JSON file.
+    """
+    firac = {}
+    # Allow the user to select which FIRAC category to include text in
+    # The program displays a prompt and asks the user to input [F]acts, [I]ssue,
+    # [R]ule, [A]pplication, or [C]onclusion, or [Q]uit. After entering a letter,
+    # the program displays the prompt again and asks the user to input text.
+    # The program continues to display the prompt and ask for input until the
+    # user enters [Q]uit. The program then saves the FIRAC structure as a JSON
+    # file and returns the structure as a dictionary.
+    print("Enter [F]acts, [I]ssue, [R]ule, [A]pplication, [C]onclusion, or [Q]uit.")
+    while True:
+        user_input = input("[F]acts, [I]ssue, [R]ule, [A]pplication, [C]onclusion, or [Q]uit: ")
+        if user_input.lower() == "f":
+            facts = input("Enter facts: ")
+            firac["facts"] = facts
+        elif user_input.lower() == "i":
+            issue = input("Enter issue: ")
+            firac["opinions"]["issue"] = issue
+        elif user_input.lower() == "r":
+            rule = input("Enter rule: ")
+            firac["opinions"]["rule"] = rule
+        elif user_input.lower() == "a":
+            application = input("Enter application: ")
+            firac["opinions"]["application"] = application
+        elif user_input.lower() == "c":
+            conclusion = input("Enter conclusion: ")
+            firac["opinions"]["conclusion"] = conclusion
+        elif user_input.lower() == "q":
+            opinion = input("Enter the opinion type ([M]ajority; [D]issenting;\
+                             Co[n]curring; Cu[r]iam; Co[u]rt): ")
+            # Validate the opinion type
+            if opinion.lower() == "m":
+                firac["opinions"]["opinion_type"] = "majority"
+            elif opinion.lower() == "d":
+                firac["opinions"]["opinion_type"] = "dissenting"
+            elif opinion.lower() == "n":
+                firac["opinions"]["opinion_type"] = "concurring"
+            elif opinion.lower() == "r":
+                firac["opinions"]["opinion_type"] = "curiam"
+            elif opinion.lower() == "u":
+                firac["opinions"]["opinion_type"] = "court"
+            else:
+                print("[bold red]Invalid input.[/bold red]")
+                continue
+                
 
 def firac_auto(text: str):
     """
