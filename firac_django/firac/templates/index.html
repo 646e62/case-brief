@@ -1,0 +1,42 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>File Analysis</title>
+        <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    </head>
+<body>
+    <h1>File Analysis</h1>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <table>
+            <tr>
+                <td>Upload File:</td>
+                <td><input type="file" name="file"></td>
+            </tr>
+            {% for field in form %}
+            <tr>
+                <td>{{ field.label_tag }}</td>
+                <td>{{ field }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        <button type="submit">Analyze</button>
+        {% if export %}
+        <button type="button" onclick="exportToFile()">Export</button>
+        {% endif %}
+    </form>
+    <script>
+        function exportToFile() {
+            let content = document.getElementsByName('output')[0].value;
+            let blob = new Blob([content], { type: 'text/plain' });
+            let link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'output.txt';
+            link.click();
+            URL.revokeObjectURL(link.href);
+        }
+    </script>
+</body>
+</html>
