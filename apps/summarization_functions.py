@@ -16,6 +16,8 @@ from string import punctuation
 from heapq import nlargest
 from transformers import AutoTokenizer
 from rich import print
+from rich.console import Console
+from rich.table import Table
 
 import spacy
 import typer
@@ -166,8 +168,12 @@ def local_text_summary(firac: dict) -> dict:
     print("\n[bold underline #FFA500]Summarization[/bold underline #FFA500]")
     print("Summarizing text: \n", end="")
     summary = {}
-    table = PrettyTable()
-    table.field_names = ["", "Total spaCy Tokens", "Percentage Included"]
+
+    table = Table(title="Summarization results")
+
+    table.add_column("", justify="right", style="cyan", no_wrap=True)
+    table.add_column("Total spaCy Tokens", style="magenta")
+    table.add_column("Percentage Included", justify="right", style="green")
 
     def process_key(key: str):
         """
@@ -181,9 +187,7 @@ def local_text_summary(firac: dict) -> dict:
 
         # Add the summary to the summary dictionary
         summary[key] = firac[key]
-        table.add_row(
-            [f"{key.title()}", firac[key][1], round(firac[key][2] * 100, 2)]
-        )
+        table.add_row(f"{key.title()}", f"{firac[key][1]}", f"{round(firac[key][2] * 100, 2)}%")
 
     # Each FIRAC key contains a list of sentences. Go through each list and
     # remove \n characters. Then, join the sentences into a single string.
@@ -194,6 +198,7 @@ def local_text_summary(firac: dict) -> dict:
         process_key(key)
 
     print("[bold green]Done.[/bold green]\n")
-    typer.echo(table)
+    console = Console()
+    console.print(table)
 
     return summary

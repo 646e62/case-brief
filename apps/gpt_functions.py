@@ -212,7 +212,7 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, auto: bool = False) -> dict:
     }
 
     for key, value in final_summary.items():
-        print(f"\n[bold blue]{key.title()}[/bold blue]\n {value}")
+        print(f"\n[bold blue]{key.title()}[/bold blue]\n{value}")
 
     return final_summary
 
