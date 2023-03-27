@@ -6,4 +6,4 @@ class AnalysisForm(forms.ModelForm):
 
     class Meta:
         model = Analysis
-        fields = ['facts', 'issues', 'rules', 'analysis', 'conclusion', 'output']
+        fields = ['facts', 'issues', 'rules', 'analysis', 'conclusion']

@@ -14,7 +14,7 @@ from rich import print
 
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
-OUTPUT_FILE = "../output.txt"
+OUTPUT_FILE = "output.txt"
 
 # Tests on smaller cases using manual input and hybrid models are yielding
 # comparable results to GPT-4 alone at 1/5th the cost. Trying a new test with

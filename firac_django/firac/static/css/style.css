@@ -26,7 +26,7 @@ input[type="file"] {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #ec9f0e;
     border: none;
     color: white;
     padding: 10px 20px;
@@ -41,4 +41,26 @@ button {
 
 button:hover {
     background-color: #0069d9;
+}
+
+p {
+    text-align: justify;
+}
+
+li {
+    text-align: justify;
+}
+
+.bottom-div {
+    position: fixed;
+    bottom: 0;
+    max-width: 960px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+#output-text {
+    white-space: pre-wrap;       /* CSS3 */
+    white-space: -moz-pre-wrap;  /* Firefox */
+    text-align: justify;
 }

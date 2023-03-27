@@ -24,7 +24,7 @@ import typer
 
 from prettytable import PrettyTable
 from spacy.lang.en.stop_words import STOP_WORDS
-from apps.html_to_txt import resolve_abbreviations
+from html_to_txt import resolve_abbreviations
 
 def preprocess_text_for_gpt(text: str) -> str:
     """

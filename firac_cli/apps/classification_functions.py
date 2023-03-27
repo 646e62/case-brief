@@ -52,8 +52,12 @@ def classify_firac(text: str, auto: bool = False) -> dict:
 
             # Append the sentence to the FIRAC element that achieved the highest
             # score, and the value of the score to the sentence_values list. Append
-            # a blank list to the FIRAC element if it doesn't exist.
+            # a blank list to the FIRAC element if it doesn't exist. For values that 
+            # are at least 80% of the highest value, append the sentence to the
+            # FIRAC element.
+            
             firac.setdefault(max_key, []).append(sentence.text)
+
         
         print("[green bold]Done.[/green bold]\n")
 

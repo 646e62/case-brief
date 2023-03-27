@@ -7,8 +7,8 @@ import os
 
 from rich import print
 
-from apps.html_to_txt import canlii_html_to_txt, write_text
-from apps.analytic_functions import retrieve_citations
+from html_to_txt import canlii_html_to_txt, write_text
+from analytic_functions import retrieve_citations
 
 # Text extraction and file verification
 
