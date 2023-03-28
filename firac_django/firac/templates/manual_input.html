@@ -1,25 +1,20 @@
-{% load static %}
+{% extends 'base.html' %}
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>FIRAC Generator - Manual Input</title>
-    <link rel="stylesheet" href="{% static 'css/style.css' %}">
-</head>
-<body>
-<h1>Manual Input</h1>
-<form method="post">
-    {% csrf_token %}
-    <input type="hidden" name="api_key" value="{{ api_key }}">
-    <table>
-        {% for field in form %}
-        <tr>
-            <td>{{ field.label_tag }}</td>
-            <td>{{ field }}</td>
-        </tr>
-        {% endfor %}
-    </table>
-    <button type="submit">Analyze</button>
-</form>
-</body>
-</html>
+{% block title %}FIRAC Generator - Manual Input{% endblock %}
+
+{% block content %}
+    <h1>Manual Input</h1>
+    <form method="post">
+        {% csrf_token %}
+        <input type="hidden" name="api_key" value="{{ api_key }}">
+        <table>
+            {% for field in form %}
+            <tr>
+                <td>{{ field.label_tag }}</td>
+                <td>{{ field }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        <button type="submit" class="btn btn-custom">Analyze</button>
+    </form>
+{% endblock %}

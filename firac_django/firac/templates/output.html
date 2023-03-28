@@ -1,56 +1,52 @@
-{% load static %}
+{% extends 'base.html' %}
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>FIRAC Generator - Output</title>
-    <link rel="stylesheet" href="{% static 'css/style.css' %}">
-</head>
-<body>
-<h1>Output</h1>
-<div id="output-content">
-    {% for key, value in output.items %}
-        <h2>{{ key|title }}</h2>
-        {{ value|linebreaks }}
-    {% endfor %}
-</div>
-<button type="button" onclick="exportToText()">Export as Text</button>
-<button type="button" onclick="exportToHTML()">Export as HTML</button>
-<script>
-    function exportToText() {
-        let content = document.getElementById('output-content').innerText;
-        let defaultFileName = 'output.txt';
-        let userFileName = prompt("Enter a file name:", defaultFileName);
-        if (userFileName === null || userFileName === "") {
-            return; // User clicked "Cancel" or didn't enter a name
+{% block title %}FIRAC Generator - Output{% endblock %}
+
+{% block content %}
+    <h1>Output</h1>
+    <div id="output-content">
+        {% for key, value in output.items %}
+            <h2>{{ key|title }}</h2>
+            {{ value|linebreaks }}
+        {% endfor %}
+    </div>
+    <button type="button" class="btn btn-custom" onclick="exportToText()">Export as Text</button>
+    <button type="button" class="btn btn-custom" onclick="exportToHTML()">Export as HTML</button>
+    
+    <script>
+        function exportToText() {
+            let content = document.getElementById('output-content').innerText;
+            let defaultFileName = 'output.txt';
+            let userFileName = prompt("Enter a file name:", defaultFileName);
+            if (userFileName === null || userFileName === "") {
+                return; // User clicked "Cancel" or didn't enter a name
+            }
+    
+            let blob = new Blob([content], { type: 'text/plain' });
+            let link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = userFileName;
+            link.click();
+            URL.revokeObjectURL(link.href);
         }
-
-        let blob = new Blob([content], { type: 'text/plain' });
-        let link = document.createElement('a');
-        link.href = URL.createObjectURL(blob);
-        link.download = userFileName;
-        link.click();
-        URL.revokeObjectURL(link.href);
-    }
-
-    function exportToHTML() {
-        let content = document.getElementById('output-content').outerHTML;
-        let defaultFileName = 'output.html';
-        let userFileName = prompt("Enter a file name:", defaultFileName);
-        if (userFileName === null || userFileName === "") {
-            return; // User clicked "Cancel" or didn't enter a name
+    
+        function exportToHTML() {
+            let content = document.getElementById('output-content').outerHTML;
+            let defaultFileName = 'output.html';
+            let userFileName = prompt("Enter a file name:", defaultFileName);
+            if (userFileName === null || userFileName === "") {
+                return; // User clicked "Cancel" or didn't enter a name
+            }
+    
+            let htmlContent = '<!DOCTYPE html><html><head><title>Output</title></head><body>' + content + '</body></html>';
+            let blob = new Blob([htmlContent], { type: 'text/html' });
+            let link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = userFileName;
+            link.click();
+            URL.revokeObjectURL(link.href);
         }
-
-        let htmlContent = '<!DOCTYPE html><html><head><title>Output</title></head><body>' + content + '</body></html>';
-        let blob = new Blob([htmlContent], { type: 'text/html' });
-        let link = document.createElement('a');
-        link.href = URL.createObjectURL(blob);
-        link.download = userFileName;
-        link.click();
-        URL.revokeObjectURL(link.href);
-    }
-</script>
-<br>
-<a href="{% url 'index' %}">Back to FIRAC Generator</a>
-</body>
-</html>
+    </script>
+    <br>
+    <a href="{% url 'index' %}">Back to FIRAC Generator</a>
+{% endblock %}

@@ -1,24 +1,21 @@
-{% load static %}
+{% extends 'base.html' %}
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>FIRAC Generator</title>
-        <link rel="stylesheet" href="{% static 'css/style.css' %}">
-    </head>
-<body>
+{% block title %}FIRAC Generator{% endblock %}
+
+{% block content %}
     <h1>FIRAC Generator</h1>
     <p>Generates a FIRAC report from either an uploaded file or manual input.</p> 
     <p>This program is a functional demo, but very much still a demo. As such, it's provided as is, <a href="https://github.com/646e62/case-brief/blob/main/LICENSE">without warranty or guarantee</a>. The program relies heavily on GPT-3.5 and GPT-4, and is subject to the same limitations as those models.</p>
     <p>Known issues and shortcomings include the following:</p> 
     <ul>
-        <li><strong>Limited sources tested.</strong>So far, I've only tested the HTML to text functions and other parsers on decisions saved from CanLII. It is possible that web pages saved from other sources will not work as well or at all.</li>
+        <li><strong>Limited sources tested.</strong> So far, I've only tested the HTML to text functions and other parsers on decisions saved from CanLII. It is possible that web pages saved from other sources will not work as well or at all.</li>
         <li><strong>Perfect input.</strong> Error-checking is limited at this point. The program essentially expects perfect input.</li>
         <li><strong>Limited local pre-processing for automatically-sorted texts.</strong> Input from TXT and HTML files is functional but limited. Pre-formatted JSON files and manual input will currently yield the best results. I'm continuously designing and training custom spaCy models to better process text into categories automatically.</li>
         <li><strong>Plurality opinion deficiencies.</strong> The program requires human assistance to distinguish between different opinions within the same case. GPT-3.5 can do so fairly reliably within its token limit, and GPT-4 has no trouble at all, albeit expensively. I'm currently working on ways to infer a plurality from limited information, including a specialized spaCy model and rule-based approaches.</li>
         <li><strong>Domain specificity.</strong> Because my own legal expertise lies in Canadian criminal law, I've only evaluated the program's output on case law in this domain. While the program should generally work on cases in other legal areas, most of its analytic functions are designed for criminal-law use cases.</li>
     </ul>
     <p>This program requires an <a href="https://platform.openai.com/signup">Open AI account</a> and an <a href="https://platform.openai.com/account/api-keys">Open AI API key</a> with <a href="https://openai.com/waitlist/gpt-4-api">GPT-4 access.</a></p>
+
     <hr>
     <form method="post">
         {% csrf_token %}
@@ -38,8 +35,9 @@
                 </td>
             </tr>
         </table>
-        <button type="submit">Continue</button>
+        <button type="submit" class="btn btn-custom">Continue</button>
     </form>
+
     <script>
         document.querySelector('form').addEventListener('submit', function(event) {
             event.preventDefault();
@@ -50,10 +48,11 @@
             }
         });
     </script>
+
     <div class="bottom-div">
         <hr>
         <p>Project GitHub repo: <a href="https://github.com/646e62/case-brief">646e62/case-brief</a></p>
         <p>🄯 Daniel Booy, 2023</p>
     </div>
-</body>
-</html>
+    
+{% endblock %}
