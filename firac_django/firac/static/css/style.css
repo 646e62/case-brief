@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    resize: none;
+}
+
+input[type="file"] {
+    display: block;
+}
+
+button {
+    background-color: #ec9f0e;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #0069d9;
+}
+
+p {
+    text-align: justify;
+}
+
+li {
+    text-align: justify;
+}
+
+.bottom-div {
+    position: fixed;
+    bottom: 0;
+    max-width: 960px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+#output-text {
+    white-space: pre-wrap;       /* CSS3 */
+    white-space: -moz-pre-wrap;  /* Firefox */
+    text-align: justify;
+}

@@ -1,0 +1,818 @@
+2023 NSCA 13 (CanLII) | R. v. Ross | CanLII Home › Nova Scotia › Nova Scotia Court of Appeal › 2023 NSCA 13 (CanLII)
+Loading paragraph markers R. v. Ross, 2023 NSCA 13 (CanLII) Document History Cited documents (33) Treatment CanLII Connects PDF Date: 2023-03-02 File number: CAC 508802 Citation: R. v. Ross, 2023 NSCA 13 (CanLII), <https://canlii.ca/t/jvwd7>, retrieved on 2023-03-10 Legislation Criminal Code, RSC 1985, c C-46; 657.3 — 683(1) Decisions 1975-03-06 Caccamo v. The Queen, 1975 CanLII 11 (SCC), [1976] 1 SCR 786 1964-05-11 McMartin v. The Queen, 1964 CanLII 43 (SCC),
+[1964]
+SCR 484 2005-10-13 R. v. Archer, 2005 CanLII 36444 (ON CA) 2012-08-15 R. v. Aulakh, 2012 BCCA 340 (CanLII) 2022-01-14 R. v. Barrett, 2022 NSCA 3 (CanLII) 1996-03-11 R. v. Bramwell, 1996 CanLII 352 (BC CA) 1996-11-29 R. v. Bramwell, 1996 CanLII 156 (SCC), [1996] 3 SCR 1126 1991-03-19 R. v. Cameron (C.A.), 1991 CanLII 7182 (ON CA) 1998-02-19 R. v. Dixon, 1998 CanLII 805 (SCC), [1998] 1 SCR 244 1997-01-15 R. v. Dixon, 1997 NSCA 50 (CanLII) 1993-06-10 R. v. Egger, 1993 CanLII 98 (SCC), [1993] 2 SCR 451 2011-07-21 R. v. Fraser, 2011 NSCA 70 (CanLII) 2000-04-27 R. v. G.D.B., 2000 SCC 22 (CanLII), [2000] 1 SCR 520 2001-12-07 R. v. Khan, 2001 SCC 86 (CanLII), [2001] 3 SCR 823 1997-06-26 R. v. La, 1997 CanLII 309 (SCC), [1997] 2 SCR 680 2016-01-22 R. v. Meer, 2016 SCC 5 (CanLII), [2016] 1 SCR 23 2021-06-30 R. v. Mehl, 2021 BCCA 264 (CanLII) 1995-03-14 R. v. Morrissey, 1995 CanLII 3498 (ON CA) 1995-12-14 R. v. O'Connor, 1995 CanLII 51 (SCC),
+[1995] 4 SCR 411 2019-07-26 R. v. P.C.H., 2019 NSCA 63 (CanLII) 2012-05-31 R. v. Ross, 2012 NSCA 56 (CanLII) 1992-04-29 R. v. S.E.S. et al., 1992 CanLII 8262 (SK CA) 2019-09-12 R. v. Snow, 2019 NSCA 76 (CanLII) 1991-11-07 R. v. Stinchcombe, 1991 CanLII 45 (SCC), [1991] 3 SCR 326 2003-12-12 R. v. Taillefer; R. v. Duguay, 2003 SCC 70 (CanLII), [2003] 3 SCR 307 2016-07-29 R. v. Villaroman, 2016 SCC 33 (CanLII), [2016] 1 SCR 1000 2008-12-23 R. v. Weagle, 2008 NSCA 122 (CanLII) 2010-02-25 R. v. West, 2010 NSCA 16 (CanLII) 2016-04-21 R. v G.K.N., 2016 NSCA 29 (CanLII) 2005-01-05 R. v Wolkins, 2005 NSCA 2 (CanLII) 2007-08-28 Truscott (Re), 2007 ONCA 575 (CanLII) 2001-04-05 United States of America v. Shulman, 2001 SCC 21 (CanLII), [2001] 1 SCR 616 Citations Discussions Unfavourable mentions Expanded Collapsed Nova Scotia Court of Appeal Citation: R. v. Ross, 2023 NSCA 13 Date: 20230302 Docket: CAC 508802 Registry: Halifax Between: Richard Allen Ross Appellant v. His Majesty the King Respondent and Carbo Kwan Intervenor Judge: The Honourable Justice Duncan R. Beveridge Appeal Heard: November 22 and 23, 2022, in Halifax, Nova Scotia Subject: Criminal law: ineffective assistance of counsel; Crown’s duty to disclose the fruits of the police investigation Summary: A judge convicted the appellant of intimidation of a defence lawyer as a justice system participant and of damaging the defence lawyer’s property and that of his spouse.
+The appellant told defence counsel the authorities would not find anything incriminating on any of his electronic devices.
+The Crown gave notice of its intent to call an expert witness.
+Defence counsel asked for his report or a can/say.
+The Crown took the position the expert’s report was the USB stick containing 1.4 million artifacts.
+Defence counsel could not access the USB stick.
+During the trial, the expert gave evidence about a number of artifacts on the appellant’s laptop that supplied important circumstantial evidence of the appellant’s guilt.
+Defence counsel did not alert the trial judge to this late disclosure.
+The appellant instructed defence counsel he would not testify or call evidence.
+On appeal, the appellant claims the Crown breached its duty to disclose which caused a miscarriage of justice.
+In addition, defence counsel was ineffective as she did not insist on full disclosure or seek adequate remedies when the Crown’s failure to disclose came to light.
+The appellant put forward a fresh evidence motion in support.
+Issues: (1) Did the Crown fail to provide meaningful disclosure to the appellant?
+(2) Did trial counsel’s conduct cause a miscarriage of justice?
+Result:
+The motion to adduce fresh evidence and the appeal are dismissed.
+The Crown failed in its duty to meaningfully provide timely disclosure of relevant information to the appellant.
+However, the appellant has not demonstrated the late disclosure of inculpatory evidence deprived him of his ability to make full answer and defence.
+Hence, there was no miscarriage of justice.
+Furthermore, the appellant has not established prejudice in the sense the trial was procedurally unfair or the appearance of unfairness was such as to constitute a miscarriage of justice.
+This information sheet does not form part of the court’s judgment.
+Quotes must be from the judgment, not this cover sheet.
+The full court judgment consists of 159 paragraphs.
+Nova Scotia Court of Appeal Citation: R. v. Ross, 2023 NSCA 13 Date: 20230302 Docket:
+CAC 508802 Registry: Halifax Between: Richard Allen Ross Appellant v. His Majesty the King Respondent and Carbo Kwan Intervenor Judges: Beveridge, Derrick and Beaton JJ.A.
+Appeal Heard: November 22 and 23, 2022, in Halifax, Nova Scotia Held: Appeal dismissed, per reasons for judgment of Beveridge J.A.; Derrick and Beaton JJ.A. concurring Counsel: Trevor McGuigan, for the appellant Jennifer MacLellan, K.C., for the respondent William Mahody, K.C., for the intervenor Reasons for judgment: Introduction 
+
+[1] The Crown owes a duty to provide all relevant information to an accused in its possession.
+Defence counsel must ensure the Crown fulfills this duty and seek remedies that meaningfully address any breach.
+A healthy and appropriate solicitor/client relationship requires a client to tell their lawyer the truth. 
+
+[2] This case requires us to determine the appropriate outcome when all three of these norms were disregarded in the same proceeding. 
+
+[3] Here, the Crown failed in its duty to appropriately disclose incriminating evidence it intended to call at trial.
+Defence counsel failed to ensure she had full disclosure nor voiced any complaint when faced with the Crown’s breach in the middle of the trial.
+The reason for not insisting on proper disclosure?
+Her client, the appellant, assured her the authorities would not find anything incriminating on his electronic devices. 
+
+[4] Turns out, he misled his trial counsel on this and other details.
+A Crown expert testified he found evidence on the appellant’s laptop which provided important circumstantial evidence that inculpated him in the outstanding charges.
+The appellant declined to call evidence to explain any of the incriminating evidence. 
+
+[5] Judge Claudine MacDonald convicted the appellant of intimidation of a justice system participant (Mark Bailey), two counts of slashing that lawyer’s tires and those of the lawyer’s spouse.
+She sentenced the appellant to a total of twelve months’ incarceration plus three years’ probation.
+She ordered restitution and made various ancillary orders. 
+
+[6] The appellant says his convictions are tainted by a miscarriage of justice because his lawyer provided ineffective assistance and the Crown’s egregious failure to properly disclose relevant information.
+He moves to adduce fresh evidence to substantiate his assertion of ineffective assistance of trial counsel. 
+
+[7] The proposed fresh evidence is the appellant’s affidavit which documents trial counsel’s efforts to obtain disclosure of the results of searches of his electronic devices and the failure of the Crown to properly disclose that information.
+Trial counsel, Carbo Kwan, has intervenor status.
+She filed an affidavit that explained her conduct, the advice she gave the appellant, and his instructions.
+The Crown also tendered in reply an affidavit from Mark Bailey.
+The appellant and Ms. Kwan were cross-examined. 
+
+[8] Although the conduct of the trial Crown Attorney is not what the law expects, I am not satisfied that either the Crown’s failure to properly disclose relevant information or defence counsel’s conduct resulted in a miscarriage of justice.
+Accordingly, I would dismiss the motion to adduce fresh evidence and the appeal. 
+
+[9] To understand the appellant’s complaints, I will set out some of the evidence about a family-related feud, not quite on par with the depth or length of the infamous Hatfields and McCoys, and how that animosity spun out of control into the commission of offences against innocent third parties.
+THE FACTS The feud 
+[10] There were two sisters, Trina and Stephanie Rhodenizer.
+They did nothing wrong.
+There is not a scintilla of evidence they had any involvement in any of the events, except perhaps as innocent conduits of information. 
+
+[11] Trina is the spouse of the appellant, Richard Ross.
+Stephanie is Ryan Garven’s spouse.
+For reasons undisclosed by the record, Richard Ross targeted Mr. Garven.
+Most of the allegations by Ross against Garven and by Garven against Ross are irrelevant. 
+
+[12] Ryan Garven served in the military for five years.
+He left on medical release.
+Richard Ross took exception.
+He wrote an anonymous letter dated October 17, 2008 to Garven’s Armed Forces physician suggesting Garven was getting benefits he was not entitled to receive and urged an investigation. 
+
+[13] In October 2016, Mr. Garven received and then exchanged a series of anonymous emails from R0236E@hotmail.com accusing him of fraud.
+One of these emails listed Garven’s medical diagnoses with the suggestion that Veterans Affairs Canada would be making a ruling “in March”.
+As it turns out, the anonymous email address was found to have been created using one of Ross’s electronic devices. 
+
+[14] Ross worked as a dental technician at the same military hospital as Garven’s physicians and would have had opportunity to access medical records.
+Mr. Garven believed Mr. Ross had accessed his medical records, obtained the details of his medical diagnoses and authored the so-called anonymous emails.
+The feud spills over 
+[15] Mark Bailey is a lawyer in Dartmouth.
+He primarily does criminal defence work.
+His spouse is Kathleen MacGray. 
+
+[16] Mr. Bailey and Ms. MacGray met Ryan Garven and Stephanie Rhodenizer in September 2016 when they leased their property at 50 Windstone Close in Bedford, Nova Scotia.
+They quickly became very good friends. 
+
+[17] Mark Bailey testified at trial.
+He recalled Mr. Garven had told him his concerns about the anonymous October 2016 emails and other behaviours by Ross.
+Police contact had proved ineffective.
+Bailey recommended a peace bond application.
+He met Garven at the courthouse.
+They filed the application, but Mr. Garven decided against proceeding. 
+
+[18]
+In late 2017, the police charged Ross with criminal harassment of Ryan Garven.
+The charge did not proceed. 
+
+[19] In the late summer of 2018, Mr. Bailey assisted Mr. Garven with complaints against Mr. Ross to the Nova Scotia Dental Board and the Privacy Commissioner. 
+
+[20] Overnight, on September 23 and 24, 2018, someone slashed all of the tires on Mr. Bailey’s and Ms. MacGray’s vehicles that had been parked in their driveway at 50 Windstone Close.
+None of their neighbours had suffered any damage to their vehicles or other property. 
+
+[21] Initially, Mr. Bailey did not identify Mr. Ross as a suspect.
+That changed when on October 15, 2018 he received a threatening letter: “Think about it, do you want to continue your involvement?
+If you do, be prepared to suffer the consequences”.
+It contained the correct address, but misspelled Mr. Bailey’s first and last names.
+The listed return address was Kathy MacGray at 50 Windstone Close. 
+
+[22] Mr. Bailey contacted the police.
+Nothing further transpired until April 2019. 
+
+[23] Both Garven and Ross complained to the police with allegations against the other.
+Mr. Bailey again advised Mr. Garven to pursue a peace bond, but this time, not to abandon it. 
+
+[24] Mr. Ross was first out of the gate with a peace bond application, served on Mr. Garven April 11, 2019, with a first appearance date of April 18, 2019. 
+
+[25] Mr. Bailey did the paperwork for Mr. Garven’s peace bond application, also with a first appearance date of April 18, 2019.
+The police served Mr. Ross with this peace bond application on April 12, 2019. 
+
+[26] During the overnight hours of April 16-17, 2019, someone again slashed the tires on Mr. Bailey’s vehicle.
+Ms. MacGray’s tires were not damaged.
+But, as before, none of his neighbours had any problems. 
+
+[27] On April 18, 2019, Mr. Bailey appeared with Mr. Garven in night court in Dartmouth to set dates for the respective peace bond applications.
+Bailey had never met Mr. Ross before.
+He approached Ross to introduce himself.
+Bailey described Ross’s reaction as the weirdest thing he had ever seen—waving his arms, acting “like a lunatic” as if scared of Mr. Bailey.
+A police officer told Ross to calm down. 
+
+[28] A week later, another threatening letter arrived at Mr. Bailey’s home.
+Again, it misspelled Mr. Bailey’s first name.
+This time, the return address was “Ryein Wannabee Garvin” at “333 Fraud Lane”.
+Inside, the letter read: Mark!
+I knew you were stupid, but really?
+Wow, when are you going to learn???
+I will be back again and next time it will be all eight!!!!
+Hope that fraudster was worth it??????
+My guy will be either at 50, work or new residence.
+See you soon and job well done the other night.
+Ha ha ha ……you are a joke! 
+
+[29] It is only logical to infer—Mr. Ross wrote this letter.
+Consider: he had repeatedly accused Ryan Garven of being a fraudster (no one else had done so); Mr. Bailey already had eight tires slashed, followed by a letter warning him about helping Ryan Garven; then had four of his tires slashed just one week before the letter; not many people would have known Mr. Bailey would be moving to a new residence soon (but Ryan Garven and Stephanie Rhodenizer did as they were selling 50 Windstone Close, and hence it is likely so would Ross’s spouse); other than the night of April 18 at the peace bond appearance, Mr. Bailey testified he had not been in night court “forever”. 
+
+[30] Kathleen MacGray received a bogus email on May 5, 2019.
+Ostensibly, it had been sent by Ryan Garven from the email address, ryangarven235@outlook.com.
+Ms. MacGray had never communicated with Ryan Garven by email.
+Mr. Garven acknowledged he would use the last three digits of his military service number in his real email address, but the email address in the May 5, 2019 email was not his, and he had not sent it.
+It turns out, on May 5, 2019, Richard Ross had created the Outlook email account using his laptop. 
+
+[31] The May 5 email contained no threats.
+It suggested Ms. MacGray, Mark Bailey and Ryan Garven had fabricated a story, and that Richard Ross had embarrassing information and Garven was worried “he” was going to come back. 
+
+[32] The final interaction that galvanized police action came in August 2019.
+Mark Bailey drove to work.
+He parked in the office parking lot.
+He left for court in Shubenacadie.
+When he returned, he saw Richard Ross within feet of his father’s vehicle—which was identical in make, model, interior and exterior colour.
+The only difference was in the year and, of course, the licence plate number.
+Mr. Ross smiled and waved at Mr. Bailey as he drove past Ross. 
+
+[33] After Mark Bailey parked, he approached his father’s vehicle.
+Three tire pamphlets were tucked under his father’s windshield wipers.
+Minutes later, Mr. Bailey entered his building and saw Mr. Ross seated in the downstairs lobby.
+Bailey confronted him about putting the pamphlets under the windshield wipers.
+Ross did not deny the accusation.
+In colourful language, Mr. Bailey suggested Mr. Ross should leave the building. 
+
+[34] As Mr. Bailey made his way to the elevators, Mr. Ross followed him with an invitation to talk.
+Bailey told Ross he was going to call the police.
+Ross suggested, “the police aren’t going to do anything”. 
+
+[35] The police came.
+They obtained a search warrant for Mr. Ross’s home.
+They seized his journal and various electronic devices.
+I will discuss later what they found.
+Charges were laid.
+The charges 
+[36] A nine count information charged Ross with offences between September 22, 2018 and August 13, 2019 for fraudulent personation of Ms. MacGray, harassment of her, damage to her property, damage to Mark Bailey’s property (x2), intimidation of Mr. Bailey as a justice system participant, fraudulent personation of Ryan Garven, damage to his property, and intimidation of Mr. Garven as a justice system participant. 
+
+[37] Mr. Ross was released on an undertaking on September 17, 2019 with conditions not to have contact with Mr. Bailey, Ms. MacGray or Ryan Garven.
+A second information charged Mr. Ross with having breached those conditions and harassment of Mark Bailey by following him from place to place on September 18, 2019.
+The Crown proceeded by indictment on all charges.
+The conduct of the proceedings 
+[38] Senior Crown Attorney Rick Woodburn had carriage of the proceedings for the Crown.
+Mr. Ross eventually retained Carbo Kwan.
+Ross elected trial in provincial court and pled not guilty to all counts.
+Trial dates for all of the charges were set for December 21, 22, and 23, 2020, with a formal pre-trial conference on October 19, 2020. 
+
+[39] Mr. Ross and Ms. Kwan agree on a surprising array of topics.
+They agree: Mr. Ross was a very engaged client in his defence; he insisted he had done nothing wrong; he said there would be nothing incriminating found on any of his electronic devices; he never wrote any of the electronic messages or letters; and his instructions were to go to trial on all charges. 
+
+[40] Ms. Kwan gave her written opinion in March 2020 that the Crown’s case was weak and circumstantial.
+Without the evidence discovered on one of Mr. Ross’s electronic devices, this was an entirely reasonable assessment.
+It is this evidence that is at the heart of the appellant’s complaint of ineffective assistance and breach of the Crown’s duty to disclose. 
+
+[41] In March 2020, the Crown provided a hard drive to Ms. Kwan said to contain “various files” and the tech reports on the electronic devices seized by the police from the appellant’s home.
+The devices were a Dell desktop computer, an iPad, a laptop computer, and a printer.
+Ms. Kwan provided the hard drive to the appellant who copied it. 
+
+[42] The appellant responded he saw nothing out of the ordinary in any of the reports.
+With respect to the laptop, he pointed out he could not open the “Axiom file” for the laptop contents, but he was not worried “as I know I did nothing illegal” with the laptop. 
+
+[43] Ms. Kwan wrote to Mr. Woodburn on July 3, 2020 with further disclosure requests.
+One of them was for the “Axiom Exam Scan for the Dell CPU”.
+The one previously provided was in an unreadable format.
+Ms. Kwan received a USB stick from Mr. Woodburn in July 2020.
+Mr. Ross copied it. 
+
+[44] When Ms. Kwan reviewed the USB, she determined it did not appear to contain the Axiom file related to the laptop.
+She discussed this issue with Mr. Ross, who told her the laptop was old and had not been used the past few years.
+Specifically, not during the periods of time relevant to the charges he faced.
+He also gave explicit assurances he had not undertaken any of the alleged activity and there would be nothing incriminating on any of his electronic devices. 
+
+[45] Mr. Ross suggested to Ms. Kwan she should obtain a report from the Crown on the analysis of his electronic devices.
+He was “not worried” about what was found, but said they should have the reports. 
+
+[46] As noted, a formal pre-trial conference was scheduled for October 19, 2020.
+On October 14, 2020, Ms. Kwan assured Mr. Ross she would follow up on his disclosure queries with the Crown that day or the next.
+Specifically, “The issue about the device report is something I will canvass with Crown.
+My past experience is that if they didn’t find anything useful for trial, they don’t tend to write a report indicating such”.
+The record is silent what transpired at the October 19, 2020 pre-trial conference—just that it occurred and “the trial dates stand”. 
+
+[47] We do know Ms. Kwan wrote to Mr. Woodburn on October 26, 2020 looking for an update “that I was expecting to receive last Friday [October 23] as to the previously requested disclosure items. 
+
+[48] On November 6, 2020, she wrote to Mr. Ross that without a report on the devices, it was safe to assume it is very unlikely the Crown has found anything of significance on those devices. 
+
+[49] Mr. Woodburn wrote a one sentence letter on November 12, 2020.
+It announced a Notice of Intention to Call an Expert Witness—Cst.
+Jason Baird and his CV.
+The Notice was purportedly pursuant to s 657.3 of the Criminal Code.
+I will discuss the Notice and the requirements of s 657.3 later.
+My only comment for now is that the Notice did not comply with the Criminal Code requirements, nor did it provide any meaningful information about Cst Baird’s expected evidence. 
+
+[50] The Notice stated Cst Baird’s area of expertise to be “Forensic Analyst, Digital Forensic Services RCMP “H” Division”.
+The summary of his opinion was: Mobile devices and computer system analysis, identification and recovery of digital information from devices such as tablets, laptop computers, and desktop computers, and to present conclusions stating the forensic significance of the results of such identification and recovery. 
+
+[51] Ms. Kwan immediately forwarded this communication to Mr. Ross and advised him that she expected to see the Crown on Monday
+[November 16, 2020] to watch a video, and she would ask Mr. Woodburn about an expert report or a summary of the evidence Cst Baird is expected to give.
+There is no direct evidence whether the anticipated meeting took place. 
+
+[52] Ms. Kwan emailed Mr. Woodburn on November 17, 2020 about the Crown’s Notice of Intention to call an expert.
+She wondered, “when I should expect a report from this expert indicating the evidence/can say he is going to testify to.” 
+
+[53] Within an hour, Mr. Woodburn replied, “You already have the laptop analysis from the RCMP tech crime.
+That is the report(s).” 
+
+[54] Mr. Ross rightly posed questions to Ms. Kwan on November 18, 2020, about the Crown’s duty to provide full and timely disclosure.
+He raised the potential need to get their own expert.
+Ms. Kwan replied on November 19, 2020.
+She explained they did not need a further report from the Crown, and they did not need to pay for a defence expert. 
+
+[55] The basis for her opinion was that she believed only the Dell desktop computer had been analyzed.
+Cst Baird had tagged eight items of interest and put them in a separate folder.
+Anything not tagged was irrelevant.
+She sent screen shots of the eight items.
+Her opinion was that these items were not incriminating.
+Copies were sent to Mr. Ross.
+Cst Baird would not be testifying about the IP addresses for the email accounts linked to any threats.
+His evidence would be restricted to the Dell desktop. 
+
+[56] Ms. Kwan admitted when she gave her update about disclosure to Mr. Ross, she had mistakenly identified the “report” as only referring to the desktop, rather than the laptop.
+Despite this misunderstanding, she and Mr. Ross continued to discuss the potential use of data from his electronic devices, including the laptop, and he again assured her, there could be nothing incriminating on any of the seized devices. 
+
+[57] Ms. Kwan’s contemporaneous notes from a December 16, 2020 meeting reflect Mr. Ross’s instructions that the laptop had not been used for years, and there would be no resolution except through a trial or the Crown’s total withdrawal of all charges.
+She prepared him to testify. 
+
+[58] There is not a scintilla of evidence the Crown gave to Mr. Ross any details about what the police had found on the laptop and intended to adduce at his trial through Cst Baird and the lead investigator D/Cst.
+El-Diri.
+It is to this evidence I turn.
+The evidence about the electronic devices 
+[59] The civilian witnesses completed their testimony on December 21, 2020.
+Cst Jason Baird was first up on December 22, 2020.
+The appellant agreed he was qualified to give expert evidence.
+The Crown’s requested areas of qualification were virtually a verbatim recitation from the summary of the opinion in the Crown’s November 12 Notice of Intention to call expert evidence: He is a mobile devices and computer system ...
+he is able to give expert opinion with regards to mobile devices and computer systems analysis, identification and recovery of digital information from devices such as tablets, laptop computers and desktop computers, and to present conclusions stating the forensic significance of the results of such identification and recovery. 
+
+[60] No one can argue Cst Baird was not an expert.
+But his expertise is not in presenting a ready-made conclusion or inference from other facts.
+His expertise was the use of computer programs to duplicate electronic devices in a manner that safeguard their contents and put them in a readable or searchable format. 
+
+[61] Cst Baird introduced the electronic devices and the USB stick that contained the information downloaded from them.
+Mr. Woodburn explained to the trial judge, the contents of the USB stick constituted Cst Baird’s report.
+All the information from the Dell desktop, the laptop and the iPad were downloaded onto the USB stick and had been provided to D/Cst.
+El-Diri. 
+
+[62] Almost the entirety of Cst Baird’s evidence focussed on what could be found on the laptop.
+He explained the laptop contained 1.4 million artifacts, which he said were just “files”.
+Every computer is going to have a lot of artifacts.
+These had been captured and turned into a searchable format with the use of the software program, Magnet Axiom. 
+
+[63] Cst Baird offered the program takes a bit of getting used to, but the artifacts were organized under categories such as Web-Related, Media for pictures, and Mobile which would be for any mobile device that had been connected to the laptop. 
+
+[64] I will only focus on the more relevant information found.
+Before doing so, I will interject with a few details of what appears to have been the appellant’s defence theory. 
+
+[65] The Crown had no evidence the appellant knew of Mark Bailey’s role in assisting Ryan Garven in any of the disputes involving the appellant.
+Bailey’s name did not appear on any documents associated with the Dental Board and Privacy Commissioner complaints and peace bond applications.
+The first time the appellant and Mr. Bailey had even met was on April 18, 2019.
+Hence, the appellant would have no motive to damage Mr. Bailey’s property or try to intimidate him.
+Similarly, there was nothing to connect the appellant to Kathleen MacGray, including the May 5, 2019 email to her purportedly sent by Ryan Garven. 
+
+[66] Mr. Woodburn asked Cst Baird to type “Bailey” into the search function for the laptop download.
+Twenty-eight results came back.
+One showed whoever used the laptop had accessed the website for baileylawyers.com on January 28, 2018. 
+
+[67] Another showed an Apple Note backup for an entry on an Apple device “Mark Bailey, CYB 419, Cadillac SUV”.
+The entry had been created on February 2, 2018. 
+
+[68] There was also an Apple Contact with a note: 260-22-11 4489901 Canada Pension Mark Bailey and Kathleen MacGray 
+[69] When “Kathleen” was entered as a search term, one of the hits was an email the appellant sent to himself on September 21, 2018, that contained information about Ryan Garven, Monica Anthony and Ms. MacGray’s email address. 
+
+[70] Already in evidence was an email sent to Kathleen MacGray at 11:54:33 a.m. on May 5, 2019 from ryangarven235@outlook.com.
+When the search term “Ryan” was entered for the laptop, there were many hits.
+When narrowed to May 5, 2019, there was an artifact showing the user of the laptop had accessed the Outlook web-based email program populating the input field with Ryan Garven as the user of that program. 
+
+[71] A production order from Microsoft resulted in a business record revealing the email address ryangarven235@outlook.com had been created on May 5, 2019 at 11:01 a.m. 
+
+[72] The only evidence led at trial about the contents of the Dell desktop computer were two rather innocuous details.
+The first, that someone used the computer to write an April 8, 2019 letter from Richard Ross to the Provincial Dental Board enquiring about the status of Ryan Garven’s complaint.
+The second, there was a copy of the anonymous letter dated October 17, 2008 that had been sent to Mr. Garven’s Canadian Armed Forces physician. 
+
+[73] When D/Cst.
+El-Diri testified he was able to locate evidence on the laptop that Richard Ross had used an email account R0236E@hotmail.com for his personal use.
+This email account had also been used to send the “anonymous emails” to Ryan Garven in 2016 that accused him of fraudulent behaviour.
+The fallout from the laptop evidence 
+[74] Partway through Cst Baird’s evidence, court recessed for approximately 40 minutes.
+Ms. Kwan and Mr. Ross met.
+They discussed the unexpected evidence the Crown had just adduced from Cst Baird. 
+
+[75] I will comment later on how I would resolve any differences in their respective recollections.
+They have much in common.
+They both accept the laptop evidence supported the Crown’s theory and undermined that of the defence. 
+
+[76] Mr. Ross’s August 29, 2022 fresh evidence affidavit said he was flustered after hearing Cst Baird’s evidence, and Ms. Kwan also appeared flustered.
+He elaborated on what they discussed: 37.
+During our meeting, I mentioned to Ms. Kwan that I was not aware that any information from my cellular phone would have been contained on the laptop and that, as Cst Baird explained in his testimony, it must have occurred when I would plug my phone into the laptop.
+I briefly explained that I had created a note in my phone containing Mark Bailey’s name, license plate, and vehicle description, as testified to by Cst Baird.
+I briefly explained that I had done so for my own protection and so that I could avoid Mr. Bailey. 
+
+[77] In Ms. Kwan’s words, they discussed the following: (a) I expressed my concern that the expert testimony was contrary to what Mr. Ross previously told me and appeared incriminating; (b) Mr. Ross offered various explanations for each item found on the laptop, which together indicated to me that he had not previously been honest with me; and (c) Mr. Ross then expressly admitted that he had created an outlook email address using the name “ryangarven235”and used it to send the relevant email to Kathleen MacGray, from the laptop in question, using McDonald’s Wi-Fi. 
+
+[78] When Mr. Ross was cross-examined on his affidavit, he conceded he had admitted to Ms. Kwan that he had sent the email of May 5, 2019 to Ms. MacGray, but he had done so “out of frustration”, in “the heat of the moment”.
+He tried to explain he had made the admission in a sarcastic tone.
+Ms. Kwan said the admission was not said in a sarcastic or resigned fashion.
+Mr. Ross’s explanation lacks credibility.
+He never advised Ms. Kwan that he had not in fact been the author of the May 5, 2019 email or any of the artifacts found on his electronic devices.
+The remainder of the trial 
+[79] Ms. Kwan advised Mr. Ross that if his goal was to be acquitted on all counts, it was “likely” he should not testify in light of his admission to her about the contents of the laptop.
+They would confirm their position as the trial unfolded. 
+
+[80]
+At the end of the Crown’s case on December 22, 2020, Ms. Kwan brought a directed verdict motion in relation to all counts.
+After argument, the trial judge delivered an oral decision.
+She acquitted Mr. Ross on the counts charging him with damage to Ryan Garven’s property and intimidation of him as a justice system participant.
+The motion failed with respect to remaining nine counts. 
+
+[81] Ms. Kwan requested time to discuss with Mr. Ross whether evidence would be called.
+Court adjourned to December 23, 2020. 
+
+[82] As it turns out, the appellant did not announce his decision not to call evidence until February 17, 2021.
+On December 23, 2020, Ms. Kwan challenged the admissibility of the business records obtained from Microsoft about the Outlook email account.
+The trial judge adjourned the trial to February 17, 2021 for the Crown to secure a witness, if necessary, to speak to the Microsoft business record. 
+
+[83] Ultimately, the judge ruled the business record admissible.
+Again, Ms. Kwan requested a further opportunity to consult with Mr. Ross.
+On their return, the decision was announced—the appellant would not call any evidence. 
+
+[84] Oral argument followed.
+There is no need to detail the parties’ respective positions.
+The trial judge reserved her decision to March 19, 2021. 
+
+[85] On March 19, 2021, the trial judge delivered her oral reasons.
+They are unreported.
+I need only mention the highlights. 
+
+[86] The trial judge was not satisfied the Crown had established beyond a reasonable doubt the charges of personation of Kathleen MacGray, nor that the appellant had criminally harassed her. 
+
+[87] Despite being satisfied the appellant did personate Ryan Garven when he sent the email of May 5, 2019, she entered an acquittal because there was no evidence that his conduct was done to obstruct, pervert, or defeat the course of justice.
+The trial judge also found the appellant’s actions on September 18, 2019, insufficient to make a charge of criminal harassment of Mark Bailey or breach of the condition in his undertaking to have no contact with him. 
+
+[88] However, the trial judge was satisfied the appellant had a motive to try to intimidate Mr. Bailey.
+She correctly observed, motive is relevant to both identification and intent.
+The trial judge reviewed the evidence of the letters, the tire slashing, the laptop contents, the appellant putting tire pamphlets on what appeared to be Mr. Bailey’s SUV in August 2019, and concluded: As I said at the start of the comments, with respect to each count, the Court has to be satisfied beyond a reasonable doubt the guilt of the individual before that individual can be found guilty.
+And, in this particular case, I’ve considered the evidence in its entirety.
+I am very mindful that this is a circumstantial case and I’m mindful of what the Supreme Court of Canada has said in Delaronde
+[Villaroman
+[1]] with respect to circumstantial cases and that is that, basically, before the Court can draw an inference that could result in the conviction of somebody, the Court has to be satisfied that it is the only, the only reasonable inference.
+As I said earlier, this has to be proof beyond a reasonable doubt and, before I can draw an inference from circumstantial evidence, as I said, the only reasonable inference.
+In [On] having considered all of the evidence in its entirety, I find that the Crown has proven count one beyond a reasonable doubt and I find you guilty of that count. 
+
+[89] Similarly, she found the Crown satisfied her the only reasonable inference was the appellant had slashed Mr. Bailey’s and Ms. MacGray’s tires and therefore committed the damage to property offences set out in counts six, seven and eight.
+She reasoned: I’ll deal with counts six, seven and eight right now.
+These are the charges relating to property damage and I’m satisfied, beyond a reasonable doubt, on each count that it was Mr. Ross who damaged the tires of Mr. Bailey and Ms. MacGray on September 23rd and then, several months later, on April the 17th, did damage the tires of Mr. Bailey’s vehicle.
+Again, it’s circumstantial evidence; I realize that.
+Nobody saw Mr. Ross do that, but the circumstantial evidence, the only reasonable inference I can draw, given all of the evidence, including the evidence I referred to earlier from Officer Baird, what was found in terms of the computer that was seized from your residence and what have you, with the license number of Mr. Bailey’s vehicle and so on, that the perpetrator of the damaged property was, in fact, Mr. Ross.
+I find Mr. Ross guilty of those specific counts.
+That’s count six, seven and eight. 
+
+[90] Sentence was adjourned to June 2, 2021.
+Other events intervened.
+Mr. Ross ended his relationship with Ms. Kwan.
+They appeared before the trial judge on April 12, 2021.
+Ms. Kwan withdrew.
+Mr. McGuigan assumed carriage of Mr. Ross’s defence.
+Sentence was adjourned to July 21, 2021, and then to August 25, 2021. 
+
+[91] With these facts in hand, I turn to my analysis of the appellant’s grounds of appeal.
+ISSUES 
+
+[92]
+The sole grounds of appeal are: 1.
+The Appellant did not receive effective assistance from his trial counsel such that a miscarriage of justice resulted; and 2.
+The Crown failed in its obligation to provide the Appellant with meaningful disclosure related to the evidence of Cst Jason Baird. 
+
+[93] Originally, the appellant’s requested remedy was an order for a new trial.
+To obtain that remedy for either ground of appeal, the appellant must satisfy the Court there was a miscarriage of justice caused by counsel’s incompetence or the Crown’s failure to fulfill its disclosure duty. 
+
+[94] I will later discuss the principles that govern how to assess the appellant’s claims.
+I would note the parties voice no disagreement about these principles.
+Admission of the fresh evidence 
+[95] Section 683(1) of the Criminal Code provides an appeal court with a discretion to admit evidence on appeal if the court considers it is in the interests of justice to do so. 
+
+[96] Palmer v. The Queen sets out the usual criteria to be considered by an appeal court faced with a motion to adduce evidence not called at trial: (1) The evidence should generally not be admitted if, by due diligence, it could have been adduced at trial provided that this general principle will not be applied as strictly in a criminal case as in civil cases: see McMartin v. The Queen
+[1964 CanLII 43 (SCC),
+[1964] S.C.R. 484].
+(2) The evidence must be relevant in the sense that it bears upon a decisive or potentially decisive issue in the trial.
+(3) The evidence must be credible in the sense that it is reasonably capable of belief, and (4) It must be such that if believed it could reasonably, when taken with the other evidence adduced at trial, be expected to have affected the result.
+
+[2] 
+[97] Here, the appellant does not seek admission of fresh evidence to challenge the reliability of the trial decision.
+He argues a miscarriage of justice occurred because of counsel’s incompetence or because the Crown failed to properly fulfill its disclosure obligations.
+In other words, the proposed fresh evidence is directed at the fairness of the trial process. 
+
+[98] The Court should provisionally admit such evidence to determine if a verdict is tainted by a miscarriage of justice caused by counsel’s incompetence or the Crown’s failure to disclose relevant information (see R. v. West, 2010 NSCA 16). 
+
+[99] Cromwell J.A., as he then was, in R. v. Wolkins, 2005 NSCA 2, described the approach to be adopted: 
+
+[61] The other category of fresh evidence concerns evidence directed to the validity of the trial process itself or to obtaining an original remedy in the appellate court.
+In these sorts of cases, the Palmer test cannot be applied and the admissibility of the evidence depends on the nature of the issue raised.
+For example, where it is alleged on appeal that there has been a failure of disclosure by the Crown, the focus is on whether the new evidence shows that the failure may have compromised trial fairness: see R. v. Taillefer; R. v. Duguay, 2003 SCC 70 (CanLII), [2003] 3 S.C.R. 307 at paras 73-77.
+Where the appellant seeks an original remedy on appeal, such as a stay based on abuse of process, the evidence must be credible and sufficient, if uncontradicted, to justify the appellate court making the order sought: see e.g. United States of America v. Shulman, 2001 SCC 21 (CanLII), [2001] 1 S.C.R. 616 at paras 43-46.
+Where the appellant alleges that his trial counsel was incompetent, the fresh evidence will be received where it shows that counsel’s conduct fell below the standard of reasonable professional judgment and a miscarriage of justice resulted: see R. v. G.D.B., supra.
+(see also: R. v. Fraser, 2011 NSCA 70; Re Truscott, 2007 ONCA 575, at para.
+85; R. v. G.K.N., 2016 NSCA 29, at para.
+45; R. v. Aulakh, 2012 BCCA 340, at paras 56-68). 
+
+[100] I would therefore provisionally admit the evidence to permit an assessment of the appellant’s claim trial counsel provided ineffective assistance and whether the Crown fulfilled its duty to disclose relevant information in its possession which caused a miscarriage of justice. 
+
+[101] It is convenient to first consider the disclosure issue.
+Meaningful disclosure of Cst Baird’s evidence 
+
+[102] It cannot be gainsaid that an accused has a constitutional right to disclosure of all information that might be relevant to the charges they face.
+Legions of cases have defined this right and established the consequences if the Crown fails to meaningfully protect and provide relevant information in its possession to an accused (see: R. v. Stinchcombe, 1991 CanLII 45 (SCC), [1991] 3 S.C.R. 326; R. v. Egger, 1993 CanLII 98 (SCC), [1993] 2 S.C.R. 451; R. v. O’Connor, 1995 CanLII 51 (SCC), [1995] 4 S.C.R. 411; R. v. La, 1997 CanLII 309 (SCC), [1997] 2 S.C.R. 680; R. v. Dixon, 1998 CanLII 805 (SCC), [1998] 1 S.C.R. 244; and R. v. Taillefer, 2003 SCC 70, [2003] 3 S.C.R. 307). 
+
+[103] Cory J., for the unanimous Court in Dixon, summarized the scope of the Crown’s disclosure obligation.
+It includes all information, whether inculpatory or exculpatory that could reasonably be used by the accused to meet the Crown’s case, advance a defence or otherwise play a role in making decisions which might affect the conduct of the defence: 
+
+[27]
+The Crown has an obligation to disclose all information, whether inculpatory or exculpatory, that could “reasonably be used by the accused either in meeting the case for the Crown, advancing a defence or otherwise in making a decision which may affect the conduct of the defence such as, for example, whether to call evidence” (Egger, supra, at p 467).
+Even so, “[w]hile the Crown must err on the side of inclusion, it need not produce what is clearly irrelevant” (Stinchcombe, supra, at p 339).
+The statements of Carvery and Levia contain no relevant information at all, and there is no reasonable possibility that their statements could have been of any use to the appellant at trial. 
+
+[104] The evidence clearly establishes that trial counsel and the appellant were not aware Cst Baird would testify to having found various artifacts on the appellant’s laptop that provided powerful additional circumstantial evidence against the appellant.
+Appellate counsel frankly admits the factual record he has put forward on the appeal does not reveal precisely how the problem with disclosure arose. 
+
+[105] The Crown argues it did not fail to fulfill its disclosure obligations—full disclosure had in fact been made; if trial counsel and or the appellant had difficulty accessing the laptop evidence, the Crown was unaware of this problem.
+It could not remedy a problem it did not know existed.
+Furthermore, defence counsel did not exercise due diligence in ensuring she had full disclosure. 
+
+[106] Due diligence by counsel can be a significant factor on whether a failure to disclose affected the fairness of the trial process (Dixon, at para.
+37).
+I will consider this issue in due course.
+However, I am satisfied the Crown knew the import of what was on the appellant’s laptop and failed to appropriately disclose the existence of this inculpatory evidence prior to trial.
+I say this for the following reasons. 
+
+[107]
+The documentary evidence attached to the affidavits of the appellant and Ms. Kwan clearly establishes they were unaware of what Cst Baird could say was on the laptop.
+If the Crown were also unaware, it would have been a simple matter to have provided an affidavit from Mr. Woodburn to that effect.
+It did not. 
+
+[108] Furthermore, Ms. Kwan wrote to Mr. Woodburn on October 26, 2020 asking for an update on her disclosure requests, which included a report on the devices.
+What did she get?
+The only evidence is Mr. Woodburn’s email of November 12, 2020 enclosing the Crown’s Notice of Intention to call Cst Baird as an expert witness said to have been provided pursuant to s 657.3 of the Criminal Code, along with Cst Baird’s CV. 
+
+[109] Section 657.3 has a number of purposes.
+One is to ensure, at least with respect to expert evidence, the Crown and defence give notice to the other party of their intention to call an expert witness in order to promote “the fair, orderly and efficient presentation” of evidence.
+The section spells out the requirements to provide their name, area of expertise, qualifications, a report, or if there is no report, a summary of the expert’s opinion.
+Section 657.3(3) provides as follows: (3) For the purpose of promoting the fair, orderly and efficient presentation of the testimony of witnesses, (a) a party who intends to call a person as an expert witness shall, at least thirty days before the commencement of the trial or within any other period fixed by the justice or judge, give notice to the other party or parties of his or her intention to do so, accompanied by (i) the name of the proposed witness, (ii) a description of the area of expertise of the proposed witness that is sufficient to permit the other parties to inform themselves about that area of expertise, and (iii) a statement of the qualifications of the proposed witness as an expert; (b) in addition to complying with paragraph (a), a prosecutor who intends to call a person as an expert witness shall, within a reasonable period before trial, provide to the other party or parties (i) a copy of the report, if any, prepared by the proposed witness for the case, and (ii) if no report is prepared, a summary of the opinion anticipated to be given by the proposed witness and the grounds on which it is based; and (c) in addition to complying with paragraph (a), an accused, or his or her counsel, who intends to call a person as an expert witness shall, not later than the close of the case for the prosecution, provide to the other party or parties the material referred to in paragraph (b). 
+
+[110] I earlier quoted verbatim the “Summary of Opinion” in the Crown’s Notice.
+It did not comply with the substance or intent of the s 675.3 requirements.
+Ms. Kwan wrote to Mr. Woodburn on November 17, 2020, when should she expect a report from Cst Baird or “can say” for what he is going to testify to. 
+
+[111]
+The appellant says any misunderstanding could have been alleviated had Mr. Woodburn simply told Ms. Kwan what was relevant about Cst Baird’s evidence.
+The Crown says it did so in Mr. Woodburn’s reply November 17, 2020 email where he tersely wrote: You already have the laptop analysis from the RCMP tech crime.
+That is the report(s). 
+
+[112] With respect, I disagree.
+Mr. Woodburn’s reply is dismissive of the Crown’s obligation and the accused’s constitutional right to know the case he has to meet. 
+
+[113] I have no direct evidence when Mr. Woodburn was completely aware of the nature and extent of the incriminating evidence the police found on the laptop.
+The inference is clear, it was at least prior to trial.
+He knew precisely the search terms for Cst Baird to use in order to locate inculpatory evidence and have him speak to it. 
+
+[114] In addition, when Mr. Woodburn attempted to have Cst Baird locate images that demonstrated the appellant’s use of the email address R0236E@hotmail.com, the Crown’s own expert could not find them.
+After five pages of transcript, the Crown abandoned the attempt.
+During that process, is the following exchange:
+Q. My apologies, Your Honour.
+I wanted to get this while 1 the investigator was here.
+So this was actually found by the investigator.
+THE COURT:
+Oh. MR.
+WOODBURN:
+Right.
+So I wanted ...
+I didn’t ...
+I wasn’t able to re-trace the steps to find this.
+That’s why the rest of them all came through.
+I couldn’t find it, but the investigator has, and you know where he is right now.
+He’s on his way back.
+[Emphasis added] 
+
+[115]
+When D/Cst.
+El-Diri testified, he explained he had the ability to go through the appellant’s laptop contents, and he had found the May 5, 2019 email to Ms. MacGray where Mr. Ross had impersonated Ryan Garver.
+Furthermore, he was aware of documentation that tended to prove Richard Ross had sent the intimidating “anonymous” emails to Ryan Garven. 
+
+[116]
+The Crown asked D/Cst.
+El-Diri about the jpeg images Cst Baird could not locate.
+D/Cst.
+El-Diri was able to narrow the search from 77,000 artifacts to 23,000 and then to jpeg numbers 19887 and 19886, which then became Ex #17. 
+
+[117]
+This clearly demonstrates two things.
+First, the search function may not have been so straightforward, as suggested, since the Crown’s own tech expert could not readily find relevant materials known to exist.
+Second, the Crown knew of the existence of inculpatory evidence it intended to call at trial yet never advised the defence of its existence. 
+
+[118] The Crown's failure to simply respond to Ms. Kwan's direct request seems almost inexplicable.
+The record demonstrates the Crown had provided assistance to Ms. Kwan on other occasions to facilitate effective access to items of electronic disclosure.
+There were no similar problems with the contents of the Dell desktop, where the police had placed into a separate folder eight items from the Dell desktop they thought might be relevant.
+Yet, for the powerful lynchpins of the Crown's circumstantial case found on the appellant’s laptop, not one inkling of the existence of this evidence.
+Such behaviour is the antithesis of appropriate Crown norms. 
+
+[119] Based on the record before us, I am satisfied on a balance of probabilities the appellant’s right to disclosure was infringed or denied. 
+
+[120]
+This does not end the analysis about the possible consequences of a Crown failure to disclose.
+It is just the beginning. 
+
+[121] In R. v. Dixon, the accused’s right to disclosure was infringed by the Crown’s inadvertent failure to produce the witness statements of two eyewitnesses, neither of whom testified (para. 30).
+The existence of these, and other statements, were referred to in police occurrence reports.
+Defence counsel knew of the existence of the statements, but, based on the summaries of their contents in the occurrence reports, decided there was nothing in them that would assist the accused in making full answer and defence. 
+
+[122] The witness statements were produced after conviction and sentence.
+Appeal proceedings asked for a new trial on the basis their right to make full answer and defence had been impaired.
+A majority of this Court dismissed the appeals (R. v. Dixon (1997), 1997 NSCA 50 (CanLII), 156 N.S.R. (2d) 81). 
+
+[123] Cory J., for the unanimous Supreme Court in Dixon, set out the guiding principles to address the consequences of the Crown’s breach of an accused’s right to full disclosure.
+Although the right to disclosure may have been violated, it does not necessarily follow that the right to make full answer and defence was impaired.
+If a failure to disclose is discovered at trial, the accused must bring it to the attention of the trial judge.
+The usual remedy at trial would be an adjournment, but other remedies may be available. 
+
+[124] If the failure to disclose is raised for the first time on appeal, the appellant must establish a reasonable possibility the non-disclosure affected the outcome of the trial or the overall fairness of the trial process: 
+[31]
+The right to disclosure is but one component of the right to make full answer and defence.
+Although the right to disclosure may be violated, the right to make full answer and defence may not be impaired as a result of that violation.
+Indeed, different principles and standards apply in determining whether disclosure should be made before conviction and in determining the effect of a failure to disclose after conviction.
+For instance, where the undisclosed material is available for review at trial, the presiding judge will evaluate it in relation to the Stinchcombe threshold to determine whether the Crown breached its obligation to disclose by withholding the material.
+If it has, an order for production or perhaps an adjournment will be the appropriate remedy.
+Obviously, these remedies are no longer available after conviction.
+At this stage, an appellate court must determine not only whether the undisclosed information meets the Stinchcombe threshold, but also whether the Crown’s failure to disclose impaired the accused’s right to make full answer and defence.
+Where an appellate court finds that the right to make full answer and defence was breached by the Crown’s failure to disclose, the appropriate remedy will depend on the extent to which the right was impaired.
+Where, as here, the accused was tried before a judge alone, the judge has provided thorough reasons for the decision, and the undisclosed evidenced is available for review, an appellate court is particularly well placed to assess the impact of the failure to disclose on the accused’s ability to make full answer and defence at trial. 
+
+[125] We know from the trial record, the trial judge did not know the inculpatory evidence detailed by Cst Baird had not been previously disclosed.
+Cory J. defined the two-step analysis where defence voice no complaint when they first learned of the problem: 
+
+[36] Thus, in order to determine whether the right to make full answer and defence was impaired, it is necessary to undertake a two-step analysis based on these considerations.
+First, in order to assess the reliability of the result, the undisclosed information must be examined to determine the impact it might have had on the decision to convict.
+Obviously this will be an easier task if the accused was tried before a judge alone, and reasons were given for the conviction.
+If at the first stage an appellate court is persuaded that there is a reasonable possibility that, on its face, the undisclosed information affects the reliability of the conviction, a new trial should be ordered.
+Even if the undisclosed information does not itself affect the reliability of the result at trial, the effect of the non-disclosure on the overall fairness of the trial process must be considered at the second stage of analysis.
+This will be done by assessing, on the basis of a reasonable possibility, the lines of inquiry with witnesses or the opportunities to garner additional evidence that could have been available to the defence if the relevant information had been disclosed.
+In short, the reasonable possibility that the undisclosed information impaired the right to make full answer and defence relates not only to the content of the information itself, but also to the realistic opportunities to explore possible uses of the undisclosed information for purposes of investigation and gathering evidence.
+[Underlined emphasis Cory J; bold emphasis added.] 
+
+[126] The Crown points out the recognized importance a lack of due diligence by defence counsel can play in assessing whether Crown non-disclosure affected the fairness of the trial process.
+Cory J. explained: 37
+In considering the overall fairness of the trial process, defence counsel’s diligence in pursuing disclosure from the Crown must be taken into account.
+A lack of due diligence is a significant factor in determining whether the Crown’s non-disclosure affected the fairness of the trial process.
+In Stinchcombe, supra, at p 341, defence counsel’s duty to be duly diligent was described in this way: Counsel for the accused must bring to the attention of the trial judge at the earliest opportunity any failure of the Crown to comply with its duty to disclose of which counsel becomes aware.
+Observance of this rule will enable the trial judge to remedy any prejudice to the accused if possible and thus avoid a new trial.
+See Caccamo v. The Queen, 1975 CanLII 11 (SCC), [1976] 1 S.C.R. 786.
+Failure to do so by counsel for the defence will be an important factor in determining on appeal whether a new trial should be ordered.
+The fair and efficient functioning of the criminal justice system requires that defence counsel exercise due diligence in actively seeking and pursuing Crown disclosure.
+The very nature of the disclosure process makes it prone to human error and vulnerable to attack.
+As officers of the court, defence counsel have an obligation to pursue disclosure diligently.
+When counsel becomes or ought to become aware, from other relevant material produced by the Crown, of a failure to disclose further material, counsel must not remain passive.
+Rather, they must diligently pursue disclosure.
+This was aptly stated by the British Columbia Court of Appeal in R. v. Bramwell (1996), 1996 CanLII 352 (BC CA), 106 C.C.C. (3d) 365 (aff’d 1996 CanLII 156 (SCC), [1996] 3 S.C.R. 1126), at p 374: . . .
+the disclosure process is one which engages both the Crown and the defence.
+It is not one in which defence counsel has no role to play except as passive receiver of information.
+The goal of the disclosure process is to ensure that the accused is not denied a fair trial.
+To that end, Crown counsel must disclose everything in its possession which is not clearly irrelevant to the defence, but the defence must also play its part by diligently pursuing disclosure from Crown counsel in a timely manner.
+Further, where, as here, defence counsel makes a tactical decision not to pursue disclosure of certain documents, the court will generally be unsympathetic to a plea that full disclosure of those documents was not made.
+See also R. v. S.E.S. (1992), 1992 CanLII 8262 (SK CA), 100 Sask.
+R. 110 (C.A.), at p 121. 
+
+[127] The Crown suggests defence counsel did not exercise due diligence by her failure to advise the Crown she had experienced issues accessing the disclosure.
+But her inaction did not amount to incompetence because she had been misled by Mr. Ross about the irrelevance of the contents of his electronic devices. 
+
+[128]
+In my view, I need not address whether defence counsel failed to exercise due diligence regarding the laptop disclosure.
+I say this because I am not satisfied the Crown’s failure to disclose, in these unique circumstances, impaired the appellant’s right to make full answer and defence at trial. 
+
+[129]
+This is not a case of non-disclosure.
+At its highest, it is a case of late disclosure.
+Furthermore, the late disclosed information was not from a third party, but rather it was information the appellant himself had created on his electronic devices.
+He might not have been aware the information had been captured and Cst Baird, or anyone using the search function, could locate it. 
+
+[130] Because it was late disclosure of inculpatory evidence, the usual remedy would be an adjournment in order for counsel to take instructions on how to meet this incriminating evidence.
+There is no suggestion the Crown’s conduct amounted to an abuse of process, or that the defence had been irreparably damaged in the sense that other strategies or approaches were forsaken.
+Mr. Ross was adamant, there would be no plea negotiations.
+The Crown would withdraw all charges or he would go to trial. 
+
+[131]
+The fresh evidence materials demonstrate trial counsel spoke with the appellant, not just at the recess, but on multiple occasions afterwards about how they could meet or downplay the laptop evidence and whether to call evidence.
+The appellant gave written instructions he would not testify and would call no evidence.
+He admits on cross-examination before us, the advice Ms. Kwan gave him was reasonable and appropriate. 
+
+[132] Nonetheless, the appellant argues trial fairness was compromised because he was unable to: pursue relevant lines of questions with witnesses; retain his own expert; search, review and consider any of the 1.4 million artifacts found on his laptop. 
+
+[133]
+The only identified line of relevant questions he says he could have pursued was in relation to his explanation for why he had Mark Bailey’s name, make/model of his car and its licence plate on his phone in February 2018.
+His rationale is lengthy.
+It not only lacks credibility, but it is also contradicted by other unchallenged or credible evidence.
+This is what he deposed: 45.
+Had I been aware prior to trial that evidence from the laptop would be introduced and had Ms. Kwan and I reviewed that evidence prior to trial, I would have had an opportunity to discuss that evidence with Ms. Kwan.
+For example, I would have explained to Ms. Kwan the reason that I made a note in my phone containing Mark Bailey’s name, vehicle, and license plate, in more detail than I did during our brief meeting at the courthouse on December 22, 2020.
+That explanation would have included the following: a.
+In September 2017, I was charged with criminal harassment against Ryan Garven.
+Those charges with withdrawn by the Crown on December 20, 2017; b.
+In the Crown disclosure materials that I received related to those 2017 charges, I read that Ryan Graven told police about an incident that resulted in me calling the police on him.
+Mr. Graven [sic] told police that on that date he was with a lawyer, Mark Bailey, at a grocery store when I had circled him in my car (the relevant page from the disclosure of the Crown brief report is attached to this affidavit as exhibit “O”);
+c.
+The date of the incident described by Mr. Garven in the disclosure, was August 15th, 2017.
+On that date, I was driving in the Sobeys’s parking lot near my home on Starboard Drive, when I saw Ryan Garven standing with a man who I did not recognize near the NSLC store.
+Shorty after returning home, I saw a dark-coloured Cadillac SUV parked idling in front of my home at 388 Starboard Drive.
+I exited by home and motioned to the vehicle before it drove away, and I could not see who was inside.
+I then drove my vehicle in the same direction and eventually encountered Mr. Garven, driving a [sic] behind me in a different vehicle.
+We came to the end of cul-de-sac and Mr. Garven exited his vehicle and appeared to attempt to start a confrontation with me.
+I remained in my vehicle and drove away.
+d.
+When I reviewed the disclosure material in the fall of 2017 and saw the name Mark Bailey as the person who was with Mr. Garven on August 15th, 2017.
+As a result, I believed he was associated with the dark-coloured Cadillac SUV that had been idling in front of my home that evening.
+e.
+Roughly 3 or 4 months after reviewing that disclosure, in the winter of 2018, I saw who I then understood to be Mark Bailey in the parking lot of the Sobeys’s on Starboard Drive.
+I saw that his vehicle was a dark-coloured Cadillac SUV.
+I made a note in my phone with Mr. Bailey’s name, plate number, and vehicle description.
+f. I made the note in my phone for my protection.
+I wanted to be able to avoid Mr. Bailey and his vehicle, as I believed he was associated with Mr. Garven and had been parked idling in front my home on August 15th, 2017.
+I did not want to have a confrontation with Mr. Bailey.
+I also wanted to be able to avoid Mr. Bailey so that I could not be accused of harassing him, given that I had recently been wrongfully accused of harassing Mr. Garven.
+I had observed other similar vehicles in my neighbourhood and wanted to help ensure that I could avoid Mr. Bailey’s vehicle.
+46.
+Had myself and Ms. Kwan been aware prior to trial that the note from my phone contained in the laptop with Mark Bailey’s name, vehicle description, and license plate, would be introduced as evidence against me, I would have provided the above-noted information to Ms. Kwan, and I would have expected that she could have asked questions in cross-examination to Mr. Garven and Mr. Bailey about the incident of August 15th, 2017. 
+
+[134]
+The notion the appellant wanted to avoid any and all contact with Mark Bailey is belied by his deliberate attendance at Mr. Bailey’s office building.
+The trial judge found it was the appellant who on August 13, 2019 had placed new tire pamphlets on a Cadillac SUV identical in appearance to Mark Bailey’s and pursued contact by seating himself in the lower lobby.
+There is no suggestion the trial judge’s findings are unreasonable or unsupported by the evidence.
+In fact, the appellant’s attendance at Mr. Bailey’s office building is confirmed by his own August 13, 2019 journal entry. 
+
+[135]
+The Crown filed a reply affidavit from Mark Bailey sworn October 25, 2022.
+He denies having parked in front of Mr. Ross’s home on Starboard Drive on August 15, 2017 or on any other day.
+In fact, contrary to Mr. Ross’s assertion, Mr. Bailey did not even own a dark-coloured Cadillac SUV on August 15, 2017, or in the early winter of 2018. 
+
+[136] When Mr. Bailey testified at trial about the tires on his SUV being slashed in September 2018 and April 2019, he described his Cadillac SUV as “dark-coloured”.
+However, he did not come into possession of his dark-coloured SUV until he leased it from the dealership on August 3, 2018.
+His previous Cadillac SUV was grey and much lighter in colour. 
+
+[137]
+The appellant chose not to challenge Mr. Bailey’s affidavit. 
+
+[138]
+Lastly, Ms. Kwan’s affidavit describes her reaction when the appellant explained to her on December 22, 2020, why Mr. Bailey’s name and details of his vehicle were in his phone.
+It directly contradicted his consistent instructions to her that the first time he had ever seen Mr. Bailey was at the peace bond appearance in April 2019. 
+
+[139]
+In any event, the appellant had every opportunity to testify at trial about why the information was on his laptop.
+He acknowledged before us his agreement with the advice, and his instructions not to testify.
+This trial strategy led to acquittals on seven charges.
+It does not behoove him to now claim he had an unfair trial because he did not have the opportunity to challenge the unexpected inculpatory evidence led by the Crown on December 22, 2020. 
+
+[140] The usual remedy for late disclosure is an adjournment.
+After hearing the totality of the Crown’s case, the trial was adjourned for approximately two months.
+The appellant effectively received the usual remedy for Crown late disclosure. 
+
+[141]
+An adjournment is one of the remedies specified in s 657.3 of the Criminal Code for failure to properly comply with a Notice of Intention to call an expert.
+Ms. Kwan deposed, and I accept her evidence, that she and the appellant had many exchanges and discussions about the laptop evidence during the two month adjournment. 
+
+[142]
+The appellant’s suggestion the trial process was unfair because he could not retain his own expert or have the opportunity to search, review and consider the 1.4 million artifacts on his laptop is also unpersuasive. 
+
+[143] Strangely, we have no direct evidence when the appellant’s counsel Mr. McGuigan could access the USB stick containing the downloaded searchable data from the laptop. 
+
+[144] Appellate counsel has represented Mr. Ross for over a-year-and-a-half.
+The Crown submits counsel has reviewed the laptop evidence.
+Counsel does not dispute this.
+If there were experts that could assist the appellant or other relevant information from the laptop, there is no evidence to demonstrate the existence and materiality of such evidence.
+It is insufficient to speculate an expert might be retained and provide relevant evidence that would assist the appellant. 
+
+[145] The burden is on the appellant to establish impairment of his right to make full answer and defence.
+He has not done so.
+Accordingly, I would not give effect to this ground of appeal.
+Ineffective assistance of counsel 
+
+[146]
+The principles are well known.
+Every accused has a constitutional right to effective assistance of counsel.
+An appellant who claims trial counsel was ineffective, must establish on a balance of probabilities their counsel’s acts or omissions constituted incompetence and a miscarriage of justice resulted (R. v. G.D.B., 2000 SCC 22). 
+
+[147] Major J., in R. v. G.D.B., defined how to approach an appellant’s claims counsel failed them at trial: 26 The approach to an ineffectiveness claim is explained in Strickland v. Washington, 466 U.S. 668 (1984), per O’Connor J. The reasons contain a performance component and a prejudice component.
+For an appeal to succeed, it must be established, first, that counsel’s acts or omissions constituted incompetence and second, that a miscarriage of justice resulted.
+27 Incompetence is determined by a reasonableness standard.
+The analysis proceeds upon a strong presumption that counsel’s conduct fell within the wide range of reasonable professional assistance.
+The onus is on the appellant to establish the acts or omissions of counsel that are alleged not to have been the result of reasonable professional judgment.
+The wisdom of hindsight has no place in this assessment.
+28 Miscarriages of justice may take many forms in this context.
+In some instances, counsel’s performance may have resulted in procedural unfairness.
+In others, the reliability of the trial’s result may have been compromised.
+29
+In those cases where it is apparent that no prejudice has occurred, it will usually be undesirable for appellate courts to consider the performance component of the analysis.
+The object of an ineffectiveness claim is not to grade counsel’s performance or professional conduct.
+The latter is left to the profession’s self-governing body.
+If it is appropriate to dispose of an ineffectiveness claim on the ground of no prejudice having occurred, that is the course to follow (Strickland, supra, at p 697). 
+
+[148] There are legions of cases that have reinforced this approach (R. v. Archer (2005), 2005 CanLII 36444 (ON CA), 203 O.A.C. 56; R. v. West, supra; R. v. Fraser, 2011 NSCA 70; R. v. Ross, 2012 NSCA 56; R. v. Snow, 2019 NSCA 76; R. v. Weagle, 2008 NSCA 122; R. v. G.K.N., 2016 NSCA 29; R. v. Meer, 2016 SCC 5; R. v. Aulakh, supra; R. v. P.C.H., 2019 NSCA 63, at para.
+43; R. v. Mehl, 2021 BCCA 264; R. v. Barrett, 2022 NSCA 3). 
+
+[149] The appellant acknowledges his obligation to establish the alleged failings of counsel resulted in prejudice to the extent there was a miscarriage of justice.
+This requirement is well expressed by Smith J.A. in Aulakh: 52 The prejudice component of the test also presents a difficult hurdle.
+It requires the appellant to establish a reasonable probability that the ineffective assistance of counsel caused prejudice that resulted in a miscarriage of justice.
+The miscarriage of justice may be an unreliable verdict or an unfair adjudicative process.
+However, absent a link between the demonstrated professional incompetency of trial counsel and prejudice to the appellant, there can be no miscarriage of justice. 
+
+[150] Cromwell J.A., as he then was, in Wolkins, commented on the concept of “miscarriage of justice”: 88
+But what is a miscarriage of justice?
+89
+The clearest example is the conviction of an innocent person.
+There can be no greater miscarriage of justice.
+Beyond that, it is much easier to give examples than a definition; there can be no “strict formula ... to determine whether a miscarriage of justice has occurred”: R. v. Khan, 2001 SCC 86 (CanLII), [2001] 3 S.C.R. 823 per LeBel, J. at para.
+74.
+However, the courts have generally grouped miscarriages of justice under two headings.
+The first is concerned with whether the trial was fair in fact.
+A conviction entered after an unfair trial is in general a miscarriage of justice: Fanjoy, supra; R. v. Morrissey (1995), 1995 CanLII 3498 (ON CA), 97 C.C.C. (3d) 193 (Ont. C.A.) at 220-221.
+The second is concerned with the integrity of the administration of justice.
+A miscarriage of justice may be found where anything happens in the course of a trial, including the appearance of unfairness, which is so serious that it shakes public confidence in the administration of justice: R. v. Cameron (1991), 1991 CanLII 7182 (ON CA), 64 C.C.C. (3d) 96 (Ont. C.A.) at 102; leave to appeal ref’d [1991] 3 S.C.R. x. See also R. v. Mehl, supra, at paras 138-144. 
+
+[151]
+The appellant itemizes the alleged acts or omissions he argues demonstrate ineffective assistance: 68.
+The Appellant submits that the following acts or omissions by his trial counsel were ineffective: • Failing to ensure that Crown disclosure was complete prior to trial.
+Specifically, failing to determine whether the HP laptop that had been seized by police from the Appellant’s home had been forensically analyzed by police, and if it had, failing to ensure that she had received a working and accessible copy of any results; and • Failing to effectively respond when the Crown introduced evidence at trial from the HP laptop, including: i. Failing to object or request a recess when the Crown’s expert witness, Cst Baird, testified about the HP laptop; ii.
+Continuing and, eventually completing, the Appellant’s trial without requesting and retrieving a copy of the disclosure of the results of the forensic analysis of the HP laptop, once she became aware of its existence; iii.
+Failing to have any discussion, provide any advice, or present any options to the Appellant regarding the HP laptop evidence, once they became aware of its existence, including any discussion, advice, or options about: 1. retrieving disclosure from the Crown pertaining to the HP laptop;
+2. seeking an adjournment of Cst Baird’s evidence, and/or the remainder trial, in order to retrieve and review the disclosure;
+3. retaining their own forensic computer expert, if necessary; 4. seeking to have any witnesses recalled, if necessary; or 5. seeking a mistrial, if necessary. 
+
+[152]
+The appellant makes no suggestion these alleged shortcomings caused a miscarriage of justice in the sense the reliability of the verdict was compromised.
+His sole argument is the conduct of counsel resulted in an unfair process or the appearance of unfairness such that a miscarriage of justice occurred. 
+
+[153] First, the appellant has the burden to establish the material facts on a balance of probabilities (see: Archer, at para.
+119).
+Most of the underlying facts are not in dispute.
+However, I do not accept that counsel failed to obtain a copy of the results of the “forensic analysis” of the laptop.
+There was no forensic analysis.
+The contents of the device were secured, transferred and transposed into a searchable format.
+Nor do I accept that counsel failed to discuss and provide advice to the appellant about the laptop evidence once she became aware of its existence. 
+
+[154] Ms. Kwan deposed in her affidavit, and in her evidence before us, she had numerous discussions with the appellant about the import of the evidence found on the laptop and what to do about it.
+She acknowledges she did not: bring a mistrial motion or seek to have any witnesses recalled.
+She knew these were options but did not consider them prudent or advisable. 
+
+[155] It is possible other counsel may have: not relied on Mr. Ross’s assurances there would be nothing incriminating on the laptop; insisted on knowing exactly what evidence Cst Baird would be giving; asked for a mistrial or pursued other remedies before the trial judge. 
+
+[156] I need not determine if any of the alleged shortcomings amount to a failure to provide reasonable professional assistance.
+Even if I were persuaded they did, the appellant has failed to convince me on a balance of probabilities the trial was procedurally unfair or the appearance of unfairness rises to the magnitude that it constitutes a miscarriage of justice. 
+
+[157] I would not give effect to this ground of appeal. 
+
+[158]
+The appellant acknowledges the overlap inherent in the two grounds of appeal.
+To obtain a remedy for either, he must demonstrate there was a miscarriage of justice.
+For all of the reasons already expressed about the consequences of the Crown’s failure to properly disclose the evidence it intended to lead, there was no miscarriage of justice. 
+
+[159] Accordingly, although I do not endorse the Crown’s dismissive attitude in the face of appropriate disclosure requests, I would dismiss the motion to adduce fresh evidence and the appeal.
+Beveridge J.A. Concurred in: Derrick J.A. Beaton J.A. 
+
+[1] The trial judge said “Villaroman”, a reference to R. v. Villaroman, 2016 SCC 33.
+The transcript is inaccurate. 
+
+[2] [1980] S.C.R. 759, at p 775.
+Back to top ABOUT What is CanLII Board of Directors Contact Us INFORMATION
+Terms of Use Privacy Policy Primary Law Databases
+CanLII Authors Program TOOLS RSS Feeds APIs Lexbox HELP Frequently Asked Questions Search Help Reflex Citator Legislation Help CanLII Guides Follow us DarkLII By

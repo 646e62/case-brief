@@ -1,0 +1,27 @@
+{
+  "case_information": [
+    "citation",
+    "judges",
+    "procedural_rank"
+  ],
+  "decision": {
+    "majority": {
+      "meta": ["a", "b", "c"],
+      "facts": [1, 2, 3],
+      "history": [true, true, false],
+      "issues": ["red", "green", "blue"],
+      "rules": [2.5, 3.14, 1.618],
+      "analysis": [null, null, null],
+      "conclusion": ["apple", "banana", "orange"]
+    },
+    "concurring": {
+      "meta": ["a", "b", "c"],
+      "facts": [1, 2, 3],
+      "history": [true, true, false],
+      "issues": ["red", "green", "blue"],
+      "rules": [2.5, 3.14, 1.618],
+      "analysis": [null, null, null],
+      "conclusion": ["apple", "banana", "orange"]
+    }
+  }
+}

@@ -1,0 +1,296 @@
+2020 ONCA 381 (CanLII) | R. v. Reeve | CanLII Home › Ontario › Court of Appeal for Ontario › 2020 ONCA 381 (CanLII)
+Loading paragraph markers R. v. Reeve, 2020 ONCA 381 (CanLII)
+Document History Cited documents (25) Treatment CanLII Connects PDF Date: 2020-06-10 File number: C67010 Other citation: 151 OR (3d) 65
+Citation: R. v. Reeve, 2020 ONCA 381 (CanLII), <https://canlii.ca/t/j85v8>, retrieved on 2023-03-08 Legislation Criminal Code, RSC 1985, c C-46; 380.1(1) — 380(1) — 687(1) — 718.1 — 718.2 — 724(3) — 738(1) Securities Act, RSO 1990, c S.5 Decisions 1979-12-21 Palmer v. The Queen, 1979 CanLII 8 (SCC), [1980] 1 SCR 759 2010-02-15 R. c. Jones, 2010 QCCQ 851 (CanLII) 2009-10-09 R. c. Lacroix, 2009 QCCS 4519 (CanLII) 2004-10-15 R. v. B. P., 2004 CanLII 33468 (ON CA) 2020-02-28 R. v. Boone, 2020 ONCA 154 (CanLII) 2011-09-13 R. v. Drabinsky, 2011 ONCA 582 (CanLII) 2016-10-13 R. v. Duncan, 2016 ONCA 754 (CanLII) 2011-02-09 R. v. Eizenga, 2011 ONCA 113 (CanLII) 2019-03-14 R. v. Erez, 2019 ONCA 204 (CanLII) 2020-04-02 R. v. Friesen, 2020 SCC 9 (CanLII), [2020] 1 SCR 424 1982-08-09 R. v. Gardiner, 1982 CanLII 30 (SCC), [1982] 2 SCR 368 2020-02-07 R. v. Holden, 2020 ONSC 132 (CanLII) R. v. Holden, [2000]
+OJ No 3481 (QL) (not available on CanLII) 2013-03-01 R. v. J.F., 2013 SCC 12 (CanLII), [2013] 1
+SCR 565 2011-04-06 R. v. J.F., 2011 ONCA 220 (CanLII) 2010-12-16 R. v. Johnson, 2010 ABCA 392 (CanLII) 2010-08-25 R. v. Johnson, 2010 ABQB 546 (CanLII) 2015-12-17 R. v. Lacasse, 2015 SCC 64 (CanLII), [2015] 3 SCR 1089 2014-07-11 R. v. Lewis, 2014 ONSC 4188 (CanLII) 2017-11-15 R. v. Shah, 2017 ONCA 872 (CanLII) 2014-07-10 R. v. Sipos, 2014 SCC 47 (CanLII), [2014] 2 SCR 423 1999-02-05 R. v. Valentini, 1999 CanLII 1885 (ON CA) 2014-04-03 R. v. Waxman, 2014 ONCA 256 (CanLII) Citations Discussions Unfavourable mentions Expanded Collapsed COURT OF APPEAL FOR ONTARIO CITATION:
+R. v. Reeve, 2020 ONCA 381 DATE: 20200610 DOCKET:
+C67010 Fairburn, Nordheimer and Harvison Young JJ.A. BETWEEN Her Majesty the Queen Respondent and Daniel Reeve Appellant Erin Dann and Angela Ruffo, for the appellant Catherine Weiler, for the respondent Heard: May 26, 2020 by Videoconference On appeal from the sentence imposed on June 22, 2018 by Justice Antonio Skarica of the Superior Court of Justice, sitting without a jury.
+
+Fairburn J.A.: 
+I. OVERVIEW 
+
+[1] The appellant ran a financial investment company and had a good reputation in the financial industry.
+He got into financial difficulty in 2007.
+Over the next two and a half years, he perpetrated a large-scale fraud on 41 unsuspecting clients.
+As found by the sentencing judge, he used the victims’ money for a number of purposes, including business and personal expenses, as well as payments to his ex-wife to fulfill a large outstanding support order.
+As is often the case in classic Ponzi schemes, the appellant also used some of the victims’ money to pay back other victims, ones who were becoming suspicious about what had happened to their money.
+By taking the money of some to pay others, the appellant successfully avoided coming to the attention of the police for a significant period of time.
+At the end of the day, the victims were out over $10 million and even larger sums had been put at risk. 
+
+[2] The appellant was convicted of fraud over $5,000 and theft over $5,000.
+He was sentenced to the maximum term of 14 years’ imprisonment.
+Given that he had already spent 71 months in pre-sentence custody, counsel agreed that he should receive credit in the amount of 8.9 years.
+He was provided with an additional 1.1 year of credit due to what the trial judge deemed “harsh conditions” during the 71 months he had spent in remand in accordance with the principle laid down in R. v. Duncan, 2016 ONCA 754, at para 6. 
+[3] A restitution order pursuant to s 738(1)(a) of the Criminal Code, R.S.C. 1985, c. C-46, issued in the amount of $10,887,885.
+In addition, a fine in lieu of forfeiture was ordered in the same amount as the restitution order.
+The appellant was given ten years following the completion of his term of imprisonment to pay the fine.
+In default of payment of the fine, pursuant to s 462.37(4)(a)(vii), the appellant was ordered to serve the maximum term of ten years’ imprisonment.
+The fine in lieu of forfeiture is to be reduced by any amount paid pursuant to the restitution order: R. v. Waxman, 2014 ONCA 256, at para 31. 
+
+[4] The appellant pursues both a conviction and sentence appeal.
+Given the time sensitivity attaching to the sentence appeal, the court agreed to hear it first.
+On May 29, 2020, leave to appeal the sentence was granted, the appeal was granted, and the sentence was varied to ten years’ incarceration.
+No other aspect of the sentence was appealed.
+Accordingly, the sentence was affirmed in all other respects. 
+
+[5] Written reasons were to follow.
+These are those reasons.
+
+II. THE REASONS FOR SENTENCE 
+
+[6] The sentencing judge spent a good portion of his reasons reviewing the devastating impact that the fraud had on the victims.
+About this there is no dispute.
+The sentencing judge described the victims as “disabled, the elderly, the grieving spouse, the emotionally vulnerable, the close long-time friends, the loyal client, and complete strangers”.
+Many of them lost their life savings to the appellant. 
+
+[7] The sentencing judge concluded that there were no mitigating circumstances operative in this case.
+In contrast, he concluded that “virtually every aggravating circumstance recognized by the Criminal Code and the case law” was present, pointing to: 
+• the amount of the fraud and large number of victims; 
+• the potential to adversely affect investor confidence in the financial market; 
+• the fact that the appellant took advantage of the high regard in which he was held in the investment community, breaching the trust of his clients and the industry licencing requirements; 
+• the appellant’s lack of remorse and empathy for his victims (as further discussed below);
+• the serious victim impact; 
+• the length of time over which the fraud had been perpetrated; 
+• the appellant’s motivation being rooted in his inflated ego and extravagant lifestyle; and 
+• the fact that the appellant “exploited the fear and panic created by the 2008-2009 worldwide financial crisis … by convincing clients/victims, who trusted him, to cash in their losing portfolios and convert the monies into ‘safer’ investments”. 
+
+[8] The sentencing judge considered prior authorities where sentences had been imposed in like situations, but ultimately concluded that they were of little assistance because of what he perceived to be the unique circumstances of this case and this offender.
+Ultimately, he concluded that the appropriate disposition was the maximum 14-year sentence.
+
+III. USING A LACK OF REMORSE AS AN AGGRAVATING FACTOR 
+
+[9] The appellant raises numerous grounds of appeal.
+It is only necessary to deal with one.
+It relates to the use of the lack of remorse as an aggravating factor on sentence. 
+
+[10] The appellant apologized at the sentencing hearing for the fact that the victims had “suffered at [his] hands”.
+The sentencing judge rejected that apology as “hollow”.
+He found that the appellant had a complete lack of remorse.
+It was open to the trial judge to make that finding.
+The difficulty is with how that finding was put to use. 
+
+[11] A genuine expression of remorse can constitute an important mitigating consideration at the time of sentencing.
+When an offender demonstrates, through actions and/or words, that he or she is genuinely remorseful for his or her conduct, it can show that the offender has some insight into his or her past actions and takes responsibility for them.
+Taking responsibility for past conduct is an important step toward rehabilitation and gives cause for hope that the offender may be set on a path of change.
+The greater the genuine insight into past offending behaviour, the greater the cause for hope. 
+
+[12] While a genuine expression of remorse can serve to mitigate a sentence, the opposite is not true.
+An offender cannot be punished for a lack of remorse.
+The reason is clear.
+Punishing an accused for failing to express remorse comes “perilously close” to punishing him or her for exercising the right to make full answer and defence: R. v. Valentini (1999), 1999 CanLII 1885 (ON CA), 43 O.R. (3d) 178 (C.A.), at para 83.
+Even after a guilty verdict, an accused is entitled to maintain his or her innocence and cannot be punished for maintaining that stance. 
+
+[13] Crown counsel emphasizes that, while remorse cannot typically be used as an aggravating factor on sentence, there are limited exceptions to the rule.
+This case is said to fall within those exceptions.
+Specifically, Crown counsel points to the fact that a lack of remorse may shine a light on the “likelihood of future dangerousness”, as well as inform the applicability of sentencing principles involving specific deterrence and rehabilitation: Valentini, at para 82; R. v. P.(B.) (2004), 2004 CanLII 33468 (ON CA), 190 O.A.C. 354, at para 2. See also: R. v. F.(J.), 2011 ONCA 220, 105 O.R. (3d) 161, aff’d on other grounds in 2013 SCC 12, [2013] 1 S.C.R. 565, at para 85; R. v. Shah, 2017 ONCA 872, at para 8.
+Crown counsel maintains that the trial judge’s references to the absence of remorse should be understood as references to the appellant’s “attitude toward the crime”, an attitude that underscored his “likelihood of future dangerousness”. 
+
+[14] As supported by the authorities just cited, the absence of remorse will sometimes be relevant in the sentencing process.
+That does not mean, though, that someone can be punished for failing to show remorse.
+While a lack of remorse may, in rare circumstances, inform potential future dangerousness, which can in turn inform the application of some sentencing principles, such as the suitability of emphasizing rehabilitation, it must never be used as an aggravating factor that is deserving of punishment. 
+
+[15] Despite Crown counsel’s capable argument on this point, I cannot read the sentencing judge as having used the absence of remorse in the limited way that she suggests.
+In my view, the reasons for sentence make clear that the appellant was actually punished for his lack of remorse in the face of what the trial judge perceived to be a strong prosecution case. 
+
+[16] The second paragraph of the sentencing judge’s reasons following the heading “Aggravating Circumstances” reads as follows: Mr. Reeve has absolutely no remorse or empathy for the victims.
+… During his trial evidence, Mr. Reeve insisted he had done nothing wrong despite the absolutely overwhelming evidence of fraudulent intent and fraudulent conduct deliberately perpetrated by Mr. Reeve over the indictment period from 2007-2009.
+[Emphasis added.]
+The evidence at this trial and subsequent sentencing confirm the following comments found at page 9 of the presentence report: The subject does not take responsibility for his offences, and shows no remorse for any of his offences.
+Of concern the subject appears to have little to no empathy for the victims’ losses.
+He denies any intent to defraud investors in any of his companies.
+[Emphasis added.] 
+
+[17] Later in the reasons, the absence of remorse was directly linked to the decision to impose the maximum custodial term: When the fraud was done and the money was gone, many, if not most, of the victims, were left with lives of complete devastation, absolute destitution and utter despair, which in many cases continues to this day.
+Mr. Reeve, like a true predator, walked away, until his arrest, with absolutely no empathy or remorse for the suffering and scarring left behind.
+If that scenario does not cry out for a maximum sentence, what does?
+[Emphasis added.] 
+
+[18] These passages stand in direct opposition to the rule that an accused cannot be punished for an absence of remorse. 
+
+[19] Not only was the appellant’s lack of remorse specifically identified as an aggravating factor, but its strength as an aggravating factor was directly linked to his having chosen to make full answer and defence in the face of what the sentencing judge saw as “absolutely overwhelming evidence” of his guilt. 
+
+[20] Punishing a person for maintaining their innocence, based on an after-the-fact determination that the prosecution had a strong case, could do serious harm to the criminal justice system.
+Accused persons are entitled to put the Crown to its proof and cannot be punished or seen to be punished after-the-fact, simply because the Crown met that burden.
+Accused must be able to assert the right to full answer and defence, unencumbered by fear of future implications.
+To proceed otherwise would seriously undermine that fundamental right. 
+
+[21] The fact that the accused was punished for his lack of remorse in the face of a strong Crown case, and the sheer strength of that factor in the sentencing decision, is evidenced in the rhetorical question put just prior to the maximum custodial sentence being announced.
+The trial judge asked, “If that scenario does not cry out for a maximum sentence, what does?”
+The “scenario” he was referring to had just been stated in the previous paragraph: walking away from the devastated victims with “absolutely no empathy or remorse for the suffering and scarring left behind.” 
+
+[22] In my view, the reasons lead to the inescapable conclusion that, among other things, the appellant was punished for his failure to show remorse, including by exercising his right to a trial.
+
+IV. DID THE ERROR IN PRINCIPLE HAVE AN IMPACT ON THE SENTENCE? 
+
+[23] It is an error in principle to use the absence of remorse as an aggravating factor for which the accused should be punished.
+Where an error in principle is found to have had an impact on the sentence, the appellate court must perform its own sentencing analysis to determine a fit sentence: R. v. Lacasse, 2015 SCC 64, [2015] 3 S.C.R. 1089, at para 43; R. v. Friesen, 2020 SCC 9, at para 27. 
+
+[24] The question here is whether the trial judge’s error in using the absence of remorse as an aggravating factor had an impact on the sentence imposed.
+Crown counsel argues that it did not, emphasizing that virtually every statutory and common law aggravating factor was present in this case, justifying the maximum sentence imposed.
+Therefore, even if remorse was wrongfully described as an aggravating factor, the 14-year sentence was still called for and this court should not interfere.
+I disagree. 
+
+[25] On the sentencing judge’s own words, it was the victims’ suffering and the appellant’s lack of remorse for that suffering that called for the maximum term of imprisonment.
+Accordingly, I conclude that the error in principle is inextricably linked to the imposition of the maximum custodial term imposed in this case. 
+
+[26] The question now becomes: what factors should the court take into account in sentencing the appellant afresh?
+
+V. SENTENCING THE APPELLANT AFRESH 
+
+[27] In the event that this court sentences the appellant afresh, consistent with the Crown’s position at trial, Crown counsel maintains that the maximum term of imprisonment should be imposed.
+Consistent with his position at trial, the appellant maintains that a custodial term of between eight to ten years’ imprisonment is appropriate.
+
+(a) Proportionality and Parity Work in Tandem 
+
+[28] Proportionality and parity are key sentencing principles. 
+
+[29] Sentences must be proportionate to the gravity of the offence and the degree of responsibility of the offender: Criminal Code, s 718.1.
+The principle of parity must also be taken into account, involving the idea that “similar offenders who commit similar offences in similar circumstances should receive similar sentences”: Friesen, at para 31; Criminal Code, s 718.2(b). 
+
+[30] While the trial judge referred to some authorities that had been provided to him by counsel during the sentencing hearing, he found that they were not “helpful due to the individual circumstances of each particular case.”
+In the end, he disregarded those authorities altogether and imposed a sentence well above any sentence that has previously been imposed for like offenders in like circumstances. 
+
+[31] The fact that each crime has its own unique circumstances, and is committed by its own unique offender, does not mean that parity has no role to play in the sentencing process.
+While sentencing ranges cannot be seen as “straitjackets”, and under or overshooting a range will not on its own give rise to a demonstrably unfit sentence, parity remains a strong principle of sentencing, one that exists as an expression of the principle of proportionality: Friesen, at paras 32, 37, 108; Lacasse, at paras 58, 60-61.
+Consequently, the principle of proportionality is respected, in part, by referring to sentences imposed in other cases, sentences that reflect the “collective experience and wisdom of the judiciary”: Friesen, at para 33.
+
+(b) Guidance From Prior Authorities 
+
+[32] The parties point to R. v. Lacroix, 2009 QCCS 4519, [2009] R.J.Q. 2569, as the high-water mark for sentences in large-scale frauds.
+In Lacroix, Wagner J. (as he then was) imposed a 13-year sentence.
+Mr. Lacroix pled guilty, but only on the eve of trial.
+He defrauded 9,200 victims over a four-year period.
+The victims lost almost $100 million and the impact on them was devastating.
+The ill-gotten gains funded the accused’s lavish lifestyle.
+There was a breach of trust, and the sentencing judge found beyond a reasonable doubt that the accused’s actions “adversely affected the Canadian economy and shook investors”: Lacroix, at para 37.
+Wagner J. referred to the case as “unprecedented in the annals of Canadian legal history”: at para 4. 
+[33] In R. v. Erez, 2019 ONCA 204, the appellant was convicted of a large-scale Ponzi-like scheme involving numerous victims over several years, resulting in over $6 million in losses.
+He had a prior criminal record for “fraud-related offences” and committed the “bulk of the present fraudulent transactions” while serving a conditional sentence or on probation for previous forgeries.
+While he pled guilty, the mitigating effect of that plea was attenuated as he worked to have the guilty plea struck.
+He failed in that endeavour and then unsuccessfully appealed on the basis that the plea judge erred in refusing to strike the plea.
+Like this case, the victim impact was devastating, and the appellant used the money for his own personal gain.
+He received an eight-year sentence, described by this court as the “top of the sentencing range”. 
+
+[34] In R. v. Eizenga, 2011 ONCA 113, 273 O.A.C. 98, the appellant engaged in a very serious breach of trust, committing a large-scale fraud involving several hundred victims and about $37 million.
+Much of the money had been moved off-shore.
+Although he pled guilty, he later challenged that plea.
+This court found that the plea was valid.
+While he appealed from the restitution order, he did not appeal from the eight-year custodial term that had been imposed after trial.
+This court commented on the fact that the prospects for his rehabilitation appeared good. 
+
+[35] Crown counsel also points to the recent sentencing decision in R. v. Holden, 2020 ONSC 132, where Dambrot J. imposed a 12-year sentence for a large-scale fraud involving a Ponzi scheme.
+The total amount of the fraud in that case was $54,159,737 with 65 victims, many of whom were vulnerable and unsophisticated.
+The victim impact was devastating; many of the victims lost their life savings.
+The accused used the money for his own self-enrichment and to advance the Ponzi scheme. 
+
+[36] Importantly, unlike this case, the accused in Holden had both a criminal and a Securities Act record when he committed the crimes for which he was sentenced: Securities Act, R.S.O. 1990, c. S.5.
+In 1995 he was convicted of 46 Securities Act offences.
+In 2000, he pled guilty to three counts of fraud over $5,000 and was sentenced to six years in custody for what this court described as a “massive complex fraud perpetrated on hundreds of victims”: R. v. Holden, [2000] O.J. No. 3481 (C.A.). 
+
+[37] Counsel also points to sentences imposed by trial courts, including in other provinces, for large-scale Ponzi-related frauds: R. v. Johnson, 2010 ABQB 546, rev’d 2010 ABCA 392, 265 C.C.C. (3d) 443 (13 years decreased to 10 years on appeal); R. v. Jones, 2010 QCCQ 851 (joint submission for 11 years involving over $50 million in losses and over 150 victims); R. v. Lewis, 2014 ONSC 4188 (seven years)
+
+[1]. The accused stood in significant positions of trust in each of those cases and the victim impact was equally devastating to the victim impact in this case. 
+
+[38] The appellant also points to R. v. Drabinsky, 2011 ONCA 582, 107 O.R. (3d) 595, where this court referred to the trial judge’s determination of a 5- to 8-year range for premeditated frauds involving public companies.
+While this court referred to the fact that the range may fluctuate somewhat at both ends of that spectrum, crimes of this nature were said to normally attract “significant penitentiary terms”: at para 164. 
+
+[39] Crown counsel says that Drabinksy must be approached with caution, particularly given that the offences for which the appellants were sentenced were committed at a time prior to the increase in the maximum sentence for fraud over $5,000 from 10 to 14 years: s 380(1)(a), Criminal Code, R.S.C. 1985 c. C-46, as amended by S.C. 2004, c. 3, s 2.
+Crown counsel relies upon the recent comments in Friesen, at para 97, where the majority points to increases in maximum sentences as reflecting Parliament’s desire for “such offences to be punished more harshly".
+An increase in maximum sentence should be understood, therefore, as “shifting the distribution of proportionate sentences for an offence”: Friesen, at para 97.
+Therefore, Crown counsel correctly points out that those authorities that were decided at a point in time prior to the increase in the maximum sentence must be considered in that light. 
+
+[40] One thing becomes clear through a review of the previous authorities.
+While there is a fairly broad range of sentence for large-scale frauds of this nature involving significant breaches of trust, in the 8- to 12-year range, a 14-year sentence has not been imposed, even in cases where the facts were more egregious than the ones here. 
+
+[41] Of course, there are all manner of aggravating and mitigating factors that can apply in a case that will land the sentence lower or higher within that range, or that may drive the sentence below or above that range.
+Even so, the historical portrait painted by the range provides good guidance when sentencing for offences of this nature.
+
+(c) The Appropriate Disposition 
+
+[42] Friesen is clear in its guidance to appellate courts.
+Despite the need to sentence afresh where an error in principle that had an impact on the sentence is found, a large degree of deference still applies.
+As stated by the court in Friesen, at para 28: [I]n sentencing afresh, the appellate court will defer to the sentencing judge’s findings of fact or identification of aggravating and mitigating factors, to the extent that they are not affected by an error in principle.
+This deference limits the number, length, and cost of appeals; promotes the autonomy and integrity of sentencing proceedings; and recognizes the sentencing judge’s expertise and advantageous position.
+[Citations omitted.] 
+
+[43] Taking this deferential approach, I accept the sentencing judge’s findings of fact, including, as previously reviewed, about the amount of the fraud, the number of victims, the appellant’s abuse of a position of trust as well as his professional obligations, the length of time over which the fraud was perpetrated, the appellant’s honing in on many particularly vulnerable people, the fact that he personally benefited from the crime, and the trail of human suffering left in the appellant’s wake. 
+
+[44] There is a reason that denunciation and general deterrence are the primary sentencing principles when it comes to large-scale Ponzi-related frauds of this nature.
+While serious frauds may not involve physical violence, it is a mistake of serious proportion to think that they do not leave just as many seriously wounded behind, often with financial and mental scars that will never heal.
+The futures they worked so hard to build are stolen from them because they trusted a professional who they justifiably believed had their best interests in mind. 
+
+[45] The devastating impact of frauds of this nature stretch beyond the direct victims who unwittingly find themselves in harm’s way.
+They have the potential to adversely affect the stability of the Canadian economy, financial systems and markets, as well as investor confidence in such markets.
+That is why s 380.1(1)(b) of the Criminal Code requires that sentencing judges take this factor into account as an aggravating factor on sentence.
+While there was no direct evidence that this fraud impacted the Canadian economy, some of the victims addressed the fact that their confidence in investing had been shaken to the core. 
+
+[46] Crown counsel places fresh evidence before the court, arguing that it assists with demonstrating the danger that the appellant continues to pose for the future.
+The fresh evidence consists of a two-page police affidavit and a Parole Board decision, revoking the appellant’s day parole.
+Section 687(1) of the Criminal Code allows the court on a sentence appeal to receive evidence it thinks “fit to require or receive”.
+The well-known criteria for admitting fresh evidence on a conviction appeal also apply on sentencing: Lacasse, at paras 115-16; R. v. Palmer, 1979 CanLII 8 (SCC), [1980] 1 S.C.R. 759. 
+
+[47] The evidence suggests that the appellant originally received accelerated day parole.
+In violation of his parole officer’s direction, he pursued the publication and sale of a book that is described as containing strategies on becoming financially secure. 
+
+[48] The appellant also met with a person who is described as being “financially vulnerable” and suggested an arrangement to lend her money to buy into a series of informational courses.
+She would then assist him in soliciting others to buy the book and take the courses at a cost of $5,000 per person.
+She reported that discussion to the police.
+The police then reported the matter to the appellant’s parole officer.
+No criminal charges were laid. 
+
+[49] In its decision revoking parole, the Parole Board refers to positive aspects of the appellant’s release into the community, his lack of any criminal charges, compliance with specific conditions of release and positive behaviour in the Community Residential Facility where he was staying.
+The decision also makes reference to the willingness of the appellant’s employer to continue to work with him and, if needed, provide more structure in the working environment. 
+
+[50] Despite that positive behaviour, the Board concluded that having pursued the book matter, contrary to his parole officer’s specific direction, the appellant showed a lack of insight into his offending cycle and prior behaviours.
+In the end, the Board revoked the appellant’s parole because of his deemed risk to the community. 
+
+[51] Crown counsel argues that the fresh evidence should be admitted because it has a direct bearing on the question of what constitutes a fit sentence.
+The evidence is said to underscore that the appellant’s attitude toward the offences remains unchanged, that he has no respect for authority, continues with deceptive behaviour and has little hope for rehabilitation. 
+
+[52] The appellant cautions this court about using the fresh evidence.
+He opposes the characterization of some of the evidence, particularly the reference to the person the appellant met as being “financially vulnerable”.
+The appellant argues that the allegations constitute aggravating factors and, given how the Crown is endeavouring to use them, they must be proven beyond a reasonable doubt: Criminal Code, s 724(3)(e); R. v. Gardiner, 1982 CanLII 30 (SCC), [1982] 2 S.C.R. 368.
+The appellant argues that the Crown has failed to do so. 
+
+[53] It is important to start with the observation that the appellant can only be punished for the conduct that he was convicted of.
+He cannot be punished, or be seen to be punished, for conduct that is alleged to have occurred a year after his sentence was imposed. 
+
+[54] As well, I would observe that when a person breaches their parole, the Parole Board has the authority to deliver a decisive response, one that will often have a direct impact on the offender’s liberty interest.
+That is what happened in this case.
+The appellant’s breach of parole was acted upon and he was reincarcerated.
+Indeed, his last almost ten months of incarceration have been the direct result of the revocation of his parole as a result of the activity that is now said to be relevant fresh evidence informing the fitness of sentence to be imposed on appeal. 
+
+[55] As noted in R. v. Sipos, 2014 SCC 47, [2014] 2 S.C.R. 423, at para 30, “[f]resh evidence addressing events that have occurred between the time of sentencing and the time of appeal may raise difficult issues which bring competing values into sharp relief.”
+There are clear institutional limitations placed upon appellate courts, such that deciding sentencing appeals based upon “after-the-fact developments could both jeopardize the integrity of the criminal process by undermining its finality and surpass the appropriate bounds of appellate review”: Sipos, at para 30. 
+
+[56] In my view, the fresh evidence in this case could, at its highest, do no more than demonstrate a continued lack of insight by the appellant into his offences which, even this many years later, could signal a potential risk of reoffending: R. v. Boone, 2020 ONCA 154, at para 28.
+We do not need fresh evidence to satisfy us of this point.
+The trial and sentencing record are clear in this regard. 
+
+[57] Crown counsel also argues that virtually every aggravating factor was present in this case, justifying the maximum sentence.
+Those factors have been previously reviewed.
+They are rightly described as aggravating factors on sentence.
+The fact is, though, that these aggravating factors are present in almost all frauds of this nature. 
+
+[58] The task is not to simply check off the aggravating factors with a view to imposing the maximum sentence if each box is ticked.
+The key is to consider the circumstances underlying each factor and position it on the scale of seriousness.
+If proportionality and parity are to have meaning, calibrating the seriousness of the aggravating factors is critical to the sentencing exercise. 
+
+[59] Accepting the trial judge’s view of the aggravating factors in this case, removing the factor that was infected by error, looking at the facts as he found them, and considering them against prior authorities, specifically this court’s prior authorities, I find that a fit sentence is one of ten years.
+
+VI. CONCLUSION 
+
+[60] Leave to appeal sentence is granted, the appeal is allowed, the sentence is varied to ten years.
+The credit for pre-sentence custody remains the same.
+The restitution order remains the same.
+The fine in lieu of forfeiture order remains the same, including the ten-year custodial term that the appellant must serve if he fails to make good on that order in accordance with its terms. 
+
+[61] All other aspects of the sentence remain the same.
+Released: “M.F.” June 10, 2020 “Fairburn J.A.” 
+“I agree.
+I.V.B. Nordheimer J.A.”
+“I agree.
+Harvison Young J.A.” 
+
+[1] The sentencing in Lewis was done in accordance with s 380(1)(a) of the Criminal Code as it stood prior to the increase in maximum penalty from 10 to 14 years: Lewis, at para 14.
