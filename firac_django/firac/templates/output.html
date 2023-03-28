@@ -14,17 +14,35 @@
         {{ value|linebreaks }}
     {% endfor %}
 </div>
-<button type="button" onclick="exportToFile()">Export</button>
+<button type="button" onclick="exportToText()">Export as Text</button>
+<button type="button" onclick="exportToHTML()">Export as HTML</button>
 <script>
-    function exportToFile() {
+    function exportToText() {
         let content = document.getElementById('output-content').innerText;
         let defaultFileName = 'output.txt';
         let userFileName = prompt("Enter a file name:", defaultFileName);
         if (userFileName === null || userFileName === "") {
             return; // User clicked "Cancel" or didn't enter a name
         }
-        
+
         let blob = new Blob([content], { type: 'text/plain' });
+        let link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = userFileName;
+        link.click();
+        URL.revokeObjectURL(link.href);
+    }
+
+    function exportToHTML() {
+        let content = document.getElementById('output-content').outerHTML;
+        let defaultFileName = 'output.html';
+        let userFileName = prompt("Enter a file name:", defaultFileName);
+        if (userFileName === null || userFileName === "") {
+            return; // User clicked "Cancel" or didn't enter a name
+        }
+
+        let htmlContent = '<!DOCTYPE html><html><head><title>Output</title></head><body>' + content + '</body></html>';
+        let blob = new Blob([htmlContent], { type: 'text/html' });
         let link = document.createElement('a');
         link.href = URL.createObjectURL(blob);
         link.download = userFileName;
