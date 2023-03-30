@@ -36,13 +36,14 @@ def file_input(request):
             # Convert the file to txt and assign it to a variable
             # Run the file through the applicable CLI functions
             text = canlii_html_to_txt(file)
+            print(text)
             firac = classify_firac(text)
+            print(firac)
 #           citations = extract_citations(text)
             summary = local_text_summary(firac)
 #           analysis = local_text_analysis(citations)
             report = gpt_hybrid_analysis_manual(summary, api_key)
-            request.session['output'] = report
-
+            
             request.session['output'] = report
             return redirect('output')
         
