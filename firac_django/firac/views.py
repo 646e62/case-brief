@@ -35,15 +35,15 @@ def file_input(request):
         if file_extension == 'html' or file_extension == 'mhtml':
             # Convert the file to txt and assign it to a variable
             # Run the file through the applicable CLI functions
-#            text = canlii_html_to_txt(file)
-#            firac = classify_firac(text)
-##           citations = extract_citations(text)
-#            summary = local_text_summary(firac)
-##           analysis = local_text_analysis(citations)
-#            report = gpt_hybrid_analysis_manual(summary, api_key)
-#            request.session['output'] = report
+            text = canlii_html_to_txt(file)
+            firac = classify_firac(text)
+#           citations = extract_citations(text)
+            summary = local_text_summary(firac)
+#           analysis = local_text_analysis(citations)
+            report = gpt_hybrid_analysis_manual(summary, api_key)
+            request.session['output'] = report
 
-            request.session['output'] = "Automatic processing from HTML is not available yet."           
+            request.session['output'] = report
             return redirect('output')
         
         elif file_extension == 'txt':

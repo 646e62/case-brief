@@ -178,6 +178,8 @@ def retrieve_citations(text: str) -> dict:
 
 
 # Classification functions
+
+
 def classify_firac(text: str) -> dict:
     """
     This function splits the document into sentences and then classifies each
@@ -185,36 +187,26 @@ def classify_firac(text: str) -> dict:
     a dictionary with the FIRAC elements as keys and the sentences in a list as
     values.
     """
+    print("\n[bold underline #FFA500]Clasifying FIRAC using textcat_firac_v3[/bold underline #FFA500]")
+    print("Classifying FIRAC elements: ", end="")
     nlp = spacy.load(CATEGORY_MODEL)
     nlp.add_pipe("sentencizer")
     doc = nlp(text)
     firac = {}
-    ceiling = 0.0
 
-    # First pass to find the ceiling value
     for sentence in doc.sents:
         categories = nlp(sentence.text).cats
-        max_score = max(categories.values())
-        if max_score > ceiling:
-            ceiling = max_score
+        max_value = max(categories.values())
 
-    # Second pass to append to multiple class lists based on the ceiling value
-    for sentence in doc.sents:
-        categories = nlp(sentence.text).cats
-        max_key = max(categories, key=lambda k: categories[k])
-        max_score = categories[max_key]
-
-        # Append the sentence to the FIRAC element that achieved the highest
-        # score. If any other category has a score of at least 80% of the
-        # ceiling value, append the sentence to that category as well.
-        max_key = max_key.lower()
-        firac.setdefault(max_key, []).append(sentence.text)
         for category, score in categories.items():
-            if score >= 0.8 * ceiling and category != max_key:
-                firac.setdefault(category.lower(), []).append(sentence.text)
-
+            # If the category's score is 80% or more of the maximum value,
+            # append the sentence to the corresponding FIRAC key.
+            if score >= max_value * 0.8:
+                category = category.lower()
+                firac.setdefault(category, []).append(sentence.text)
+        
     print("[green bold]Done.[/green bold]\n")
-
+    print(firac)
     return firac
 
 
