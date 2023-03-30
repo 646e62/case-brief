@@ -178,8 +178,6 @@ def retrieve_citations(text: str) -> dict:
 
 
 # Classification functions
-
-
 def classify_firac(text: str) -> dict:
     """
     This function splits the document into sentences and then classifies each
@@ -192,19 +190,59 @@ def classify_firac(text: str) -> dict:
     nlp = spacy.load(CATEGORY_MODEL)
     nlp.add_pipe("sentencizer")
     doc = nlp(text)
-    firac = {}
+    
+    firac = {
+        "citation": "",
+        "facts": "",
+        "opinions": [
+            {
+                "opinion_type": "",
+                "issues": "",
+                "rules": "",
+                "analysis": "",
+                "conclusion": ""
+            }
+        ]
+    }
+
+    category_mapping = {
+        "fact": "facts",
+        "issue": "issues",
+        "rule": "rules",
+        "analysis": "analysis",
+        "conclusion": "conclusion"
+    }
 
     for sentence in doc.sents:
         categories = nlp(sentence.text).cats
         max_value = max(categories.values())
 
         for category, score in categories.items():
-            # If the category's score is 80% or more of the maximum value,
-            # append the sentence to the corresponding FIRAC key.
             if score >= max_value * 0.8:
                 category = category.lower()
-                firac.setdefault(category, []).append(sentence.text)
+                updated_key = category_mapping.get(category)
+
+                if updated_key in ["facts", "issues", "rules", "analysis", "conclusion"]:
+                    if not firac.get(updated_key):
+                        firac[updated_key] = sentence.text
+                    else:
+                        firac[updated_key] += " " + sentence.text
+                elif updated_key == "opinion_type":
+                    if not firac["opinions"][0].get(updated_key):
+                        firac["opinions"][0][updated_key] = sentence.text
+                    else:
+                        firac["opinions"][0][updated_key] += " " + sentence.text
+
+    for key, value in firac.items():
+        if not value and key != "opinions":
+            firac[key] = "None detected"
         
+        if key == "opinions":
+            for i, opinion in enumerate(value):
+                for k, v in opinion.items():
+                    if not v:
+                        firac[key][i][k] = "None detected"
+
     print("[green bold]Done.[/green bold]\n")
     print(firac)
     return firac
@@ -338,14 +376,14 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, api_key: str, auto: bool = Fal
     }
 
     # Change this logic to account for none opinion types
-    if sorted_text["opinion_type"] == "court's":
+    if sorted_text["opinion_type"][0] == "court's":
         case_type = "first instance"
-    elif sorted_text["opinion_type"] == "None detected":
+    elif sorted_text["opinion_type"][0] == "None detected":
         case_type = "unknown"
     else:
         case_type = "appeal"
 
-    opinion_type = sorted_text["opinion_type"]
+    opinion_type = sorted_text["opinion_type"][0]
     facts = sorted_text["facts"]
     issues = sorted_text["issues"]
     rules = sorted_text["rules"]
@@ -371,7 +409,9 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, api_key: str, auto: bool = Fal
         dissenting, and concurring opinions. Where there are multiple \
         opinions, the FIRAC analysis should be done for each of them.\nThe \
         entire brief should be between 500 - 1500 words per opinion but may be\
-         somewhat more or less for larger and smaller cases."
+         somewhat more or less for larger and smaller cases. It is important \
+        that the brief be complete and accurate. You should write the brief \
+        like a knowledgeable expert in the area of law.\n\n"
     # Adjust the system prompt based on whether the text was sorted through NLP
     # or manually.
     if auto:
@@ -385,11 +425,12 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, api_key: str, auto: bool = Fal
 
     # Hybrid prompts
     fact_prompt = f"These are the facts in the case: {facts}\nPlease summarize\
-          the facts in this case."
+          the facts in this case. Facts are everything that happened before \
+        the court heard the case."
     if case_type == "appeal":
         fact_prompt += (
             "Because this is an appeal, please also summarize the procedural \
-                history."
+                history. This is the history of the case before the appeal."
         )
     if case_type == "unknown":
         fact_prompt += (
@@ -520,6 +561,9 @@ def resolve_abbreviations(text: str) -> str:
     Future versions should also target paragraph numbers and citations.
     """
     pattern = "|".join([re.escape(abreviation) + r"\." for abreviation in abbreviations])
+    
+    if type(text) == list:
+        text = " ".join(text)
 
     text = text.split()
     processed_text = []
