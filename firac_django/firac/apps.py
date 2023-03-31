@@ -53,27 +53,6 @@ BASE_DIR_CATEGORIZATION = os.path.dirname(os.path.abspath(__file__))
 CATEGORY_MODEL = os.path.join(BASE_DIR_CATEGORIZATION, "models", "textcat_firac_v3", "model-last")
 
 # Analytic functions
-
-#def local_text_analysis(citations: list):
-#    """
-#    Analyzes a text locally using the local analysis function. This function
-#    returns a dictionary of the legal tests used in the text. If the function
-#    finds a citation matching one linked to a legal test, it will return the
-#    legal test.
-#    """
-#    legal_tests_identified = get_legal_test(citations)
-#    text_string = ""
-
-#    if legal_tests_identified:
-#        text_string += "\nTests found:\n"
-#        for test in legal_tests_identified:
-#            text_string += f" \u2022 {test['short_form']}\n"
-#    else:
-#        text_string += "\nTests found: None\n"
-
-#    return text_string
-
-
 def retrieve_citations(text: str) -> dict:
     """
     Calls a bare-bones NLP model to retrieve citations from text.
@@ -140,41 +119,6 @@ def retrieve_citations(text: str) -> dict:
             citation["sections"] if "sections" in citation else []
         )
     return citations
-
-
-#def get_legal_test(citations: dict) -> list[dict]:
-#    """
-#    This function takes a list of citations and checks them against a list of
-#    legal tests. If a citation matches a legal test, the function returns the
-#    legal test.
-#    """
-#    case_citations = citations[0]["citations"]
-
-#    for test in legal_tests:
-#        if test["origins"]["citation"] in case_citations:
-#            return [test]
-
-
-#def detect_legal_tests(citations: dict):
-#    """
-#    Scans a list of citations to determine if any of them correspond to a legal
-#    test.
-#    """
-#    print("\n[underline #FFA500]Analysis[/underline #FFA500]")
-#    print("Analyzing text: ", end="")
-#    legal_tests_detected = get_legal_test(citations)
-#    print("[green]Done.[/green]")
-#    test_list = []
-#
-#    if legal_tests_detected:
-#        print("\nTests found:")
-#        for test in legal_tests_detected:
-#            print(f" \u2022 {test['short_form']}")
-#            test_list.append(test["short_form"])
-#    else:
-#        print("\nTests found: [red]None[/red]")
-
-#    return test_list
 
 
 # Classification functions
@@ -362,8 +306,6 @@ def gpt_hybrid_analysis_manual(sorted_text: dict, api_key: str, auto: bool = Fal
     """
     openai.api_key = api_key
 
-    print("\n[underline #FFA500]GPT-3.5/4 hybrid[/underline \
-          #FFA500].\n")
     # Default parameters for GPT-3.5
     parameters = {
         "model": "gpt-3.5-turbo",
@@ -676,9 +618,9 @@ def preprocess_text_for_gpt(text: str) -> str:
 
 def extraction_text_summarizer(
         text: str,
-        percentage: float = 0.2,
-        min_length: int = 500,
-        max_length: int = 1500,
+        percentage: float = 0.3,
+        min_length: int = 900,
+        max_length: int = 2800,
 ) -> str:
     """
     Summarizes text using extractive summarization methods. First, the function
@@ -697,11 +639,6 @@ def extraction_text_summarizer(
 
     # Preprocess the text
     text = preprocess_text_for_gpt(text)
-
-    # Tokenize the formatted text using gpt-2 to determine the call's expense
-    tokenizer = AutoTokenizer.from_pretrained("gpt2")
-    gpt2_tokens = tokenizer.encode(text)
-    total_gpt2_tokens = len(gpt2_tokens)
 
     # Tokenize the formatted text using spaCy
     nlp = spacy.load("en_core_web_sm")
@@ -737,31 +674,43 @@ def extraction_text_summarizer(
         }
     )
 
-    # Calculate the number of total tokens across all sentences
-    total_spacy_tokens = sum(len(sentence) for sentence in sentence_tokens)
+    # Tokenize the formatted text using GPT-2
+    tokenizer = AutoTokenizer.from_pretrained("gpt2")
+    total_gpt2_tokens = sum(len(tokenizer.encode(sentence.text)) for sentence in sentence_tokens)
 
     # The percentage should aim to get as close to the min_length as possible while
     # not exceeding the max_length. The percentage is calculated based on the
     # total number of tokens in the text.
-    if total_spacy_tokens < min_length:
+    if total_gpt2_tokens < min_length:
         percentage = 1
-    elif total_spacy_tokens > max_length:
-        percentage = max_length / total_spacy_tokens
+    elif total_gpt2_tokens > max_length:
+        percentage = max_length / total_gpt2_tokens
     else:
-        percentage = min_length / total_spacy_tokens
+        percentage = min_length / total_gpt2_tokens
 
-    # Adds the sentences to a weighted frequency list in descending order
-    # If the total length of the sentences is less than the minimum length,
-    # the function will return the entire text.
+    # Sort the sentences by their weighted frequency in descending order
+    sorted_sentences = sorted(sentence_tokens, key=lambda x: sentence_scores[x], reverse=True)
 
-    weighted_sentences = nlargest(
-        int(len(sentence_tokens) * percentage), sentence_scores, key=sentence_scores.get
-    )
+    # Create the summary by adding sentences until the token limit is reached
+    summary_sentences = []
+    token_count = 0
+    for sentence in sorted_sentences:
+        sentence_token_length = len(tokenizer.encode(sentence.text))
+        if token_count + sentence_token_length <= max_length:
+            summary_sentences.append(sentence.text)
+            token_count += sentence_token_length
+        else:
+            # If adding the current sentence exceeds the token limit, check the next sentence
+            continue
 
-    # Creates the summary based on the weighted frequency list
-    # The summary is limited to a minimum and maximum length
-    summary = [word.text for word in weighted_sentences]
-    return summary, total_spacy_tokens, percentage, total_gpt2_tokens
+        # Stop adding sentences if the token count is already close to the max_length
+        if max_length - token_count <= 10:
+            break
+
+    # Join the summary sentences into a single string
+    summary = ' '.join(summary_sentences)
+    return summary, token_count, percentage
+
 
 def local_text_summary(firac: dict) -> dict:
     """
@@ -779,10 +728,11 @@ def local_text_summary(firac: dict) -> dict:
         firac[key] = preprocess_text_for_gpt(firac[key])
 
         # Summarize the text
-        firac[key] = extraction_text_summarizer(firac[key])
+        summary_text, token_count, percentage = extraction_text_summarizer(firac[key])
 
         # Add the summary to the summary dictionary
-        summary[key] = firac[key]
+        summary[key] = summary_text
+        firac[key] = summary_text
 
     # Each FIRAC key contains a list of sentences. Go through each list and
     # remove \n characters. Then, join the sentences into a single string.
